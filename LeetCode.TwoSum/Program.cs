@@ -17,6 +17,8 @@ namespace LeetCode.TwoSum
             foreach (var i in twoSum)
             {
                 Console.Write($"{i}-");
+                
+                
             }
         }
         
