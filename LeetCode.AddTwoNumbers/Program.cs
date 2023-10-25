@@ -30,21 +30,20 @@ namespace LeetCode.AddTwoNumbers
                 this.val = val;
                 this.next = next;
             }
-            
         }
 
-        public class Solution
+        private class Solution
         {
             public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
             {
-                ListNode result = new ListNode(0);
-                ListNode ptr = result;
+                var result = new ListNode(0);
+                var ptr = result;
 
-                int carry = 0;
+                var carry = 0;
 
                 while (l1 != null || l2 != null)
                 {
-                    int sum = 0 + carry;
+                    var sum = 0 + carry;
                     if (l1 != null)
                     {
                         sum += l1.val;
@@ -69,5 +68,8 @@ namespace LeetCode.AddTwoNumbers
                 return result.next;
             }
         }
+        
+       
+        
     }
 }
