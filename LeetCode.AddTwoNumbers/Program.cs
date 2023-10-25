@@ -30,6 +30,7 @@ namespace LeetCode.AddTwoNumbers
                 this.val = val;
                 this.next = next;
             }
+            
         }
 
         public class Solution
