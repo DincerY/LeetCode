@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestSubstring",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MedianOfTwoSortedArrays", "LeetCode.MedianOfTwoSortedArrays\LeetCode.MedianOfTwoSortedArrays.csproj", "{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestPalindromicSubstring", "LeetCode.LongestPalindromicSubstring\LeetCode.LongestPalindromicSubstring.csproj", "{C44EECE2-4CC9-425E-9194-31E9BE3F28A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C44EECE2-4CC9-425E-9194-31E9BE3F28A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44EECE2-4CC9-425E-9194-31E9BE3F28A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44EECE2-4CC9-425E-9194-31E9BE3F28A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44EECE2-4CC9-425E-9194-31E9BE3F28A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
