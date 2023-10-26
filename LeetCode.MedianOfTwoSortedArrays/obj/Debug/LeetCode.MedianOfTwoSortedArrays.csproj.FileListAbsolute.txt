@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MedianOfTwoSortedArrays\bin\Debug\LeetCode.MedianOfTwoSortedArrays.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MedianOfTwoSortedArrays\bin\Debug\LeetCode.MedianOfTwoSortedArrays.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MedianOfTwoSortedArrays\obj\Debug\LeetCode.MedianOfTwoSortedArrays.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MedianOfTwoSortedArrays\obj\Debug\LeetCode.MedianOfTwoSortedArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MedianOfTwoSortedArrays\obj\Debug\LeetCode.MedianOfTwoSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MedianOfTwoSortedArrays\obj\Debug\LeetCode.MedianOfTwoSortedArrays.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MedianOfTwoSortedArrays\obj\Debug\LeetCode.MedianOfTwoSortedArrays.pdb

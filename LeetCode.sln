@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AddTwoNumbers", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestSubstring", "LeetCode.LongestSubstring\LeetCode.LongestSubstring.csproj", "{6D17BEB4-9BF8-45B8-8A3C-6C7D9D46926C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MedianOfTwoSortedArrays", "LeetCode.MedianOfTwoSortedArrays\LeetCode.MedianOfTwoSortedArrays.csproj", "{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{6D17BEB4-9BF8-45B8-8A3C-6C7D9D46926C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D17BEB4-9BF8-45B8-8A3C-6C7D9D46926C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D17BEB4-9BF8-45B8-8A3C-6C7D9D46926C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AE911D-81CC-4BCE-A5F0-E797AB2586B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
