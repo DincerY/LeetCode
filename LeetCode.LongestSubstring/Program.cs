@@ -9,7 +9,7 @@ namespace LeetCode.LongestSubstring
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            int a = solution.LengthOfLongestSubstring("asdasd");
+            int a = solution.LengthOfLongestSubstring("aquertapl");
             Console.WriteLine(a);
 
         }
@@ -22,9 +22,9 @@ namespace LeetCode.LongestSubstring
             var aPointer = 0;
             var bPointer = 0;
             var max = 0;
-
+        
             var hashSet = new HashSet<char>();
-
+        
             while (bPointer < s.Length)
             {
                 if (!hashSet.Contains(s[bPointer]))
@@ -39,11 +39,8 @@ namespace LeetCode.LongestSubstring
                     aPointer++;
                 }
             }
-
             return max;
-
         }
-        
         
         // public int LengthOfLongestSubstring(string s)
         // {
