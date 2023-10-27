@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ZigzagConversion\obj\Debug\LeetCode.ZigzagConversion.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ZigzagConversion\obj\Debug\LeetCode.ZigzagConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ZigzagConversion\obj\Debug\LeetCode.ZigzagConversion.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ZigzagConversion\bin\Debug\LeetCode.ZigzagConversion.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ZigzagConversion\bin\Debug\LeetCode.ZigzagConversion.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ZigzagConversion\obj\Debug\LeetCode.ZigzagConversion.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ZigzagConversion\obj\Debug\LeetCode.ZigzagConversion.pdb
