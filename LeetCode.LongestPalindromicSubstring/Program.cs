@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace LeetCode.LongestPalindromicSubstring
 {
     internal class Program
@@ -7,7 +8,8 @@ namespace LeetCode.LongestPalindromicSubstring
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            solution.LongestPalindrome("kabcbal");
+            var str = solution.LongestPalindrome("babad");
+            Console.Write(str);
         }
     }
 
@@ -15,29 +17,33 @@ namespace LeetCode.LongestPalindromicSubstring
     {
         public string LongestPalindrome(string s)
         {
-            int a = FindIndex(s);
-            Palindrome(s,a-1,a+1);
-            return "";
-        }
-
-        private int FindIndex(string s)
-        {
-            for (int i = 1; i < s.Length; i++)
+            int maxLength = 0;
+            int startIndex = 0;
+            for (int i = 0; i < s.Length; i++)
             {
-                if (s[i+1]==s[i-1])
+                int start = i;
+                int end = i;
+                while (end <s.Length-1 && s[start] == s[end+1])
                 {
-                    return i;
+                    end++;
                 }
+
+                while (end < s.Length-1 && start > 0 && s[start-1] == s[end+1])
+                {
+                    end++;
+                    start--;
+                }
+
+                if (maxLength < end - start + 1)
+                {
+                    maxLength = end - start + 1;
+                    startIndex = start;
+                }
+                
             }
 
-            throw new ArgumentException("Not find palindromic value");
+            return s.Substring(startIndex, maxLength);
         }
-
-        private void Palindrome(string s, int first, int last)
-        {
-            
-        }
-
-        
     }
+    
 }
