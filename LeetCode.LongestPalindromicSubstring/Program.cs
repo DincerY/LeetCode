@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml;
 
 
 namespace LeetCode.LongestPalindromicSubstring
@@ -8,7 +9,7 @@ namespace LeetCode.LongestPalindromicSubstring
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            var str = solution.LongestPalindrome("babad");
+            var str = solution.LongestPalindrome("cabbbac");
             Console.Write(str);
         }
     }
@@ -17,18 +18,18 @@ namespace LeetCode.LongestPalindromicSubstring
     {
         public string LongestPalindrome(string s)
         {
-            int maxLength = 0;
             int startIndex = 0;
+            int maxLength = 0;
             for (int i = 0; i < s.Length; i++)
             {
                 int start = i;
                 int end = i;
-                while (end <s.Length-1 && s[start] == s[end+1])
+                while (end < s.Length - 1 && s[start] == s[end + 1])
                 {
                     end++;
                 }
 
-                while (end < s.Length-1 && start > 0 && s[start-1] == s[end+1])
+                while (end < s.Length - 1 && start > 0 && s[start - 1] == s[end + 1])
                 {
                     end++;
                     start--;
@@ -39,11 +40,9 @@ namespace LeetCode.LongestPalindromicSubstring
                     maxLength = end - start + 1;
                     startIndex = start;
                 }
-                
             }
 
-            return s.Substring(startIndex, maxLength);
+            return s.Substring(startIndex,maxLength);
         }
     }
-    
 }
