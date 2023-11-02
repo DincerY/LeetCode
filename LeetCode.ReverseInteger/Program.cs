@@ -45,12 +45,8 @@ namespace LeetCode.ReverseInteger
                 }
                 else
                     return 0;
-
-
             }
-            
             return temp;
-
         }
     }
 }
