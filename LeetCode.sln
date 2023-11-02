@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestPalindromic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ZigzagConversion", "LeetCode.ZigzagConversion\LeetCode.ZigzagConversion.csproj", "{2C312C04-8F4F-4CFA-9223-5312A12EED6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseInteger", "LeetCode.ReverseInteger\LeetCode.ReverseInteger.csproj", "{A1187F45-A636-4F9F-9055-53F19D0C02D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{2C312C04-8F4F-4CFA-9223-5312A12EED6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C312C04-8F4F-4CFA-9223-5312A12EED6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C312C04-8F4F-4CFA-9223-5312A12EED6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1187F45-A636-4F9F-9055-53F19D0C02D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1187F45-A636-4F9F-9055-53F19D0C02D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1187F45-A636-4F9F-9055-53F19D0C02D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1187F45-A636-4F9F-9055-53F19D0C02D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
