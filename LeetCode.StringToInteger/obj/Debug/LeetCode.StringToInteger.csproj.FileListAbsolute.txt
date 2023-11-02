@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringToInteger\obj\Debug\LeetCode.StringToInteger.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringToInteger\obj\Debug\LeetCode.StringToInteger.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringToInteger\obj\Debug\LeetCode.StringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringToInteger\bin\Debug\LeetCode.StringToInteger.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringToInteger\bin\Debug\LeetCode.StringToInteger.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringToInteger\obj\Debug\LeetCode.StringToInteger.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringToInteger\obj\Debug\LeetCode.StringToInteger.pdb
