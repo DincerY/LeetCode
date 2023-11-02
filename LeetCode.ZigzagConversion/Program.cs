@@ -11,21 +11,19 @@ namespace LeetCode.ZigzagConversion
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            var a =solution.Convert("samanlıkta", 5);
+            var a = solution.Convert("samanlıkta", 5);
             Console.WriteLine(a);
             Console.Read();
-
         }
-
-        
     }
+
     public class Solution
     {
         public string Convert(string s, int numRows)
         {
             if (numRows == 1)
                 return s;
-
+            
             string result = "";
             int increment = (numRows - 1) * 2;
             for (int i = 0; i < numRows; i++)
@@ -39,37 +37,11 @@ namespace LeetCode.ZigzagConversion
                     }
                 }
             }
-
+            
             return result;
-
-
-
-
-            // if (numRows == 1)
-            //     return s;
-            //
-            // string res = "";
-            // for (int i = 0; i < numRows; i++)
-            // {
-            //     int increment = (numRows - 1) * 2;
-            //     for (int j = i; j < s.Length; j+=increment)
-            //     {
-            //         res += s[j];
-            //         if (i>0 && i< numRows - 1 && j +increment - 2 * i < s.Length)
-            //         {
-            //             res += s[j + increment - 2 * i];
-            //         }
-            //     }
-            // }
-            //
-            // return res;
+            
         }
-
-        
     }
-    
-    
-    
 }
 
 #region Deneme
