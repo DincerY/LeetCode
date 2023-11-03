@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ContainerWithMostWater\bin\Debug\LeetCode.ContainerWithMostWater.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ContainerWithMostWater\bin\Debug\LeetCode.ContainerWithMostWater.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ContainerWithMostWater\obj\Debug\LeetCode.ContainerWithMostWater.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ContainerWithMostWater\obj\Debug\LeetCode.ContainerWithMostWater.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ContainerWithMostWater\obj\Debug\LeetCode.ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ContainerWithMostWater\obj\Debug\LeetCode.ContainerWithMostWater.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ContainerWithMostWater\obj\Debug\LeetCode.ContainerWithMostWater.pdb
