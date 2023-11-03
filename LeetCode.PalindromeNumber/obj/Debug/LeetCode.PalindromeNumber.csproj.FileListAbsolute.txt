@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeNumber\bin\Debug\LeetCode.PalindromeNumber.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeNumber\bin\Debug\LeetCode.PalindromeNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeNumber\obj\Debug\LeetCode.PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeNumber\obj\Debug\LeetCode.PalindromeNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeNumber\obj\Debug\LeetCode.PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeNumber\obj\Debug\LeetCode.PalindromeNumber.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeNumber\obj\Debug\LeetCode.PalindromeNumber.pdb

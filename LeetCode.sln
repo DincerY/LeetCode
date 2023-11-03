@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseInteger", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.StringToInteger", "LeetCode.StringToInteger\LeetCode.StringToInteger.csproj", "{C2EDD2CF-A194-4729-B117-5C02878ECC50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromeNumber", "LeetCode.PalindromeNumber\LeetCode.PalindromeNumber.csproj", "{C2F2922F-58EF-420A-8B94-FB8BF410B290}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{C2EDD2CF-A194-4729-B117-5C02878ECC50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2EDD2CF-A194-4729-B117-5C02878ECC50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2EDD2CF-A194-4729-B117-5C02878ECC50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F2922F-58EF-420A-8B94-FB8BF410B290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F2922F-58EF-420A-8B94-FB8BF410B290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F2922F-58EF-420A-8B94-FB8BF410B290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F2922F-58EF-420A-8B94-FB8BF410B290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

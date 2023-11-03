@@ -9,7 +9,7 @@ namespace LeetCode.ReverseInteger
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            var a = solution.Reverse(1534236469);
+            var a = solution.Reverse(153423649);
             Console.WriteLine(a);
         }
     }
