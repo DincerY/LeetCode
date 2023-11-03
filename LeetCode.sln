@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RegularExpessionMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ContainerWithMostWater", "LeetCode.ContainerWithMostWater\LeetCode.ContainerWithMostWater.csproj", "{F259FF73-6098-41C4-A376-40E37CF23721}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntegerToRoman", "LeetCode.IntegerToRoman\LeetCode.IntegerToRoman.csproj", "{05BA76B1-6E7E-475D-A576-BBB8433493BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{F259FF73-6098-41C4-A376-40E37CF23721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F259FF73-6098-41C4-A376-40E37CF23721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F259FF73-6098-41C4-A376-40E37CF23721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BA76B1-6E7E-475D-A576-BBB8433493BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BA76B1-6E7E-475D-A576-BBB8433493BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BA76B1-6E7E-475D-A576-BBB8433493BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BA76B1-6E7E-475D-A576-BBB8433493BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
