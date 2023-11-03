@@ -8,7 +8,7 @@ namespace LeetCode.StringToInteger
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            var a = solution.MyAtoi("4193 with words");
+            var a = solution.MyAtoi("2147483647");
             Console.WriteLine(a);
         }
     }
@@ -26,7 +26,6 @@ namespace LeetCode.StringToInteger
             {
                 return 0;
             }
-            
             if (s[i] == '-' || s[i] == '+')
             {
                 plusOrMinus = s[i++] == '-' ? -1 : 1;
@@ -37,9 +36,9 @@ namespace LeetCode.StringToInteger
             {
                 int a = s[i] -'0';
 
-                if (result > int.MaxValue/10 && result < int.MinValue / 10)
+                if (result > int.MaxValue / 10 || result == int.MaxValue / 10 && a > 7)
                 {
-                    return plusOrMinus == -1 ? int.MaxValue : int.MinValue;
+                    return plusOrMinus == -1 ? int.MinValue : int.MaxValue;
                 }
                 
                 result = result * 10 + a;
