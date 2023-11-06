@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace LeetCode._3Sum
 {
@@ -6,12 +7,17 @@ namespace LeetCode._3Sum
     {
         public static void Main(string[] args)
         {
+            Solution solution = new Solution();
+
         }
     }
     
     public class Solution {
-        public IList<IList<int>> ThreeSum(int[] nums) {
-        
+        public IList<IList<int>> ThreeSum(int[] nums)
+        {
+            return null;
+
         }
     }
 }
+
