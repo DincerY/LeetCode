@@ -30,9 +30,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RomanToInteger", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestCommonPrefix", "LeetCode.LongestCommonPrefix\LeetCode.LongestCommonPrefix.csproj", "{C2CD242B-5FF7-4320-B20C-1D81693DD475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.3Sum", "LeetCode.3Sum\LeetCode.3Sum.csproj", "{12D3CBEA-09A1-475A-92A4-15A9CB7E4ABA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LetterCombinations", "LeetCode.LetterCombinations\LeetCode.LetterCombinations.csproj", "{F386C4C9-BFF2-4613-9A13-8DAC9D5CCE9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ThreeSum", "LeetCode.ThreeSum\LeetCode.ThreeSum.csproj", "{DA96D339-5942-45A2-8921-D36D96EF3CB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ThreeSumClosest", "LeetCode.ThreeSumClosest\LeetCode.ThreeSumClosest.csproj", "{0B907586-133E-403F-9473-0E94BB87D052}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -100,13 +102,17 @@ Global
 		{C2CD242B-5FF7-4320-B20C-1D81693DD475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2CD242B-5FF7-4320-B20C-1D81693DD475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2CD242B-5FF7-4320-B20C-1D81693DD475}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12D3CBEA-09A1-475A-92A4-15A9CB7E4ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12D3CBEA-09A1-475A-92A4-15A9CB7E4ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12D3CBEA-09A1-475A-92A4-15A9CB7E4ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12D3CBEA-09A1-475A-92A4-15A9CB7E4ABA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F386C4C9-BFF2-4613-9A13-8DAC9D5CCE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F386C4C9-BFF2-4613-9A13-8DAC9D5CCE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F386C4C9-BFF2-4613-9A13-8DAC9D5CCE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F386C4C9-BFF2-4613-9A13-8DAC9D5CCE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA96D339-5942-45A2-8921-D36D96EF3CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA96D339-5942-45A2-8921-D36D96EF3CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA96D339-5942-45A2-8921-D36D96EF3CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA96D339-5942-45A2-8921-D36D96EF3CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B907586-133E-403F-9473-0E94BB87D052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B907586-133E-403F-9473-0E94BB87D052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B907586-133E-403F-9473-0E94BB87D052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B907586-133E-403F-9473-0E94BB87D052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

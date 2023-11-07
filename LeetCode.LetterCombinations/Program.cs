@@ -10,7 +10,7 @@ namespace LeetCode.LetterCombinations
         public static void Main(string[] args)
         {
             Solution solution = new();
-            var r = solution.LetterCombinations("293");
+            var r = solution.LetterCombinations("");
             foreach (var v in r)
             {
                 Console.Write($"{v} ");
@@ -28,11 +28,16 @@ namespace LeetCode.LetterCombinations
                 {'4', "ghi"}, {'5', "jkl"}, {'6', "mno"},
                 {'7', "pqrs"}, {'8', "tuv"}, {'9', "wxyz"}
             };
+            if(digits == "")
+            {
+                return new List<string>();
+            }
 
             if (digits != null)
             {
                 BackTrack(0,"");
             }
+            
             
             return res;
             
@@ -50,6 +55,8 @@ namespace LeetCode.LetterCombinations
                 }
             }
         }
+
+        
 
         
     }
