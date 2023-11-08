@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ForSum\bin\Debug\LeetCode.ForSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ForSum\bin\Debug\LeetCode.ForSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ForSum\obj\Debug\LeetCode.ForSum.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ForSum\obj\Debug\LeetCode.ForSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ForSum\obj\Debug\LeetCode.ForSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ForSum\obj\Debug\LeetCode.ForSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ForSum\obj\Debug\LeetCode.ForSum.pdb
