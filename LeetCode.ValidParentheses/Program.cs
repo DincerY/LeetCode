@@ -33,26 +33,26 @@ namespace LeetCode.ValidParentheses
 
     public class MyStack
     {
-        private const int DEFAULT_SIZE = 10;
-        private string[] elements;
-        private int top = -1;
+        private const int DefaultSize = 10;
+        private string[] _elements;
+        private int _top = -1;
 
-        public MyStack(int initialSize = DEFAULT_SIZE)
+        public MyStack(int initialSize = DefaultSize)
         {
-            elements = new string[initialSize];
+            _elements = new string[initialSize];
         }
 
         public void Push(string item)
         {
-            top++;
-            elements[top] = item;
+            _top++;
+            _elements[_top] = item;
         }
 
         public string Pop()
         {
-            string item = elements[top];
+            string item = _elements[_top];
             //Equalize "top" to default and then top - 1;
-            elements[top--] = default;
+            _elements[_top--] = default;
 
             return item;
         }
