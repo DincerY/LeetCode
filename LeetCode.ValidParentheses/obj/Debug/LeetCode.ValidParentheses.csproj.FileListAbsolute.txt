@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidParentheses\bin\Debug\LeetCode.ValidParentheses.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidParentheses\bin\Debug\LeetCode.ValidParentheses.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidParentheses\obj\Debug\LeetCode.ValidParentheses.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidParentheses\obj\Debug\LeetCode.ValidParentheses.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidParentheses\obj\Debug\LeetCode.ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidParentheses\obj\Debug\LeetCode.ValidParentheses.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidParentheses\obj\Debug\LeetCode.ValidParentheses.pdb

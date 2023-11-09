@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ForSum", "LeetCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveNthNode", "LeetCode.RemoveNthNode\LeetCode.RemoveNthNode.csproj", "{B3A7724A-6DAE-473A-AD42-7DE20FA038B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidParentheses", "LeetCode.ValidParentheses\LeetCode.ValidParentheses.csproj", "{5F4DA9E7-0357-4673-B88E-840F344CC363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{B3A7724A-6DAE-473A-AD42-7DE20FA038B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A7724A-6DAE-473A-AD42-7DE20FA038B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A7724A-6DAE-473A-AD42-7DE20FA038B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4DA9E7-0357-4673-B88E-840F344CC363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4DA9E7-0357-4673-B88E-840F344CC363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4DA9E7-0357-4673-B88E-840F344CC363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4DA9E7-0357-4673-B88E-840F344CC363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
