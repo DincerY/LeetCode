@@ -19,10 +19,11 @@ namespace LeetCode.RemoveNthNode
                         {
                             next = new ListNode()
                             {
-                                next = null
-                                , val = 5
-                            }, val = 4
-                        }, val = 3
+                                next = null, val = 5
+                            },
+                            val = 4
+                        },
+                        val = 3
                     },
                     val = 2
                 },
@@ -31,17 +32,19 @@ namespace LeetCode.RemoveNthNode
 
 
             ListNode head2 = new ListNode();
-            head2.val = 4;
+            head2.val = 1;
             head2.next = new ListNode();
-            head2.next.val = 5;
-            head2.next.next = new ListNode();
-            head2.next.next.val = 4;
-            ListNode result = solution.RemoveNthFromEnd(head2, 1);
-            var b = solution.FindElementValueFromEnd(head2, 2);
-        
-            
+            head2.next.val = 2;
+            ListNode result = solution.RemoveNthFromEnd(head2, 2);
+
+
+            Solutionn sol = new();
+            sol.Remove(head, 2);
         }
     }
+
+    //[8,2,8,7]  n=2
+    //[4,5,4]   n=1
 
 
     public class ListNode
@@ -60,44 +63,76 @@ namespace LeetCode.RemoveNthNode
     {
         public ListNode RemoveNthFromEnd(ListNode head, int n)
         {
-            if (head.next == null)
+            int count = CountOfElementList(head);
+            int targetNode = count - n;
+
+            ListNode prev = null;
+            ListNode cur = head;
+
+            if (cur.next == null)
             {
                 return null;
             }
-            else
+
+            for (int i = 0; i < targetNode; i++)
             {
-                ListNode prev = null;
-                ListNode curr = head;
-                int deleteValue = FindElementValueFromEnd(head, n);
-                while (curr.next !=null)
-                {
-                    prev = curr;
-                    curr = curr.next;
-                    if (curr.val == deleteValue)
-                    {
-                        prev.next = curr.next;
-                        return head;
-                    }
-
-                    if (curr.next == null && prev.val == deleteValue)
-                    {
-                        return curr;
-                    }
-                    if (curr.next != null && prev.val == deleteValue)
-                    {
-                        return curr;
-                    }
-               
-                }
-
-                return null;
+                prev = cur;
+                cur = cur.next;
             }
-            
+
+            if (targetNode == 0)
+            {
+                return cur.next;
+            }
+
+
+            if (cur.next == null)
+            {
+                prev.next = cur.next;
+            }
+
+
+            return head;
         }
 
-     
+        public int CountOfElementList(ListNode head)
+        {
+            ListNode ptr = head;
+            int count = 1;
+            while (ptr.next != null)
+            {
+                ptr = ptr.next;
+                count++;
+            }
+
+            return count;
+        }
+
+        #region RecursiveAlgorithm
+
+        public ListNode RemoveNthFromEndRecursive(ListNode head, int n)
+        {
+            var i = 0;
+
+            ListNode RemoveNthFromEndHelper(ListNode head, int n)
+            {
+                if (head == null) return null;
+
+                head.next = RemoveNthFromEndHelper(head.next, n);
+                i++;
+                return (n == i) ? head.next : head;
+            }
+
+            return RemoveNthFromEndHelper(head, n);
+        }
+
+        #endregion
         
-        public int FindElementValueFromEnd(ListNode head,int a)
+        
+        #region DontRun
+
+        //We will not use this algorithm :D;
+        public int FindElementValueFromEnd(ListNode head, int a)
         {
             ListNode slowPtr = head;
             ListNode fastPtr = head;
@@ -107,7 +142,7 @@ namespace LeetCode.RemoveNthNode
             {
                 if (fastPtr == null)
                     throw new InvalidOperationException("Bağlı liste yeterince uzun değil.");
-            
+
                 fastPtr = fastPtr.next;
                 count++;
             }
@@ -120,10 +155,32 @@ namespace LeetCode.RemoveNthNode
 
             return slowPtr.val;
         }
+
+        #endregion
     }
 
 
-}  
+    public class Solutionn
+    {
+        
+      
+        public ListNode RemoveNthFromEnd(ListNode head, int n)
+        {
+            var i = 0;
+
+            ListNode RemoveNthFromEndHelper(ListNode head, int n)
+            {
+                if (head == null) return null;
+
+                head.next = RemoveNthFromEndHelper(head.next, n);
+                i++;
+                return (n == i) ? head.next : head;
+            }
+
+            return RemoveNthFromEndHelper(head, n);
+        }
+    }
+}
 
 
 
