@@ -36,10 +36,7 @@ namespace LeetCode.RemoveNthNode
             head2.next = new ListNode();
             head2.next.val = 2;
             ListNode result = solution.RemoveNthFromEnd(head2, 2);
-
-
-            Solutionn sol = new();
-            sol.Remove(head, 2);
+            
         }
     }
 
