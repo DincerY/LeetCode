@@ -18,14 +18,13 @@ namespace LeetCode.ValidParentheses
         public bool IsValid(string s)
         {
             MyStack myStack = new();
-            myStack.Push("a");
-            myStack.Push("b");
-            myStack.Push("c");
-            myStack.Push("d");
-            myStack.Push("e");
-            myStack.Push("f");
-            myStack.Push("g");
-
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (s[i] == '(')
+                {
+                    myStack.Push(s[i]);
+                }
+            }
             return true;
         }
     }
@@ -34,23 +33,23 @@ namespace LeetCode.ValidParentheses
     public class MyStack
     {
         private const int DefaultSize = 10;
-        private string[] _elements;
+        private char[] _elements;
         private int _top = -1;
 
         public MyStack(int initialSize = DefaultSize)
         {
-            _elements = new string[initialSize];
+            _elements = new char[initialSize];
         }
 
-        public void Push(string item)
+        public void Push(char item)
         {
             _top++;
             _elements[_top] = item;
         }
 
-        public string Pop()
+        public char Pop()
         {
-            string item = _elements[_top];
+            char item = _elements[_top];
             //Equalize "top" to default and then top - 1;
             _elements[_top--] = default;
 
