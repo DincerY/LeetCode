@@ -10,7 +10,8 @@ namespace LeetCode.ValidParentheses
         public static void Main(string[] args)
         {
             Solution solution = new();
-            solution.IsValid("");
+            var a =solution.IsValid("){");
+            Console.WriteLine(a);
         }
     }
     
@@ -18,14 +19,47 @@ namespace LeetCode.ValidParentheses
         public bool IsValid(string s)
         {
             MyStack myStack = new();
+            if (s.Length == 1)
+            {
+                return false;
+            }
             for (int i = 0; i < s.Length; i++)
             {
-                if (s[i] == '(')
+                if (s[i] == '(' || s[i] == '[' || s[i] == '{')
                 {
                     myStack.Push(s[i]);
                 }
+                else
+                {
+                    char bracket = WitchParentheses(myStack.Pop());
+                    if (s[i] != bracket)
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            if (myStack.GetLength() != -1)
+            {
+                return false;
             }
             return true;
+        }
+
+        private char WitchParentheses(char parentheses)
+        {
+            switch (parentheses)
+            {
+                case '{':
+                    return '}';
+                case '(':
+                    return ')';
+                case '[':
+                    return ']';
+                
+            }
+
+            return '\0';
         }
     }
 
@@ -49,11 +83,20 @@ namespace LeetCode.ValidParentheses
 
         public char Pop()
         {
+            if (_top < 0)
+            {
+                return '\0';
+            }
             char item = _elements[_top];
             //Equalize "top" to default and then top - 1;
             _elements[_top--] = default;
 
             return item;
+        }
+
+        public int GetLength()
+        {
+            return _top;
         }
 
 
