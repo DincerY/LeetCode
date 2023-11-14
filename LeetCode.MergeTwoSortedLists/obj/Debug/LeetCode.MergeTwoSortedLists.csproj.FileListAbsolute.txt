@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeTwoSortedLists\bin\Debug\LeetCode.MergeTwoSortedLists.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeTwoSortedLists\bin\Debug\LeetCode.MergeTwoSortedLists.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeTwoSortedLists\obj\Debug\LeetCode.MergeTwoSortedLists.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeTwoSortedLists\obj\Debug\LeetCode.MergeTwoSortedLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeTwoSortedLists\obj\Debug\LeetCode.MergeTwoSortedLists.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeTwoSortedLists\obj\Debug\LeetCode.MergeTwoSortedLists.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeTwoSortedLists\obj\Debug\LeetCode.MergeTwoSortedLists.pdb
