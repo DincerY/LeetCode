@@ -1,4 +1,5 @@
-﻿using System.Net.NetworkInformation;
+﻿using System;
+using System.Net.NetworkInformation;
 
 namespace LeetCode.MergeTwoSortedLists
 {
@@ -8,89 +9,162 @@ namespace LeetCode.MergeTwoSortedLists
         {
             Solution solution = new();
             ListNode list1 = new(1);
-            list1.Next = new(2);
-            list1.Next.Next = new(3);
+            list1.next = new(2);
+            list1.next.next = new(3);
 
-            ListNode list2 = new(5);
-            list2.Next = new(8);
-            list2.Next.Next = new ListNode(9);
+            ListNode list2 = new(4);
+            list2.next = new(8);
+            list2.next.next = new ListNode(11);
 
-            solution.MergeTwoLists(list1,list2);
+            var a = solution.MergeTwoLists(list1, list2);
+
+            Solutionn solutionn = new();
+            var b = solutionn.MergeTwoLists(list1, list2);
+            Console.WriteLine(a);
         }
     }
 
 
     public class ListNode
     {
-        public int Val;
-        public ListNode Next;
+        public int val;
+        public ListNode next;
 
         public ListNode(int val = 0, ListNode next = null)
         {
-            Val = val;
-            Next = next;
+            this.val = val;
+            this.next = next;
         }
     }
-    
+
     public class Solution
     {
         public ListNode MergeTwoLists(ListNode list1, ListNode list2)
         {
-            Merge(list1,list2);
-
-
-
-            return null;
-        }
-
-        private ListNode Merge(ListNode list1, ListNode list2)
-        {
             ListNode newNode = new();
-            ListNode newNodeHead = newNode;
-            if (list1.Val<list2.Val)
+            if (list1 == null)
             {
-                newNode.Val = list1.Val;
-                newNode.Next = new();
-                list1 = list1.Next;
+                return list2;
+            }
+
+            if (list2 == null)
+            {
+                return list1;
+            }
+
+            if (list1.val < list2.val)
+            {
+                newNode.val = list1.val;
+                list1 = list1.next;
             }
             else
             {
-                newNode.Val = list1.Val;
-                newNode.Next = null;
-                list2 = list2.Next;
+                newNode.val = list2.val;
+                list2 = list2.next;
             }
-            while (list1 != null) 
+
+            newNode.next = Merge(list1, list2, newNode.next);
+            
+
+            return newNode;
+        }
+
+        private ListNode Merge(ListNode list1, ListNode list2, ListNode newNode)
+        {
+            newNode = new ListNode();
+            if (list1 != null && list2 != null)
             {
-                if (list1.Val<list2.Val)
+                if (list1.val < list2.val)
                 {
-                    newNode.Next.Val = list1.Val;
-                    newNode.Next.Next = new();
-                    list1 = list1.Next;
+                    newNode.val = list1.val;
+                    list1 = list1.next;
                 }
-            }
+                else
+                {
+                    newNode.val = list2.val;
+                    list2 = list2.next;
+                }
 
-            while (list2 != list1)
+                newNode.next = Merge(list1, list2, newNode.next);
+            }
+            else if (list1 != null)
             {
-                if (list2.Val<list1.Val)
-                {
-                    newNode.Next.Val = list2.Val;
-                    newNode.Next.Next = new();
-                    list2 = list2.Next;
-                }
+                newNode = list1;
+            }
+            else if (list2 != null)
+            {
+                newNode = list2;
+            }
+            else
+            {
+                return null;
             }
 
-            return null;
-
+            return newNode;
         }
     }
-} 
+    
+    
+    public class Solutionn {
+        public ListNode MergeTwoLists(ListNode list1, ListNode list2)
+        {
+            if (list1 == null)
+            {
+                return list2;
+            }
+            
+            if (list2 == null)
+            {
+                return list1;
+            }
+            
+            ListNode head = null;
+            ListNode tail = null;
 
+            while (list1 != null && list2 != null)
+            {
+                ListNode node;
+                
+                if (list1.val <= list2.val)
+                {
+                    node = new ListNode(list1.val);
+                    list1 = list1.next;
+                }
+                else
+                {
+                    node = new ListNode(list2.val);
+                    list2 = list2.next;
+                }
 
+                if (head == null)
+                {
+                    head = node;
+                    tail = node;
+                }
+                else
+                {
+                    tail!.next = node;
+                    tail = tail.next;
+                }
+            }
+      
+            
+            if (list1 == null)
+            {
+                tail.next = list2;
+                return head;
+            }
 
+            if (list2 == null)
+            {
+                tail.next = list1;
+                return head;
+            }
 
-
-
-
+            return head;
+        }
+    }
+}
 
 
 
