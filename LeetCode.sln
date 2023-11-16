@@ -46,6 +46,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeTwoSortedList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GenerateParentheses", "LeetCode.GenerateParentheses\LeetCode.GenerateParentheses.csproj", "{7D76F3AA-98D5-4D7A-B15A-4CCD36390935}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeKSortedLists", "LeetCode.MergeKSortedLists\LeetCode.MergeKSortedLists.csproj", "{D90684BC-5488-447F-9456-352FA8B09117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SwapNodesInPairs", "LeetCode.SwapNodesInPairs\LeetCode.SwapNodesInPairs.csproj", "{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +148,13 @@ Global
 		{7D76F3AA-98D5-4D7A-B15A-4CCD36390935}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D76F3AA-98D5-4D7A-B15A-4CCD36390935}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D76F3AA-98D5-4D7A-B15A-4CCD36390935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90684BC-5488-447F-9456-352FA8B09117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90684BC-5488-447F-9456-352FA8B09117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90684BC-5488-447F-9456-352FA8B09117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90684BC-5488-447F-9456-352FA8B09117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
