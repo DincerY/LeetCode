@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeKSortedLists"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SwapNodesInPairs", "LeetCode.SwapNodesInPairs\LeetCode.SwapNodesInPairs.csproj", "{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseNodeGroup", "LeetCode.ReverseNodeGroup\LeetCode.ReverseNodeGroup.csproj", "{978E04B0-C5D3-4117-AD2D-897244960604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABF7CCB-4E73-4292-9C72-AF8F3CA96A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978E04B0-C5D3-4117-AD2D-897244960604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978E04B0-C5D3-4117-AD2D-897244960604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978E04B0-C5D3-4117-AD2D-897244960604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978E04B0-C5D3-4117-AD2D-897244960604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

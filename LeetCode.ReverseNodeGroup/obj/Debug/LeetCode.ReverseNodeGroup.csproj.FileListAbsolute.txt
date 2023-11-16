@@ -1,0 +1,7 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseNodeGroup\bin\Debug\LeetCode.ReverseNodeGroup.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseNodeGroup\bin\Debug\LeetCode.ReverseNodeGroup.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseNodeGroup\obj\Debug\LeetCode.ReverseNodeGroup.csproj.AssemblyReference.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseNodeGroup\obj\Debug\LeetCode.ReverseNodeGroup.csproj.SuggestedBindingRedirects.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseNodeGroup\obj\Debug\LeetCode.ReverseNodeGroup.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseNodeGroup\obj\Debug\LeetCode.ReverseNodeGroup.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseNodeGroup\obj\Debug\LeetCode.ReverseNodeGroup.pdb
