@@ -54,6 +54,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseNodeGroup",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveDuplicatesFromSortedArray", "LeetCode.RemoveDuplicatesFromSortedArray\LeetCode.RemoveDuplicatesFromSortedArray.csproj", "{6A55B6D0-76E8-437C-954F-A083D89576E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveElement", "LeetCode.RemoveElement\LeetCode.RemoveElement.csproj", "{B875F272-CAEE-4253-A72D-94BE28DB15D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindTheIndexOf", "LeetCode.FindTheIndexOf\LeetCode.FindTheIndexOf.csproj", "{65AE7D0B-97B4-488C-9281-7E7E61CC96FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +172,13 @@ Global
 		{6A55B6D0-76E8-437C-954F-A083D89576E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A55B6D0-76E8-437C-954F-A083D89576E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A55B6D0-76E8-437C-954F-A083D89576E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B875F272-CAEE-4253-A72D-94BE28DB15D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B875F272-CAEE-4253-A72D-94BE28DB15D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B875F272-CAEE-4253-A72D-94BE28DB15D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B875F272-CAEE-4253-A72D-94BE28DB15D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AE7D0B-97B4-488C-9281-7E7E61CC96FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AE7D0B-97B4-488C-9281-7E7E61CC96FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AE7D0B-97B4-488C-9281-7E7E61CC96FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AE7D0B-97B4-488C-9281-7E7E61CC96FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
