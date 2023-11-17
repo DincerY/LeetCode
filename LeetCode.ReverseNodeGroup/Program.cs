@@ -14,7 +14,7 @@ namespace LeetCode.ReverseNodeGroup
             list.next.next.next.next = new ListNode(5);
 
             Solution solution = new();
-            var a =solution.ReverseKGroup(list, 3);
+            var a =solution.ReverseKGroup(list, 2);
             Console.WriteLine();
         }
     }
@@ -65,11 +65,36 @@ namespace LeetCode.ReverseNodeGroup
                 prev = current;
                 current = next;
             }
-
-            // why we use head.next;
+            
             head.next = ReverseKGroup(current, k);
 
             return prev; 
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
