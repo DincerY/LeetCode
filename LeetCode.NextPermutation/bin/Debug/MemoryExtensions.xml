@@ -1,0 +1,722 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MemoryExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:System.Buffers.ArrayPool">
+            <summary>
+            表示共享的数组池
+            </summary>
+        </member>
+        <member name="M:System.Buffers.ArrayPool.Rent``1(System.Int32)">
+            <summary>
+            租赁数组
+            </summary>
+            <typeparam name="T">元素类型</typeparam>
+            <param name="length">有效数据长度</param>
+            <returns></returns>
+        </member>
+        <member name="T:System.Buffers.ArrayPoolExtensions">
+            <summary>
+            提供ArrayPool的扩展
+            </summary>
+        </member>
+        <member name="M:System.Buffers.ArrayPoolExtensions.RentArrayOwner``1(System.Buffers.ArrayPool{``0},System.Int32)">
+            <summary>
+            申请可回收的IArrayOwner
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="arrayPool"></param>
+            <param name="length">有效数据长度</param>
+            <returns></returns>
+        </member>
+        <member name="T:System.Buffers.ArrayPoolExtensions.ArrayOwner`1">
+            <summary>
+            表示数组持有者
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Buffers.ArrayPoolExtensions.ArrayOwner`1.Length">
+            <summary>
+            获取数据有效数据长度
+            </summary>
+        </member>
+        <member name="P:System.Buffers.ArrayPoolExtensions.ArrayOwner`1.Array">
+            <summary>
+            获取持有的数组
+            </summary>
+        </member>
+        <member name="M:System.Buffers.ArrayPoolExtensions.ArrayOwner`1.#ctor(System.Buffers.ArrayPool{`0},System.Int32)">
+            <summary>
+            数组持有者
+            </summary>
+            <param name="arrayPool"></param>
+            <param name="minLength"></param> 
+        </member>
+        <member name="M:System.Buffers.ArrayPoolExtensions.ArrayOwner`1.Dispose(System.Boolean)">
+            <summary>
+            归还数组
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="T:System.Buffers.BinaryPrimitiveEx">
+            <summary>
+            BinaryPrimitive扩展
+            </summary>
+        </member>
+        <member name="T:System.Buffers.BufferReader">
+            <summary>
+            表示Buffter读取器
+            </summary>
+        </member>
+        <member name="F:System.Buffers.BufferReader.span">
+            <summary>
+            未读取的数据
+            </summary>
+        </member>
+        <member name="P:System.Buffers.BufferReader.Length">
+            <summary>
+            获取可读数据长度
+            </summary>
+        </member>
+        <member name="M:System.Buffers.BufferReader.#ctor(System.ReadOnlySpan{System.Byte})">
+            <summary>
+            Buffter读取器
+            </summary>
+            <param name="span"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.#ctor(System.ArraySegment{System.Byte})">
+            <summary>
+            Buffter读取器
+            </summary>
+            <param name="arraySegment"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.Read(System.Int32)">
+            <summary>
+            读取指定长度
+            </summary>
+            <param name="count"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.BufferReader.Read(System.Int32,System.Text.Encoding)">
+            <summary>
+            读取指定长度并编码为文本
+            </summary>
+            <param name="byteCount">字节长度</param>
+            <param name="encoding">编码</param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.Int32@)">
+            <summary>
+            读取int32
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.Int32@)">
+            <summary>
+            读取int32
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.Int16@)">
+            <summary>
+            读取int16
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.Int16@)">
+            <summary>
+            读取int16
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.Int64@)">
+            <summary>
+            读取int64
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.Int64@)">
+            <summary>
+            读取int64
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.UInt32@)">
+            <summary>
+            读取uint32
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.UInt32@)">
+            <summary>
+            读取uint32
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.UInt16@)">
+            <summary>
+            读取uint16
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.UInt16@)">
+            <summary>
+            读取uint16
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.UInt64@)">
+            <summary>
+            读取uint64
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.UInt64@)">
+            <summary>
+            读取uint64
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.Double@)">
+            <summary>
+            读取double
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.Double@)">
+            <summary>
+            读取double
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadLittleEndian(System.Single@)">
+            <summary>
+            读取float
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferReader.ReadBigEndian(System.Single@)">
+            <summary>
+            读取float
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="T:System.Buffers.BufferWriterExtensions">
+            <summary>
+             BufferWriter扩展
+            </summary>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.Write(System.Buffers.IBufferWriter{System.Byte},System.ReadOnlySpan{System.Char},System.Text.Encoding)">
+            <summary>
+            写入字符串
+            </summary>
+            <param name="writer"></param>
+            <param name="text">字体串</param>
+            <param name="encoding">编码</param>
+            <returns>写入的字节数</returns>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.Int32)">
+            <summary>
+            写入int32
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.Int32)">
+            <summary>
+            写入int32
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.Int16)">
+            <summary>
+            写入int16
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.Int16)">
+            <summary>
+            写入int16
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.Int64)">
+            <summary>
+            写入int64
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.Int64)">
+            <summary>
+            写入int64
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.UInt32)">
+            <summary>
+            写入uint32
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.UInt32)">
+            <summary>
+            写入uint32
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.UInt16)">
+            <summary>
+            写入uint16
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.UInt16)">
+            <summary>
+            写入uint16
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.UInt64)">
+            <summary>
+            写入uint64
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.UInt64)">
+            <summary>
+            写入uint64
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.Double)">
+            <summary>
+            写入double
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.Double)">
+            <summary>
+            写入double
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteLittleEndian(System.Buffers.IBufferWriter{System.Byte},System.Single)">
+            <summary>
+            写入float
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.BufferWriterExtensions.WriteBigEndian(System.Buffers.IBufferWriter{System.Byte},System.Single)">
+            <summary>
+            写入float
+            </summary>
+            <param name="writer"></param>
+            <param name="value"></param>
+        </member>
+        <member name="T:System.Buffers.IArrayOwner`1">
+            <summary>
+            定义数组持有者的接口
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Buffers.IArrayOwner`1.Length">
+            <summary>
+            获取数据有效数据长度
+            </summary>
+        </member>
+        <member name="P:System.Buffers.IArrayOwner`1.Array">
+            <summary>
+            获取持有的数组
+            </summary>
+        </member>
+        <member name="T:System.Buffers.IWrittenBufferWriter`1">
+            <summary>
+            定义支持获取已写入数据的BufferWriter
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Buffers.IWrittenBufferWriter`1.WrittenCount">
+            <summary>
+            获取已数入的数据长度
+            </summary>
+        </member>
+        <member name="P:System.Buffers.IWrittenBufferWriter`1.WrittenSpan">
+            <summary>
+            获取已数入的数据
+            </summary>
+        </member>
+        <member name="P:System.Buffers.IWrittenBufferWriter`1.WrittenMemory">
+            <summary>
+            获取已数入的数据
+            </summary>
+        </member>
+        <member name="P:System.Buffers.IWrittenBufferWriter`1.WrittenSegment">
+            <summary>
+            获取已数入的数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:System.Buffers.MemoryBufferWriter`1">
+            <summary>
+            将Memory包装为BufferWriter
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Buffers.MemoryBufferWriter`1.WrittenCount">
+            <summary>
+            获取已数入的数据长度
+            </summary>
+        </member>
+        <member name="P:System.Buffers.MemoryBufferWriter`1.FreeCapacity">
+            <summary>
+            获取剩余容量
+            </summary>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriter`1.#ctor(System.Memory{`0})">
+            <summary>
+            Memory包装为BufferWriter
+            </summary>
+            <param name="memory"></param>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriter`1.Advance(System.Int32)">
+            <summary>
+            设置向前推进
+            </summary>
+            <param name="count"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriter`1.GetSpan(System.Int32)">
+            <summary>
+            返回用于写入数据的Span
+            </summary>
+            <param name="sizeHint">意图大小</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriter`1.GetMemory(System.Int32)">
+            <summary>
+            返回用于写入数据的Memory
+            </summary>
+            <param name="sizeHint">意图大小</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriter`1.Write(`0)">
+            <summary>
+            写入数据
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriter`1.Write(System.ReadOnlySpan{`0})">
+            <summary>
+            写入数据
+            </summary>
+            <param name="value">值</param> 
+        </member>
+        <member name="T:System.Buffers.MemoryBufferWriterExtensions">
+            <summary>
+            提供MemoryBufferWriter的创建扩展
+            </summary>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriterExtensions.CreateWriter``1(``0[])">
+            <summary>
+            创建固定大小的BufferWriter
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="array"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriterExtensions.CreateWriter``1(System.ArraySegment{``0})">
+            <summary>
+            创建固定大小的BufferWriter
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="arraySegment"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.MemoryBufferWriterExtensions.CreateWriter``1(System.Memory{``0})">
+            <summary>
+            获取BufferWriter
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="memory"></param>
+            <returns></returns>
+        </member>
+        <member name="T:System.Buffers.MemoryOwnerExtensions">
+            <summary>
+            IMemoryOwner扩展
+            </summary>
+        </member>
+        <member name="M:System.Buffers.MemoryOwnerExtensions.Slice``1(System.Buffers.IMemoryOwner{``0},System.Int32)">
+            <summary>
+            切片
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="owner"></param>
+            <param name="start">开始索引</param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.MemoryOwnerExtensions.Slice``1(System.Buffers.IMemoryOwner{``0},System.Int32,System.Int32)">
+            <summary>
+            切片
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="owner"></param>
+            <param name="start">开始索引</param>
+            <param name="length">长度</param>
+            <returns></returns>
+        </member>
+        <member name="T:System.Buffers.MemoryOwnerExtensions.MemoryOwner`1">
+            <summary>
+            表示内存持有者
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Buffers.MemoryOwnerExtensions.MemoryOwner`1.Memory">
+            <summary>
+            获取持有的内存
+            </summary>
+        </member>
+        <member name="M:System.Buffers.MemoryOwnerExtensions.MemoryOwner`1.#ctor(System.IDisposable,System.Memory{`0})">
+            <summary>
+            内存持有者
+            </summary>
+            <param name="owner">内存的实际持有者</param>
+            <param name="memory">内存</param>
+        </member>
+        <member name="M:System.Buffers.MemoryOwnerExtensions.MemoryOwner`1.Dispose(System.Boolean)">
+            <summary>
+            归还内存
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="T:System.Buffers.Recyclable">
+            <summary>
+            表示可回收对象的抽象基础类
+            </summary>
+        </member>
+        <member name="P:System.Buffers.Recyclable.IsDisposed">
+            <summary>
+            获取对象是否已回收
+            </summary>
+        </member>
+        <member name="M:System.Buffers.Recyclable.Dispose">
+            <summary>
+            将对象进行回收
+            </summary>
+        </member>
+        <member name="M:System.Buffers.Recyclable.Finalize">
+            <summary>
+            析构函数
+            </summary>
+        </member>
+        <member name="M:System.Buffers.Recyclable.Dispose(System.Boolean)">
+            <summary>
+            将对象进行回收
+            </summary>
+            <param name="disposing">是否也释放托管资源</param>
+        </member>
+        <member name="T:System.Buffers.RecyclableBufferWriter`1">
+            <summary>
+            表示可回收的自动扩容BufferWriter
+            </summary>
+        </member>
+        <member name="P:System.Buffers.RecyclableBufferWriter`1.WrittenCount">
+            <summary>
+            获取已数入的数据长度
+            </summary>
+        </member>
+        <member name="P:System.Buffers.RecyclableBufferWriter`1.WrittenSpan">
+            <summary>
+            获取已数入的数据
+            </summary>
+        </member>
+        <member name="P:System.Buffers.RecyclableBufferWriter`1.WrittenMemory">
+            <summary>
+            获取已数入的数据
+            </summary>
+        </member>
+        <member name="P:System.Buffers.RecyclableBufferWriter`1.WrittenSegment">
+            <summary>
+            获取已数入的数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:System.Buffers.RecyclableBufferWriter`1.Capacity">
+            <summary>
+            获取容量
+            </summary>
+        </member>
+        <member name="P:System.Buffers.RecyclableBufferWriter`1.FreeCapacity">
+            <summary>
+            获取剩余容量
+            </summary>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.#ctor(System.Int32)">
+            <summary>
+            可回收的自动扩容BufferWriter
+            </summary>
+            <param name="initialCapacity">初始容量</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.Clear">
+            <summary>
+            清除数据
+            </summary>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.Advance(System.Int32)">
+            <summary>
+            设置向前推进
+            </summary>
+            <param name="count"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.GetMemory(System.Int32)">
+            <summary>
+            返回用于写入数据的Memory
+            </summary>
+            <param name="sizeHint">意图大小</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.GetSpan(System.Int32)">
+            <summary>
+            返回用于写入数据的Span
+            </summary>
+            <param name="sizeHint">意图大小</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.Write(`0)">
+            <summary>
+            写入数据
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.Write(System.ReadOnlySpan{`0})">
+            <summary>
+            写入数据
+            </summary>
+            <param name="value">值</param> 
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.Dispose(System.Boolean)">
+            <summary>
+            释放资源
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="M:System.Buffers.RecyclableBufferWriter`1.CheckAndResizeBuffer(System.Int32)">
+            <summary>
+            检测和扩容
+            </summary>
+            <param name="sizeHint"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="T:System.Buffers.ResizableBufferWriter`1">
+            <summary>
+            表示自动扩容的BufferWriter
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Buffers.ResizableBufferWriter`1.WrittenCount">
+            <summary>
+            获取已数入的数据长度
+            </summary>
+        </member>
+        <member name="P:System.Buffers.ResizableBufferWriter`1.WrittenSpan">
+            <summary>
+            获取已数入的数据
+            </summary>
+        </member>
+        <member name="P:System.Buffers.ResizableBufferWriter`1.WrittenMemory">
+            <summary>
+            获取已数入的数据
+            </summary>
+        </member>
+        <member name="P:System.Buffers.ResizableBufferWriter`1.WrittenSegment">
+            <summary>
+            获取已数入的数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:System.Buffers.ResizableBufferWriter`1.Capacity">
+            <summary>
+            获取容量
+            </summary>
+        </member>
+        <member name="P:System.Buffers.ResizableBufferWriter`1.FreeCapacity">
+            <summary>
+            获取剩余容量
+            </summary>
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.#ctor(System.Int32)">
+            <summary>
+            自动扩容的BufferWriter
+            </summary>
+            <param name="initialCapacity">初始容量</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.Clear">
+            <summary>
+            清除数据
+            </summary>
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.Advance(System.Int32)">
+            <summary>
+            设置向前推进
+            </summary>
+            <param name="count"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.GetMemory(System.Int32)">
+            <summary>
+            返回用于写入数据的Memory
+            </summary>
+            <param name="sizeHint">意图大小</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.GetSpan(System.Int32)">
+            <summary>
+            返回用于写入数据的Span
+            </summary>
+            <param name="sizeHint">意图大小</param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+            <returns></returns>
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.Write(`0)">
+            <summary>
+            写入数据
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.Write(System.ReadOnlySpan{`0})">
+            <summary>
+            写入数据
+            </summary>
+            <param name="value">值</param> 
+        </member>
+        <member name="M:System.Buffers.ResizableBufferWriter`1.CheckAndResizeBuffer(System.Int32)">
+            <summary>
+            检测和扩容
+            </summary>
+            <param name="sizeHint"></param>
+        </member>
+    </members>
+</doc>
