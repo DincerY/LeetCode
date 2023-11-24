@@ -7,7 +7,7 @@ namespace LeetCode.DivideTwoIntegers
         public static void Main(string[] args)
         {
             Solution solution = new();
-            var a = solution.Divide(-2147483648, -1);
+            var a = solution.Divide(119, 10);
             Console.WriteLine();
         }
     }
@@ -103,7 +103,7 @@ namespace LeetCode.DivideTwoIntegers
             // When we are doing our shifts, we can potentially overflow
             // Find out where our left-most bit is.
             // An 8-bit example:
-            // 00010000 >> 5 == 0000000, therefore we can shift it twice to the left
+            // 00010000>> 5 == 0000000, therefore we can shift it twice to the left
             // 00010000 << 3 == 1000000, which is negative.
             int maxShift = 0;
             for (int i = 0; i < 31; i++)
