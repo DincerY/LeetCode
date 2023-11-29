@@ -9,7 +9,7 @@ namespace LeetCode.LongestValidParentheses
         public static void Main(string[] args)
         {
             Solution solution = new();
-            solution.LongestValidParentheses("()(()");
+            solution.LongestValidParentheses(")))()())");
         }
     }
     
@@ -17,44 +17,55 @@ namespace LeetCode.LongestValidParentheses
     public class Solution {
         public int LongestValidParentheses(string s)
         {
-            MyStack myStack = new MyStack(s.Length);
-            int count = 0;
+            if (s.Length == 0)
+            {
+                return 0;
+            }
+            MyStack stack = new(s.Length * 2);
+            stack.Push(-1);
+            int max = 0;
             for (int i = 0; i < s.Length; i++)
             {
-                if (s[i] == '(' && s[i+1] == ')')
+                char c = s[i];
+                if (c == '(')
                 {
-                    myStack.Push(s[i]);
-                } 
-                if(myStack.Peek() != default)
-                {
-                    myStack.Pop();
-                    count++;
+                    stack.Push(i);
                 }
-            
+                else
+                {
+                    stack.Pop();
+                    if (stack.IsEmpty())
+                    {
+                        stack.Push(i);
+                    }
+                    else
+                    {
+                        int len = i - stack.Peek();
+                        max = Math.Max(max, len);
+                    }
+                }
             }
 
-            
-
-            return count * 2;
+            return max;
         }
     }
 
     class MyStack
     {
-        private char[] Arr { get; set; }
+        private int[] Arr { get; set; }
         private int End { get; set; } = -1;
         public MyStack(int size = 10)
         {
-            Arr = new char[size];
+            Arr = new int[size];
         }
 
-        public void Push(char value)
+        public void Push(int value)
         {
             End++;
             Arr[End] = value;
         }
 
-        public char Pop()
+        public int Pop()
         {
             var poppedValue = Arr[End];
             Arr[End] = default;
@@ -62,13 +73,25 @@ namespace LeetCode.LongestValidParentheses
             return poppedValue;
         }
         
-        public char Peek()
+        public int Peek()
         {
             if (End < 0)
             {
                 return default;
             }
             return Arr[End];
+        }
+
+        public bool IsEmpty()
+        {
+            if (End != -1)
+            {
+                return false;
+            }
+            else
+            {
+                return true;
+            }
         }
     }
 }
