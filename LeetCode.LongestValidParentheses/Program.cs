@@ -9,7 +9,7 @@ namespace LeetCode.LongestValidParentheses
         public static void Main(string[] args)
         {
             Solution solution = new();
-            solution.LongestValidParentheses(")))()())");
+            solution.LongestValidParentheses(")))()())()");
         }
     }
     
@@ -21,7 +21,7 @@ namespace LeetCode.LongestValidParentheses
             {
                 return 0;
             }
-            MyStack stack = new(s.Length * 2);
+            MyStack stack = new();
             stack.Push(-1);
             int max = 0;
             for (int i = 0; i < s.Length; i++)
@@ -48,6 +48,7 @@ namespace LeetCode.LongestValidParentheses
 
             return max;
         }
+        
     }
 
     class MyStack
