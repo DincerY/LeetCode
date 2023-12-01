@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindFirstAndLastPo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SearchInsertPosition", "LeetCode.SearchInsertPosition\LeetCode.SearchInsertPosition.csproj", "{39D30C4F-E61D-440B-8AD9-91587840820D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidSudoku", "LeetCode.ValidSudoku\LeetCode.ValidSudoku.csproj", "{6A6E1422-1E74-42C6-B10B-CDDAFF1D33E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +224,9 @@ Global
 		{39D30C4F-E61D-440B-8AD9-91587840820D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D30C4F-E61D-440B-8AD9-91587840820D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39D30C4F-E61D-440B-8AD9-91587840820D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A6E1422-1E74-42C6-B10B-CDDAFF1D33E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6E1422-1E74-42C6-B10B-CDDAFF1D33E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6E1422-1E74-42C6-B10B-CDDAFF1D33E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6E1422-1E74-42C6-B10B-CDDAFF1D33E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
