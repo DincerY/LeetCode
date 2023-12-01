@@ -70,6 +70,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SearchInRotatedSor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindFirstAndLastPosition", "LeetCode.FindFirstAndLastPosition\LeetCode.FindFirstAndLastPosition.csproj", "{4C934ADD-DF0C-4D7A-ADF9-844EED7D0464}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SearchInsertPosition", "LeetCode.SearchInsertPosition\LeetCode.SearchInsertPosition.csproj", "{39D30C4F-E61D-440B-8AD9-91587840820D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -216,5 +218,9 @@ Global
 		{4C934ADD-DF0C-4D7A-ADF9-844EED7D0464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C934ADD-DF0C-4D7A-ADF9-844EED7D0464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C934ADD-DF0C-4D7A-ADF9-844EED7D0464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D30C4F-E61D-440B-8AD9-91587840820D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D30C4F-E61D-440B-8AD9-91587840820D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D30C4F-E61D-440B-8AD9-91587840820D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D30C4F-E61D-440B-8AD9-91587840820D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
