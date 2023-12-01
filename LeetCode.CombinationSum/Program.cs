@@ -8,7 +8,7 @@ namespace LeetCode.CombinationSum
         public static void Main(string[] args)
         {
             Solution solution = new();
-            solution.Recursive(1);
+            solution.Recursive(new []{1,2,3},1);
         }
     }
     
