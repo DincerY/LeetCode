@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace LeetCode.FirstMissingPositive
 {
@@ -7,7 +10,8 @@ namespace LeetCode.FirstMissingPositive
         public static void Main(string[] args)
         {
             Solution solution = new();
-            solution.FirstMissingPositive(new[] { 3,4,-1,1 });
+            solution.FirstMissingPositive(new[] { 1 });
+            solution.FirstMissingPositiveAnotherSolution(new[] { 1,2,0});
         }
     }
     
@@ -15,23 +19,65 @@ namespace LeetCode.FirstMissingPositive
     public class Solution {
         public int FirstMissingPositive(int[] nums)
         {
-            Array.Sort(nums);
-            for (int i = 0; i < nums.Length-1; i++)
+            HashSet<int> hashSet = new();
+            int a = 1;
+            
+            
+            for (int i = 0; i < nums.Length; i++)
             {
-                if (nums[i + 1] - nums[i] > 0)
+                hashSet.Add(nums[i]);
+            }
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (hashSet.Contains(a))
                 {
-                    return nums[i + 1] - nums[i];
+                    a++;
                 }
             }
             
-
-
-
-
-
-
-
-            return 0;
+            return a;
         }
+        
+        
+        public int FirstMissingPositiveAnotherSolution(int[] nums)
+        {
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (nums[i] < 0)
+                {
+                    nums[i] = 0;
+                }
+            }
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                int value = Math.Abs(nums[i]);
+                if (value >= 1 && value <= nums.Length)
+                {
+                    int index = value - 1;
+                    if (nums[index] > 0)
+                    {
+                        nums[index] *= -1;
+                    }
+                    else if (nums[index] == 0)
+                    {
+                        nums[index] = -1 * (nums.Length + 1);
+                    }
+                }
+                
+            }
+
+            for (int i = 1; i < nums.Length + 1; i++)
+            {
+                if (nums[i - 1] >= 0)
+                {
+                    return i;
+                }
+            }
+
+            return nums.Length + 1;
+        }
+
+
     }
-}
+} 
