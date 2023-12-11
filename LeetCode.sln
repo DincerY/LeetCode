@@ -78,6 +78,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountAndSay", "Lee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CombinationSum", "LeetCode.CombinationSum\LeetCode.CombinationSum.csproj", "{B9E6289D-19DD-4AF9-A4B7-624D852C57BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CombinationSum2", "LeetCode.CombinationSum2\LeetCode.CombinationSum2.csproj", "{387DBDFB-BB77-4FF1-8C09-09F7604270A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FirstMissingPositive", "LeetCode.FirstMissingPositive\LeetCode.FirstMissingPositive.csproj", "{A3FCC31E-285E-4BA4-85C0-50A165E2EE94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveProblem", "RecursiveProblem\RecursiveProblem.csproj", "{DDCCB8FA-70AC-4D53-A847-6844E9E75965}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -240,5 +246,17 @@ Global
 		{B9E6289D-19DD-4AF9-A4B7-624D852C57BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9E6289D-19DD-4AF9-A4B7-624D852C57BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9E6289D-19DD-4AF9-A4B7-624D852C57BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387DBDFB-BB77-4FF1-8C09-09F7604270A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387DBDFB-BB77-4FF1-8C09-09F7604270A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387DBDFB-BB77-4FF1-8C09-09F7604270A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387DBDFB-BB77-4FF1-8C09-09F7604270A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FCC31E-285E-4BA4-85C0-50A165E2EE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FCC31E-285E-4BA4-85C0-50A165E2EE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FCC31E-285E-4BA4-85C0-50A165E2EE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FCC31E-285E-4BA4-85C0-50A165E2EE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCCB8FA-70AC-4D53-A847-6844E9E75965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCCB8FA-70AC-4D53-A847-6844E9E75965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCCB8FA-70AC-4D53-A847-6844E9E75965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCCB8FA-70AC-4D53-A847-6844E9E75965}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
