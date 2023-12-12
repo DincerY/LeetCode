@@ -1,4 +1,8 @@
-﻿namespace LeetCode.TrappingRainWater
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace LeetCode.TrappingRainWater
 {
     internal class Program
     {
@@ -15,20 +19,18 @@
     public class Solution {
         public int Trap(int[] height)
         {
+            Array.Sort(height);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+            Stack<int> stack = new Stack<int>();
+            
+            
+            // for (int i = 0; i < height.Length; i++)
+            // {
+            //     stack.Push(height[i]);
+            // }
+            
+            
+            
 
 
 

@@ -11,18 +11,16 @@ namespace LeetCode.FirstMissingPositive
         {
             Solution solution = new();
             solution.FirstMissingPositive(new[] { 1 });
-            solution.FirstMissingPositiveAnotherSolution(new[] { 1,2,0});
+            solution.FirstMissingPositiveAnotherSolution(new[] { 3, 4, -1, 1 });
         }
     }
     
-    
-    public class Solution {
+    public class Solution
+    {
         public int FirstMissingPositive(int[] nums)
         {
             HashSet<int> hashSet = new();
             int a = 1;
-            
-            
             for (int i = 0; i < nums.Length; i++)
             {
                 hashSet.Add(nums[i]);
@@ -34,11 +32,8 @@ namespace LeetCode.FirstMissingPositive
                     a++;
                 }
             }
-            
             return a;
         }
-        
-        
         public int FirstMissingPositiveAnotherSolution(int[] nums)
         {
             for (int i = 0; i < nums.Length; i++)
@@ -64,7 +59,6 @@ namespace LeetCode.FirstMissingPositive
                         nums[index] = -1 * (nums.Length + 1);
                     }
                 }
-                
             }
 
             for (int i = 1; i < nums.Length + 1; i++)
@@ -77,7 +71,5 @@ namespace LeetCode.FirstMissingPositive
 
             return nums.Length + 1;
         }
-
-
     }
-} 
+}
