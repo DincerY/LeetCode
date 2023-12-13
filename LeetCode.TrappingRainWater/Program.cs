@@ -10,33 +10,33 @@ namespace LeetCode.TrappingRainWater
         {
             Solution solution = new();
             //solution.TrapWithOneSpace(new []{4,2,0,3,2,5});
-            solution.Trap(new[] { 0,1,0,2,1,0,1,3,2,1,2,1 });
-
-
+            solution.ShortTrap(new[] { 4,2,0,3,2,5 });
         }
     }
-    
-    
-    public class Solution {
+
+
+    public class Solution
+    {
         public int TrapWithOneSpace(int[] height)
         {
             int[] minLeftRight = new int[height.Length];
             int maxValue = height[0];
             int maxRightValue = height[height.Length - 1];
             int sum = 0;
-            
+
             //Find Max Value For Every Left Of Number And Add minLeftRight Array
             for (int i = 1; i < height.Length; i++)
             {
-                if (maxValue < height[i-1])
+                if (maxValue < height[i - 1])
                 {
                     maxValue = height[i - 1];
                 }
 
                 minLeftRight[i] = maxValue;
             }
+
             //Find Max Value For Every Right Of Number And Compare minLeftRight Array And Again Add Min Value minLeftRight Array
-            for (int i = height.Length-1; i >= 0; i--)
+            for (int i = height.Length - 1; i >= 0; i--)
             {
                 minLeftRight[i] = Math.Min(minLeftRight[i], maxRightValue);
                 if (height[i] > maxRightValue)
@@ -44,6 +44,7 @@ namespace LeetCode.TrappingRainWater
                     maxRightValue = height[i];
                 }
             }
+
             for (int i = 0; i < height.Length; i++)
             {
                 int a = minLeftRight[i] - height[i];
@@ -56,9 +57,10 @@ namespace LeetCode.TrappingRainWater
                     sum += a;
                 }
             }
+
             return sum;
         }
-        
+
         public int Trap(int[] height)
         {
             int leftPointer = 0;
@@ -70,16 +72,16 @@ namespace LeetCode.TrappingRainWater
             {
                 if (leftValue <= rightValue)
                 {
-                    if (leftValue < height[leftPointer+1])
+                    if (leftValue < height[leftPointer + 1])
                     {
-                        leftPointer = leftPointer + 1;
+                        leftPointer++;
                         leftValue = height[leftPointer];
                     }
                     else
                     {
                         leftPointer++;
                         int value = leftValue - height[leftPointer];
-                        if (value>0)
+                        if (value > 0)
                         {
                             sum += value;
                         }
@@ -87,7 +89,7 @@ namespace LeetCode.TrappingRainWater
                 }
                 else
                 {
-                    if (rightValue < height[rightPointer-1])
+                    if (rightValue < height[rightPointer - 1])
                     {
                         rightPointer = rightPointer - 1;
                         rightValue = height[rightPointer];
@@ -96,16 +98,40 @@ namespace LeetCode.TrappingRainWater
                     {
                         rightPointer--;
                         int value = rightValue - height[rightPointer];
-                        if (value>0)
+                        if (value > 0)
                         {
                             sum += value;
                         }
                     }
                 }
             }
-            
+
             return sum;
         }
 
+        public int ShortTrap(int[] height)
+        {
+            int leftPointer = 0;
+            int rightPointer = height.Length - 1;
+            int leftValue = height[leftPointer];
+            int rightValue = height[rightPointer];
+            int sum = 0;
+            while (leftPointer != rightPointer)
+            {
+                if (leftValue <= rightValue)
+                {
+                    leftPointer++;
+                    leftValue = Math.Max(leftValue, height[leftPointer]);
+                    sum += leftValue - height[leftPointer];
+                }
+                else
+                {
+                    rightPointer--;
+                    rightValue = Math.Max(rightValue, height[rightPointer]);
+                    sum += rightValue - height[rightPointer];
+                }
+            }
+            return sum;
+        }
     }
 }
