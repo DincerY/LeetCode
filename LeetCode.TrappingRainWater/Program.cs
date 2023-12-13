@@ -121,17 +121,22 @@ namespace LeetCode.TrappingRainWater
                 if (leftValue <= rightValue)
                 {
                     leftPointer++;
-                    leftValue = Math.Max(leftValue, height[leftPointer]);
+                    leftValue = Max(leftValue, height[leftPointer]);
                     sum += leftValue - height[leftPointer];
                 }
                 else
                 {
                     rightPointer--;
-                    rightValue = Math.Max(rightValue, height[rightPointer]);
+                    rightValue = Max(rightValue, height[rightPointer]);
                     sum += rightValue - height[rightPointer];
                 }
             }
             return sum;
+        }
+
+        private int Max(int value1,int value2)
+        {
+            return value1 > value2 ? value1 : value2;
         }
     }
 }
