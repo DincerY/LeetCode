@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.KthLargestElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45284709cecad0095fc3f313e36e129f554ebb2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fde60785466f524b139948cdb4ac76c3333f3ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.KthLargestElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.KthLargestElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
