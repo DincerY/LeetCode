@@ -31,6 +31,7 @@ public class Solution
     private void HeapifyDown(int[] arr,int lastIndex)
     {
         int curr = 1;
+        //Burada sadece ilk şartı bırakıp geri kalan şarı while içinde kontrol etmeyi denicem.
         while (curr < lastIndex && arr[curr] < arr[curr * 2] || arr[curr] < arr[curr * 2 + 1])
         {
             int left = curr * 2;
