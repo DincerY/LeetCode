@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\bin\Debug\net8.0\LeetCode.KthLargestElement.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\bin\Debug\net8.0\LeetCode.KthLargestElement.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\bin\Debug\net8.0\LeetCode.KthLargestElement.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\bin\Debug\net8.0\LeetCode.KthLargestElement.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\bin\Debug\net8.0\LeetCode.KthLargestElement.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\refint\LeetCode.KthLargestElement.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\LeetCode.KthLargestElement.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthLargestElement\obj\Debug\net8.0\ref\LeetCode.KthLargestElement.dll

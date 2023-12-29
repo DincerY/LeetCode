@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\RecursiveProblem\bin\Debug\RecursiveProblem.exe
 C:\Users\dince\RiderProjects\LeetCode\RecursiveProblem\bin\Debug\RecursiveProblem.pdb
 C:\Users\dince\RiderProjects\LeetCode\RecursiveProblem\obj\Debug\RecursiveProblem.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\RecursiveProblem\obj\Debug\RecursiveProblem.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\RecursiveProblem\obj\Debug\RecursiveProblem.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\RecursiveProblem\obj\Debug\RecursiveProblem.exe
 C:\Users\dince\RiderProjects\LeetCode\RecursiveProblem\obj\Debug\RecursiveProblem.pdb
