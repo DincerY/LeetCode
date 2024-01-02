@@ -1,8 +1,8 @@
 ﻿using System.Net.Security;
 
 Solution solution = new();
-int[] arr = new[] { 7,6,5,4,3,2,1 };
-solution.FindKthLargest(arr, 2);
+int[] arr = new[] { 4,5,1,3,2};
+var result = solution.FindKthLargest(arr, 3);
 Console.WriteLine("Hello, World!");
 
 
@@ -11,54 +11,53 @@ public class Solution
     private int HeapSize { get; set; } = 1;
     private int Result { get; set; }
     private int[] Arrays { get; set; }
-    
-    private void Swap(int[] arr,int i,int j)    
+
+    private void Swap(int[] arr, int i, int j)
     {
-        (arr[i],arr[j]) = (arr[j],arr[i]);
+        (arr[i], arr[j]) = (arr[j], arr[i]);
     }
 
-    private void HeapifyUp(int[] arr,int lastIndex)
+    private void HeapifyUp(int[] arr, int lastIndex)
     {
-        int parent = lastIndex / 2;
+        ;        int parent = lastIndex / 2;
         while (lastIndex > 1 && arr[parent] < arr[lastIndex])
         {
-            Swap(arr,parent,lastIndex);
-            lastIndex = parent;            
+            Swap(arr, parent, lastIndex);
+            lastIndex = parent;
             parent = lastIndex / 2;
         }
     }
 
-    private void HeapifyDown(int[] arr,int lastIndex)
+    private void HeapifyDown(int[] arr, int lastIndex)
     {
         int curr = 1;
-        //Burada sadece ilk şartı bırakıp geri kalan şarı while içinde kontrol etmeyi denicem.
-        while (curr < lastIndex && arr[curr] < arr[curr * 2] || arr[curr] < arr[curr * 2 + 1])
+        int largestIndex = curr;
+        while (true)
         {
-            int left = curr * 2;
-            int right = curr * 2 + 1;
-
-            if (arr[right] > arr[left])
+            int left = largestIndex * 2;
+            int right = largestIndex * 2 + 1;
+            if (left <= lastIndex && arr[left] > arr[largestIndex])
             {
-                Swap(arr,right,curr);
-                curr = right;
+                largestIndex = left;
             }
-            else
+            if (right <= lastIndex && arr[right] > arr[largestIndex])
             {
-                Swap(arr,left,curr);
-                curr = left;
+                largestIndex = right;
             }
 
-            if (curr >= lastIndex || curr == lastIndex-1)
+            if (largestIndex == curr)
             {
                 break;
             }
+            Swap(arr,curr,largestIndex);
+            curr = largestIndex;
         }
     }
 
     private void Insert(int value)
     {
         Arrays[HeapSize++] = value;
-        HeapifyUp(Arrays,HeapSize-1);
+        HeapifyUp(Arrays, HeapSize - 1);
     }
 
     private void Remove()
@@ -69,9 +68,9 @@ public class Solution
         HeapSize--;
         if (HeapSize <= 1)
         {
-           return;   
+            return;
         }
-        HeapifyDown(Arrays,HeapSize);
+        HeapifyDown(Arrays, HeapSize);
     }
 
 
@@ -81,12 +80,11 @@ public class Solution
         {
             return nums[0];
         }
-        Arrays = new int[nums.Length+1];
+        Arrays = new int[nums.Length + 1];
         for (int i = 0; i < nums.Length; i++)
         {
             Insert(nums[i]);
         }
-        
         HeapSize--;
         for (int i = 0; i < k; i++)
         {
