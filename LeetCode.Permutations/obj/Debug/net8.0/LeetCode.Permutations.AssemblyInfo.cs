@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.KthLargestElement")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Permutations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.KthLargestElement")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.KthLargestElement")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f7fdeac7e9a214ea69fe3604e4c0d83f54e489")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Permutations")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Permutations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
