@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\bin\Debug\net8.0\LeetCode.Permutations2.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\bin\Debug\net8.0\LeetCode.Permutations2.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\bin\Debug\net8.0\LeetCode.Permutations2.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\bin\Debug\net8.0\LeetCode.Permutations2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\bin\Debug\net8.0\LeetCode.Permutations2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\refint\LeetCode.Permutations2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\LeetCode.Permutations2.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Permutations2\obj\Debug\net8.0\ref\LeetCode.Permutations2.dll

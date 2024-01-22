@@ -98,6 +98,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.KthLargestElement"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Permutations", "LeetCode.Permutations\LeetCode.Permutations.csproj", "{B32D37C7-5AE0-4E61-AEF7-38EEB601BA65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Permutations2", "LeetCode.Permutations2\LeetCode.Permutations2.csproj", "{DED71F33-1945-418A-A897-BC6892A09DF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -300,5 +302,9 @@ Global
 		{B32D37C7-5AE0-4E61-AEF7-38EEB601BA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B32D37C7-5AE0-4E61-AEF7-38EEB601BA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B32D37C7-5AE0-4E61-AEF7-38EEB601BA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED71F33-1945-418A-A897-BC6892A09DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED71F33-1945-418A-A897-BC6892A09DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED71F33-1945-418A-A897-BC6892A09DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED71F33-1945-418A-A897-BC6892A09DF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
