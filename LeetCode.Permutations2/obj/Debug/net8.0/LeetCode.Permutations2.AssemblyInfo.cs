@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Permutations2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ca76de02346e69060cb5b905cde8fb0f1da503")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c908117b112179162ebe0c78acefc29bfeaf8c85")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Permutations2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Permutations2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
