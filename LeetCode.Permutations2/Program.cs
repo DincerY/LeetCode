@@ -1,6 +1,11 @@
 ﻿DiffSolution solution = new DiffSolution();
-var result = solution.PermuteUnique(new []{1,1,2});
-Console.WriteLine(result);
+int[] nums = { 1, 1, 2 };
+IList<IList<int>> result = solution.PermuteUnique(nums);
+
+foreach (var list in result)
+{
+    Console.WriteLine(string.Join(", ", list));
+}
 
 
 public class Solution {
@@ -54,37 +59,38 @@ public class DiffSolution
 {
     public IList<IList<int>> PermuteUnique(int[] nums)
     {
-        int numsLength = nums.Length;
         List<IList<int>> result = new List<IList<int>>();
-        List<int> onePermutation = new List<int>();
-            
         Dictionary<int, int> dictionary;
-        DictionaryUsage usage = new DictionaryUsage();
-        foreach (var n in nums)
+        foreach (var num in nums)
         {
-            usage.AddDic(n);
+            DictionaryUsage.AddDic(num);
         }
-        dictionary = usage.DictionaryGet;
-        Recursion(numsLength,dictionary,onePermutation,result);
-        return result;
-    }
-    
-    private void Recursion(int length,Dictionary<int,int> nums,List<int> onePermutation,List<IList<int>> result)
-    {
-        if (onePermutation.Count == length)
-        {
-            
-        }
+        dictionary = DictionaryUsage.DictionaryGet;
 
-        foreach (var kvp in nums)
+        void Recursion(List<int> onePermutation)
         {
-            for (int i = 0; i < kvp.Value; i++)
+            if (onePermutation.Count == nums.Length)
             {
-                onePermutation.Add(kvp.Key);
-            } 
+                result.Add(new List<int>(onePermutation)); 
+            }
+
+            foreach (var key in dictionary.Keys)
+            {
+                if (dictionary[key] > 0)
+                {
+                    onePermutation.Add(key);
+                    dictionary[key]--;
+                    
+                    Recursion(onePermutation);
+                    
+                    onePermutation.RemoveAt(onePermutation.Count-1);
+                    dictionary[key]++;
+                }
+            }
         }
-        
-        //Recursion();    
+        Recursion(new List<int>());
+        return result;
+
     }
 }
 
@@ -92,14 +98,14 @@ public class DiffSolution
 //!!C# dan farklı bazı dillerde Dictionary veri yapına hashmap deniyor.
 public class DictionaryUsage
 {
-    private readonly Dictionary<int, int> _dictionary;
-    public Dictionary<int, int> DictionaryGet => _dictionary;
+    private static readonly Dictionary<int, int> _dictionary;
+    public static Dictionary<int, int> DictionaryGet => _dictionary;
 
-    public DictionaryUsage()
+    static DictionaryUsage()
     {
         _dictionary = new Dictionary<int, int>();
     }
-    public void AddDic(int value)
+    public static void AddDic(int value)
     {
         if (_dictionary.ContainsKey(value))
         {
