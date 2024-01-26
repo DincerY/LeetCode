@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\bin\Debug\net7.0\LeetCode.RotateImage.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\bin\Debug\net7.0\LeetCode.RotateImage.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\bin\Debug\net7.0\LeetCode.RotateImage.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\bin\Debug\net7.0\LeetCode.RotateImage.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\bin\Debug\net7.0\LeetCode.RotateImage.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\refint\LeetCode.RotateImage.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\LeetCode.RotateImage.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateImage\obj\Debug\net7.0\ref\LeetCode.RotateImage.dll

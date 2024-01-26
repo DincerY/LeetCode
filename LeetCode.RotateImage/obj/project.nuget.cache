@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YR6+yV0DETnsb3411itHAmlahe0bi9U/0UICD89ZaHWgnxCcqq2x8SKMhnEmzT6+I070jPM+/V0S1MHRV1X0zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dince\\RiderProjects\\LeetCode\\LeetCode.RotateImage\\LeetCode.RotateImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
