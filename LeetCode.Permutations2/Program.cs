@@ -1,12 +1,11 @@
 ﻿DiffSolution solution = new DiffSolution();
-int[] nums = { 1, 1, 2 };
+int[] nums = { 1,1,2 };
 IList<IList<int>> result = solution.PermuteUnique(nums);
 
 foreach (var list in result)
 {
     Console.WriteLine(string.Join(", ", list));
 }
-
 
 public class Solution {
     public IList<IList<int>> PermuteUnique(int[] nums)
@@ -60,18 +59,20 @@ public class DiffSolution
     public IList<IList<int>> PermuteUnique(int[] nums)
     {
         List<IList<int>> result = new List<IList<int>>();
-        Dictionary<int, int> dictionary;
+        Dictionary<int, int> dictionary = new Dictionary<int, int>();
         foreach (var num in nums)
         {
-            DictionaryUsage.AddDic(num);
+            if (!dictionary.ContainsKey(num))
+                dictionary.Add(num, 1);
+            else
+                dictionary[num]++;
         }
-        dictionary = DictionaryUsage.DictionaryGet;
-
         void Recursion(List<int> onePermutation)
         {
             if (onePermutation.Count == nums.Length)
             {
-                result.Add(new List<int>(onePermutation)); 
+                result.Add(new List<int>(onePermutation));
+                return;
             }
 
             foreach (var key in dictionary.Keys)
@@ -90,12 +91,12 @@ public class DiffSolution
         }
         Recursion(new List<int>());
         return result;
-
     }
 }
 
 
 //!!C# dan farklı bazı dillerde Dictionary veri yapına hashmap deniyor.
+//Bu class ı kullanmak için yazmadım kendi çapımda bir deneme yaptım.
 public class DictionaryUsage
 {
     private static readonly Dictionary<int, int> _dictionary;
