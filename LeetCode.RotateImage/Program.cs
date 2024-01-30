@@ -1,47 +1,41 @@
 ﻿Solution solution = new();
 int[][] input = new[]
 {
-    new[] { 1, 2, 3 },
-    new[] { 4, 5, 6 },
-    new[] { 7, 8, 9 }
+    new[] { 5,1,9,11 },
+    new[] { 2,4,8,10 },
+    new[] { 13,3,6,7 },
+    new[] { 15,14,12,16 },
 };
 solution.Rotate(input);
-
-
 
 
 Console.WriteLine("Hello, World!");
 
 
-
-public class Solution {
+public class Solution
+{
     public void Rotate(int[][] matrix)
     {
-        int[][] result = new int[matrix.Length][];
-        Fill(result);
         List<int> deneme = new();
         int b = 0;
         for (int i = 0; i < matrix.Length; i++)
         {
-            int a = 2;
+            int a = matrix.Length-1;
             for (int j = 0; j < matrix.Length; j++)
             {
-                result[i][j] = matrix[a][b];
-                Console.WriteLine(matrix[a][b]);
+                deneme.Add(matrix[a][b]);
                 a--;
-                //deneme.Add(matrix[i][j]);
             }
             b++;
         }
-    }
 
-    private void Fill(int[][] matrix)
-    {
+        int k = 0;
         for (int i = 0; i < matrix.Length; i++)
         {
             for (int j = 0; j < matrix.Length; j++)
             {
-                matrix[i] = new []{0,0,0};
+                matrix[i][j] = deneme[k];
+                k++;
             }
         }
     }

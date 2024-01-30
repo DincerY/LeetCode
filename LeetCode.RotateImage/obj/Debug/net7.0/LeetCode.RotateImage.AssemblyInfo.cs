@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RotateImage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d85200182108ecb81023e595bbf83502748ba989")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7edf0285aa373fca2957222c0104d919f568727")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RotateImage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RotateImage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
