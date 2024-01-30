@@ -102,6 +102,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Permutations2", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RotateImage", "LeetCode.RotateImage\LeetCode.RotateImage.csproj", "{D2D8A7DA-6766-47C6-90D4-B4C8D7A2721D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GroupAnagrams", "LeetCode.GroupAnagrams\LeetCode.GroupAnagrams.csproj", "{B4FAA19C-3299-489F-BA07-EB606EDB503B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -312,5 +314,9 @@ Global
 		{D2D8A7DA-6766-47C6-90D4-B4C8D7A2721D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2D8A7DA-6766-47C6-90D4-B4C8D7A2721D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2D8A7DA-6766-47C6-90D4-B4C8D7A2721D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FAA19C-3299-489F-BA07-EB606EDB503B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FAA19C-3299-489F-BA07-EB606EDB503B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FAA19C-3299-489F-BA07-EB606EDB503B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FAA19C-3299-489F-BA07-EB606EDB503B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

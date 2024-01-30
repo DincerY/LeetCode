@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\bin\Debug\net8.0\LeetCode.GroupAnagrams.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\bin\Debug\net8.0\LeetCode.GroupAnagrams.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\bin\Debug\net8.0\LeetCode.GroupAnagrams.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\bin\Debug\net8.0\LeetCode.GroupAnagrams.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\bin\Debug\net8.0\LeetCode.GroupAnagrams.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\refint\LeetCode.GroupAnagrams.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\LeetCode.GroupAnagrams.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GroupAnagrams\obj\Debug\net8.0\ref\LeetCode.GroupAnagrams.dll
