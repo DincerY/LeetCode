@@ -1,5 +1,7 @@
-﻿Solution solution = new();
-solution.GroupAnagramsEx(new[] { "cab","tin","pew","duh","may","ill","buy","bar","max","doc" });
+﻿using System.Runtime.Serialization;
+
+Solution solution = new();
+solution.GroupAnagramsWithSort(new[] {"eat","tea","tan","ate","nat","bat"});
 
 
 public class Solution
@@ -52,30 +54,23 @@ public class Solution
         return new List<IList<string>>(anagramGroups.Values);
     }
 
-    /// <summary>
-    /// Bir sonraki çalışmada verilen dizi içerisindeki yapıların hepsini alfabetik sıralayacağım ardından
-    /// karşılaştırma yapacağım.
-    /// </summary>
-    /// <param name="strs"></param>
-    /// <returns></returns>
     public IList<IList<string>> GroupAnagramsWithSort(string[] strs)
     {
-        string ornekString = "merhaba";
+        Dictionary<string, List<string>> dictionary = new Dictionary<string, List<string>>();
 
-        // String'i bir karakter dizisine çevir
-        char[] charArray = ornekString.ToCharArray();
-
-        // Karakter dizisini alfabetik olarak sırala
-        Array.Sort(charArray);
-
-        // Sıralanmış karakter dizisini tekrar stringe çevir
-        string siraliString = new string(charArray);
-
-        // Sonucu ekrana yazdır
-        Console.WriteLine("Orijinal String: " + ornekString);
-        Console.WriteLine("Sıralı String: " + siraliString);
-
-
-        return null;
+        foreach (var str in strs)
+        {
+            char[] charArry = str.ToCharArray();
+            Array.Sort(charArry);
+            string sortedString = new string(charArry);
+            if (!dictionary.ContainsKey(sortedString))
+            {
+                dictionary[sortedString] = new List<string>();
+            }
+            dictionary[sortedString].Add(str);
+        }
+        
+        return new List<IList<string>>(dictionary.Values);
+   
     }
 }
