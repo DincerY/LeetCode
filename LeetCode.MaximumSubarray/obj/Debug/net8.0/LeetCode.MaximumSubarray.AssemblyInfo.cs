@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.GroupAnagrams")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumSubarray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.GroupAnagrams")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.GroupAnagrams")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fc9c968846aee9d0cb3a7cfdee6b18e9dc846ff")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumSubarray")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumSubarray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

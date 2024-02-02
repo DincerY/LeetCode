@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\bin\Debug\net8.0\LeetCode.MaximumSubarray.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\bin\Debug\net8.0\LeetCode.MaximumSubarray.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\bin\Debug\net8.0\LeetCode.MaximumSubarray.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\bin\Debug\net8.0\LeetCode.MaximumSubarray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\bin\Debug\net8.0\LeetCode.MaximumSubarray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\refint\LeetCode.MaximumSubarray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\LeetCode.MaximumSubarray.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumSubarray\obj\Debug\net8.0\ref\LeetCode.MaximumSubarray.dll
