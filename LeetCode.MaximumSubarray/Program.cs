@@ -1,7 +1,7 @@
 ﻿using System.Threading.Channels;
 
 Solution solution = new Solution();
-var result = solution.MaxSubArray2(new[] {-2,1,-3,4,-1,2,1,-5,4});
+var result = solution.MaxSubArray4(new[] {-2,1,-3,4,-1,2,1,-5,4});
 Console.WriteLine(result);
 
 Console.WriteLine("Hello, World!");
@@ -32,10 +32,8 @@ public partial class Solution {
                 total = newTotal;
             }
         }
-
         return total;
     }
-
 
     private int Sum(List<int> arr)
     {
@@ -52,23 +50,44 @@ public partial class Solution {
 
 public partial class Solution
 {
-    /// <summary>
-    /// Baştaki eksileri zaten silicez onun haricinde yan yana iki sayının toplamı eklenecek sayıdan küçükse
-    /// yan yana olan sayıları atlıcaz ve eklenecek sayıdan devam edicez hem yeni bir array oluşturmucaz hemde
-    /// zaman karmaşıklığımız lineer olucak.
-    /// </summary>
-    /// <param name="nums"></param>
-    /// <returns></returns>
     public int MaxSubArray2(int[] nums)
     {
-        
-        
-        
-        
-        return 0;
+        int sum = 0;
+        int maxSum = 0;
+        for (int i = 0; i < nums.Length; i++)
+        {
+            sum += nums[i];
+            if (sum < 0)
+            {
+                sum = 0;
+                continue;
+            }
+            maxSum = Math.Max(sum, maxSum);
+        }
+        if (maxSum == 0)
+        {
+            return nums.Max();
+        }
+        return maxSum;
     }
-    
 }
+
+public partial class Solution
+{
+    public int MaxSubArray3(int[] nums) {
+        int maxSum =nums[0];
+        int currentSum = nums[0];
+
+        for(int i=1; i < nums.Length ; i++)
+        {
+            if(currentSum<0) currentSum =0;
+            currentSum +=nums[i];
+            maxSum = Math.Max(currentSum,maxSum);
+        }
+        return maxSum;
+    }
+}
+
 
 
 
