@@ -1,7 +1,7 @@
 ﻿using System.Threading.Channels;
 
 Solution solution = new Solution();
-var result = solution.MaxSubArray4(new[] {-2,1,-3,4,-1,2,1,-5,4});
+var result = solution.MaxSubArray3(new[] {5,4,-1,7,8});
 Console.WriteLine(result);
 
 Console.WriteLine("Hello, World!");
@@ -72,17 +72,18 @@ public partial class Solution
     }
 }
 
+
 public partial class Solution
 {
-    public int MaxSubArray3(int[] nums) {
-        int maxSum =nums[0];
-        int currentSum = nums[0];
-
-        for(int i=1; i < nums.Length ; i++)
+    public int MaxSubArray3(int[] nums)
+    {
+        int sum = nums[0];
+        int maxSum = nums[0];
+        for (int i = 1; i < nums.Length; i++)
         {
-            if(currentSum<0) currentSum =0;
-            currentSum +=nums[i];
-            maxSum = Math.Max(currentSum,maxSum);
+            if (sum < 0) sum = 0;
+            sum += nums[i];
+            maxSum = Math.Max(sum, maxSum);
         }
         return maxSum;
     }
