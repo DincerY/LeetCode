@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\bin\Debug\net8.0\LeetCode. SpiralMatrix.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\bin\Debug\net8.0\LeetCode. SpiralMatrix.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\bin\Debug\net8.0\LeetCode. SpiralMatrix.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\bin\Debug\net8.0\LeetCode. SpiralMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\bin\Debug\net8.0\LeetCode. SpiralMatrix.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\refint\LeetCode. SpiralMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\LeetCode. SpiralMatrix.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode. SpiralMatrix\obj\Debug\net8.0\ref\LeetCode. SpiralMatrix.dll
