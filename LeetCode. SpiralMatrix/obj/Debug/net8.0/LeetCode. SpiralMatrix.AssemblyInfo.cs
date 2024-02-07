@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode. SpiralMatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fa6cb665ad46781445293042c1c1fcd4fcf3f34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b62a0c3869e1b5d3194ea7c6adf617e920fe22")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode. SpiralMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode. SpiralMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

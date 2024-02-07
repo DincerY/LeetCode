@@ -2,9 +2,12 @@
 
 solution.SpiralOrder(new []
 {
-    new []{1,2,3,4},
-    new []{5,6,7,8},
-    new []{9,10,11,12},
+    new []{1,2,3,4,5,6},
+    new []{7,8,9,10,11,12},
+    new []{13,14,15,16,17,18},
+    new []{19,20,21,22,23,24},
+    new []{25,26,27,28,29,30},
+    new []{31,32,33,34,35,36},
 });
 
 
@@ -16,45 +19,44 @@ public class Solution {
     {
         List<int> result = new();
         var columnAndRow = FindColumnAndRow(matrix);
-
-        for (int i = 0; i < columnAndRow.column; i++)
+        int left = 0;
+        int right = 0;
+        int top = 0;
+        int bottom = 0;
+        int d = 0;
+        while (d < 2)
         {
-            result.Add(matrix[0][i]);
-        }
-
-
-        for (int i = 1; i < columnAndRow.row; i++)
-        {
-            result.Add(matrix[i][columnAndRow.column-1]);
-        }
-
-        for (int i = columnAndRow.column - 2; i >= 0; i--)
-        {
-            result.Add(matrix[columnAndRow.row-1][i]);
-        }
-
-        //Bu method parametleri değiştirerek sonucu belki değiştirebilir.
-        //Üzerine eklemeler yapılacak
-        void Recursive()
-        {
-            for (int i = 0; i < columnAndRow.column; i++)
+            for (int i = left; i < columnAndRow.column - right; i++)
             {
-                result.Add(matrix[0][i]);
+                result.Add(matrix[top][i]);
             }
+            top++;
 
 
-            for (int i = 1; i < columnAndRow.row; i++)
+            for (int i = top; i < columnAndRow.row - bottom; i++)
             {
-                result.Add(matrix[i][columnAndRow.column-1]);
+                result.Add(matrix[i][columnAndRow.column-1-bottom]);
             }
+            right++;
 
-            for (int i = columnAndRow.column - 2; i >= 0; i--)
+
+            for (int i = columnAndRow.column - 1-right; i >= left; i--)
             {
                 result.Add(matrix[columnAndRow.row-1][i]);
             }
+            bottom++;
+
+            for (int i = columnAndRow.row - 1 - bottom; i >= top; i--)
+            {
+                result.Add(matrix[i][left]);
+            }
+            left++;
+            d++;
         }
-
-
+        
+        
+       
+        
         return result;
     }
 
