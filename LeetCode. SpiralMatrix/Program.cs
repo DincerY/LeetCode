@@ -18,11 +18,11 @@
 //
 // });
 
-var result = solution.SpiralOrder(new[]
+var result = solution.SpiralOrder2(new[]
 {
-    new[] { 7 },
-    new[] { 9 },
-    new[] { 6 }
+    new[] { 1, 2, 3, 4 },
+    new[] { 5, 6, 7, 8 },
+    new[] { 9, 10, 11, 12 }
 });
 
 
@@ -49,6 +49,7 @@ public partial class Solution
 
             return result;
         }
+
         if (columnAndRow.row == 1)
         {
             for (int i = 0; i < columnAndRow.column; i++)
@@ -58,7 +59,7 @@ public partial class Solution
 
             return result;
         }
-        
+
         while (d < columnAndRow.row)
         {
             for (int i = left; i < columnAndRow.column - right; i++)
@@ -112,7 +113,48 @@ public partial class Solution
 {
     public IList<int> SpiralOrder2(int[][] matrix)
     {
-        return null;
-    }
+        List<int> result = new List<int>();
+        int left = 0;
+        int right = matrix[0].Length - 1;
+        int top = 0;
+        int bottom = matrix.Length - 1;
 
+        while (left <= right && top <= bottom)
+        {
+            for (int i = left; i <= right; i++)
+            {
+                result.Add(matrix[top][i]);
+            }
+
+            top++;
+
+            for (int i = top; i <= bottom; i++)
+            {
+                result.Add(matrix[i][right]);
+            }
+        
+            right--;
+            
+            if (top > bottom || left > right)
+            {
+                break;
+            }
+            for (int i = right; i >= left; i--)
+            {
+                result.Add(matrix[bottom][i]);
+            }
+
+            bottom--;
+
+            for (int i = bottom; i >= top; i--)
+            {
+                result.Add(matrix[i][left]);
+            }
+
+            left++;
+        }
+
+
+        return result;
+    }
 }
