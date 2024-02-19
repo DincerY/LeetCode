@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.JumpGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa0e44eed88facc9fa19071e35e8d5c4d1f8ab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.JumpGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.JumpGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,18 +1,17 @@
 ﻿Solution solution = new();
-solution.CanJump(new[] { 2, 3, 1, 1, 4 });
+var boolDeneme = solution.CanJump(new[] { 2, 3, 1, 1, 4 });
+
 
 
 Console.WriteLine("Hello, World!");
 
 
-
 /// <summary>
-/// Kaç atlama hakkım varsa hepsini küçükten başlayarak denicem ve kaydedicem
-/// Recursive kullarak her atlama hakkımın içine ayrı ayrı girerek işlem yapıcam
-/// Greedy olmasının sebebi üç kısımına gelince birden değilde en büyükten yani üçten devam etmek
-/// üçten devam edilmediğinde de oluyor fakat Greedy algoritması en büyüğü kullanır.
+/// Bu sefer index düşünerek yazalım.
+/// CanJump değişkeni recursive içinde değişip yeni değerini almalı
 /// </summary>
-public class Solution {
+public class Solution
+{
     public bool CanJump(int[] nums)
     {
         int endIndex = nums.Length - 1;
@@ -20,17 +19,19 @@ public class Solution {
 
         void Recursive(int index)
         {
-            for (int i = 1; i <= nums[index]; i++)
+            if (index == endIndex)
             {
-                Recursive(index++);
+                return; 
+            }
+            canJump = nums[index];
+            for (int i = 1; i <= canJump; i++)
+            {
+                Recursive(index + i);
             }
         }
-        
+
         Recursive(0);
-        
+
         return true;
     }
 }
-
-
-
