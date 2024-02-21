@@ -6,7 +6,7 @@
 var boolDeneme = solution.CanJump2(new[] { 6, 5, 1, 7, 0, 3, 5, 1, 9, 9, 3, 5, 0, 7, 5 });
 var boolDenemee = solution.CanJump2(new[] { 10, 5, 4, 3, 2, 1, 0, 4 });
 var boolDenemeee = solution.CanJump2(new[] { 2,3,1,1,4 });
-var boolDenemeeee = solution.CanJump5(new[] { 4,2,1,0,4,0,0,0,4  });
+var boolDenemeeee = solution.CanJump4(new[] { 3,2,1,1,4,0,0,0,4  });
 
 
 Console.WriteLine(boolDeneme);
