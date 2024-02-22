@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\bin\Debug\net8.0\LeetCode.MergeIntervals.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\bin\Debug\net8.0\LeetCode.MergeIntervals.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\bin\Debug\net8.0\LeetCode.MergeIntervals.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\bin\Debug\net8.0\LeetCode.MergeIntervals.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\bin\Debug\net8.0\LeetCode.MergeIntervals.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\refint\LeetCode.MergeIntervals.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\LeetCode.MergeIntervals.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeIntervals\obj\Debug\net8.0\ref\LeetCode.MergeIntervals.dll
