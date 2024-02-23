@@ -12,15 +12,11 @@ solution.Merge(new[]
 //     new[] { 0, 1 }
 // });
 
-solution.SortMatrix(new[]
-{
-    new[] { 1, 3 },
-    new[] { 4, 5 },
-    new[] { 3, 6 },
-    new[] { 2, 10 },
-    new[] { 15, 18 }
-});
-
+solution.InsertionSortDiff(new[]
+    {
+        7,8,9,1,2,3,4,10,21
+    }
+);
 
 
 Console.WriteLine("Hello, World!");
@@ -37,6 +33,7 @@ public partial class Solution
             {
                 continue;
             }
+
             //Eger ki sort işlmei olusa 0 elemanların kontrolüne gerek kalmaz
             if (intervals[i][0] <= intervals[currArray][0] || intervals[i][0] <= intervals[currArray][1])
             {
@@ -45,12 +42,12 @@ public partial class Solution
                 intervals[i] = null;
             }
         }
+
         int[][] result = new int[NotNullValueCount(intervals)][];
 
-        return NotNullMatrix(intervals,result);
-        
+        return NotNullMatrix(intervals, result);
     }
-    
+
     private int NotNullValueCount(int[][] arr)
     {
         int loop = 0;
@@ -61,6 +58,7 @@ public partial class Solution
                 loop++;
             }
         }
+
         return loop;
     }
 
@@ -75,6 +73,7 @@ public partial class Solution
                 loop++;
             }
         }
+
         return result;
     }
 
@@ -83,22 +82,41 @@ public partial class Solution
         Dictionary<int, int> dictionary = new();
         for (int i = 0; i < matrix.Length; i++)
         {
-            dictionary.Add(matrix[i][0],i);
+            dictionary.Add(matrix[i][0], i);
         }
     }
 
-    //Bu methodu başka zaman doldurucam
+    //Bu methodu tam olarak insertion sort işlemi yapmıyor çünkü sürekli takas yapıyor.
+    //Aslında olması gereken değiştirilecek sayının yeri bulunana kadar sürekli kaydırılmalı ve sayı yerine insert edilmeli
     public void InsertionSort(int[] arr)
     {
-        for (int i = 0; i < arr.Length; i++)
+        for (int i = 1; i < arr.Length; i++)
         {
-            while (true)
+            int j = i - 1;
+            int k = i;
+            while (j >= 0 && arr[j] > arr[k])
             {
-                    
+                (arr[k], arr[j]) = (arr[j], arr[k]);
+                j--;
+                k--;
             }
         }
     }
-
     
+    public void InsertionSortDiff(int[] arr)
+    {
+        for (int i = 1; i < arr.Length; i++)
+        {
+            int j = i - 1;
+            int key = arr[i];
+            while (j >= 0 && arr[j] > key)
+            {
+                arr[j + 1] = arr[j];
+                j--;
+            }
+
+            arr[j + 1] = key;
+        }
+    }
     
 }
