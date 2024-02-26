@@ -1,47 +1,45 @@
 ﻿Solution solution = new();
-solution.Merge(new[]
+solution.Merge2(new[]
 {
     new[] { 1, 3 },
     new[] { 2, 6 },
     new[] { 8, 10 },
     new[] { 15, 18 }
 });
-// solution.Merge(new[]
+// solution.Merge2(new[]
 // {
-//     new[] { 1, 4 },
-//     new[] { 0, 1 }
+//     new[] { 2, 3 },
+//     new[] { 2, 2 },
+//     new[] { 3, 3 },
+//     new[] { 1, 3 },
+//     new[] { 5, 7 },
+//     new[] { 2, 2 },
+//     new[] { 4, 6 },
 // });
 
-solution.InsertionSortDiff(new[]
-    {
-        7,8,9,1,2,3,4,10,21
-    }
-);
-
-
 Console.WriteLine("Hello, World!");
-
 
 public partial class Solution
 {
     public int[][] Merge(int[][] intervals)
     {
         int currArray = 0;
+        List<int[]> output = new List<int[]>();
+        SortMatrix(intervals);
         for (int i = 1; i < intervals.Length; i++)
         {
-            if (intervals[i] == null)
+            if (intervals[i][0] <= intervals[currArray][1])
             {
-                continue;
-            }
-
-            //Eger ki sort işlmei olusa 0 elemanların kontrolüne gerek kalmaz
-            if (intervals[i][0] <= intervals[currArray][0] || intervals[i][0] <= intervals[currArray][1])
-            {
-                intervals[currArray][0] = Math.Min(intervals[currArray][0], intervals[i][0]);
                 intervals[currArray][1] = Math.Max(intervals[currArray][1], intervals[i][1]);
                 intervals[i] = null;
             }
+            else
+            {
+                output.Add(intervals[currArray]);
+                currArray = i;
+            }
         }
+        output.Add(intervals[currArray]);
 
         int[][] result = new int[NotNullValueCount(intervals)][];
 
@@ -77,46 +75,49 @@ public partial class Solution
         return result;
     }
 
+    /// <summary>
+    /// Insertion sort işlemi yaptım.
+    /// </summary>
+    /// <param name="matrix"></param>
     public void SortMatrix(int[][] matrix)
     {
-        Dictionary<int, int> dictionary = new();
-        for (int i = 0; i < matrix.Length; i++)
+        for (int i = 1; i < matrix.Length; i++)
         {
-            dictionary.Add(matrix[i][0], i);
-        }
-    }
-
-    //Bu methodu tam olarak insertion sort işlemi yapmıyor çünkü sürekli takas yapıyor.
-    //Aslında olması gereken değiştirilecek sayının yeri bulunana kadar sürekli kaydırılmalı ve sayı yerine insert edilmeli
-    public void InsertionSort(int[] arr)
-    {
-        for (int i = 1; i < arr.Length; i++)
-        {
+            int[] value = matrix[i];
             int j = i - 1;
-            int k = i;
-            while (j >= 0 && arr[j] > arr[k])
+            while (j >= 0 && matrix[j][0] > value[0])
             {
-                (arr[k], arr[j]) = (arr[j], arr[k]);
-                j--;
-                k--;
-            }
-        }
-    }
-    
-    public void InsertionSortDiff(int[] arr)
-    {
-        for (int i = 1; i < arr.Length; i++)
-        {
-            int j = i - 1;
-            int key = arr[i];
-            while (j >= 0 && arr[j] > key)
-            {
-                arr[j + 1] = arr[j];
+                matrix[j + 1] = matrix[j];
                 j--;
             }
 
-            arr[j + 1] = key;
+            matrix[j + 1] = value;
         }
     }
-    
+}
+
+
+public partial class Solution
+{
+    public int[][] Merge2(int[][] intervals)
+    {
+        int currArray = 0;
+        List<int[]> output = new List<int[]>();
+        Array.Sort(intervals, (a, b) => a[0].CompareTo(b[0]));
+        for (int i = 1; i < intervals.Length; i++)
+        {
+            if (intervals[i][0] <= intervals[currArray][1])
+            {
+                intervals[currArray][1] = Math.Max(intervals[currArray][1], intervals[i][1]);
+                intervals[i] = null;
+            }
+            else
+            {
+                output.Add(intervals[currArray]);
+                currArray = i;
+            }
+        }
+        output.Add(intervals[currArray]);
+        return output.ToArray();
+    }
 }
