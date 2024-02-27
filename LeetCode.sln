@@ -114,6 +114,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.JumpGame", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeIntervals", "LeetCode.MergeIntervals\LeetCode.MergeIntervals.csproj", "{6E1703C9-6074-4579-8D95-0B8060064978}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.InsertInterval", "LeetCode.InsertInterval\LeetCode.InsertInterval.csproj", "{35CA3B0A-5CA5-4FDB-837D-7064B18C4D54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -348,5 +350,9 @@ Global
 		{6E1703C9-6074-4579-8D95-0B8060064978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E1703C9-6074-4579-8D95-0B8060064978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E1703C9-6074-4579-8D95-0B8060064978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CA3B0A-5CA5-4FDB-837D-7064B18C4D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CA3B0A-5CA5-4FDB-837D-7064B18C4D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CA3B0A-5CA5-4FDB-837D-7064B18C4D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CA3B0A-5CA5-4FDB-837D-7064B18C4D54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

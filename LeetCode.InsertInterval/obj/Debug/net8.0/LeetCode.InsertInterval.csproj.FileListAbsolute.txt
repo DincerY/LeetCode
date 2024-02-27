@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\bin\Debug\net8.0\LeetCode.InsertInterval.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\bin\Debug\net8.0\LeetCode.InsertInterval.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\bin\Debug\net8.0\LeetCode.InsertInterval.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\bin\Debug\net8.0\LeetCode.InsertInterval.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\bin\Debug\net8.0\LeetCode.InsertInterval.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\refint\LeetCode.InsertInterval.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\LeetCode.InsertInterval.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertInterval\obj\Debug\net8.0\ref\LeetCode.InsertInterval.dll
