@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.InsertInterval")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d77399cb218d9d27f4d50bd9da29f57a72b016e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7871eec336395d3f460fc7f1805cc19e5ddf73bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.InsertInterval")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.InsertInterval")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
