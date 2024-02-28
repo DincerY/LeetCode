@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\bin\Debug\net8.0\LeetCode.LengthOfLastWord.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\bin\Debug\net8.0\LeetCode.LengthOfLastWord.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\bin\Debug\net8.0\LeetCode.LengthOfLastWord.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\bin\Debug\net8.0\LeetCode.LengthOfLastWord.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\bin\Debug\net8.0\LeetCode.LengthOfLastWord.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\refint\LeetCode.LengthOfLastWord.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\LeetCode.LengthOfLastWord.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LengthOfLastWord\obj\Debug\net8.0\ref\LeetCode.LengthOfLastWord.dll
