@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.InsertInterval")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SpiralMatrix2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.InsertInterval")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.InsertInterval")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e53fbe338eeb6bc45371bdce43e51ce2b2f927a")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SpiralMatrix2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SpiralMatrix2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\bin\Debug\net8.0\LeetCode.SpiralMatrix2.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\bin\Debug\net8.0\LeetCode.SpiralMatrix2.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\bin\Debug\net8.0\LeetCode.SpiralMatrix2.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\bin\Debug\net8.0\LeetCode.SpiralMatrix2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\bin\Debug\net8.0\LeetCode.SpiralMatrix2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\refint\LeetCode.SpiralMatrix2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\LeetCode.SpiralMatrix2.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SpiralMatrix2\obj\Debug\net8.0\ref\LeetCode.SpiralMatrix2.dll
