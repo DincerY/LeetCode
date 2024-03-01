@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RotateList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68a795e708d3e66c4409a713d92d653111237312")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9975929cf4e437b0b0e17ddcd9dabbabe30f3c65")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RotateList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RotateList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
