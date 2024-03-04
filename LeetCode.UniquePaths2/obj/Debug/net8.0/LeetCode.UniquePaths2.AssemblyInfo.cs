@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RotateList")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.UniquePaths2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RotateList")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RotateList")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.UniquePaths2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.UniquePaths2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
