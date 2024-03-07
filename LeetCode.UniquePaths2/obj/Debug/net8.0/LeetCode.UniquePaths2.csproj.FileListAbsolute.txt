@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\bin\Debug\net8.0\LeetCode.UniquePaths2.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\bin\Debug\net8.0\LeetCode.UniquePaths2.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\bin\Debug\net8.0\LeetCode.UniquePaths2.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\bin\Debug\net8.0\LeetCode.UniquePaths2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\bin\Debug\net8.0\LeetCode.UniquePaths2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\refint\LeetCode.UniquePaths2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\LeetCode.UniquePaths2.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UniquePaths2\obj\Debug\net8.0\ref\LeetCode.UniquePaths2.dll

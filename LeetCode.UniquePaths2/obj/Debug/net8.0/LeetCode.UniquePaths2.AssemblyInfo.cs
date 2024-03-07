@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.UniquePaths2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d60abaa633653fbb57ebc87af8c65cb9a4d40fd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.UniquePaths2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.UniquePaths2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
