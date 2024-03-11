@@ -126,6 +126,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UniquePaths", "Lee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UniquePaths2", "LeetCode.UniquePaths2\LeetCode.UniquePaths2.csproj", "{44BF3638-1AC9-4D06-843A-E32E51462190}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumPathSum", "LeetCode.MinimumPathSum\LeetCode.MinimumPathSum.csproj", "{AB387F46-2CCE-44C6-9762-F178B42BFD07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -384,5 +386,9 @@ Global
 		{44BF3638-1AC9-4D06-843A-E32E51462190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BF3638-1AC9-4D06-843A-E32E51462190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44BF3638-1AC9-4D06-843A-E32E51462190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB387F46-2CCE-44C6-9762-F178B42BFD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB387F46-2CCE-44C6-9762-F178B42BFD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB387F46-2CCE-44C6-9762-F178B42BFD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB387F46-2CCE-44C6-9762-F178B42BFD07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

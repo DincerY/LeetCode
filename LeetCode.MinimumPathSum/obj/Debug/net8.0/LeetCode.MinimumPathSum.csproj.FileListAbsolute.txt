@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\bin\Debug\net8.0\LeetCode.MinimumPathSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\bin\Debug\net8.0\LeetCode.MinimumPathSum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\bin\Debug\net8.0\LeetCode.MinimumPathSum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\bin\Debug\net8.0\LeetCode.MinimumPathSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\bin\Debug\net8.0\LeetCode.MinimumPathSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\refint\LeetCode.MinimumPathSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\LeetCode.MinimumPathSum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumPathSum\obj\Debug\net8.0\ref\LeetCode.MinimumPathSum.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.MinimumPathSum/1.0.0": {
+        "runtime": {
+          "LeetCode.MinimumPathSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.MinimumPathSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
