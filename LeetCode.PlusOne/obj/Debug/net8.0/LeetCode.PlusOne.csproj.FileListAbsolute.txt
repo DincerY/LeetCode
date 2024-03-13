@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\bin\Debug\net8.0\LeetCode.PlusOne.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\bin\Debug\net8.0\LeetCode.PlusOne.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\bin\Debug\net8.0\LeetCode.PlusOne.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\bin\Debug\net8.0\LeetCode.PlusOne.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\bin\Debug\net8.0\LeetCode.PlusOne.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\refint\LeetCode.PlusOne.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\LeetCode.PlusOne.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PlusOne\obj\Debug\net8.0\ref\LeetCode.PlusOne.dll
