@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PlusOne")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.AddBinary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PlusOne")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PlusOne")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9f66df4568b6c49391f3c3c2e907db6177e291e")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.AddBinary")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.AddBinary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

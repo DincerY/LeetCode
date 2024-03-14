@@ -130,6 +130,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumPathSum", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PlusOne", "LeetCode.PlusOne\LeetCode.PlusOne.csproj", "{C390C06C-53F4-486A-9AD9-FF06835E76BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AddBinary", "LeetCode.AddBinary\LeetCode.AddBinary.csproj", "{D9398A1C-3F84-4258-9398-3717ACB890A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -396,5 +398,9 @@ Global
 		{C390C06C-53F4-486A-9AD9-FF06835E76BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C390C06C-53F4-486A-9AD9-FF06835E76BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C390C06C-53F4-486A-9AD9-FF06835E76BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9398A1C-3F84-4258-9398-3717ACB890A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9398A1C-3F84-4258-9398-3717ACB890A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9398A1C-3F84-4258-9398-3717ACB890A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9398A1C-3F84-4258-9398-3717ACB890A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

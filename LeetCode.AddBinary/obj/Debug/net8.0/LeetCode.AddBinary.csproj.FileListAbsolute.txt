@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\bin\Debug\net8.0\LeetCode.AddBinary.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\bin\Debug\net8.0\LeetCode.AddBinary.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\bin\Debug\net8.0\LeetCode.AddBinary.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\bin\Debug\net8.0\LeetCode.AddBinary.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\bin\Debug\net8.0\LeetCode.AddBinary.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\refint\LeetCode.AddBinary.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\LeetCode.AddBinary.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AddBinary\obj\Debug\net8.0\ref\LeetCode.AddBinary.dll
