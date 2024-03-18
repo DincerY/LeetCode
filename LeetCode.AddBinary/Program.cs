@@ -1,13 +1,12 @@
 ﻿Solution solution = new();
-solution.AddBinary("10001", "11");
+solution.AddBinary("11", "1");
 
 
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
-   
     public string AddBinary(string a, string b) {
         string res = "";
         int carry = 0;
@@ -21,15 +20,5 @@ public class Solution
         if (carry > 0)
             res = "1" + res;
         return res;
-    }
-
-    public string SumChar(string a, string b)
-    {
-        for (int i = 0; i < Math.Max(a.Length,b.Length); i++)
-        {
-            
-        }
-
-        return "";
     }
 }
