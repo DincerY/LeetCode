@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.AddBinary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d395ed263d2de2b5f8de342088a2606a3febae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2504cc7fa34a66fc3fdf6fdb2fb1085e92bcc72")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.AddBinary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.AddBinary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
