@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\bin\Debug\net8.0\LeetCode.TextJustification.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\bin\Debug\net8.0\LeetCode.TextJustification.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\bin\Debug\net8.0\LeetCode.TextJustification.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\bin\Debug\net8.0\LeetCode.TextJustification.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\bin\Debug\net8.0\LeetCode.TextJustification.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\refint\LeetCode.TextJustification.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\LeetCode.TextJustification.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TextJustification\obj\Debug\net8.0\ref\LeetCode.TextJustification.dll
