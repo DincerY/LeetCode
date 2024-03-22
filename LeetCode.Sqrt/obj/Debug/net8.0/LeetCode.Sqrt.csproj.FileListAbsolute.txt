@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\bin\Debug\net8.0\LeetCode.Sqrt.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\bin\Debug\net8.0\LeetCode.Sqrt.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\bin\Debug\net8.0\LeetCode.Sqrt.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\bin\Debug\net8.0\LeetCode.Sqrt.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\bin\Debug\net8.0\LeetCode.Sqrt.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\refint\LeetCode.Sqrt.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\LeetCode.Sqrt.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Sqrt\obj\Debug\net8.0\ref\LeetCode.Sqrt.dll

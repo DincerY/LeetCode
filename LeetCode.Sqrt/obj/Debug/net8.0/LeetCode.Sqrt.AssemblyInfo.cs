@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.TextJustification")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Sqrt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c53253da060789991cebc53133562676135b0e")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.TextJustification")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.TextJustification")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Sqrt")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Sqrt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
