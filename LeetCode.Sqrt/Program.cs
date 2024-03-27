@@ -3,10 +3,11 @@
 //2 147 483 647
 
 
-Console.WriteLine(solution.MySqrt3(2147395599));
+Console.WriteLine(solution.MySqrt3(8));
 
 
-public partial class Solution {
+public partial class Solution
+{
     public int MySqrt(int x)
     {
         if (x >= 2147395600)

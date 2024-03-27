@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\bin\Debug\net8.0\LeetCode.ClimbingStairs.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\bin\Debug\net8.0\LeetCode.ClimbingStairs.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\bin\Debug\net8.0\LeetCode.ClimbingStairs.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\bin\Debug\net8.0\LeetCode.ClimbingStairs.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\bin\Debug\net8.0\LeetCode.ClimbingStairs.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\refint\LeetCode.ClimbingStairs.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\LeetCode.ClimbingStairs.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ClimbingStairs\obj\Debug\net8.0\ref\LeetCode.ClimbingStairs.dll
