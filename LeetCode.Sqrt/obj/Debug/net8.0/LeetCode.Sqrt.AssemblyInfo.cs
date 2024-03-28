@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Sqrt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6774ec8b5fcbfddd68695b6ee8126c583e746106")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Sqrt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Sqrt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

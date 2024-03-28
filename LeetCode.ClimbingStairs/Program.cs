@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.ClimbStairs(5);
+solution.ClimbStairs2(5);
 
 
 Console.WriteLine("Hello, World!");
@@ -29,45 +29,40 @@ public partial class Solution {
     }
 }
 
+/// <summary>
+/// Dinamik programlama tabulation yaklaşımı
+/// </summary>
 public partial class Solution {
     public int ClimbStairsDp(int n)
     {
-        int[] dp = new int[n + 1];
-
-        dp[0] = 1;
-
-        for (int i = 1; i <= n; ++i)
+        int[] dp = new int[n +1];
+        dp[^1] = 1;
+        for (int i = n - 1; i >= 0; i--)
         {
-            dp[i] = dp[i - 1];
-
-            if (i >= 2)
+            if (n - i >= 2)
             {
-                dp[i] += dp[i - 2];
+                dp[i] = dp[i + 1];
+                dp[i] += dp[i + 2];
             }
+            else
+                dp[i] = dp[i + 1];
         }
-        return dp[n];
+        return dp[0];
     }
 }
 
-/// <summary>
-/// It is not my solution
-/// </summary>
+
 public partial class Solution {
-    public int ClimbStairs3(int n) {
-        if (n <= 2) {
-            return n;
+    public int ClimbStairs2(int n)
+    {
+        var one = 1;
+        var two = 1;
+        for (int i = 0; i < n - 1; i++)
+        {
+            var sum = one + two;
+            one = two;
+            two = sum;
         }
-
-        int p1 = 1;
-        int p2 = 2;
-        int c = 0;
-
-        for (int i = 1; i < n - 1; ++i) {
-            c = p1 + p2;
-            p1 = p2;
-            p2 = c;
-        }
-
-        return c;
+        return two;
     }
 }
