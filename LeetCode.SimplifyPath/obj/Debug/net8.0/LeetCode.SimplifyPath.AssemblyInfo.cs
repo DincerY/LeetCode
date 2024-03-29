@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ClimbingStairs")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SimplifyPath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ClimbingStairs")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ClimbingStairs")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c2d500bdb72a5c446a508b8f9521abefed6a7ed")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SimplifyPath")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SimplifyPath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

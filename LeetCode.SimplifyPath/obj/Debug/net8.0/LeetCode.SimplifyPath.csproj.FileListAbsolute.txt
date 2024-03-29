@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\bin\Debug\net8.0\LeetCode.SimplifyPath.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\bin\Debug\net8.0\LeetCode.SimplifyPath.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\bin\Debug\net8.0\LeetCode.SimplifyPath.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\bin\Debug\net8.0\LeetCode.SimplifyPath.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\bin\Debug\net8.0\LeetCode.SimplifyPath.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\refint\LeetCode.SimplifyPath.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\LeetCode.SimplifyPath.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SimplifyPath\obj\Debug\net8.0\ref\LeetCode.SimplifyPath.dll
