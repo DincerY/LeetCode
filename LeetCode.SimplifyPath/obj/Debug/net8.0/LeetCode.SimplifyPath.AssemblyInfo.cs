@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SimplifyPath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c2d500bdb72a5c446a508b8f9521abefed6a7ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93aae17c3e28a93129f504b5bef75a4c20a1931b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SimplifyPath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SimplifyPath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
