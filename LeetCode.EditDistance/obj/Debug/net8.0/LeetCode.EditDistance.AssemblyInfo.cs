@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SimplifyPath")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.EditDistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba4481a0350e128a15a2b678f6f998f38607018")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SimplifyPath")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SimplifyPath")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.EditDistance")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.EditDistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

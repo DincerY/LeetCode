@@ -1,10 +1,11 @@
 ﻿Solution solution = new();
-//solution.SimplifyPath2("/home//foo/..");
-//solution.SimplifyPath("/../");
+//solution.SimplifyPath3("/home//foo/..");
+//solution.SimplifyPath3("/abc/...");
+solution.SimplifyPath3("/a/./b/../../c/");
 
 
 
-solution.SimplifyPath2("/home/");
+//solution.SimplifyPath2("/home/");
 //solution.SimplifyPath2("/a/../../b/../c//.//");
 
 
@@ -108,7 +109,55 @@ public partial class Solution
                 stack.TryPop(out string b);
             }
         }
-
-        return "";
+        string result = "";
+        while (stack.Count > 0)
+        {
+            stack.TryPop(out string a);
+            result = "/" +a + result;
+        }
+        if (result == "")
+            return "/";
+        return result;
     }
 }
+
+public partial class Solution
+{
+    public string SimplifyPath3(string path)
+    {
+        Stack<string> stack = new();
+        string curr = "";
+        for (int i = 1; i < path.Length; i++)
+        {
+            while (i < path.Length && path[i] != '/')
+            {
+                curr += path[i];
+                i++;
+            }
+            if (curr != "")
+            {
+                if (curr == "..")
+                    stack.TryPop(out string b);
+                else if (curr == ".")
+                {
+                    //not
+                }
+                else
+                    stack.Push(curr);
+                curr = "";
+            }
+        }
+        //return string.Join("/", stack.Reverse());
+        curr = "";
+        while (stack.Count > 0)
+        {
+            stack.TryPop(out string a);
+            curr = "/" +a + curr;
+        }
+        if (curr == "")
+            return "/";
+        return curr;
+    }
+}
+
+
