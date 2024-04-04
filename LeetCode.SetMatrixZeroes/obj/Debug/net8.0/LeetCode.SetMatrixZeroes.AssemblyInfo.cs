@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SimplifyPath")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SetMatrixZeroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SimplifyPath")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SimplifyPath")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78ae1bd6be7feb69b54ae3232d9daa9318eca4b1")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SetMatrixZeroes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SetMatrixZeroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

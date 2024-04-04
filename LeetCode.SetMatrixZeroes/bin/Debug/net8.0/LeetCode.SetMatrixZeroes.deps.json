@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.SetMatrixZeroes/1.0.0": {
+        "runtime": {
+          "LeetCode.SetMatrixZeroes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.SetMatrixZeroes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

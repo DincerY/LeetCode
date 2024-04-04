@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\bin\Debug\net8.0\LeetCode.SetMatrixZeroes.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\bin\Debug\net8.0\LeetCode.SetMatrixZeroes.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\bin\Debug\net8.0\LeetCode.SetMatrixZeroes.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\bin\Debug\net8.0\LeetCode.SetMatrixZeroes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\bin\Debug\net8.0\LeetCode.SetMatrixZeroes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\refint\LeetCode.SetMatrixZeroes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\LeetCode.SetMatrixZeroes.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SetMatrixZeroes\obj\Debug\net8.0\ref\LeetCode.SetMatrixZeroes.dll
