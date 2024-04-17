@@ -9,18 +9,26 @@ Solution solution = new();
 //     new[] { 1, 0, 0 },
 //     new[] { 0, 1, 1 },
 // });
-// solution.SetZeroes2(new[]
+// solution.SetZeroes3(new[]
 // {
 //     new[] { 0,1,2,0 },
 //     new[] { 3,4,5,2 },
 //     new[] { 1,3,1,5 },
 // });
 
+// solution.SetZeroes3(new[]
+// {
+//     new[] { 0, 1, 1 },
+//     new[] { 1, 0, 1 },
+//     new[] { 1, 1, 1 }
+// });
+
 solution.SetZeroes3(new[]
 {
-    new[] { 1, 1, 1 },
-    new[] { 1, 0, 1 },
-    new[] { 1, 1, 1 }
+    new[] { 1,2,3,4 },
+    new[] { 5,0,7,8 },
+    new[] { 0,10,11,12 },
+    new[] { 13,14,15,0 },
 });
 
 
@@ -121,75 +129,64 @@ public partial class Solution
 
 public partial class Solution
 {
-    //It is not work
+    //Fixed
     public void SetZeroes3(int[][] matrix)
     {
-        int firstElementColumn = matrix[0][0];
-        for (int i = 0; i < matrix.Length; i++)
+        bool firstRowExistsZero = false;    
+        int row = matrix.Length;
+        int column = matrix[0].Length;
+        
+        for (int i = 0; i < column; i++)
         {
-            for (int j = 0; j < matrix[0].Length; j++)
+            if (matrix[0][i] == 0)
+            {
+                firstRowExistsZero = true;
+                break;
+            }
+        }
+
+        for (int i = 1; i < row; i++)
+        {
+            for (int j = 0; j < column; j++)
             {
                 if (matrix[i][j] == 0)
                 {
-                    //row
                     matrix[0][j] = 0;
-                    //column
-                    if (j == 0)
-                        firstElementColumn = 0;
-                    else
-                        matrix[i][0] = 0;
+                    matrix[i][0] = 0;
                 }
             }
         }
 
-        for (int i = 0; i < matrix[0].Length; i++)
+        if (column > 1)
+        {
+            for (int i = 1; i < row; i++)
+            {
+                if (matrix[i][0] == 0)
+                {
+                    for (int j = 1; j < column; j++)
+                    {
+                        matrix[i][j] = 0;
+                    }
+                }
+            }
+        }
+
+        for (int i = 0; i < column; i++)
         {
             if (matrix[0][i] == 0)
             {
-                for (int j = 1; j < matrix.Length; j++)
+                for (int j = 1; j < row; j++)
                 {
-                    if (i == 0)
-                        continue;
                     matrix[j][i] = 0;
                 }
             }
         }
 
-        for (int i = 1; i < matrix.Length; i++)
+        if (firstRowExistsZero)
         {
-            if (matrix[i][0] == 0)
+            for (int i = 0; i < column; i++)
             {
-                for (int j = 0; j < matrix[0].Length; j++)
-                {
-                    matrix[i][j] = 0;
-                }
-                break;
-            }
-        }
-
-        for (int i = 0; i < matrix[0].Length; i++)
-        {
-            if (matrix[0][i] == 0)
-            {
-                for (int j = 0; j < matrix[0].Length; j++)
-                {
-                    matrix[0][j] = 0;
-                }
-
-                break;
-            }
-        }
-
-        for (int i = 0; i < matrix.Length; i++)
-        {
-            if (matrix[i][0] == 0)
-            {
-                for (int j = 0; j < matrix.Length; j++)
-                {
-                    matrix[j][0] = 0;
-                }
-
-                break;
+                matrix[0][i] = 0;
             }
         }
     }
