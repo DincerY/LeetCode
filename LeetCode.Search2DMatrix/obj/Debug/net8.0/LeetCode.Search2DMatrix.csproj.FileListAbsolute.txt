@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\bin\Debug\net8.0\LeetCode.Search2DMatrix.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\bin\Debug\net8.0\LeetCode.Search2DMatrix.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\bin\Debug\net8.0\LeetCode.Search2DMatrix.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\bin\Debug\net8.0\LeetCode.Search2DMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\bin\Debug\net8.0\LeetCode.Search2DMatrix.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\refint\LeetCode.Search2DMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\LeetCode.Search2DMatrix.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Search2DMatrix\obj\Debug\net8.0\ref\LeetCode.Search2DMatrix.dll

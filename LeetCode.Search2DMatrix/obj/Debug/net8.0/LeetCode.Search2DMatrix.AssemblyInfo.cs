@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Search2DMatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+562e048a8b398dc20a5d9d11013bde2566a01b9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Search2DMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Search2DMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
