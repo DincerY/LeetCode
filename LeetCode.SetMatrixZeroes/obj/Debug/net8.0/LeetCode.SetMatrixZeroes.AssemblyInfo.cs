@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SetMatrixZeroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9badf4bf6568f9e348c80b5968f847681d7fd92d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SetMatrixZeroes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SetMatrixZeroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
