@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Search2DMatrix")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SortColors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Search2DMatrix")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Search2DMatrix")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2c870351a2ea2b11ad423d092f74c2eb6d9319c")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SortColors")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SortColors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

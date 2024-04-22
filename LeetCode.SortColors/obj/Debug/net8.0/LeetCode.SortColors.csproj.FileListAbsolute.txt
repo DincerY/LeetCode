@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\bin\Debug\net8.0\LeetCode.SortColors.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\bin\Debug\net8.0\LeetCode.SortColors.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\bin\Debug\net8.0\LeetCode.SortColors.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\bin\Debug\net8.0\LeetCode.SortColors.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\bin\Debug\net8.0\LeetCode.SortColors.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\refint\LeetCode.SortColors.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\LeetCode.SortColors.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortColors\obj\Debug\net8.0\ref\LeetCode.SortColors.dll
