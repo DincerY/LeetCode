@@ -74,6 +74,5 @@ public partial class Solution
             }
             tempValue++;
         }
-        
     }
 }

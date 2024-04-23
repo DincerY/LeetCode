@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\bin\Debug\net8.0\LeetCode.MinimumWindowSubstring.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\bin\Debug\net8.0\LeetCode.MinimumWindowSubstring.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\bin\Debug\net8.0\LeetCode.MinimumWindowSubstring.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\bin\Debug\net8.0\LeetCode.MinimumWindowSubstring.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\bin\Debug\net8.0\LeetCode.MinimumWindowSubstring.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\refint\LeetCode.MinimumWindowSubstring.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\LeetCode.MinimumWindowSubstring.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumWindowSubstring\obj\Debug\net8.0\ref\LeetCode.MinimumWindowSubstring.dll
