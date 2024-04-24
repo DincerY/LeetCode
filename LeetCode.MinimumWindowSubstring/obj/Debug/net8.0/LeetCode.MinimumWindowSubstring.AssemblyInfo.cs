@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumWindowSubstring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f20ad81d3a4948cad8f94a3dfce8b258ea5700b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f21357c22c1fe896c1bb3765501be5258364e5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumWindowSubstring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumWindowSubstring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
