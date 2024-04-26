@@ -1,7 +1,7 @@
 ﻿Solution solution = new();
-// solution.MinWindow("ADOBECODEBANC", "ABC");
+ solution.MinWindow4("ADOBECODEBANC", "ABC");
 //Console.WriteLine(solution.MinWindow("GDOBDCODEBAOD", "ABC"));
-Console.WriteLine(solution.MinWindow2("aa", "aa"));
+//Console.WriteLine(solution.MinWindow2("aa", "aa"));
 
 
 
@@ -179,4 +179,34 @@ public partial class Solution
 
         return minLen == int.MaxValue ? "" : new string(chS, startIndex, minLen);
     }
+}
+
+
+
+public partial class Solution {
+
+    public string MinWindow4(string s, string t)
+    {
+        int left = 0;
+        int right = 0;
+        int[] targetArr = new int[128];
+        int requireElement = t.Length;
+
+        foreach (var c in t)
+        {
+            targetArr[c]++;
+        }
+
+        while (right < s.Length)
+        {
+            
+        }
+        
+        
+        
+        
+        
+        return "";
+    }
+    
 }
