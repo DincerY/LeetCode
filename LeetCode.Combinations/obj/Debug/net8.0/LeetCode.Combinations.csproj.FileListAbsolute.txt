@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\bin\Debug\net8.0\LeetCode.Combinations.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\bin\Debug\net8.0\LeetCode.Combinations.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\bin\Debug\net8.0\LeetCode.Combinations.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\bin\Debug\net8.0\LeetCode.Combinations.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\bin\Debug\net8.0\LeetCode.Combinations.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\refint\LeetCode.Combinations.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\LeetCode.Combinations.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Combinations\obj\Debug\net8.0\ref\LeetCode.Combinations.dll
