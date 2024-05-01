@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\bin\Debug\net8.0\LeetCode.Subsets.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\bin\Debug\net8.0\LeetCode.Subsets.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\bin\Debug\net8.0\LeetCode.Subsets.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\bin\Debug\net8.0\LeetCode.Subsets.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\bin\Debug\net8.0\LeetCode.Subsets.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\refint\LeetCode.Subsets.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\LeetCode.Subsets.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Subsets\obj\Debug\net8.0\ref\LeetCode.Subsets.dll
