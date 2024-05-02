@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\bin\Debug\net8.0\LeetCode.WordSearch.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\bin\Debug\net8.0\LeetCode.WordSearch.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\bin\Debug\net8.0\LeetCode.WordSearch.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\bin\Debug\net8.0\LeetCode.WordSearch.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\bin\Debug\net8.0\LeetCode.WordSearch.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\refint\LeetCode.WordSearch.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\LeetCode.WordSearch.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordSearch\obj\Debug\net8.0\ref\LeetCode.WordSearch.dll

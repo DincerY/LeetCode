@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Subsets")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.WordSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Subsets")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Subsets")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39840bfe22258ff8465eaba68031926f52c9bd5a")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.WordSearch")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.WordSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
