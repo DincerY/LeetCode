@@ -1,10 +1,19 @@
 ﻿Solution solution = new();
+// solution.Exist(new[]
+// {
+//     new[] { 'A', 'B', 'C', 'E' },
+//     new[] { 'S', 'F', 'C', 'S' },
+//     new[] { 'A', 'D', 'E', 'E' },
+// }, "ABCCED");
+
 solution.Exist(new[]
 {
-    new[] { 'A', 'B', 'C', 'E' },
-    new[] { 'S', 'F', 'C', 'S' },
-    new[] { 'A', 'D', 'E', 'E' },
+    new[] { 'A', 'B', 'C', 'C' },
+    new[] { 'S', 'C', 'A', 'E' },
+    new[] { 'A', 'C', 'D', 'D' },
 }, "ABCCED");
+
+
 
 // solution.Exist(new[]
 // {

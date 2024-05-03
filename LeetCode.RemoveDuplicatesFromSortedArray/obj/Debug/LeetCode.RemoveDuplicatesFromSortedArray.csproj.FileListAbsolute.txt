@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesFromSortedArray\bin\Debug\LeetCode.RemoveDuplicatesFromSortedArray.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesFromSortedArray\bin\Debug\LeetCode.RemoveDuplicatesFromSortedArray.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesFromSortedArray\obj\Debug\LeetCode.RemoveDuplicatesFromSortedArray.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesFromSortedArray\obj\Debug\LeetCode.RemoveDuplicatesFromSortedArray.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesFromSortedArray\obj\Debug\LeetCode.RemoveDuplicatesFromSortedArray.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesFromSortedArray\obj\Debug\LeetCode.RemoveDuplicatesFromSortedArray.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesFromSortedArray\obj\Debug\LeetCode.RemoveDuplicatesFromSortedArray.pdb
