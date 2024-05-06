@@ -5,7 +5,7 @@
 // });
 
 
-var a = solution.RemoveDuplicates(new[]
+var a = solution.RemoveDuplicates2(new[]
 {
     1, 1, 1, 2, 2, 3
 });
@@ -13,7 +13,7 @@ var a = solution.RemoveDuplicates(new[]
 Console.WriteLine(a);
 
 
-public class Solution
+public partial class Solution
 {
     public int RemoveDuplicates(int[] nums)
     {
@@ -47,7 +47,37 @@ public class Solution
             }
         }
 
-
         return l;
+    }
+}
+
+
+public partial class Solution
+{
+    public int RemoveDuplicates2(int[] nums)
+    {
+        int left = 0;
+        int right = 0;
+
+        while (right < nums.Length)
+        {
+            int count = 1;
+            while (right +1 < nums.Length && nums[right] == nums[right+1])
+            {
+                right++;
+                count++;
+            }
+
+            for (int i = 0; i < Math.Min(2, count); i++)
+            {
+                nums[left] = nums[right];
+                left++;
+            }
+
+            right++;
+        }
+
+        return left;
+
     }
 }
