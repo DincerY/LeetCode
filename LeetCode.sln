@@ -160,6 +160,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordSearch", "Leet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveDuplicatesII", "LeetCode.RemoveDuplicatesII\LeetCode.RemoveDuplicatesII.csproj", "{16E48919-F4DA-4EC2-ADC2-2D8C324749A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SearchRotatedSortedArrayII", "LeetCode.SearchRotatedSortedArrayII\LeetCode.SearchRotatedSortedArrayII.csproj", "{A460D8F2-80BE-4155-9253-2B240D9DD7EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -486,5 +488,9 @@ Global
 		{16E48919-F4DA-4EC2-ADC2-2D8C324749A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16E48919-F4DA-4EC2-ADC2-2D8C324749A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16E48919-F4DA-4EC2-ADC2-2D8C324749A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A460D8F2-80BE-4155-9253-2B240D9DD7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A460D8F2-80BE-4155-9253-2B240D9DD7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A460D8F2-80BE-4155-9253-2B240D9DD7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A460D8F2-80BE-4155-9253-2B240D9DD7EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

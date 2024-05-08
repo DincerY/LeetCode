@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.SearchRotatedSortedArrayII/1.0.0": {
+        "runtime": {
+          "LeetCode.SearchRotatedSortedArrayII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.SearchRotatedSortedArrayII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
