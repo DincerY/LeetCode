@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RemoveDuplicatesII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1947e6480080657e9ef0f937680dbeaadc73d47b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b76ecca5f709e71cf8c0236e43f183530adc45")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RemoveDuplicatesII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RemoveDuplicatesII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

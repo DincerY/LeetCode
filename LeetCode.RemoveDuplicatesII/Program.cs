@@ -5,7 +5,7 @@
 // });
 
 
-var a = solution.RemoveDuplicates2(new[]
+var a = solution.RemoveDuplicates3(new[]
 {
     1, 1, 1, 2, 2, 3
 });
@@ -51,10 +51,9 @@ public partial class Solution
     }
 }
 
-
 public partial class Solution
 {
-    public int RemoveDuplicates2(int[] nums)
+    public int RemoveDuplicates3(int[] nums)
     {
         int left = 0;
         int right = 0;
@@ -62,22 +61,18 @@ public partial class Solution
         while (right < nums.Length)
         {
             int count = 1;
-            while (right +1 < nums.Length && nums[right] == nums[right+1])
+            while (right+1 < nums.Length && nums[right] == nums[right+1])
             {
                 right++;
                 count++;
             }
-
             for (int i = 0; i < Math.Min(2, count); i++)
             {
                 nums[left] = nums[right];
                 left++;
             }
-
             right++;
         }
-
         return left;
-
     }
 }
