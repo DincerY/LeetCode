@@ -6,8 +6,8 @@
 
 solution.Search(new[]
 {
-    2,2,2,3,2,2,2
-}, 3);
+    1,1
+}, 1);
 
 
 Console.WriteLine("Hello, World!");
@@ -29,7 +29,7 @@ public class Solution
             return nums[0] == target ? true : false;
         }
 
-        if (nums[0] < target)
+        if (nums[0] <= target)
         {
             return BinarySearch(nums, target, 0, index);
         }

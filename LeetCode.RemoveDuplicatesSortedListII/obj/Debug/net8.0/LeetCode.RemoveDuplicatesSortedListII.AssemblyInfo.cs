@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SearchRotatedSortedArrayII")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RemoveDuplicatesSortedListII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b4b0ebde3cf06bd9654fc5a9d98bada8416786a")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SearchRotatedSortedArrayII")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SearchRotatedSortedArrayII")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RemoveDuplicatesSortedListII")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RemoveDuplicatesSortedListII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
