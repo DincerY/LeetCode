@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\bin\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\bin\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\bin\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\bin\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\bin\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\refint\LeetCode.RemoveDuplicatesSortedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\LeetCode.RemoveDuplicatesSortedList.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveDuplicatesSortedList\obj\Debug\net8.0\ref\LeetCode.RemoveDuplicatesSortedList.dll
