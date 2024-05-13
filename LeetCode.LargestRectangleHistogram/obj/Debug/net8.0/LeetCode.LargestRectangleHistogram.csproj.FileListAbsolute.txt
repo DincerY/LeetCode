@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\bin\Debug\net8.0\LeetCode.LargestRectangleHistogram.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\bin\Debug\net8.0\LeetCode.LargestRectangleHistogram.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\bin\Debug\net8.0\LeetCode.LargestRectangleHistogram.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\bin\Debug\net8.0\LeetCode.LargestRectangleHistogram.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\bin\Debug\net8.0\LeetCode.LargestRectangleHistogram.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\refint\LeetCode.LargestRectangleHistogram.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\LeetCode.LargestRectangleHistogram.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LargestRectangleHistogram\obj\Debug\net8.0\ref\LeetCode.LargestRectangleHistogram.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RemoveDuplicatesSortedList")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LargestRectangleHistogram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed57bb330de55b499a6da77bfa51e2146fef1e1")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RemoveDuplicatesSortedList")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RemoveDuplicatesSortedList")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LargestRectangleHistogram")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LargestRectangleHistogram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
