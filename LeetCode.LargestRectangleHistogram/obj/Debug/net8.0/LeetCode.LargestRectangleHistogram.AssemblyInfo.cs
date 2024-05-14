@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LargestRectangleHistogram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed57bb330de55b499a6da77bfa51e2146fef1e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4339a72faaa726e2037615845b78dedd605ea282")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LargestRectangleHistogram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LargestRectangleHistogram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
