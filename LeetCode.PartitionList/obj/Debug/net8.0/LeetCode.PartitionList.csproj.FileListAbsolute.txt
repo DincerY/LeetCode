@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\bin\Debug\net8.0\LeetCode.PartitionList.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\bin\Debug\net8.0\LeetCode.PartitionList.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\bin\Debug\net8.0\LeetCode.PartitionList.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\bin\Debug\net8.0\LeetCode.PartitionList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\bin\Debug\net8.0\LeetCode.PartitionList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\refint\LeetCode.PartitionList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\LeetCode.PartitionList.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionList\obj\Debug\net8.0\ref\LeetCode.PartitionList.dll

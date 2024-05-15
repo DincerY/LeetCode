@@ -168,6 +168,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveDuplicatesSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LargestRectangleHistogram", "LeetCode.LargestRectangleHistogram\LeetCode.LargestRectangleHistogram.csproj", "{0FF23692-A7B7-4C9A-AFC2-A41B66B80965}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximalRectangle", "LeetCode.MaximalRectangle\LeetCode.MaximalRectangle.csproj", "{AA541777-04E9-46DA-93E0-994EFF12F6E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PartitionList", "LeetCode.PartitionList\LeetCode.PartitionList.csproj", "{ACE2F34B-6604-4B78-976A-420DC2BA719F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -510,5 +514,13 @@ Global
 		{0FF23692-A7B7-4C9A-AFC2-A41B66B80965}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF23692-A7B7-4C9A-AFC2-A41B66B80965}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF23692-A7B7-4C9A-AFC2-A41B66B80965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA541777-04E9-46DA-93E0-994EFF12F6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA541777-04E9-46DA-93E0-994EFF12F6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA541777-04E9-46DA-93E0-994EFF12F6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA541777-04E9-46DA-93E0-994EFF12F6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE2F34B-6604-4B78-976A-420DC2BA719F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE2F34B-6604-4B78-976A-420DC2BA719F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE2F34B-6604-4B78-976A-420DC2BA719F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE2F34B-6604-4B78-976A-420DC2BA719F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

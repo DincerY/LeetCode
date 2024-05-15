@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LargestRectangleHistogram")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PartitionList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LargestRectangleHistogram")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LargestRectangleHistogram")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0365b531676728709bb6b59f7184e64a73954d1")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PartitionList")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PartitionList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
