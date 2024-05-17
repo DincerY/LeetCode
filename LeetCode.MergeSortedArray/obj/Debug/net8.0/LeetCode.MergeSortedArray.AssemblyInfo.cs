@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PartitionList")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MergeSortedArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PartitionList")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PartitionList")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bf6e0be8d18664c7574a1040a470c45067222a5")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MergeSortedArray")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MergeSortedArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -172,6 +172,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximalRectangle",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PartitionList", "LeetCode.PartitionList\LeetCode.PartitionList.csproj", "{ACE2F34B-6604-4B78-976A-420DC2BA719F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeSortedArray", "LeetCode.MergeSortedArray\LeetCode.MergeSortedArray.csproj", "{5A5FE9F7-4C85-42F1-89EF-1127AF4FE432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -522,5 +524,9 @@ Global
 		{ACE2F34B-6604-4B78-976A-420DC2BA719F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACE2F34B-6604-4B78-976A-420DC2BA719F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACE2F34B-6604-4B78-976A-420DC2BA719F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5FE9F7-4C85-42F1-89EF-1127AF4FE432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5FE9F7-4C85-42F1-89EF-1127AF4FE432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5FE9F7-4C85-42F1-89EF-1127AF4FE432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5FE9F7-4C85-42F1-89EF-1127AF4FE432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

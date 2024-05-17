@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\bin\Debug\net8.0\LeetCode.MergeSortedArray.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\bin\Debug\net8.0\LeetCode.MergeSortedArray.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\bin\Debug\net8.0\LeetCode.MergeSortedArray.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\bin\Debug\net8.0\LeetCode.MergeSortedArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\bin\Debug\net8.0\LeetCode.MergeSortedArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\refint\LeetCode.MergeSortedArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\LeetCode.MergeSortedArray.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeSortedArray\obj\Debug\net8.0\ref\LeetCode.MergeSortedArray.dll
