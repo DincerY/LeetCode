@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MergeSortedArray")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ScrambleString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MergeSortedArray")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MergeSortedArray")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1fa9f2ff08722f3fc7a7bab0529a9a9bb3e1ebf")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ScrambleString")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ScrambleString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

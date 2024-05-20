@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\bin\Debug\net8.0\LeetCode.GrayCode.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\bin\Debug\net8.0\LeetCode.GrayCode.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\bin\Debug\net8.0\LeetCode.GrayCode.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\bin\Debug\net8.0\LeetCode.GrayCode.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\bin\Debug\net8.0\LeetCode.GrayCode.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\refint\LeetCode.GrayCode.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\LeetCode.GrayCode.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GrayCode\obj\Debug\net8.0\ref\LeetCode.GrayCode.dll

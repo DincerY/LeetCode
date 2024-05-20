@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\bin\Debug\net8.0\LeetCode.ScrambleString.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\bin\Debug\net8.0\LeetCode.ScrambleString.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\bin\Debug\net8.0\LeetCode.ScrambleString.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\bin\Debug\net8.0\LeetCode.ScrambleString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\bin\Debug\net8.0\LeetCode.ScrambleString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\refint\LeetCode.ScrambleString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\LeetCode.ScrambleString.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ScrambleString\obj\Debug\net8.0\ref\LeetCode.ScrambleString.dll
