@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 
 Solution solution = new();
-solution.GrayCode(4);
+solution.GrayCode(2);
 
 
 
@@ -15,38 +15,13 @@ public class Solution {
         int[] arr = new int[n]; 
         List<int[]> list = new();
 
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < n*n; i++)
         {
-            list.Add(arr);
-            AddOne(arr);
+            var result = arr.ToString();
+            list.Add((int[])arr.Clone());
         }
-
-
+        
         return null;
     }
 
-    private void AddOne(int[] arr)
-    {
-        int remain = 0;
-        arr[^1]++;
-        for (int i = arr.Length-1; i >= 0;i--)
-        {
-            int temp = 0;
-            if (arr[i] >= 2)
-            {
-                temp = arr[i];
-                remain = temp / 2;
-                temp = temp % 2;
-            }
-            if (remain == 0)
-            {
-                break;
-            }
-
-            arr[i] = temp;
-            arr[i - 1] = remain;
-            remain = 0;
-        }
-        
-    }
 }
