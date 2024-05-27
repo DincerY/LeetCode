@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.GrayCode")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Subsets2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+520e0ce44c05e9c329068aac814517360c3d643f")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.GrayCode")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.GrayCode")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Subsets2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Subsets2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
