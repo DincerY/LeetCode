@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\bin\Debug\net8.0\LeetCode.DecodeWays.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\bin\Debug\net8.0\LeetCode.DecodeWays.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\bin\Debug\net8.0\LeetCode.DecodeWays.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\bin\Debug\net8.0\LeetCode.DecodeWays.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\bin\Debug\net8.0\LeetCode.DecodeWays.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\refint\LeetCode.DecodeWays.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\LeetCode.DecodeWays.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DecodeWays\obj\Debug\net8.0\ref\LeetCode.DecodeWays.dll
