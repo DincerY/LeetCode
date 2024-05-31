@@ -182,6 +182,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Subsets2", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DecodeWays", "LeetCode.DecodeWays\LeetCode.DecodeWays.csproj", "{5CE238B4-29EA-4A3C-8307-67EA60602BE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseLinkedList2", "LeetCode.ReverseLinkedList2\LeetCode.ReverseLinkedList2.csproj", "{00687649-8BDB-41D2-9081-785F9AAFF7B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -552,5 +554,9 @@ Global
 		{5CE238B4-29EA-4A3C-8307-67EA60602BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE238B4-29EA-4A3C-8307-67EA60602BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE238B4-29EA-4A3C-8307-67EA60602BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00687649-8BDB-41D2-9081-785F9AAFF7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00687649-8BDB-41D2-9081-785F9AAFF7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00687649-8BDB-41D2-9081-785F9AAFF7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00687649-8BDB-41D2-9081-785F9AAFF7B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

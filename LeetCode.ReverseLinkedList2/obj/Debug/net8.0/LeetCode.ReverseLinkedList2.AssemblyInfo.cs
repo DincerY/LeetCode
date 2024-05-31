@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.DecodeWays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ReverseLinkedList2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.DecodeWays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.DecodeWays")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4199ad14d67ee665c49176a7e8d5ed8c149589")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ReverseLinkedList2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ReverseLinkedList2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
