@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ReverseLinkedList2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4199ad14d67ee665c49176a7e8d5ed8c149589")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6230a467a75c66c42451e5627a63e8f0d7f0023c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ReverseLinkedList2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ReverseLinkedList2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
