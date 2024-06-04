@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\bin\Debug\net8.0\LeetCode.RestoreIPAddresses.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\bin\Debug\net8.0\LeetCode.RestoreIPAddresses.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\bin\Debug\net8.0\LeetCode.RestoreIPAddresses.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\bin\Debug\net8.0\LeetCode.RestoreIPAddresses.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\bin\Debug\net8.0\LeetCode.RestoreIPAddresses.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\refint\LeetCode.RestoreIPAddresses.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\LeetCode.RestoreIPAddresses.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RestoreIPAddresses\obj\Debug\net8.0\ref\LeetCode.RestoreIPAddresses.dll
