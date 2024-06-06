@@ -186,6 +186,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseLinkedList2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RestoreIPAddresses", "LeetCode.RestoreIPAddresses\LeetCode.RestoreIPAddresses.csproj", "{BE529D9F-E16D-4350-A077-BB39AB6429F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeInorderTraversal", "LeetCode.BinaryTreeInorderTraversal\LeetCode.BinaryTreeInorderTraversal.csproj", "{DD4B625A-4C6C-4A40-A505-16AB49918E85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -564,5 +566,9 @@ Global
 		{BE529D9F-E16D-4350-A077-BB39AB6429F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE529D9F-E16D-4350-A077-BB39AB6429F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE529D9F-E16D-4350-A077-BB39AB6429F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4B625A-4C6C-4A40-A505-16AB49918E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4B625A-4C6C-4A40-A505-16AB49918E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4B625A-4C6C-4A40-A505-16AB49918E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4B625A-4C6C-4A40-A505-16AB49918E85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

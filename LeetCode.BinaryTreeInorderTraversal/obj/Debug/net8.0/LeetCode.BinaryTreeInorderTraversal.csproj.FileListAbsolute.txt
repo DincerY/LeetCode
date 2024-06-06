@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\refint\LeetCode.BinaryTreeInorderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeInorderTraversal.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeInorderTraversal\obj\Debug\net8.0\ref\LeetCode.BinaryTreeInorderTraversal.dll
