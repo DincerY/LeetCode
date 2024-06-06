@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RestoreIPAddresses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5345e2cef393cebf9be3a6edc92f716df788c276")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8bf34a0e7b69646364b738d5abc1e636c41100")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RestoreIPAddresses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RestoreIPAddresses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

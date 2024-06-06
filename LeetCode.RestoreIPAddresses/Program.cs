@@ -1,48 +1,13 @@
 ﻿using System.Text;
 
 Solution solution = new();
-//solution.RestoreIpAddresses3("25525511135");
-solution.RestoreIpAddresses("101023");
+solution.RestoreIpAddresses2("25525511135");
+
+
 
 Console.WriteLine("Hello, World!");
 
 
-public partial class Solution {
-    public IList<string> RestoreIpAddresses(string s)
-    {
-        List<string> result = new();
-        int dotSum = 0;
-        if (s.Length > 12)
-        {
-            return null;
-        }
-        void Recursion(string[] sub,int n,int dot)
-        {
-            if (dotSum == s.Length)
-            {
-                Console.WriteLine("Başarılı");
-                result.Add(string.Join(".",sub.ToString()));
-            }
-
-            sub[n] += s.Substring(dotSum, dot);
-            
-            dotSum += dot;
-            
-            if (n < 4)
-            {
-                Recursion(sub,n+1,1);
-                dotSum-=1;
-                Recursion(sub,n+1, 2);
-                dotSum-=2;
-                Recursion(sub,n+1 ,3);
-                dotSum-=3;
-
-            }
-        }
-        Recursion(new string[5],0,1);
-        return null;
-    }
-}
 
 
 //It is not mine solution
@@ -90,50 +55,3 @@ public partial class Solution {
     }
 }
 
-public partial class Solution {
-    public IList<string> RestoreIpAddresses3(string s) {
-        var ans = new List<string>();
-        Permute(s, 0, new List<int>(), ans);
-        return ans;         
-    }
-    
-    private void Permute(string s, int startIndex, List<int> dots, List<string> ans) {
-        int remainingLength = s.Length - startIndex;
-        int remainingNumberOfIntegers = 4 - dots.Count;
-        if (remainingLength > remainingNumberOfIntegers * 3 || 
-            remainingLength < remainingNumberOfIntegers) {
-            return;
-        }
-        if (dots.Count == 3) {
-            if (IsValid(s, startIndex, remainingLength)) {
-                StringBuilder sb = new StringBuilder();
-                int last = 0;
-                foreach (int dot in dots) {
-                    sb.Append(s.Substring(last, dot));
-                    last += dot;
-                    sb.Append('.');
-                }
-                sb.Append(s.Substring(startIndex));
-                ans.Add(sb.ToString());
-            }
-            return;
-        }
-        for (int curPos = 1; curPos <= 3 && curPos <= remainingLength; ++curPos) {
-            // Append a dot at the current position.
-            dots.Add(curPos);
-            // Try making all combinations with the remaining string.
-            if (IsValid(s, startIndex, curPos)) {
-                Permute(s, startIndex + curPos, dots, ans);
-            }
-            // Backtrack, i.e. remove the dot to try placing it at the next position.
-            dots.RemoveAt(dots.Count - 1);
-        }
-    } 
-
-    private bool IsValid(string s, int start, int length) {
-        return length == 1 || 
-               (s[start] != '0' && 
-                (length < 3 || 
-                 s.Substring(start, length).CompareTo("255") <= 0));
-    }     
-}
