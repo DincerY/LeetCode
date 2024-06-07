@@ -1,7 +1,8 @@
 ﻿using System.Drawing;
 
-Solution solution = new();
-solution.InorderTraversal(new TreeNode(1,null,new TreeNode(2,new TreeNode(3),null)));
+Solution solution = new(); 
+solution.InorderTraversal(new TreeNode(1,null,new TreeNode(2,new TreeNode(3))));
+
 
 Console.WriteLine("Hello, World!");
 
@@ -24,17 +25,15 @@ public class Solution
     public IList<int> InorderTraversal(TreeNode root)
     {
         List<int> result = new();
-
         void Dfs(TreeNode tree)
         {
             if (tree != null)
             {
-                result.Add(tree.val);
                 Dfs(tree.left);
+                result.Add(tree.val);
                 Dfs(tree.right);
             }
         }
-        
         Dfs(root);
         return result;
     }
