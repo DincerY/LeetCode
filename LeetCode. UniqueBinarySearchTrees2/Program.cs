@@ -29,73 +29,67 @@ public class TreeNode
         this.right = right;
     }
 }
+
+//Neither solution belongs to me
 public partial class Solution
 {
     public IList<TreeNode> GenerateTrees(int n)
     {
-        List<TreeNode> res = new();
-        List<IList<int>> per = new();
-        int[] arr = new int[n];
-        for (int i = 0; i < 3; i++) arr[i] = i+1;
-        Recursion(arr,new List<int>(),per);
-         
-
-        foreach (var i in per)
-        {
-            TreeNode temp = null;
-            foreach (var val in i)
-            {
-                temp = Insert(temp, val);
+        IList<TreeNode> Generate(int left, int right) {
+            var res = new List<TreeNode>();
+            if (left == right) {
+                res.Add(new TreeNode(left));
+                return res;
             }
-            if (!res.Contains(temp))
-            {
-                res.Add(temp);
+            if (left > right) {
+                res.Add(null);
+                return res;
             }
-        }
-        return res;
-        
-    }
-    
-    //permutasyon işlemi
-    public void Recursion(int[] nums,List<int> onePermutation,List<IList<int>> result)
-    {
-        if (onePermutation.Count == nums.Length)
-        {
-            result.Add(onePermutation.ToList());
-            return;
-        }
-        else
-        {
-            foreach (var num in nums)
-            {
-                if (onePermutation.Contains(num))
-                    continue;
-                onePermutation.Add(num);
-                Recursion(nums,onePermutation,result);
-                onePermutation.RemoveAt(onePermutation.Count-1);
+            for (int val = left; val < right+1; val++) {
+                var leftTrees = Generate(left, val - 1);
+                var rightTrees = Generate(val + 1, right);
+                foreach (var leftTree in leftTrees) {
+                    foreach (var rightTree in rightTrees) {
+                        var root = new TreeNode(val, leftTree, rightTree);
+                        res.Add(root);
+                    }
+                }
             }
+            return res;
         }
+        return Generate(1,n);
     }
 }
 
 
 public partial class Solution
 {
-    public TreeNode Insert(TreeNode Node,int n)
+    public IList<TreeNode> GenerateTreesCaching(int n)
     {
-        if (Node == null)
-        {
-            return new TreeNode(n);
+        Dictionary<(int, int), List<TreeNode>> dp = new Dictionary<(int, int), List<TreeNode>>();
+        List<TreeNode> Generate(int left, int right) {
+            if (left > right) {
+                return new List<TreeNode> { null };
+            }
+
+            if (dp.ContainsKey((left, right))) {
+                return dp[(left, right)];
+            }
+
+            List<TreeNode> res = new List<TreeNode>();
+            for (int val = left; val <= right; val++) {
+                foreach (TreeNode leftTree in Generate(left, val - 1)) {
+                    foreach (TreeNode rightTree in Generate(val + 1, right)) {
+                        TreeNode root = new TreeNode(val, leftTree, rightTree);
+                        res.Add(root);
+                    }
+                }
+            }
+
+            dp[(left, right)] = res;
+            return res;
         }
-        if (n < Node.val)
-        {
-            Node.left = Insert(Node.left, n);
-        }
-        if (n > Node.val)
-        {
-            Node.right = Insert(Node.right, n);
-        }
-        return Node;
+        return Generate(1,n);
     }
 }
 
@@ -121,4 +115,28 @@ public class Geeksforgeeks
         (charArray[i], charArray[j]) = (charArray[j], charArray[i]);
         return new string(charArray);  
     }  
+}
+
+public class Permutation
+{
+    //permutasyon işlemi
+    public static void Recursion(int[] nums,List<int> onePermutation,List<IList<int>> result)
+    {
+        if (onePermutation.Count == nums.Length)
+        {
+            result.Add(onePermutation.ToList());
+            return;
+        }
+        else
+        {
+            foreach (var num in nums)
+            {
+                if (onePermutation.Contains(num))
+                    continue;
+                onePermutation.Add(num);
+                Recursion(nums,onePermutation,result);
+                onePermutation.RemoveAt(onePermutation.Count-1);
+            }
+        }
+    }
 }
