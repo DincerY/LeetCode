@@ -35,7 +35,8 @@ public partial class Solution
 {
     public IList<TreeNode> GenerateTrees(int n)
     {
-        IList<TreeNode> Generate(int left, int right) {
+        IList<TreeNode> Generate(int left, int right) 
+        {
             var res = new List<TreeNode>();
             if (left == right) {
                 res.Add(new TreeNode(left));
@@ -92,6 +93,9 @@ public partial class Solution
         return Generate(1,n);
     }
 }
+
+
+
 
 
 public class Geeksforgeeks
