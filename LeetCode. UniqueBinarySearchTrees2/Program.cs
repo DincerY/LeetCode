@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.GenerateTrees(3);
+solution.GenerateTrees(5);
 
 // var node = solution.Insert(null,1);
 // solution.Insert(node, 4);

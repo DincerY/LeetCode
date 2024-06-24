@@ -190,6 +190,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeInorderT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode. UniqueBinarySearchTrees2", "LeetCode. UniqueBinarySearchTrees2\LeetCode. UniqueBinarySearchTrees2.csproj", "{30E12056-5328-4F7B-B82A-033AC6177509}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UniqueBinarySearchTrees", "LeetCode.UniqueBinarySearchTrees\LeetCode.UniqueBinarySearchTrees.csproj", "{000131CF-449E-45FB-85E5-51C361CB6FFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -576,5 +578,9 @@ Global
 		{30E12056-5328-4F7B-B82A-033AC6177509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30E12056-5328-4F7B-B82A-033AC6177509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30E12056-5328-4F7B-B82A-033AC6177509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000131CF-449E-45FB-85E5-51C361CB6FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000131CF-449E-45FB-85E5-51C361CB6FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000131CF-449E-45FB-85E5-51C361CB6FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000131CF-449E-45FB-85E5-51C361CB6FFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

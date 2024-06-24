@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode. UniqueBinarySearchTrees2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.UniqueBinarySearchTrees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c63fe2279440ca915965fa597be6e3ae83c2503")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode. UniqueBinarySearchTrees2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode. UniqueBinarySearchTrees2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.UniqueBinarySearchTrees")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.UniqueBinarySearchTrees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
