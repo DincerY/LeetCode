@@ -63,39 +63,6 @@ public partial class Solution
 }
 
 
-public partial class Solution
-{
-    public IList<TreeNode> GenerateTreesCaching(int n)
-    {
-        Dictionary<(int, int), List<TreeNode>> dp = new Dictionary<(int, int), List<TreeNode>>();
-        List<TreeNode> Generate(int left, int right) {
-            if (left > right) {
-                return new List<TreeNode> { null };
-            }
-
-            if (dp.ContainsKey((left, right))) {
-                return dp[(left, right)];
-            }
-
-            List<TreeNode> res = new List<TreeNode>();
-            for (int val = left; val <= right; val++) {
-                foreach (TreeNode leftTree in Generate(left, val - 1)) {
-                    foreach (TreeNode rightTree in Generate(val + 1, right)) {
-                        TreeNode root = new TreeNode(val, leftTree, rightTree);
-                        res.Add(root);
-                    }
-                }
-            }
-
-            dp[(left, right)] = res;
-            return res;
-        }
-        return Generate(1,n);
-    }
-}
-
-
-
 
 
 public class Geeksforgeeks
