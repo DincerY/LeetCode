@@ -1,30 +1,72 @@
 ﻿Solution solution = new();
-solution.NumTrees(3);
-
+solution.NumTrees(5);
 
 
 Console.WriteLine("Hello, World!");
 
 
-
-
 public class Solution {
     public int NumTrees(int n)
     {
-        int sum = 0;
-        for (int val = 1; val < n+1; val++)
-        {
-            if (val  -1 > 0)
-            {
-                
-            }
+        Dictionary<int, int> dic = new(); 
+        dic.Add(0,0);
+        dic.Add(1,1);
+        Recursion(n);
 
-            if (val +1 <= n)
+        void Recursion(int n)
+        {
+            int total = 0;
+            if (!dic.ContainsKey(n))
+            {   
+                Recursion(n-1);
+                if (dic.ContainsKey(n))
+                {   
+                    int maxVal = n + 1; 
+                    for (int i = 1; i <= n+1; i++)  
+                    {
+                        int left = i - 1;
+                        if (left == 0)
+                        {
+                            left = 1;
+                        }
+                        int right = maxVal - i;
+                        if (right == 0)
+                        {
+                            right = 1;
+                        }
+                        dic.TryGetValue(left, out left);
+                        dic.TryGetValue(right, out right);
+                        total += left * right;
+                    }
+                    dic.TryAdd(n + 1, total);
+                }
+            }
+            else
             {
-                    
+                int maxVal = n + 1; 
+                for (int i = 1; i <= n+1; i++)  
+                {
+                    int left = i - 1;
+                    if (left == 0)
+                    {
+                        left = 1;
+                    }
+                    int right = maxVal - i;
+                    if (right == 0)
+                    {
+                        right = 1;
+                    }
+                    dic.TryGetValue(left, out left);
+                    dic.TryGetValue(right, out right);
+                    total += left * right;
+                }
+
+                dic.TryAdd(n + 1, total);
             }
         }
 
-        return sum;
+        int result = 0;
+        dic.TryGetValue(n, out result);
+        return result;
     }
 }
