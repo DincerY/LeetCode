@@ -22,7 +22,7 @@ public class Solution {
                 if (dic.ContainsKey(n))
                 {   
                     int maxVal = n + 1; 
-                    for (int i = 1; i <= n+1; i++)  
+                    for (int i = 1; i <= maxVal; i++)  
                     {
                         int left = i - 1;
                         if (left == 0)
@@ -44,7 +44,7 @@ public class Solution {
             else
             {
                 int maxVal = n + 1; 
-                for (int i = 1; i <= n+1; i++)  
+                for (int i = 1; i <= maxVal; i++)  
                 {
                     int left = i - 1;
                     if (left == 0)
@@ -60,7 +60,7 @@ public class Solution {
                     dic.TryGetValue(right, out right);
                     total += left * right;
                 }
-
+            
                 dic.TryAdd(n + 1, total);
             }
         }

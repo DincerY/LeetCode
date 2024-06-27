@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.UniqueBinarySearchTrees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f64ad2db08a4b9891c205720cb4deff13adf3daf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+728486431c87afe656df46a30b598c21234d6f08")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.UniqueBinarySearchTrees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.UniqueBinarySearchTrees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
