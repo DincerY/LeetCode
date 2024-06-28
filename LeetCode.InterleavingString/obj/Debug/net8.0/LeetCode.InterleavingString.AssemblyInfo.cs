@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.InterleavingString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+728486431c87afe656df46a30b598c21234d6f08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f3f0cfb796a503336953498a64e29daa586a71")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.InterleavingString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.InterleavingString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
