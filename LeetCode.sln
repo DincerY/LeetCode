@@ -194,6 +194,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UniqueBinarySearch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.InterleavingString", "LeetCode.InterleavingString\LeetCode.InterleavingString.csproj", "{2F7D0203-8485-40E0-BAAC-3C0314B72F20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidateBinarySearchTree", "LeetCode.ValidateBinarySearchTree\LeetCode.ValidateBinarySearchTree.csproj", "{ACECF906-689E-4C7D-B3DE-814943005399}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -588,5 +590,9 @@ Global
 		{2F7D0203-8485-40E0-BAAC-3C0314B72F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F7D0203-8485-40E0-BAAC-3C0314B72F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F7D0203-8485-40E0-BAAC-3C0314B72F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACECF906-689E-4C7D-B3DE-814943005399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACECF906-689E-4C7D-B3DE-814943005399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACECF906-689E-4C7D-B3DE-814943005399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACECF906-689E-4C7D-B3DE-814943005399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
