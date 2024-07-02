@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\bin\Debug\net8.0\LeetCode.ValidateBinarySearchTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\bin\Debug\net8.0\LeetCode.ValidateBinarySearchTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\bin\Debug\net8.0\LeetCode.ValidateBinarySearchTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\bin\Debug\net8.0\LeetCode.ValidateBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\bin\Debug\net8.0\LeetCode.ValidateBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\refint\LeetCode.ValidateBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\LeetCode.ValidateBinarySearchTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidateBinarySearchTree\obj\Debug\net8.0\ref\LeetCode.ValidateBinarySearchTree.dll
