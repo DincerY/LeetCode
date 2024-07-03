@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\bin\Debug\net8.0\LeetCode.RecoverBinarySearchTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\bin\Debug\net8.0\LeetCode.RecoverBinarySearchTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\bin\Debug\net8.0\LeetCode.RecoverBinarySearchTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\bin\Debug\net8.0\LeetCode.RecoverBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\bin\Debug\net8.0\LeetCode.RecoverBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\refint\LeetCode.RecoverBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\LeetCode.RecoverBinarySearchTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RecoverBinarySearchTree\obj\Debug\net8.0\ref\LeetCode.RecoverBinarySearchTree.dll

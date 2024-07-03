@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ValidateBinarySearchTree")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RecoverBinarySearchTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd0f330919f7021d0614692982bfb16edd4761f4")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ValidateBinarySearchTree")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ValidateBinarySearchTree")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RecoverBinarySearchTree")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RecoverBinarySearchTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
