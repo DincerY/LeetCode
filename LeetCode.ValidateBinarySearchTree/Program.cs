@@ -1,7 +1,8 @@
 ﻿Solution solution = new();
 //solution.IsValidBST(new TreeNode(2, new TreeNode(1), new TreeNode(3)));
 
-solution.IsValidBST(new TreeNode(5, new TreeNode(1), new TreeNode(4,new TreeNode(3),new TreeNode(6))));
+//solution.IsValidBST2(new TreeNode(5, new TreeNode(1), new TreeNode(4,new TreeNode(3),new TreeNode(6))));
+solution.IsValidBST(new TreeNode(5, new TreeNode(3), new TreeNode(7,new TreeNode(4),new TreeNode(8))));
 Console.WriteLine("Hello, World!");
 
 
@@ -16,20 +17,28 @@ public class TreeNode {
     }   
 }
 
-public class Solution {
+public partial class Solution {
     public bool IsValidBST(TreeNode root)
     {
-        return Dfs(root);
+        return Dfs(root, long.MinValue, long.MaxValue);
     }
-
-    bool Dfs(TreeNode node)
+    bool Dfs(TreeNode node, long left, long right)
     {
-        if (node.left != null || node.right != null)
+        if (node == null)
         {
-            Dfs(node.left);
-            Dfs(node.right);
+            return true;
         }
 
-        return true;
+        if (node.val <= left || node.val >= right)
+        {
+            return false;   
+        }
+
+        return Dfs(node.left, left, node.val) &&
+               Dfs(node.right, node.val, right);
     }
 }
+
+
+
+
