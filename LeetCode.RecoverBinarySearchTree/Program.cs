@@ -1,6 +1,7 @@
 ﻿Solution solution = new();
 //solution.RecoverTree(new TreeNode(1,new TreeNode(3,null,new TreeNode(2))));
-solution.RecoverTree(new TreeNode(3,new TreeNode(1),new TreeNode(4,new TreeNode(2))));
+//solution.RecoverTree2(new TreeNode(3,new TreeNode(1),new TreeNode(4,new TreeNode(2))));
+solution.RecoverTree2(new TreeNode(2,new TreeNode(3),new TreeNode(1)));
 
 
 Console.WriteLine("Hello, World!");
@@ -20,7 +21,7 @@ public class TreeNode
     }
 }
 
-public class Solution
+public partial class Solution
 {
     public void RecoverTree(TreeNode root)
     {
@@ -55,3 +56,50 @@ public class Solution
         return null;
     }
 }
+
+
+public partial class Solution
+{
+    private TreeNode first;
+    private TreeNode prev;
+    private TreeNode middle;
+    private TreeNode last;
+    public void RecoverTree2(TreeNode root)
+    {
+        first = null;
+        middle = null;
+        last = null;
+        prev = new TreeNode(int.MinValue);
+        Inorder(root);
+        if (first != null && last != null)
+        {
+            (first.val, last.val) = (last.val, first.val);
+        }
+        else if (first != null && middle != null)
+        {
+            (first.val, middle.val) = (middle.val, first.val);
+        }
+    }
+    private void Inorder(TreeNode root)
+    {
+        if (root == null)
+        {
+            return;
+        }
+        Inorder(root.left);
+        if (prev != null && root.val < prev.val)
+        {
+            if (first == null)
+            {
+                first = prev;
+                middle = root;
+            }
+            else
+            {
+                last = root;
+            }
+        }
+        prev = root;
+        Inorder(root.right);
+    }
+}   
