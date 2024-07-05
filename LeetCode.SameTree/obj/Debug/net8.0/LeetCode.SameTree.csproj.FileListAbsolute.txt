@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\bin\Debug\net8.0\LeetCode.SameTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\bin\Debug\net8.0\LeetCode.SameTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\bin\Debug\net8.0\LeetCode.SameTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\bin\Debug\net8.0\LeetCode.SameTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\bin\Debug\net8.0\LeetCode.SameTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\refint\LeetCode.SameTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\LeetCode.SameTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SameTree\obj\Debug\net8.0\ref\LeetCode.SameTree.dll

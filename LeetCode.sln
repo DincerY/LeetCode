@@ -198,6 +198,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidateBinarySear
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RecoverBinarySearchTree", "LeetCode.RecoverBinarySearchTree\LeetCode.RecoverBinarySearchTree.csproj", "{67B1FFE5-4EAF-48F6-BA02-289D050AEC07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SameTree", "LeetCode.SameTree\LeetCode.SameTree.csproj", "{35AEC564-BF4F-45A4-B738-4B9AC250A787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -600,5 +602,9 @@ Global
 		{67B1FFE5-4EAF-48F6-BA02-289D050AEC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67B1FFE5-4EAF-48F6-BA02-289D050AEC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B1FFE5-4EAF-48F6-BA02-289D050AEC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AEC564-BF4F-45A4-B738-4B9AC250A787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AEC564-BF4F-45A4-B738-4B9AC250A787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AEC564-BF4F-45A4-B738-4B9AC250A787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AEC564-BF4F-45A4-B738-4B9AC250A787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
