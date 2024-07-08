@@ -3,7 +3,10 @@
 //     new TreeNode(1, new TreeNode(2), new TreeNode(3)));
 
 
-solution.IsSameTree(new TreeNode(1, new TreeNode(1)),
+// solution.IsSameTree(new TreeNode(1, new TreeNode(1)),
+//     new TreeNode(1, null, new TreeNode(1)));
+
+solution.IsSameTree2(new TreeNode(1, new TreeNode(1)),
     new TreeNode(1, null, new TreeNode(1)));
 
 
@@ -24,11 +27,12 @@ public class TreeNode
     }
 }
 
-public class Solution
+public partial class Solution
 {
     public bool IsSameTree(TreeNode p, TreeNode q)
     {
         List<int> list = new();
+
         void Dfs(TreeNode node)
         {
             if (node == null)
@@ -36,12 +40,13 @@ public class Solution
                 list.Add(int.MinValue);
                 return;
             }
+
             list.Add(node.val);
 
             Dfs(node.left);
             Dfs(node.right);
         }
-            
+
         Dfs(p);
         var newList = list.ToList();
         list = new();
@@ -49,3 +54,24 @@ public class Solution
         return newList.SequenceEqual(list);
     }
 }
+
+
+public partial class Solution
+{
+    public bool IsSameTree2(TreeNode p, TreeNode q)
+    {
+        if (p == null && q == null)
+        {
+            return true;
+        }
+
+        if (p == null || q == null || p.val != q.val)
+        {
+            return false;
+        }
+
+        return IsSameTree2(p.left, q.left) && IsSameTree2(p.right, q.right);
+    }
+}
+
+

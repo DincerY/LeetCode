@@ -200,6 +200,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RecoverBinarySearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SameTree", "LeetCode.SameTree\LeetCode.SameTree.csproj", "{35AEC564-BF4F-45A4-B738-4B9AC250A787}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SymmetricTree", "LeetCode.SymmetricTree\LeetCode.SymmetricTree.csproj", "{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -606,5 +608,9 @@ Global
 		{35AEC564-BF4F-45A4-B738-4B9AC250A787}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35AEC564-BF4F-45A4-B738-4B9AC250A787}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35AEC564-BF4F-45A4-B738-4B9AC250A787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

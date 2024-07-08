@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\bin\Debug\net8.0\LeetCode.SymmetricTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\bin\Debug\net8.0\LeetCode.SymmetricTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\bin\Debug\net8.0\LeetCode.SymmetricTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\bin\Debug\net8.0\LeetCode.SymmetricTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\bin\Debug\net8.0\LeetCode.SymmetricTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\refint\LeetCode.SymmetricTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\LeetCode.SymmetricTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SymmetricTree\obj\Debug\net8.0\ref\LeetCode.SymmetricTree.dll
