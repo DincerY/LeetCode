@@ -5,15 +5,14 @@ solution.IsSymmetric(new TreeNode(1,
     , new TreeNode(2,
         new TreeNode(4), new TreeNode(3))));
 
-TreeNode root = new TreeNode(10);
-root.left = new TreeNode(5);
-root.right = new TreeNode(15);
-root.left.left = new TreeNode(3);
-root.left.right = new TreeNode(7);
-root.right.right = new TreeNode(18);
 
-// Ağacı BFS ile dolaşın
-solution.BFS(root);
+// TreeNode root = new TreeNode(10);
+// root.left = new TreeNode(5);
+// root.right = new TreeNode(15);
+// root.left.left = new TreeNode(3);
+// root.left.right = new TreeNode(7);
+// root.right.right = new TreeNode(18);
+//solution.BFS(root);
 
 Console.WriteLine("Hello, World!");
 
@@ -36,10 +35,25 @@ public partial class Solution
 {
     public bool IsSymmetric(TreeNode root)
     {
-        return true;
+        return DFS(root.left, root.right);
     }
-    
+
+    private bool DFS(TreeNode left, TreeNode right)
+    {
+        if (left == null && right == null)
+        {
+            return true;
+        }
+
+        if (left == null || right == null)
+        {
+            return false;
+        }
+
+        return (left.val == right.val) && DFS(left.left, right.right) && DFS(left.right, right.left);
+    }
 }
+
 
 public partial class Solution
 {
