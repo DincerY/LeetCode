@@ -202,6 +202,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SameTree", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SymmetricTree", "LeetCode.SymmetricTree\LeetCode.SymmetricTree.csproj", "{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeLevelOrderTraversal", "LeetCode.BinaryTreeLevelOrderTraversal\LeetCode.BinaryTreeLevelOrderTraversal.csproj", "{3FD73017-F264-4FFD-A5EF-3C3D82820BF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -612,5 +614,9 @@ Global
 		{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD73017-F264-4FFD-A5EF-3C3D82820BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD73017-F264-4FFD-A5EF-3C3D82820BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD73017-F264-4FFD-A5EF-3C3D82820BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD73017-F264-4FFD-A5EF-3C3D82820BF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
