@@ -1,11 +1,20 @@
 ﻿using System.Collections;
 
 Solution solution = new();
-solution.LevelOrder(new TreeNode(3, 
-     new TreeNode(9), 
-    new TreeNode(20, 
-        new TreeNode(15),
-        new TreeNode(7))));
+// solution.LevelOrder(new TreeNode(3, 
+//      new TreeNode(9), 
+//     new TreeNode(20, 
+//         new TreeNode(15),
+//         new TreeNode(7))));
+
+solution.LevelOrder(new TreeNode(1,
+    new TreeNode(2,
+        new TreeNode(3,
+            new TreeNode(4,
+                new TreeNode(5))))));
+
+// solution.LevelOrder(new TreeNode(1, 
+//     new TreeNode(2)));
 
 
 // solution.LevelOrder(new TreeNode(1));
@@ -27,7 +36,7 @@ public class TreeNode
     }
 }
 
-public class Solution
+public partial class Solution
 {
     public IList<IList<int>> LevelOrder(TreeNode root)
     {
@@ -37,35 +46,32 @@ public class Solution
         }
         List<IList<int>> list = new List<IList<int>>();
         Queue<TreeNode> queue = new Queue<TreeNode>();
-        int difLevel = 1;
         queue.Enqueue(root);
         while (queue.Count > 0)
         {
-            int sqrt = (int)Math.Sqrt(difLevel);
-            if (sqrt == 1 && difLevel < 2)
+            int queueLen = queue.Count;
+            List<int> res = new List<int>();
+            for (int i = 0; i < queueLen; i++)
             {
-                sqrt = 0;
-            }
-            TreeNode curr = queue.Dequeue();
-            Console.WriteLine(curr.val + "---" + sqrt);
+                TreeNode curr = queue.Dequeue();
+                if (curr.val != null)
+                {
+                    res.Add(curr.val);
+                }
 
-            if (list.Count == sqrt)
-            {
-                list.Add(new List<int>());
-            }
-            list[sqrt].Add(curr.val);
-            
-            if (curr.left != null)
-            {
-                queue.Enqueue(curr.left);
-            }
+                if (curr.left is not null)
+                {
+                    queue.Enqueue(curr.left);
+                }
 
-            if (curr.right != null)
-            {
-                queue.Enqueue(curr.right);
+                if (curr.right is not null)
+                {
+                    queue.Enqueue(curr.right);
+                }
             }
 
-            difLevel++;
+            list.Add(res.ToList());
+            res.Clear();
         }
         return list;
     }

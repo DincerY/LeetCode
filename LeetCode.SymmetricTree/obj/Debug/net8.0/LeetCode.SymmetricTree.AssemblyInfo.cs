@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SymmetricTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34cdf9f77392568b8fcd0a9a32f367701bcee89a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SymmetricTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SymmetricTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
