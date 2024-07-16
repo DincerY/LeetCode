@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\refint\LeetCode.BinaryTreeZigzagLevelOrderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreeZigzagLevelOrderTraversal.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeZigzagLevelOrderTraversal\obj\Debug\net8.0\ref\LeetCode.BinaryTreeZigzagLevelOrderTraversal.dll
