@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BinaryTreeZigzagLevelOrderTraversal")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumDepthofBinaryTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5cec3bb3f8a10188ae8b616d4a6b73d12677e7")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BinaryTreeZigzagLevelOrderTraversal")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BinaryTreeZigzagLevelOrderTraversal")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumDepthofBinaryTree")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumDepthofBinaryTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
