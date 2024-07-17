@@ -89,9 +89,6 @@ public partial class Solution
             
             }
         }
-        
-        
-
         Zigzag();
         return list;
     }
