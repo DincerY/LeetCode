@@ -208,6 +208,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeZigzagLe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumDepthofBinaryTree", "LeetCode.MaximumDepthofBinaryTree\LeetCode.MaximumDepthofBinaryTree.csproj", "{261694E1-06EC-4107-B092-464D1D11E362}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal", "LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal\LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal.csproj", "{C3AC51F3-BA4D-453A-99C8-DA14A613B9AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -630,5 +632,9 @@ Global
 		{261694E1-06EC-4107-B092-464D1D11E362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{261694E1-06EC-4107-B092-464D1D11E362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{261694E1-06EC-4107-B092-464D1D11E362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AC51F3-BA4D-453A-99C8-DA14A613B9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AC51F3-BA4D-453A-99C8-DA14A613B9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AC51F3-BA4D-453A-99C8-DA14A613B9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AC51F3-BA4D-453A-99C8-DA14A613B9AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
