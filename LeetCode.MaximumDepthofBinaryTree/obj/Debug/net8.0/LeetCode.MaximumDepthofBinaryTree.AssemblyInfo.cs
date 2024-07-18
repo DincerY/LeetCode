@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumDepthofBinaryTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5cec3bb3f8a10188ae8b616d4a6b73d12677e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06f57e27ff4ca4bafbe6dddf2b50ff893baefc1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumDepthofBinaryTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumDepthofBinaryTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
