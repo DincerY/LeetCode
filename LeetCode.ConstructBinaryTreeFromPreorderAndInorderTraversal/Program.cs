@@ -1,6 +1,12 @@
 ﻿Solution solution = new();
-solution.BuildTree(new []{3,9,20,15,7},
-    new []{9,3,15,20,7});
+// solution.BuildTree(new []{3,9,20,15,7},
+//     new []{9,3,15,20,7});
+
+solution.BuildTree(new []{1,2,4,5,3,6,7},
+    new []{4,2,5,1,6,3,7});
+
+solution.BuildTree2(new []{1,2,3,4,5,6});
+
 
 solution.InOrder(new TreeNode(1,
     new TreeNode(2,
@@ -24,24 +30,37 @@ public class TreeNode
         this.right = right;
     }
 }
-
+/// <summary>
+/// it is not mine solution
+/// </summary>
+public partial class Solution {
+    public TreeNode BuildTree(int[] preorder, int[] inorder) {
+        if (preorder == null || preorder.Length == 0 || inorder == null || inorder.Length == 0)
+            return null;
+            
+        TreeNode root = new TreeNode(preorder[0]);
+        int mid = Array.IndexOf(inorder, preorder[0]);
+        root.left = BuildTree(preorder.Skip(1).Take(mid).ToArray(), inorder.Take(mid).ToArray());
+        root.right = BuildTree(preorder.Skip(mid + 1).ToArray(), inorder.Skip(mid + 1).ToArray());
+        return root;
+    }
+}
 public partial class Solution
 {
-    public TreeNode BuildTree(int[] preorder, int[] inorder)
+    public TreeNode BuildTree2(int[] preorder)
     {
-        List<int> preOrder = preorder.ToList();
-        List<int> inOrder = inorder.ToList();
-        TreeNode node = new TreeNode(preOrder[0]);
-        preOrder.Remove(preorder[0]);
-        int preIndex = 1;
-        int inIndex = 0;    
-        
-        
-        
+        if (preorder.Length == 0)
+        {
+            return null;
+        }
+        TreeNode node = new TreeNode(preorder[0]);
 
+        node.left = BuildTree2(preorder[1..]);
+        node.right = BuildTree2(new int[0]);
         return node;
     }
 }
+
 
 
 
