@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+150b6720ca738e14358b739fcfd1d38b34cb7bb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0174579f693f98571c50472d9f1af2648c5d4b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
