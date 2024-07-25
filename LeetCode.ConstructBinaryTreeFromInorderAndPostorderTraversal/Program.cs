@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.BuildTree(new[] { 9, 3, 15, 20, 7 },
+solution.BuildTree3(new[] { 9, 3, 15, 20, 7 },
     new[] { 9, 15, 7, 20, 3 });
 
 // solution.BuildTree2(new []{2,1},
@@ -58,29 +58,18 @@ public partial class Solution
 {
     public TreeNode BuildTree3(int[] inorder, int[] postorder)
     {
-        Dictionary<int, int> inorderIdx = new Dictionary<int, int>();
-        for (int i = 0; i < inorder.Length; i++)
-        {
-            inorderIdx[inorder[i]] = i;
-        }
-
         int postIndex = postorder.Length - 1;
-
         TreeNode Helper(int l, int r)
         {
             if (l > r)
-            {
                 return null;
-            }
-
             TreeNode root = new TreeNode(postorder[postIndex--]);
 
-            int idx = inorderIdx[root.val];
+            int idx = Array.IndexOf(inorder, root.val);
             root.right = Helper(idx + 1, r);
             root.left = Helper(l, idx - 1);
             return root;
         }
-
         return Helper(0, inorder.Length - 1);
     }
 }
