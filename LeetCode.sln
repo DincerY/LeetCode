@@ -212,6 +212,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConstructBinaryTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal", "LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal\LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal.csproj", "{26D7958F-1756-4364-98FF-1D7553C3BA84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeLevelOrderTraversal2", "LeetCode.BinaryTreeLevelOrderTraversal2\LeetCode.BinaryTreeLevelOrderTraversal2.csproj", "{99DF5B2F-E0C0-477A-95AD-78568ED24818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -642,5 +644,9 @@ Global
 		{26D7958F-1756-4364-98FF-1D7553C3BA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26D7958F-1756-4364-98FF-1D7553C3BA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26D7958F-1756-4364-98FF-1D7553C3BA84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DF5B2F-E0C0-477A-95AD-78568ED24818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DF5B2F-E0C0-477A-95AD-78568ED24818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DF5B2F-E0C0-477A-95AD-78568ED24818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DF5B2F-E0C0-477A-95AD-78568ED24818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
