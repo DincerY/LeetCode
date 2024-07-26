@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\bin\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\bin\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\bin\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\bin\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\bin\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\refint\LeetCode.ConvertSortedArrayToBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\LeetCode.ConvertSortedArrayToBinarySearchTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ConvertSortedArrayToBinarySearchTree\obj\Debug\net8.0\ref\LeetCode.ConvertSortedArrayToBinarySearchTree.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ConvertSortedArrayToBinarySearchTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0b586bd04668ee6442da571b6ba5bcca601e9fe")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ConvertSortedArrayToBinarySearchTree")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ConvertSortedArrayToBinarySearchTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
