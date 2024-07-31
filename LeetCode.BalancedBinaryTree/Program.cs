@@ -1,9 +1,7 @@
 ﻿Solution solution = new();
-//solution.IsBalanced(new TreeNode(3,new TreeNode(9),new TreeNode(20,new TreeNode(15),new TreeNode(7))));
-solution.IsBalanced(new TreeNode(1,
-    new TreeNode(2,new TreeNode(3, new TreeNode(4),new TreeNode(4)),new TreeNode(3)),new TreeNode(2)));
-
-solution.PostOrder(new TreeNode(3,new TreeNode(9),new TreeNode(20,new TreeNode(15),new TreeNode(7))));
+solution.IsBalanced(new TreeNode(3,new TreeNode(9),new TreeNode(20,new TreeNode(15),new TreeNode(7))));
+//solution.IsBalanced(new TreeNode(1,
+    //new TreeNode(2,new TreeNode(3, new TreeNode(4),new TreeNode(4)),new TreeNode(3)),new TreeNode(2)));
 
 
 Console.WriteLine("Hello, World!");
@@ -25,51 +23,50 @@ public class TreeNode
 
 public partial class Solution
 {
-    public bool IsBalanced(TreeNode root)
+    public bool IsBalanced2(TreeNode root)
     {
-        if (root == null)
-        {
+        if(root == null)
             return true;
-        }
-        var left = Dfs(root.left,0);
-        var right = Dfs(root.right, 0);
-        if (left - right == 1 || right - left == 1 || right - left == 0)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return Dfs(root).Item1;
     }
-
-    private int Dfs(TreeNode root,int depth)
+    private Tuple<bool,int> Dfs(TreeNode root)  
     {
         if (root == null)
         {
-            return depth - 1;
+            return Tuple.Create(true,0);
         }
-        var left = Dfs(root.left, depth+1);
-        var right = Dfs(root.right, depth+1);
-        return Math.Max(left, right);
+        var left = Dfs(root.left);
+        var right = Dfs(root.right);
+
+        bool isBalanced = left.Item1 && right.Item1 && Math.Abs(left.Item2 - right.Item2) <= 1;
+        
+        return Tuple.Create(isBalanced, Math.Max(left.Item2, right.Item2) + 1);
     }
 }
+//it is not mine solution
+public partial class Solution {
+    public bool IsBalanced(TreeNode root) {
+        if(root==null)
+        {
+            return true;
+        }
 
+        int lh = getHeight(root.left);
+        int rh = getHeight(root.right);
 
-public partial class Solution
-{
-    public int PostOrder(TreeNode root)
+        return Math.Abs(lh-rh)<=1 && IsBalanced(root.left) && IsBalanced(root.right);
+    }
+
+    private int getHeight(TreeNode node)
     {
-        if (root == null)
+        if(node==null)
         {
             return 0;
         }
-        PostOrder(root.right);
-        PostOrder(root.left);
-        Console.WriteLine(root.val);
-        return 0;
+        return Math.Max(getHeight(node.left),getHeight(node.right))+1;
     }
 }
+
 
 
 
