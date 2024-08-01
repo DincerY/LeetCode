@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\bin\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\bin\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\bin\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\bin\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\bin\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\refint\LeetCode.MinimumDepthOfBinaryTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\LeetCode.MinimumDepthOfBinaryTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumDepthOfBinaryTree\obj\Debug\net8.0\ref\LeetCode.MinimumDepthOfBinaryTree.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BalancedBinaryTree")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumDepthOfBinaryTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BalancedBinaryTree")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BalancedBinaryTree")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3fd9c285fed6e3c0c277cc3ca131afd2541188e")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumDepthOfBinaryTree")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumDepthOfBinaryTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

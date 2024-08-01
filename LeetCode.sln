@@ -220,6 +220,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConvertSortedListT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BalancedBinaryTree", "LeetCode.BalancedBinaryTree\LeetCode.BalancedBinaryTree.csproj", "{25844A9F-41F5-4976-889D-B875C58FF507}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumDepthOfBinaryTree", "LeetCode.MinimumDepthOfBinaryTree\LeetCode.MinimumDepthOfBinaryTree.csproj", "{2CD7AC2F-995B-4B9D-8B5F-05BEDCD5D30E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -666,5 +668,9 @@ Global
 		{25844A9F-41F5-4976-889D-B875C58FF507}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25844A9F-41F5-4976-889D-B875C58FF507}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25844A9F-41F5-4976-889D-B875C58FF507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD7AC2F-995B-4B9D-8B5F-05BEDCD5D30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD7AC2F-995B-4B9D-8B5F-05BEDCD5D30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD7AC2F-995B-4B9D-8B5F-05BEDCD5D30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD7AC2F-995B-4B9D-8B5F-05BEDCD5D30E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
