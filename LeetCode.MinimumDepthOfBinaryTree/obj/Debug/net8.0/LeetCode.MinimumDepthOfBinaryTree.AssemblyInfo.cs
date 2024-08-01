@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumDepthOfBinaryTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3fd9c285fed6e3c0c277cc3ca131afd2541188e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c9073b149d79d004a3529d2cb550495fea981b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumDepthOfBinaryTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumDepthOfBinaryTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
