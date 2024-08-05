@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PathSum")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PathSum2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc21b7f5fbac7387bac6bb9da07a8ce1ddec8357")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PathSum")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PathSum")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PathSum2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PathSum2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

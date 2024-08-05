@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.HasPathSum2(new TreeNode(5,
+solution.HasPathSum3(new TreeNode(5,
     new TreeNode(4, new TreeNode(11, new TreeNode(7), new TreeNode(2))),
     new TreeNode(8,new TreeNode(13),new TreeNode(4,null,new TreeNode(1)))),22);
 
