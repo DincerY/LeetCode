@@ -78,3 +78,38 @@ public partial class Solution
         return val;
     }
 }
+
+//It is not mine solution
+public partial class Solution
+{
+    public bool HasPathSum3(TreeNode root, int targetSum)
+    {
+        if (root == null)
+            return false;
+
+        Stack<TreeNode> path = new Stack<TreeNode>();
+        Stack<int> sumPath = new Stack<int>();
+
+        path.Push(root);
+        sumPath.Push(root.val);
+
+        while (path.Count > 0) {
+            TreeNode temp = path.Pop();
+            int tempVal = sumPath.Pop();
+
+            if (temp.left == null && temp.right == null && tempVal == targetSum)
+                return true;
+
+            if (temp.right != null) {
+                path.Push(temp.right);
+                sumPath.Push(temp.right.val + tempVal);
+            }
+
+            if (temp.left != null) {
+                path.Push(temp.left);
+                sumPath.Push(temp.left.val + tempVal);
+            }
+        }
+        return false;
+    }
+}
