@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.PathSum2(new TreeNode(5,
+solution.PathSum3(new TreeNode(5,
     new TreeNode(4, new TreeNode(11, new TreeNode(7), new TreeNode(2))),
     new TreeNode(8, new TreeNode(13), new TreeNode(4, new TreeNode(5), new TreeNode(1)))), 22);
 
@@ -58,8 +58,37 @@ public partial class Solution
         {
             sum += list[i];
         }
+
         return sum;
     }
+
+
+    public IList<IList<int>> PathSum3(TreeNode root, int targetSum)
+        {
+            List<IList<int>> res = new();
+            List<int> list = new();
+            if (root == null)
+            {
+                return res;
+            }
+            Dfs(root,targetSum);
+            void Dfs(TreeNode node, int sum)
+            {
+                if (node == null)
+                {
+                    return;
+                }
+                list.Add(node.val);
+                Dfs(node.left, sum - node.val);
+                Dfs(node.right, sum - node.val);
+                if (sum == node.val && node.left == null && node.right == null)
+                {
+                    res.Add(list.ToList());
+                }
+                list.RemoveAt(list.Count - 1);
+            }
+            return res;
+        }
 }
 
 //it is not mine solution

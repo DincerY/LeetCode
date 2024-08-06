@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\bin\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\bin\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\bin\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\bin\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\bin\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\refint\LeetCode.FlattenBinaryTreeToLinkedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\LeetCode.FlattenBinaryTreeToLinkedList.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FlattenBinaryTreeToLinkedList\obj\Debug\net8.0\ref\LeetCode.FlattenBinaryTreeToLinkedList.dll
