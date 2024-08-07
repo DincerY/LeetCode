@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.FlattenBinaryTreeToLinkedList")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.DistinctSubsequences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+785eb9c89f066f5b7281258fd567339fa11d9946")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.FlattenBinaryTreeToLinkedList")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.FlattenBinaryTreeToLinkedList")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.DistinctSubsequences")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.DistinctSubsequences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

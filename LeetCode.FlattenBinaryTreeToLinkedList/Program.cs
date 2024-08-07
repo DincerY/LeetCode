@@ -38,21 +38,9 @@ public class Solution
         {
             return;
         }
-        var left = Dfs(root.left);
-        var right = Dfs(root.right);
+        root = Dfs(root);
         
-        root.right = left;
-        root.left = null;
-        while (left.right != null)
-        {
-            left = left.right;
-        }
-
-        left.right = right;
-
-
     }
-
     private TreeNode Dfs(TreeNode node)
     {
         if (node == null)
@@ -61,19 +49,60 @@ public class Solution
         }
         Console.WriteLine(node.val);
         var leftNode = Dfs(node.left);
+        var rightNode = Dfs(node.right);
 
-        if (node.left != null && node.right != null)
+        if (leftNode != null)
         {
-            node.left = null;
-            var tempRight = node.right;
-            node.right = leftNode;
-            while (leftNode != null && leftNode.right != null)
+            if (rightNode == null)
             {
-                leftNode = leftNode.right;
+                node.left = null;
+                node.right = leftNode;
             }
-            leftNode.right = tempRight;
-        }
+            else
+            {
+                var temp = node.right;
+                node.left = null;
+                node.right = leftNode;
+                while (leftNode.right != null)
+                {
+                    leftNode = leftNode.right;
+                }
 
+                leftNode.right = rightNode;
+            }
+        }
         return node;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

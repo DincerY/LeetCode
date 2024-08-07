@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PathSum2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f28d2d0b76e251c045c4523a45c8041f4343b5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PathSum2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PathSum2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
