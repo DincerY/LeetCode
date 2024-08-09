@@ -1,11 +1,11 @@
 ﻿Solution solution = new();
 //solution.NumDistinct2("rabbbit", "rabbit");
-//solution.NumDistinct("babgbag", "bag");
+solution.NumDistinct2("babgbag", "bag");
 
 
 
-var a = solution.NumDistinct2("adbdadeecadeadeccaeaabdabdbcdabddddabcaaadbabaaedeeddeaeebcdeabcaaaeeaeeabcddcebddebeebedaecccbdcbcedbdaeaedcdebeecdaaedaacadbdccabddaddacdddc", "bcddceeeebecbc");
-Console.WriteLine(a);
+//var a = solution.NumDistinct2("adbdadeecadeadeccaeaabdabdbcdabddddabcaaadbabaaedeeddeaeebcdeabcaaaeeaeeabcddcebddebeebedaecccbdcbcedbdaeaedcdebeecdaaedaacadbdccabddaddacdddc", "bcddceeeebecbc");
+//Console.WriteLine(a);
 
 
 
@@ -17,7 +17,7 @@ public partial class Solution
     public int NumDistinct(string s, string t)
     {
         int val = 0;  
-        bool isFor = false;
+        bool isFor = false; 
         void Recursion(int idx, int tidx)
         {
             for (int i = idx; i < s.Length; i++)
@@ -74,3 +74,38 @@ public partial class Solution
         return Dfs(0, 0);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

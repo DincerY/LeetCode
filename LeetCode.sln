@@ -230,6 +230,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FlattenBinaryTreeT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DistinctSubsequences", "LeetCode.DistinctSubsequences\LeetCode.DistinctSubsequences.csproj", "{93DC2646-7465-45C7-A2BC-D3E52351E825}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PopulatingNextRightPointersInEachNode", "LeetCode.PopulatingNextRightPointersInEachNode\LeetCode.PopulatingNextRightPointersInEachNode.csproj", "{9AA63388-6731-4125-BC28-25E639E64381}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -696,5 +698,9 @@ Global
 		{93DC2646-7465-45C7-A2BC-D3E52351E825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93DC2646-7465-45C7-A2BC-D3E52351E825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93DC2646-7465-45C7-A2BC-D3E52351E825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA63388-6731-4125-BC28-25E639E64381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA63388-6731-4125-BC28-25E639E64381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA63388-6731-4125-BC28-25E639E64381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA63388-6731-4125-BC28-25E639E64381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
