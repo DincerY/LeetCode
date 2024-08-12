@@ -232,6 +232,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DistinctSubsequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PopulatingNextRightPointersInEachNode", "LeetCode.PopulatingNextRightPointersInEachNode\LeetCode.PopulatingNextRightPointersInEachNode.csproj", "{9AA63388-6731-4125-BC28-25E639E64381}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PopulatingNextRightPointersInEachNode2", "LeetCode.PopulatingNextRightPointersInEachNode2\LeetCode.PopulatingNextRightPointersInEachNode2.csproj", "{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -702,5 +704,9 @@ Global
 		{9AA63388-6731-4125-BC28-25E639E64381}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA63388-6731-4125-BC28-25E639E64381}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA63388-6731-4125-BC28-25E639E64381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

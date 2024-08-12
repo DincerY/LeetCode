@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-//solution.NumDistinct2("rabbbit", "rabbit");
-solution.NumDistinct2("babgbag", "bag");
+solution.NumDistinct2("rabbbit", "rabbit");
+//solution.NumDistinct2("babgbag", "bag");
 
 
 
