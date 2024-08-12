@@ -234,6 +234,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PopulatingNextRigh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PopulatingNextRightPointersInEachNode2", "LeetCode.PopulatingNextRightPointersInEachNode2\LeetCode.PopulatingNextRightPointersInEachNode2.csproj", "{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PascalsTriangle", "LeetCode.PascalsTriangle\LeetCode.PascalsTriangle.csproj", "{89FECBBE-D44F-4162-B88C-1BAB6A20C67C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -708,5 +710,9 @@ Global
 		{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FECBBE-D44F-4162-B88C-1BAB6A20C67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FECBBE-D44F-4162-B88C-1BAB6A20C67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FECBBE-D44F-4162-B88C-1BAB6A20C67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FECBBE-D44F-4162-B88C-1BAB6A20C67C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
