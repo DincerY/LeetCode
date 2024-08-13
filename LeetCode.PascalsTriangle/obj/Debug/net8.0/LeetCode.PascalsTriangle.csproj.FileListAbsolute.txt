@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\bin\Debug\net8.0\LeetCode.PascalsTriangle.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\bin\Debug\net8.0\LeetCode.PascalsTriangle.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\bin\Debug\net8.0\LeetCode.PascalsTriangle.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\bin\Debug\net8.0\LeetCode.PascalsTriangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\bin\Debug\net8.0\LeetCode.PascalsTriangle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\refint\LeetCode.PascalsTriangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\LeetCode.PascalsTriangle.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PascalsTriangle\obj\Debug\net8.0\ref\LeetCode.PascalsTriangle.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PascalsTriangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43bce2a8508d77c61247ce595ad9b156bfadf39a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PascalsTriangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PascalsTriangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
