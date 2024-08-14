@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.Triangle/1.0.0": {
+        "runtime": {
+          "LeetCode.Triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.Triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

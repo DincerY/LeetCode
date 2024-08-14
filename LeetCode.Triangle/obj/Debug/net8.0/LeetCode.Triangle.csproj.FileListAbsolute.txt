@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\bin\Debug\net8.0\LeetCode.Triangle.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\bin\Debug\net8.0\LeetCode.Triangle.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\bin\Debug\net8.0\LeetCode.Triangle.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\bin\Debug\net8.0\LeetCode.Triangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\bin\Debug\net8.0\LeetCode.Triangle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\refint\LeetCode.Triangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\LeetCode.Triangle.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.Triangle\obj\Debug\net8.0\ref\LeetCode.Triangle.dll
