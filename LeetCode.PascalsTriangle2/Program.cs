@@ -1,22 +1,21 @@
 ﻿Solution solution = new Solution();
-solution.GetRow(3);
+solution.GetRow2(3);
 
 
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public IList<int> GetRow(int rowIndex)
     {
         return Generate(rowIndex);
     }
-
     private IList<int> Generate(int rowIndex)
     {
         int rowCount = rowIndex + 1;
-        int[][] res = new int[rowCount][];
-        res[0] = [1];
+        int[] res = new int[rowCount];
+        res = [1];
         for (int i = 1; i < rowCount; i++)
         {
             int[] row = new int[i + 1];
@@ -28,13 +27,28 @@ public class Solution
                 }
                 else
                 {
-                    row[j] = res[i - 1][j - 1] + res[i - 1][j];
+                    row[j] = res[j - 1] + res[j];
                 }
             }
-
-            res[i] = row;
+            res = row;
         }
+        return res;
+    }
+}
 
-        return res[^1];
+//It is not mine solution
+public partial class Solution {
+    public IList<int> GetRow2(int rowIndex) {
+        List<int> res = new List<int> { 1 };
+        
+        for (int i = 0; i < rowIndex; i++) {
+            List<int> nextRow = new List<int>(new int[res.Count + 1]);
+            for (int j = 0; j < res.Count; j++) {
+                nextRow[j] += res[j];
+                nextRow[j + 1] += res[j];
+            }
+            res = nextRow;
+        }
+        return res;
     }
 }
