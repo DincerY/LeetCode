@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.MinimumTotal(new List<IList<int>>()
+solution.MinimumTotal2(new List<IList<int>>()
 {
     new List<int>(){2},
     new List<int>(){3,4},
@@ -11,7 +11,7 @@ solution.MinimumTotal(new List<IList<int>>()
 Console.WriteLine("Hello, World!");
 
 
-public class Solution {
+public partial class Solution {
     public int MinimumTotal(IList<IList<int>> triangle)
     {
         if (triangle.Count == 1)
@@ -35,3 +35,21 @@ public class Solution {
         return res;
     }
 }
+
+//it is not mine solution
+public partial class Solution {
+    public int MinimumTotal2 (IList<IList<int>> triangle) {
+        if (triangle.Count == 1)
+        {
+            return triangle[0][0];
+        }
+        int[] dp = new int[triangle.Count + 1];
+        for (int row = triangle.Count - 1; row >= 0; row--) {
+            for (int i = 0; i < triangle[row].Count; i++) {
+                dp[i] = triangle[row][i] + Math.Min(dp[i], dp[i + 1]);
+            }
+        }
+        return dp[0];
+    }
+}
+
