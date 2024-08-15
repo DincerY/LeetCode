@@ -240,6 +240,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PascalsTriangle2",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Triangle", "LeetCode.Triangle\LeetCode.Triangle.csproj", "{22CB63FF-CCEA-4236-B868-82D0E5EB85F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock", "LeetCode.BestTimeToBuyAndSellStock\LeetCode.BestTimeToBuyAndSellStock.csproj", "{CA8DE726-C378-4827-841B-68D02FD4EA4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -726,5 +728,9 @@ Global
 		{22CB63FF-CCEA-4236-B868-82D0E5EB85F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22CB63FF-CCEA-4236-B868-82D0E5EB85F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22CB63FF-CCEA-4236-B868-82D0E5EB85F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8DE726-C378-4827-841B-68D02FD4EA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8DE726-C378-4827-841B-68D02FD4EA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8DE726-C378-4827-841B-68D02FD4EA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8DE726-C378-4827-841B-68D02FD4EA4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
