@@ -244,6 +244,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock2", "LeetCode.BestTimeToBuyAndSellStock2\LeetCode.BestTimeToBuyAndSellStock2.csproj", "{23912B6D-E78C-4866-816A-EC0DFD7BA4DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock3", "LeetCode.BestTimeToBuyAndSellStock3\LeetCode.BestTimeToBuyAndSellStock3.csproj", "{72A50014-907E-4621-9B2E-544D39F8A0F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -738,5 +740,9 @@ Global
 		{23912B6D-E78C-4866-816A-EC0DFD7BA4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23912B6D-E78C-4866-816A-EC0DFD7BA4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23912B6D-E78C-4866-816A-EC0DFD7BA4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A50014-907E-4621-9B2E-544D39F8A0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A50014-907E-4621-9B2E-544D39F8A0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A50014-907E-4621-9B2E-544D39F8A0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A50014-907E-4621-9B2E-544D39F8A0F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
