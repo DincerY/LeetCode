@@ -1,14 +1,14 @@
 ﻿Solution solution = new();
-//solution.MaxProfit(new[] { 7, 1, 5, 3, 6, 4 });
+solution.MaxProfit2(new[] { 7, 1, 5, 3, 6, 4 });
 //solution.MaxProfit(new[] { 1,2,3,4,5 });
 //solution.MaxProfit(new[] { 7, 6, 4, 3, 1 });
-solution.MaxProfit(new[] { 1, 7, 4, 2 });
+//solution.MaxProfit(new[] { 1, 7, 4, 2 });
 
 
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public int MaxProfit(int[] prices)
     {
@@ -46,6 +46,24 @@ public class Solution
             return 0;
         }
 
+        return profit;
+    }
+}
+
+//it is not mine solution
+public partial class Solution
+{
+    public int MaxProfit2(int[] prices)
+    {
+        int profit = 0;
+
+        for (int i = 1; i < prices.Length; i++)
+        {
+            if (prices[i] > prices[i - 1])
+            {
+                profit += (prices[i] - prices[i - 1]);
+            }
+        }
         return profit;
     }
 }
