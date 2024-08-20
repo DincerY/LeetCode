@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BinaryTreeMaximumPathSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f828132ab46771af3a81bd6aafc1a26a6db48e64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+151db822b125bd9fa96db162a99f74f46fb81f3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BinaryTreeMaximumPathSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BinaryTreeMaximumPathSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
