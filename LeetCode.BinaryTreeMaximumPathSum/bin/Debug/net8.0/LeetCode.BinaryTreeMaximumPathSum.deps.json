@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.BinaryTreeMaximumPathSum/1.0.0": {
+        "runtime": {
+          "LeetCode.BinaryTreeMaximumPathSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.BinaryTreeMaximumPathSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

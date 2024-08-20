@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\bin\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\bin\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\bin\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\bin\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\bin\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\refint\LeetCode.BinaryTreeMaximumPathSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\LeetCode.BinaryTreeMaximumPathSum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeMaximumPathSum\obj\Debug\net8.0\ref\LeetCode.BinaryTreeMaximumPathSum.dll
