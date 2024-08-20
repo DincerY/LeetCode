@@ -1,12 +1,11 @@
 ﻿Solution solution = new();
 //solution.MaxProfit(new[] { 3, 3, 5, 0, 0, 3, 1, 4 });
-//solution.MaxProfit(new[] { 1,2,3,4,5 });
-//solution.MaxProfit(new[] { 7, 6, 4, 3, 1 });
-solution.MaxProfit(new[] { 2, 1, 4 });
+solution.MaxProfit(new[] { 1, 2, 4, 2, 5, 7, 2, 4, 9, 0 });
 
 
 Console.WriteLine("Hello, World!");
 
+//it is not accepted
 public class Solution
 {
     public int MaxProfit(int[] prices)
@@ -16,33 +15,25 @@ public class Solution
             return 0;
         }
 
-        int left = 0;
-        int right = 1;
         List<int> list = new();
+        int profit = 0;
 
-        while (right < prices.Length)
+        for (int i = 1; i < prices.Length; i++)
         {
-            if (right != prices.Length - 1)
+            if (prices[i] > prices[i - 1])
             {
-                if (prices[left] < prices[right] && prices[right] > prices[right + 1])
-                {
-                    list.Add(prices[right] - prices[left]);
-                    left = right + 1;
-                    right = left + 1;
-                }
-                else
-                {
-                    right++;
-                }
+                profit += prices[i] - prices[i - 1];
             }
             else
             {
-                if (right - left > 0)
-                {
-                    list.Add(prices[right] - prices[left]);
-                    break;
-                }
+                list.Add(profit);
+                profit = 0;
             }
+        }
+
+        if (profit != 0)
+        {
+            list.Add(profit);
         }
 
         var arr = list.ToArray();
