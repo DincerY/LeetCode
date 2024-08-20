@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\bin\Debug\net8.0\LeetCode.ValidPalindrome.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\bin\Debug\net8.0\LeetCode.ValidPalindrome.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\bin\Debug\net8.0\LeetCode.ValidPalindrome.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\bin\Debug\net8.0\LeetCode.ValidPalindrome.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\bin\Debug\net8.0\LeetCode.ValidPalindrome.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\refint\LeetCode.ValidPalindrome.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\LeetCode.ValidPalindrome.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidPalindrome\obj\Debug\net8.0\ref\LeetCode.ValidPalindrome.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BinaryTreeMaximumPathSum")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ValidPalindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853fefe0e91491df5a47154ec58d34191a64b6b6")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BinaryTreeMaximumPathSum")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BinaryTreeMaximumPathSum")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ValidPalindrome")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ValidPalindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
