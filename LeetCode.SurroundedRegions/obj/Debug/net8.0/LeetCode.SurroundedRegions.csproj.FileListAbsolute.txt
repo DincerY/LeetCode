@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\bin\Debug\net8.0\LeetCode.SurroundedRegions.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\bin\Debug\net8.0\LeetCode.SurroundedRegions.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\bin\Debug\net8.0\LeetCode.SurroundedRegions.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\bin\Debug\net8.0\LeetCode.SurroundedRegions.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\bin\Debug\net8.0\LeetCode.SurroundedRegions.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\refint\LeetCode.SurroundedRegions.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\LeetCode.SurroundedRegions.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SurroundedRegions\obj\Debug\net8.0\ref\LeetCode.SurroundedRegions.dll

@@ -254,6 +254,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestConsecutive
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SumRootToLeafNumbers", "LeetCode.SumRootToLeafNumbers\LeetCode.SumRootToLeafNumbers.csproj", "{12DA8232-F3A5-42CE-8CF9-60595E32370E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SurroundedRegions", "LeetCode.SurroundedRegions\LeetCode.SurroundedRegions.csproj", "{69CF0CD7-513E-41D3-BD6A-489DC2AFE6DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -768,5 +770,9 @@ Global
 		{12DA8232-F3A5-42CE-8CF9-60595E32370E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12DA8232-F3A5-42CE-8CF9-60595E32370E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12DA8232-F3A5-42CE-8CF9-60595E32370E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CF0CD7-513E-41D3-BD6A-489DC2AFE6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CF0CD7-513E-41D3-BD6A-489DC2AFE6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CF0CD7-513E-41D3-BD6A-489DC2AFE6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CF0CD7-513E-41D3-BD6A-489DC2AFE6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
