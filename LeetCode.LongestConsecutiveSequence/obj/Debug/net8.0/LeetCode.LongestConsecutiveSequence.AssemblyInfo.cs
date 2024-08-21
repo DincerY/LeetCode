@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BinaryTreeMaximumPathSum")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LongestConsecutiveSequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BinaryTreeMaximumPathSum")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BinaryTreeMaximumPathSum")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52ae0943b0383878bd30d427fa8e205164918e8e")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LongestConsecutiveSequence")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LongestConsecutiveSequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

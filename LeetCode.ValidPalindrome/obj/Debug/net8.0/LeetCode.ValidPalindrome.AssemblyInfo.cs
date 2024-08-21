@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ValidPalindrome")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853fefe0e91491df5a47154ec58d34191a64b6b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52ae0943b0383878bd30d427fa8e205164918e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ValidPalindrome")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ValidPalindrome")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
