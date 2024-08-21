@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SumRootToLeafNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92d14053d1b6a1aa530bde5f9db14a6723bd0921")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+790f41106ca894196f6c4264b5d25805135e2680")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SumRootToLeafNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SumRootToLeafNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
