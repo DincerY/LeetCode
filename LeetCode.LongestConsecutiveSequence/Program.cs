@@ -8,7 +8,7 @@ solution.LongestConsecutive(new[] { 1, 2, 0, 1 });
 
 Console.WriteLine("Hello, World!");
 
-public class Solution
+public partial class Solution
 {
     public int LongestConsecutive(int[] nums)
     {

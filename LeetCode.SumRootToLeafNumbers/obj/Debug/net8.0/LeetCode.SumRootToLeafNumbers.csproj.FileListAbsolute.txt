@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\bin\Debug\net8.0\LeetCode.SumRootToLeafNumbers.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\bin\Debug\net8.0\LeetCode.SumRootToLeafNumbers.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\bin\Debug\net8.0\LeetCode.SumRootToLeafNumbers.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\bin\Debug\net8.0\LeetCode.SumRootToLeafNumbers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\bin\Debug\net8.0\LeetCode.SumRootToLeafNumbers.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\refint\LeetCode.SumRootToLeafNumbers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\LeetCode.SumRootToLeafNumbers.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumRootToLeafNumbers\obj\Debug\net8.0\ref\LeetCode.SumRootToLeafNumbers.dll
