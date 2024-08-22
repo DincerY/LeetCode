@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\bin\Debug\net8.0\LeetCode.PalindromePartitioning.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\bin\Debug\net8.0\LeetCode.PalindromePartitioning.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\bin\Debug\net8.0\LeetCode.PalindromePartitioning.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\bin\Debug\net8.0\LeetCode.PalindromePartitioning.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\bin\Debug\net8.0\LeetCode.PalindromePartitioning.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\refint\LeetCode.PalindromePartitioning.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\LeetCode.PalindromePartitioning.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning\obj\Debug\net8.0\ref\LeetCode.PalindromePartitioning.dll
