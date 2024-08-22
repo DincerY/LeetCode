@@ -1,24 +1,47 @@
 ﻿Solution solution = new();
-solution.Partition("aab");
+solution.Partition("abcd");
 
 
 Console.WriteLine("Hello, World!");
 
-
-public class Solution {
+//it is not mine solution
+public class Solution
+{
     public IList<IList<string>> Partition(string s)
     {
-        List<string> list = new List<string>();
-
-        for (int i = 0; i < s.Length; i++)
+        var res = new List<IList<string>>();
+        var part = new List<string>();
+        void Dfs(int i)
         {
-            for (int j = i + 1; j <= s.Length; j++)
+            if (i >= s.Length)
             {
-                list.Add(s.Substring(i, j - i));
+                res.Add(new List<string>(part));
+                return;
+            }
+            for (int j = i; j < s.Length; j++)
+            {
+                if (IsPali(s, i, j))
+                {
+                    part.Add(s.Substring(i, j - i + 1));
+                    Dfs(j + 1);
+                    part.RemoveAt(part.Count - 1);
+                }
             }
         }
-        
-
-        return null;
+        Dfs(0);
+        return res;
+    }
+    private bool IsPali(string s, int l, int r)
+    {
+        while (l < r)
+        {
+            if (s[l] != s[r])
+            {
+                return false;
+            }
+            l++;
+            r--;
+        }
+        return true;
     }
 }
