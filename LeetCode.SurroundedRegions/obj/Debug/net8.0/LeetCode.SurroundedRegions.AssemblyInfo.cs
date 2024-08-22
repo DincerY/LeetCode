@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SurroundedRegions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc682de799b9b8feefd34cc2fde567cf477a0ac5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac533aed85fcf5cf8677380b8b3f556eb20d4134")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SurroundedRegions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SurroundedRegions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
