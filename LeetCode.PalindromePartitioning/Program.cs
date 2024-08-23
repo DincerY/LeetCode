@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.Partition("abcd");
+solution.Partition("aab");
 
 
 Console.WriteLine("Hello, World!");
