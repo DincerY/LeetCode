@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\bin\Debug\net8.0\LeetCode.PalindromePartitioning2.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\bin\Debug\net8.0\LeetCode.PalindromePartitioning2.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\bin\Debug\net8.0\LeetCode.PalindromePartitioning2.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\bin\Debug\net8.0\LeetCode.PalindromePartitioning2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\bin\Debug\net8.0\LeetCode.PalindromePartitioning2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\refint\LeetCode.PalindromePartitioning2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\LeetCode.PalindromePartitioning2.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromePartitioning2\obj\Debug\net8.0\ref\LeetCode.PalindromePartitioning2.dll

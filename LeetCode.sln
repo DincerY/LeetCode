@@ -258,6 +258,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SurroundedRegions"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromePartitioning", "LeetCode.PalindromePartitioning\LeetCode.PalindromePartitioning.csproj", "{2C6DB5AD-FDB8-40CD-BF1B-8F469BBCD159}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromePartitioning2", "LeetCode.PalindromePartitioning2\LeetCode.PalindromePartitioning2.csproj", "{31047400-55F7-4FEC-B31C-A76660457C2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -780,5 +782,9 @@ Global
 		{2C6DB5AD-FDB8-40CD-BF1B-8F469BBCD159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C6DB5AD-FDB8-40CD-BF1B-8F469BBCD159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C6DB5AD-FDB8-40CD-BF1B-8F469BBCD159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31047400-55F7-4FEC-B31C-A76660457C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31047400-55F7-4FEC-B31C-A76660457C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31047400-55F7-4FEC-B31C-A76660457C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31047400-55F7-4FEC-B31C-A76660457C2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
