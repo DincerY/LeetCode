@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PalindromePartitioning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37d9e892dd42a2c52cfcedaa8ee3eb0bc2b6b605")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PalindromePartitioning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PalindromePartitioning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
