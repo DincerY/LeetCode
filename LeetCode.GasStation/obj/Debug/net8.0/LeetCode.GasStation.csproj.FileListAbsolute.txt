@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\bin\Debug\net8.0\LeetCode.GasStation.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\bin\Debug\net8.0\LeetCode.GasStation.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\bin\Debug\net8.0\LeetCode.GasStation.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\bin\Debug\net8.0\LeetCode.GasStation.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\bin\Debug\net8.0\LeetCode.GasStation.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\refint\LeetCode.GasStation.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\LeetCode.GasStation.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GasStation\obj\Debug\net8.0\ref\LeetCode.GasStation.dll
