@@ -11,40 +11,39 @@ solution.CanCompleteCircuit(new []
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public int CanCompleteCircuit(int[] gas, int[] cost)
     {
-        int startIdx = 0;
-        int tank = 0;
+        if (Sum(gas) < Sum(cost))
+        {
+            return -1;
+        }
+        
+        int total = 0;
+        int res = 0;
+        
         for (int i = 0; i < gas.Length; i++)
         {
-            if (gas[i] > cost[i])
+            total += (gas[i] - cost[i]);
+            
+            if (total < 0)
             {
-                startIdx = i;
-                break;
+                total = 0;
+                res = i + 1;
             }
         }
+        
+        return res;
+    }
 
-        int j = 0;
-        tank += gas[startIdx];
-        startIdx++;
-        while (j != startIdx)
+    private int Sum(int[] array)
+    {
+        int sum = 0;
+        foreach (var item in array)
         {
-            if (startIdx >= gas.Length )
-            {
-                j = 0;
-            }
-
-            tank -= cost[startIdx];
-            if (tank < 0)
-            {
-                break;
-            }
-            tank += gas[startIdx];
-
-            j++;
+            sum += item;
         }
-        return startIdx;
+        return sum;
     }
 }

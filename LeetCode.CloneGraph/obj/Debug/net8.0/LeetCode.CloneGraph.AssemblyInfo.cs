@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CloneGraph")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e1b59c0d9c5ef3f7720387dc4e2a4de3416243b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CloneGraph")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CloneGraph")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
