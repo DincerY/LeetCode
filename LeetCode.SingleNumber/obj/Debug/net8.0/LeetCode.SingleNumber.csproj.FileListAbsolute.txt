@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\bin\Debug\net8.0\LeetCode.SingleNumber.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\bin\Debug\net8.0\LeetCode.SingleNumber.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\bin\Debug\net8.0\LeetCode.SingleNumber.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\bin\Debug\net8.0\LeetCode.SingleNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\bin\Debug\net8.0\LeetCode.SingleNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\refint\LeetCode.SingleNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\LeetCode.SingleNumber.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SingleNumber\obj\Debug\net8.0\ref\LeetCode.SingleNumber.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.GasStation")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SingleNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.GasStation")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.GasStation")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dc4badaa2d1d2c6a2aa53a1202b159f02902d32")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SingleNumber")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SingleNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
