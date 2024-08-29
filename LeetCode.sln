@@ -266,6 +266,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GasStation", "Leet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SingleNumber", "LeetCode.SingleNumber\LeetCode.SingleNumber.csproj", "{B6E69D72-8742-42A0-B05E-01E3D2125ECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SingleNumber2", "LeetCode.SingleNumber2\LeetCode.SingleNumber2.csproj", "{27C7BBE4-8560-4A22-A293-954FDB63ADCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -804,5 +806,9 @@ Global
 		{B6E69D72-8742-42A0-B05E-01E3D2125ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6E69D72-8742-42A0-B05E-01E3D2125ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6E69D72-8742-42A0-B05E-01E3D2125ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C7BBE4-8560-4A22-A293-954FDB63ADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C7BBE4-8560-4A22-A293-954FDB63ADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C7BBE4-8560-4A22-A293-954FDB63ADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C7BBE4-8560-4A22-A293-954FDB63ADCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
