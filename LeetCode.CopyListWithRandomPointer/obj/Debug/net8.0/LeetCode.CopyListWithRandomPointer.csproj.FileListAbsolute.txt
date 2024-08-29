@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\bin\Debug\net8.0\LeetCode.CopyListWithRandomPointer.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\bin\Debug\net8.0\LeetCode.CopyListWithRandomPointer.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\bin\Debug\net8.0\LeetCode.CopyListWithRandomPointer.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\bin\Debug\net8.0\LeetCode.CopyListWithRandomPointer.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\bin\Debug\net8.0\LeetCode.CopyListWithRandomPointer.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\refint\LeetCode.CopyListWithRandomPointer.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\LeetCode.CopyListWithRandomPointer.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CopyListWithRandomPointer\obj\Debug\net8.0\ref\LeetCode.CopyListWithRandomPointer.dll
