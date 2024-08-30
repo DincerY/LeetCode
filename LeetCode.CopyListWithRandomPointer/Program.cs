@@ -1,5 +1,7 @@
 ﻿Solution solution = new();
-solution.CopyRandomList(new Node(7).next = new Node(13));
+Node headNode = new Node(7);
+headNode.next = new Node(15).next = new Node(17);
+solution.CopyRandomList(headNode);
 
 
 Console.WriteLine("Hello, World!");
@@ -19,7 +21,7 @@ public class Node
     }
 }
 
-
+//i could not solve it
 public class Solution
 {
     public Node CopyRandomList(Node head)

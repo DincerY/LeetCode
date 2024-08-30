@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CopyListWithRandomPointer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f18d24df55393b8a6624b9aa3cf250a9478cba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29843be02d0a7460a00432ba62ff3a25b2ce5101")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CopyListWithRandomPointer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CopyListWithRandomPointer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
