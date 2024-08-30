@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\bin\Debug\net8.0\LeetCode.WordBreak.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\bin\Debug\net8.0\LeetCode.WordBreak.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\bin\Debug\net8.0\LeetCode.WordBreak.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\bin\Debug\net8.0\LeetCode.WordBreak.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\bin\Debug\net8.0\LeetCode.WordBreak.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\refint\LeetCode.WordBreak.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\LeetCode.WordBreak.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.WordBreak\obj\Debug\net8.0\ref\LeetCode.WordBreak.dll

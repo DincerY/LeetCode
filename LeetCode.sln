@@ -270,6 +270,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SingleNumber2", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CopyListWithRandomPointer", "LeetCode.CopyListWithRandomPointer\LeetCode.CopyListWithRandomPointer.csproj", "{E5A1C4FF-9EB8-4EDE-B0C5-E7B0B7503479}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordBreak", "LeetCode.WordBreak\LeetCode.WordBreak.csproj", "{3F196A2B-2C87-45EA-B977-398E4A876E70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -816,5 +818,9 @@ Global
 		{E5A1C4FF-9EB8-4EDE-B0C5-E7B0B7503479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5A1C4FF-9EB8-4EDE-B0C5-E7B0B7503479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5A1C4FF-9EB8-4EDE-B0C5-E7B0B7503479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F196A2B-2C87-45EA-B977-398E4A876E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F196A2B-2C87-45EA-B977-398E4A876E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F196A2B-2C87-45EA-B977-398E4A876E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F196A2B-2C87-45EA-B977-398E4A876E70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
