@@ -1,47 +1,37 @@
 ﻿Solution solution = new();
 //solution.WordBreak("leetcode", new List<string>() { "leet", "code" });
-solution.WordBreak("catsandog", new List<string>() { "cats", "dog", "sand", "and", "cat" });
-solution.WordBreak("applepenapple", new List<string>() { "apple", "pen" });
+//solution.WordBreak("catsandog", new List<string>() { "cats", "dog", "sand", "and", "cat" });
+//solution.WordBreak("applepenapple", new List<string>() { "apple", "pen" });
+//solution.WordBreak("cars", new List<string>() { "car", "ca","rs" });
+solution.WordBreak("leetcode", new List<string>() { "le", "et","co","de" });
 
 
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public bool WordBreak(string s, IList<string> wordDict)
     {
-        foreach (var word in wordDict)
+        bool[] dp = new bool[s.Length + 1];
+        dp[^1] = true;
+
+        for (int i = s.Length - 1; i >= 0; i--)
         {
-            var idx = s.IndexOf(word);
-            if (idx >= 0)
+            foreach (var w in wordDict)
             {
-                if (idx != 0)
+                if (i + w.Length <= s.Length && s.Substring(i, w.Length) == w)
                 {
-                    s = s.Substring(0, s.Length - word.Length);
+                    dp[i] = dp[i + w.Length];
                 }
-                else
+
+                if (dp[i])
                 {
-                    s = s.Substring(idx + word.Length);
+                    break;
                 }
             }
         }
-
-        if (s == "")
-        {
-            return true;
-        }
-        else
-        {
-            foreach (var word in wordDict)
-            {
-                if (s.Contains(word))
-                {
-                    return true;
-                }
-            }
-        }
-
-        return false;
+        
+        return dp[0];
     }
 }
