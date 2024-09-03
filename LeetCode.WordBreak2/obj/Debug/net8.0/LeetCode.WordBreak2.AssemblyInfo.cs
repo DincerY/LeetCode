@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.WordBreak2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f10d52ef9b8a39b83aab7fa26a748e65b562a60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a529e5f8a476d229b6bff5836b656e5665f6f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.WordBreak2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.WordBreak2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
