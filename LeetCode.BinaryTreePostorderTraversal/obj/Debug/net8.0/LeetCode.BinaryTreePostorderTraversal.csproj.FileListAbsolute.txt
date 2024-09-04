@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\bin\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\refint\LeetCode.BinaryTreePostorderTraversal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\LeetCode.BinaryTreePostorderTraversal.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreePostorderTraversal\obj\Debug\net8.0\ref\LeetCode.BinaryTreePostorderTraversal.dll
