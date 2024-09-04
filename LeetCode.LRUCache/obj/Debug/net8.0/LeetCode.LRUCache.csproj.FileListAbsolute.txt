@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\bin\Debug\net8.0\LeetCode.LRUCache.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\bin\Debug\net8.0\LeetCode.LRUCache.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\bin\Debug\net8.0\LeetCode.LRUCache.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\bin\Debug\net8.0\LeetCode.LRUCache.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\bin\Debug\net8.0\LeetCode.LRUCache.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\refint\LeetCode.LRUCache.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\LeetCode.LRUCache.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LRUCache\obj\Debug\net8.0\ref\LeetCode.LRUCache.dll

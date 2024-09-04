@@ -282,6 +282,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreePreorder
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreePostorderTraversal", "LeetCode.BinaryTreePostorderTraversal\LeetCode.BinaryTreePostorderTraversal.csproj", "{1B4BFA26-DE4F-4B98-963A-C7A73597800E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LRUCache", "LeetCode.LRUCache\LeetCode.LRUCache.csproj", "{19626F52-A480-49E8-A4DD-975F8D543EF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -852,5 +854,9 @@ Global
 		{1B4BFA26-DE4F-4B98-963A-C7A73597800E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4BFA26-DE4F-4B98-963A-C7A73597800E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B4BFA26-DE4F-4B98-963A-C7A73597800E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19626F52-A480-49E8-A4DD-975F8D543EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19626F52-A480-49E8-A4DD-975F8D543EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19626F52-A480-49E8-A4DD-975F8D543EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19626F52-A480-49E8-A4DD-975F8D543EF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
