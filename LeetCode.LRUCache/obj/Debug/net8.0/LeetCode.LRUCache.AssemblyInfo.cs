@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LRUCache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1a3a780a9b1a235eb4d7ae0b6fd8601758cd14c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e48ff4fb3a39226c8fb42d7cb42f158181477be")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LRUCache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LRUCache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
