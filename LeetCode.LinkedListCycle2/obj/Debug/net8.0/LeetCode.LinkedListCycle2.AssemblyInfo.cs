@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LinkedListCycle2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b96c24d80dc96267b61bb3e7937dbd6e8966881")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7da0483a08ac52f7ebd03a49edb7b93568887e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LinkedListCycle2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LinkedListCycle2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
