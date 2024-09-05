@@ -286,6 +286,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LRUCache", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.InsertionSortList", "LeetCode.InsertionSortList\LeetCode.InsertionSortList.csproj", "{34FE7463-3C27-47F1-B340-9D446E87E782}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SortList", "LeetCode.SortList\LeetCode.SortList.csproj", "{6468DDB4-4FA5-4D8B-9A26-3481EC1E1422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -864,5 +866,9 @@ Global
 		{34FE7463-3C27-47F1-B340-9D446E87E782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34FE7463-3C27-47F1-B340-9D446E87E782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34FE7463-3C27-47F1-B340-9D446E87E782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6468DDB4-4FA5-4D8B-9A26-3481EC1E1422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6468DDB4-4FA5-4D8B-9A26-3481EC1E1422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6468DDB4-4FA5-4D8B-9A26-3481EC1E1422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6468DDB4-4FA5-4D8B-9A26-3481EC1E1422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

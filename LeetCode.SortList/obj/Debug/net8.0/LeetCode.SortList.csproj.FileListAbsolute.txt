@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\bin\Debug\net8.0\LeetCode.SortList.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\bin\Debug\net8.0\LeetCode.SortList.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\bin\Debug\net8.0\LeetCode.SortList.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\bin\Debug\net8.0\LeetCode.SortList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\bin\Debug\net8.0\LeetCode.SortList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\refint\LeetCode.SortList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\LeetCode.SortList.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SortList\obj\Debug\net8.0\ref\LeetCode.SortList.dll
