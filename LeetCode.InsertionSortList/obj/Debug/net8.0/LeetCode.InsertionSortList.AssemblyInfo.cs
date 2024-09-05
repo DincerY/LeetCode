@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BinaryTreePreorderTraversal")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.InsertionSortList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BinaryTreePreorderTraversal")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BinaryTreePreorderTraversal")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8be273980453537408fa8bc100d831f7cefdefca")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.InsertionSortList")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.InsertionSortList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

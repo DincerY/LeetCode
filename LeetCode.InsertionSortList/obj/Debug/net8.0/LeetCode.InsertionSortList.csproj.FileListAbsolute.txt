@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\bin\Debug\net8.0\LeetCode.InsertionSortList.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\bin\Debug\net8.0\LeetCode.InsertionSortList.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\bin\Debug\net8.0\LeetCode.InsertionSortList.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\bin\Debug\net8.0\LeetCode.InsertionSortList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\bin\Debug\net8.0\LeetCode.InsertionSortList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\refint\LeetCode.InsertionSortList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\LeetCode.InsertionSortList.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InsertionSortList\obj\Debug\net8.0\ref\LeetCode.InsertionSortList.dll
