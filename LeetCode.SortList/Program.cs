@@ -1,6 +1,7 @@
 ﻿Solution solution = new();
 solution.SortList(new ListNode(4, new ListNode(2, new ListNode(1, new ListNode(3)))));
-solution.MergeSort(new int[] { 3, 7, 8, 5, 4, 2, 6, 1 },0, 7);
+int[] arr = new[] { 3, 7, 8, 5, 4, 2, 6,1 };
+solution.MergeSort(arr);
 
 
 Console.WriteLine("Hello, World!");
@@ -26,67 +27,57 @@ public partial class Solution
     }
 }
 
-
+//MergeSort Example
 public partial class Solution
 {
-    public void MergeSort(int[] arr, int l, int r)
+    public void MergeSort(int[] arr)
     {
-        if (l < r)
+        if (arr.Length == 1)
         {
-            int m = l + (r - l) / 2;
-            MergeSort(arr, l, m);
-            MergeSort(arr, m + 1, r);
-
-            Merge(arr, l, m, r);
+            return;
         }
+
+        int mid = arr.Length / 2;
+        int[] left = arr.Take(mid).ToArray();
+        int[] right = arr.Skip(mid).ToArray();
+        MergeSort(left);
+        MergeSort(right);
+        
+        Merge(arr,left, right);
+        
     }
 
-    private void Merge(int[] arr, int l, int m, int r)
+    private void Merge(int[] arr,int[] leftArr, int[] rightArr)
     {
-        int n1 = m - l + 1;
-        int n2 = r - m;
-
-        int[] left = new int[n1];
-        int[] right = new int[n2];
-        int i, j;
-
-        for (i = 0; i < n1; i++)
+        int i = 0 ,l = 0 ,r = 0;
+        while (r < rightArr.Length && l < leftArr.Length)
         {
-            left[i] = arr[l + i];
-        }
-
-        for (j = 0; j < n2; j++)
-        {
-            right[j] = arr[m + 1 + j];
-        }
-
-        i = 0;
-        j = 0;
-
-        int k = l;
-        while (i < n1 && j < n2)
-        {
-            if (left[i] <= right[j])
+            if (leftArr[l] < rightArr[r])
             {
-                arr[k] = left[i];
+                arr[i] = leftArr[l];
+                l++;
                 i++;
             }
             else
             {
-                arr[k] = right[j];
-                j++;
+                arr[i] = rightArr[r];
+                r++;
+                i++;
             }
-            k++;
         }
-        while (i < n1) {
-            arr[k] = left[i];
+
+        while (l < leftArr.Length)
+        {
+            arr[i] = leftArr[l];
+            l++;
             i++;
-            k++;
         }
-        while (j < n2) {
-            arr[k] = right[j];
-            j++;
-            k++;
+
+        while (r < rightArr.Length)
+        {
+            arr[i] = rightArr[r];
+            r++;
+            i++;
         }
     }
 }
