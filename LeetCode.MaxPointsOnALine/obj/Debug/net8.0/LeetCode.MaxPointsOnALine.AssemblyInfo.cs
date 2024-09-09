@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaxPointsOnALine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9066db164eb4752c59d5f204ff2de0207a08e491")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff31c5e0ee58ea2948ab13bd451c3b29aa76b8ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaxPointsOnALine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaxPointsOnALine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
