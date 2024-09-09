@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\bin\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\bin\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\bin\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\bin\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\bin\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\refint\LeetCode.EvaluateReversePolishNotation.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\LeetCode.EvaluateReversePolishNotation.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EvaluateReversePolishNotation\obj\Debug\net8.0\ref\LeetCode.EvaluateReversePolishNotation.dll
