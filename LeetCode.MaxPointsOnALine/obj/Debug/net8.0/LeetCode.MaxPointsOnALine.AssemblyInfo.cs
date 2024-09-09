@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SortList")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaxPointsOnALine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SortList")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SortList")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9066db164eb4752c59d5f204ff2de0207a08e491")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaxPointsOnALine")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaxPointsOnALine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

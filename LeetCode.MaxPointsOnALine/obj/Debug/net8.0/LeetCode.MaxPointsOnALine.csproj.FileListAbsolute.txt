@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\bin\Debug\net8.0\LeetCode.MaxPointsOnALine.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\bin\Debug\net8.0\LeetCode.MaxPointsOnALine.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\bin\Debug\net8.0\LeetCode.MaxPointsOnALine.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\bin\Debug\net8.0\LeetCode.MaxPointsOnALine.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\bin\Debug\net8.0\LeetCode.MaxPointsOnALine.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\refint\LeetCode.MaxPointsOnALine.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\LeetCode.MaxPointsOnALine.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxPointsOnALine\obj\Debug\net8.0\ref\LeetCode.MaxPointsOnALine.dll
