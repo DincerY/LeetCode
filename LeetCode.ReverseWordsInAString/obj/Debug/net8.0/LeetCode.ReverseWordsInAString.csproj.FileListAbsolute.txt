@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\bin\Debug\net8.0\LeetCode.ReverseWordsInAString.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\bin\Debug\net8.0\LeetCode.ReverseWordsInAString.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\bin\Debug\net8.0\LeetCode.ReverseWordsInAString.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\bin\Debug\net8.0\LeetCode.ReverseWordsInAString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\bin\Debug\net8.0\LeetCode.ReverseWordsInAString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\refint\LeetCode.ReverseWordsInAString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\LeetCode.ReverseWordsInAString.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseWordsInAString\obj\Debug\net8.0\ref\LeetCode.ReverseWordsInAString.dll
