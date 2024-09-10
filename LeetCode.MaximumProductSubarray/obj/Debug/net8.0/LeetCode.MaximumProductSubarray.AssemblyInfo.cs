@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ReverseWordsInAString")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumProductSubarray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+367632358418c516ec6ebfa47e93db2c63c7f63b")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ReverseWordsInAString")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ReverseWordsInAString")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumProductSubarray")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumProductSubarray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

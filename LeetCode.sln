@@ -294,6 +294,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.EvaluateReversePol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseWordsInAString", "LeetCode.ReverseWordsInAString\LeetCode.ReverseWordsInAString.csproj", "{5961E2C9-DC79-4976-8FB3-E602351F4DA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumProductSubarray", "LeetCode.MaximumProductSubarray\LeetCode.MaximumProductSubarray.csproj", "{8BE0C7D7-BE1F-4860-838F-74F0440EB257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -888,5 +890,9 @@ Global
 		{5961E2C9-DC79-4976-8FB3-E602351F4DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5961E2C9-DC79-4976-8FB3-E602351F4DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5961E2C9-DC79-4976-8FB3-E602351F4DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE0C7D7-BE1F-4860-838F-74F0440EB257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE0C7D7-BE1F-4860-838F-74F0440EB257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE0C7D7-BE1F-4860-838F-74F0440EB257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE0C7D7-BE1F-4860-838F-74F0440EB257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
