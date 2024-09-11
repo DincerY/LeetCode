@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\bin\Debug\net8.0\LeetCode.MinStack.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\bin\Debug\net8.0\LeetCode.MinStack.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\bin\Debug\net8.0\LeetCode.MinStack.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\bin\Debug\net8.0\LeetCode.MinStack.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\bin\Debug\net8.0\LeetCode.MinStack.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\refint\LeetCode.MinStack.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\LeetCode.MinStack.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinStack\obj\Debug\net8.0\ref\LeetCode.MinStack.dll
