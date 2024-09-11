@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.EvaluateReversePolishNotation")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.FindMinimumInRotatedSortedArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.EvaluateReversePolishNotation")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.EvaluateReversePolishNotation")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fc7cd4fe9f7a7f741d0f19758772b38076b8251")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.FindMinimumInRotatedSortedArray")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.FindMinimumInRotatedSortedArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

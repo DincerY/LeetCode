@@ -296,6 +296,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseWordsInAStr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumProductSubarray", "LeetCode.MaximumProductSubarray\LeetCode.MaximumProductSubarray.csproj", "{8BE0C7D7-BE1F-4860-838F-74F0440EB257}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindMinimumInRotatedSortedArray", "LeetCode.FindMinimumInRotatedSortedArray\LeetCode.FindMinimumInRotatedSortedArray.csproj", "{74C09650-CC6F-4B7D-9C59-4F8037EF09E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -894,5 +896,9 @@ Global
 		{8BE0C7D7-BE1F-4860-838F-74F0440EB257}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BE0C7D7-BE1F-4860-838F-74F0440EB257}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BE0C7D7-BE1F-4860-838F-74F0440EB257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C09650-CC6F-4B7D-9C59-4F8037EF09E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C09650-CC6F-4B7D-9C59-4F8037EF09E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C09650-CC6F-4B7D-9C59-4F8037EF09E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C09650-CC6F-4B7D-9C59-4F8037EF09E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\bin\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\bin\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\bin\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\bin\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\bin\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\refint\LeetCode.FindMinimumInRotatedSortedArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\LeetCode.FindMinimumInRotatedSortedArray.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindMinimumInRotatedSortedArray\obj\Debug\net8.0\ref\LeetCode.FindMinimumInRotatedSortedArray.dll
