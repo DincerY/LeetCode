@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\bin\Debug\net8.0\LeetCode.MaximumGap.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\bin\Debug\net8.0\LeetCode.MaximumGap.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\bin\Debug\net8.0\LeetCode.MaximumGap.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\bin\Debug\net8.0\LeetCode.MaximumGap.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\bin\Debug\net8.0\LeetCode.MaximumGap.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\refint\LeetCode.MaximumGap.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\LeetCode.MaximumGap.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumGap\obj\Debug\net8.0\ref\LeetCode.MaximumGap.dll
