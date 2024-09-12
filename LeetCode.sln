@@ -302,6 +302,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindMinimumInRotat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinStack", "LeetCode.MinStack\LeetCode.MinStack.csproj", "{0963F740-8E96-4554-A2C1-B4E0F0531C38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntersectionOfTwoLinkedLists", "LeetCode.IntersectionOfTwoLinkedLists\LeetCode.IntersectionOfTwoLinkedLists.csproj", "{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -912,5 +914,9 @@ Global
 		{0963F740-8E96-4554-A2C1-B4E0F0531C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0963F740-8E96-4554-A2C1-B4E0F0531C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0963F740-8E96-4554-A2C1-B4E0F0531C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
