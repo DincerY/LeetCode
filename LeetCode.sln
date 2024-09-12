@@ -304,6 +304,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinStack", "LeetCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntersectionOfTwoLinkedLists", "LeetCode.IntersectionOfTwoLinkedLists\LeetCode.IntersectionOfTwoLinkedLists.csproj", "{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindPeakElement", "LeetCode.FindPeakElement\LeetCode.FindPeakElement.csproj", "{2FF461AE-08D8-4AB5-B106-8670861C0DC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -918,5 +920,9 @@ Global
 		{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF461AE-08D8-4AB5-B106-8670861C0DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF461AE-08D8-4AB5-B106-8670861C0DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF461AE-08D8-4AB5-B106-8670861C0DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF461AE-08D8-4AB5-B106-8670861C0DC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
