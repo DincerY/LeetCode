@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b1312f9fe100a71de629f4405c37769392a84fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63bc87f5b90b835cf77b7b18d93142e1c4010dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
