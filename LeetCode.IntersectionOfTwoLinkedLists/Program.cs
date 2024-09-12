@@ -13,7 +13,7 @@ headB.next.next.next = intersection;
 
 headA.next.next = intersection;
 
-solution.GetIntersectionNode(headA,headB);
+solution.GetIntersectionNode2(headA, headB);
 
 
 Console.WriteLine("Hello, World!");
@@ -30,14 +30,14 @@ public class ListNode
     }
 }
 
-public class Solution
+public partial class Solution
 {
     public ListNode GetIntersectionNode(ListNode headA, ListNode headB)
     {
-        Dictionary<ListNode,int> dic = new();
+        Dictionary<ListNode, int> dic = new();
         while (headA != null)
-        {  
-            dic.Add(headA,headA.val);
+        {
+            dic.Add(headA, headA.val);
             headA = headA.next;
         }
 
@@ -50,5 +50,21 @@ public class Solution
             headB = headB.next;
         }
         return headB;
+    }
+}
+
+//it is not mine
+public partial class Solution
+{
+    public ListNode GetIntersectionNode2(ListNode headA, ListNode headB)
+    {
+        ListNode l1 = headA, l2 = headB;
+        while (l1 != l2)
+        {
+            l1 = l1 != null ? l1.next : headB;
+            l2 = l2 != null ? l2.next : headA;
+        }
+
+        return l1;
     }
 }

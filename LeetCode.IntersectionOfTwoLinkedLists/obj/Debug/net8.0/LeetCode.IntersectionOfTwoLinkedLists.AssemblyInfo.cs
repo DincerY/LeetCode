@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.IntersectionOfTwoLinkedLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a669c6efb68434ca63b11974885c7e2ad0a80f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fb64bbe6637f48bc9a362c3c1c576d537f41213")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.IntersectionOfTwoLinkedLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.IntersectionOfTwoLinkedLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
