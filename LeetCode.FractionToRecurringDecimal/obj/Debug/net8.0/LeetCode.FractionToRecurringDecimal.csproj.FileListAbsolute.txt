@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\bin\Debug\net8.0\LeetCode.FractionToRecurringDecimal.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\bin\Debug\net8.0\LeetCode.FractionToRecurringDecimal.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\bin\Debug\net8.0\LeetCode.FractionToRecurringDecimal.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\bin\Debug\net8.0\LeetCode.FractionToRecurringDecimal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\bin\Debug\net8.0\LeetCode.FractionToRecurringDecimal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\refint\LeetCode.FractionToRecurringDecimal.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\LeetCode.FractionToRecurringDecimal.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FractionToRecurringDecimal\obj\Debug\net8.0\ref\LeetCode.FractionToRecurringDecimal.dll
