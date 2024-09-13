@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinStack")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CompareVersionNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinStack")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinStack")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1141bec49a63cae4d8c58e426b5b332b77891626")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CompareVersionNumbers")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CompareVersionNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

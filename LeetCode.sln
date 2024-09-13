@@ -308,6 +308,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindPeakElement", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumGap", "LeetCode.MaximumGap\LeetCode.MaximumGap.csproj", "{73061C8A-3638-4B44-899C-847273147748}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CompareVersionNumbers", "LeetCode.CompareVersionNumbers\LeetCode.CompareVersionNumbers.csproj", "{D475BF93-7BE2-463E-BC8B-A200CE0F046E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -930,5 +932,9 @@ Global
 		{73061C8A-3638-4B44-899C-847273147748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73061C8A-3638-4B44-899C-847273147748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73061C8A-3638-4B44-899C-847273147748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D475BF93-7BE2-463E-BC8B-A200CE0F046E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D475BF93-7BE2-463E-BC8B-A200CE0F046E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D475BF93-7BE2-463E-BC8B-A200CE0F046E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D475BF93-7BE2-463E-BC8B-A200CE0F046E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

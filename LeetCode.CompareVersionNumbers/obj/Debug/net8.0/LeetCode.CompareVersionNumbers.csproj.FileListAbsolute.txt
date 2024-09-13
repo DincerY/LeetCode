@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\bin\Debug\net8.0\LeetCode.CompareVersionNumbers.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\bin\Debug\net8.0\LeetCode.CompareVersionNumbers.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\bin\Debug\net8.0\LeetCode.CompareVersionNumbers.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\bin\Debug\net8.0\LeetCode.CompareVersionNumbers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\bin\Debug\net8.0\LeetCode.CompareVersionNumbers.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\refint\LeetCode.CompareVersionNumbers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\LeetCode.CompareVersionNumbers.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CompareVersionNumbers\obj\Debug\net8.0\ref\LeetCode.CompareVersionNumbers.dll

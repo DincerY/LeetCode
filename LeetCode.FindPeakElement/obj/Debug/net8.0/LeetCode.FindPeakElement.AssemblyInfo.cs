@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.FindPeakElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1fbf1179c9a90a0b4b2409d2d1d371597eac35d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.FindPeakElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.FindPeakElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
