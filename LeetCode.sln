@@ -316,6 +316,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TwoSum2", "LeetCod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ExcelSheetColumnTitle", "LeetCode.ExcelSheetColumnTitle\LeetCode.ExcelSheetColumnTitle.csproj", "{0B624B82-332F-48AC-AA30-F824103D9EA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MajorityElement", "LeetCode.MajorityElement\LeetCode.MajorityElement.csproj", "{254EA9A1-A49A-4ABE-875C-20B8337E2F5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -954,5 +956,9 @@ Global
 		{0B624B82-332F-48AC-AA30-F824103D9EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B624B82-332F-48AC-AA30-F824103D9EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B624B82-332F-48AC-AA30-F824103D9EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254EA9A1-A49A-4ABE-875C-20B8337E2F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254EA9A1-A49A-4ABE-875C-20B8337E2F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254EA9A1-A49A-4ABE-875C-20B8337E2F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254EA9A1-A49A-4ABE-875C-20B8337E2F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
