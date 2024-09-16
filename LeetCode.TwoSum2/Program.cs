@@ -11,12 +11,12 @@ solution.TwoSum2(new[]
 
 solution.TwoSum2(new[]
 {
-    1,3,4,5,7,10,11
+    1, 3, 4, 5, 7, 10, 11
 }, 9);
 
 solution.TwoSum2(new[]
 {
-    -10,-9,-8,-7,-6,-5,-4,-3,-2,-1,0,1,8
+    -10, -9, -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 8
 }, 9);
 
 Console.WriteLine("Hello, World!");
