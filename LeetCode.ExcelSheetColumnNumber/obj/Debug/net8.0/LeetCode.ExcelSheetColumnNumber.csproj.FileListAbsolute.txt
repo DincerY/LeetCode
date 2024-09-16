@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\bin\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\bin\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\bin\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\bin\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\bin\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\refint\LeetCode.ExcelSheetColumnNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\LeetCode.ExcelSheetColumnNumber.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ExcelSheetColumnNumber\obj\Debug\net8.0\ref\LeetCode.ExcelSheetColumnNumber.dll
