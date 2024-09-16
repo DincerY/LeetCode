@@ -314,6 +314,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FractionToRecurrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TwoSum2", "LeetCode.TwoSum2\LeetCode.TwoSum2.csproj", "{8BB504BD-6F02-47F8-9AAF-974622AE4C31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ExcelSheetColumnTitle", "LeetCode.ExcelSheetColumnTitle\LeetCode.ExcelSheetColumnTitle.csproj", "{0B624B82-332F-48AC-AA30-F824103D9EA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -948,5 +950,9 @@ Global
 		{8BB504BD-6F02-47F8-9AAF-974622AE4C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB504BD-6F02-47F8-9AAF-974622AE4C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BB504BD-6F02-47F8-9AAF-974622AE4C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B624B82-332F-48AC-AA30-F824103D9EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B624B82-332F-48AC-AA30-F824103D9EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B624B82-332F-48AC-AA30-F824103D9EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B624B82-332F-48AC-AA30-F824103D9EA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
