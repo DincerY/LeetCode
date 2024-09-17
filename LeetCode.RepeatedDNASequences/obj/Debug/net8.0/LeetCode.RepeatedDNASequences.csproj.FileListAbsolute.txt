@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\bin\Debug\net8.0\LeetCode.RepeatedDNASequences.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\bin\Debug\net8.0\LeetCode.RepeatedDNASequences.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\bin\Debug\net8.0\LeetCode.RepeatedDNASequences.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\bin\Debug\net8.0\LeetCode.RepeatedDNASequences.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\bin\Debug\net8.0\LeetCode.RepeatedDNASequences.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\refint\LeetCode.RepeatedDNASequences.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\LeetCode.RepeatedDNASequences.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RepeatedDNASequences\obj\Debug\net8.0\ref\LeetCode.RepeatedDNASequences.dll
