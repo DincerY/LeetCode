@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\bin\Debug\net8.0\LeetCode.FactorialTrailingZeroes.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\bin\Debug\net8.0\LeetCode.FactorialTrailingZeroes.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\bin\Debug\net8.0\LeetCode.FactorialTrailingZeroes.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\bin\Debug\net8.0\LeetCode.FactorialTrailingZeroes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\bin\Debug\net8.0\LeetCode.FactorialTrailingZeroes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\refint\LeetCode.FactorialTrailingZeroes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\LeetCode.FactorialTrailingZeroes.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FactorialTrailingZeroes\obj\Debug\net8.0\ref\LeetCode.FactorialTrailingZeroes.dll
