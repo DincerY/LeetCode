@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\bin\Debug\net8.0\LeetCode.BinarySearchTreeIterator.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\bin\Debug\net8.0\LeetCode.BinarySearchTreeIterator.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\bin\Debug\net8.0\LeetCode.BinarySearchTreeIterator.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\bin\Debug\net8.0\LeetCode.BinarySearchTreeIterator.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\bin\Debug\net8.0\LeetCode.BinarySearchTreeIterator.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\refint\LeetCode.BinarySearchTreeIterator.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\LeetCode.BinarySearchTreeIterator.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinarySearchTreeIterator\obj\Debug\net8.0\ref\LeetCode.BinarySearchTreeIterator.dll
