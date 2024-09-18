@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RepeatedDNASequences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f370610a521248a9bfd47292cd160a93fd139526")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RepeatedDNASequences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RepeatedDNASequences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LargestNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9825b3dce26b69ed02344b3fdeac1116d2e33921")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LargestNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LargestNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

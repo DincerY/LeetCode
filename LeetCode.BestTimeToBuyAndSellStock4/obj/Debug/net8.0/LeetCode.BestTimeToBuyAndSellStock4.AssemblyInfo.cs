@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.FactorialTrailingZeroes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BestTimeToBuyAndSellStock4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.FactorialTrailingZeroes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.FactorialTrailingZeroes")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce5385c753f50dd4670d901e754e5435f6efdf32")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BestTimeToBuyAndSellStock4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BestTimeToBuyAndSellStock4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

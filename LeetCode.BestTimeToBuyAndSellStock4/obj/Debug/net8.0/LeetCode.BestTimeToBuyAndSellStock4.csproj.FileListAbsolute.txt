@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\refint\LeetCode.BestTimeToBuyAndSellStock4.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStock4.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStock4\obj\Debug\net8.0\ref\LeetCode.BestTimeToBuyAndSellStock4.dll
