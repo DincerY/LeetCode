@@ -330,6 +330,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RepeatedDNASequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock4", "LeetCode.BestTimeToBuyAndSellStock4\LeetCode.BestTimeToBuyAndSellStock4.csproj", "{09304C73-B3C9-48C1-8B18-62F079AB1590}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RotateArray", "LeetCode.RotateArray\LeetCode.RotateArray.csproj", "{4CA6FA81-B0FD-4909-8D1A-B0E5807E8689}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -996,5 +998,9 @@ Global
 		{09304C73-B3C9-48C1-8B18-62F079AB1590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09304C73-B3C9-48C1-8B18-62F079AB1590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09304C73-B3C9-48C1-8B18-62F079AB1590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA6FA81-B0FD-4909-8D1A-B0E5807E8689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA6FA81-B0FD-4909-8D1A-B0E5807E8689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA6FA81-B0FD-4909-8D1A-B0E5807E8689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA6FA81-B0FD-4909-8D1A-B0E5807E8689}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

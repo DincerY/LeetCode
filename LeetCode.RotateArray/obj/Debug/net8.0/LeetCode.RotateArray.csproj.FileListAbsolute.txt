@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\bin\Debug\net8.0\LeetCode.RotateArray.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\bin\Debug\net8.0\LeetCode.RotateArray.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\bin\Debug\net8.0\LeetCode.RotateArray.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\bin\Debug\net8.0\LeetCode.RotateArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\bin\Debug\net8.0\LeetCode.RotateArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\refint\LeetCode.RotateArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\LeetCode.RotateArray.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RotateArray\obj\Debug\net8.0\ref\LeetCode.RotateArray.dll
