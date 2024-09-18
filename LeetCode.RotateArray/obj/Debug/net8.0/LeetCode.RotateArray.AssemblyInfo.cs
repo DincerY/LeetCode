@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RotateArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75794a988fd79f3ec821fd5ed7dd9940b2a069cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0a20a5cc27c1579f797d9525342ada24ae0e49")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RotateArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RotateArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,9 @@
 ﻿Solution solution = new();
-solution.Rotate(new[] { 1, 2, 3, 4, 5, 6, 7 }, 3);
+solution.Rotate2(new[] { 1, 2, 3, 4, 5, 6, 7 }, 3);
 
 Console.WriteLine("Hello, World!");
 
-public class Solution
+public partial class Solution
 {
     public void Rotate(int[] nums, int k)
     {
@@ -30,5 +30,41 @@ public class Solution
         {
             nums[i] = arr[i];
         }
+    }
+}
+
+//NeedCode solution
+public partial class Solution
+{
+    public void Rotate2(int[] nums, int k)
+    {
+        k %= nums.Length;
+        int l = 0;
+        int r = nums.Length - 1;
+        while (l < r)
+        {
+            (nums[l],nums[r]) = (nums[r], nums[l]);
+            l = l + 1;
+            r = r - 1;
+        }
+
+        l = 0;
+        r = k - 1;
+        while (l < r)
+        {
+            (nums[l],nums[r]) = (nums[r], nums[l]);
+            l = l + 1;
+            r = r - 1;
+        }
+        
+        l = k;
+        r = nums.Length - 1;
+        while (l < r)
+        {
+            (nums[l],nums[r]) = (nums[r], nums[l]);
+            l = l + 1;
+            r = r - 1;
+        }
+
     }
 }
