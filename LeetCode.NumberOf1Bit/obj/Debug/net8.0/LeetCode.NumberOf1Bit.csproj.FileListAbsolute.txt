@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\bin\Debug\net8.0\LeetCode.NumberOf1Bit.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\bin\Debug\net8.0\LeetCode.NumberOf1Bit.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\bin\Debug\net8.0\LeetCode.NumberOf1Bit.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\bin\Debug\net8.0\LeetCode.NumberOf1Bit.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\bin\Debug\net8.0\LeetCode.NumberOf1Bit.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\refint\LeetCode.NumberOf1Bit.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\LeetCode.NumberOf1Bit.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOf1Bit\obj\Debug\net8.0\ref\LeetCode.NumberOf1Bit.dll
