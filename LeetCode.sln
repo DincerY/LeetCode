@@ -336,6 +336,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseBits", "Lee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOf1Bit", "LeetCode.NumberOf1Bit\LeetCode.NumberOf1Bit.csproj", "{46D34016-24EA-4018-8231-4CFE36707328}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HouseRobber", "LeetCode.HouseRobber\LeetCode.HouseRobber.csproj", "{959F113D-A08F-4D2D-8CB2-A8EC7318B295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1014,5 +1016,9 @@ Global
 		{46D34016-24EA-4018-8231-4CFE36707328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46D34016-24EA-4018-8231-4CFE36707328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46D34016-24EA-4018-8231-4CFE36707328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959F113D-A08F-4D2D-8CB2-A8EC7318B295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959F113D-A08F-4D2D-8CB2-A8EC7318B295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959F113D-A08F-4D2D-8CB2-A8EC7318B295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959F113D-A08F-4D2D-8CB2-A8EC7318B295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
