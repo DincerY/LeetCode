@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\bin\Debug\net8.0\LeetCode.ReverseBits.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\bin\Debug\net8.0\LeetCode.ReverseBits.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\bin\Debug\net8.0\LeetCode.ReverseBits.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\bin\Debug\net8.0\LeetCode.ReverseBits.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\bin\Debug\net8.0\LeetCode.ReverseBits.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\refint\LeetCode.ReverseBits.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\LeetCode.ReverseBits.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseBits\obj\Debug\net8.0\ref\LeetCode.ReverseBits.dll
