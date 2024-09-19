@@ -1,10 +1,10 @@
 ﻿Solution solution = new();
-solution.HammingWeight(11);
+solution.HammingWeight2(11);
 
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public int HammingWeight(int n)
     {
@@ -16,6 +16,20 @@ public class Solution
             {
                 count++;
             }
+        }
+        return count;
+    }
+}
+
+public partial class Solution
+{
+    public int HammingWeight2(int n)
+    {
+        int count = 0;
+        while (n != 0)
+        {
+            n &= (n - 1);
+            count++;
         }
         return count;
     }
