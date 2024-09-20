@@ -342,6 +342,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeRightSid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HouseRobber2", "LeetCode.HouseRobber2\LeetCode.HouseRobber2.csproj", "{67FBA82E-11D6-420A-A428-43C1BD719810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximalSquare", "LeetCode.MaximalSquare\LeetCode.MaximalSquare.csproj", "{F65F6D16-258F-498D-AB12-8D405E5D1C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1032,5 +1034,9 @@ Global
 		{67FBA82E-11D6-420A-A428-43C1BD719810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67FBA82E-11D6-420A-A428-43C1BD719810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67FBA82E-11D6-420A-A428-43C1BD719810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65F6D16-258F-498D-AB12-8D405E5D1C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65F6D16-258F-498D-AB12-8D405E5D1C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65F6D16-258F-498D-AB12-8D405E5D1C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65F6D16-258F-498D-AB12-8D405E5D1C8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
