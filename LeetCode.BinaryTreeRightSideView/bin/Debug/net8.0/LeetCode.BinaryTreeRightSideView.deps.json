@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.BinaryTreeRightSideView/1.0.0": {
+        "runtime": {
+          "LeetCode.BinaryTreeRightSideView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.BinaryTreeRightSideView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

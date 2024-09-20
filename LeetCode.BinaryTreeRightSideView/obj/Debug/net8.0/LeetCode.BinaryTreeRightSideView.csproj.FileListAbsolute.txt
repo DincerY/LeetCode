@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\bin\Debug\net8.0\LeetCode.BinaryTreeRightSideView.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\bin\Debug\net8.0\LeetCode.BinaryTreeRightSideView.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\bin\Debug\net8.0\LeetCode.BinaryTreeRightSideView.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\bin\Debug\net8.0\LeetCode.BinaryTreeRightSideView.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\bin\Debug\net8.0\LeetCode.BinaryTreeRightSideView.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\refint\LeetCode.BinaryTreeRightSideView.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\LeetCode.BinaryTreeRightSideView.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BinaryTreeRightSideView\obj\Debug\net8.0\ref\LeetCode.BinaryTreeRightSideView.dll
