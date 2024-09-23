@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\bin\Debug\net8.0\LeetCode.CountingBits.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\bin\Debug\net8.0\LeetCode.CountingBits.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\bin\Debug\net8.0\LeetCode.CountingBits.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\bin\Debug\net8.0\LeetCode.CountingBits.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\bin\Debug\net8.0\LeetCode.CountingBits.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\refint\LeetCode.CountingBits.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\LeetCode.CountingBits.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountingBits\obj\Debug\net8.0\ref\LeetCode.CountingBits.dll

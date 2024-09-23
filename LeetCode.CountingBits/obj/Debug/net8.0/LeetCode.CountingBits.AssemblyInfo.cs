@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximalSquare")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CountingBits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f4ebc5da8ea8fbd27279c2238c2afb2bb8e6ab2")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximalSquare")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximalSquare")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CountingBits")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CountingBits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
