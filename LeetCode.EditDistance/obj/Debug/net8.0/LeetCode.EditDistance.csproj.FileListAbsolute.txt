@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\bin\Debug\net8.0\LeetCode.EditDistance.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\bin\Debug\net8.0\LeetCode.EditDistance.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\bin\Debug\net8.0\LeetCode.EditDistance.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\bin\Debug\net8.0\LeetCode.EditDistance.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\bin\Debug\net8.0\LeetCode.EditDistance.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\refint\LeetCode.EditDistance.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\LeetCode.EditDistance.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EditDistance\obj\Debug\net8.0\ref\LeetCode.EditDistance.dll
