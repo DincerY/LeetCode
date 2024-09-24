@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.CountBits(5);
+solution.CountBits(16);
 
 
 Console.WriteLine("Hello, World!");
@@ -9,24 +9,15 @@ public partial class Solution
     public int[] CountBits(int n)
     {
         int[] cache = new int[n + 1];
-        cache[0] = 0;
+        int prev = 1;
         for (int i = 1; i <= n; i++)
         {
-            int j = i;
-            int count = 0;
-            while (j != 0)
+            if (int.IsPow2(i))
             {
-                if (j % 2 == 1)
-                {
-                    count++;
-                }
-
-                j /= 2;
+                prev = i;
             }
-
-            cache[i] = count;
+            cache[i] = cache[i - prev] + 1;
         }
-
         return cache;
     }
 }
