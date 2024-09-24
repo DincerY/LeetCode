@@ -348,6 +348,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountingBits", "Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UglyNumber", "LeetCode.UglyNumber\LeetCode.UglyNumber.csproj", "{77ACEB66-0C51-4C6D-AD63-2D8B6A1AB29C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UglyNumber2", "LeetCode.UglyNumber2\LeetCode.UglyNumber2.csproj", "{54970E61-6176-409E-8811-881885D2C24E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1050,5 +1052,9 @@ Global
 		{77ACEB66-0C51-4C6D-AD63-2D8B6A1AB29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77ACEB66-0C51-4C6D-AD63-2D8B6A1AB29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77ACEB66-0C51-4C6D-AD63-2D8B6A1AB29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54970E61-6176-409E-8811-881885D2C24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54970E61-6176-409E-8811-881885D2C24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54970E61-6176-409E-8811-881885D2C24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54970E61-6176-409E-8811-881885D2C24E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
