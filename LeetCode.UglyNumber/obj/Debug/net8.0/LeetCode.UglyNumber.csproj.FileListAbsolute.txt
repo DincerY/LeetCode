@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\bin\Debug\net8.0\LeetCode.UglyNumber.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\bin\Debug\net8.0\LeetCode.UglyNumber.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\bin\Debug\net8.0\LeetCode.UglyNumber.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\bin\Debug\net8.0\LeetCode.UglyNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\bin\Debug\net8.0\LeetCode.UglyNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\refint\LeetCode.UglyNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\LeetCode.UglyNumber.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber\obj\Debug\net8.0\ref\LeetCode.UglyNumber.dll
