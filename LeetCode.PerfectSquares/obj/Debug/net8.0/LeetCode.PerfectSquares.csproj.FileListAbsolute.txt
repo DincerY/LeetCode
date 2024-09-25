@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\bin\Debug\net8.0\LeetCode.PerfectSquares.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\bin\Debug\net8.0\LeetCode.PerfectSquares.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\bin\Debug\net8.0\LeetCode.PerfectSquares.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\bin\Debug\net8.0\LeetCode.PerfectSquares.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\bin\Debug\net8.0\LeetCode.PerfectSquares.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\refint\LeetCode.PerfectSquares.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\LeetCode.PerfectSquares.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PerfectSquares\obj\Debug\net8.0\ref\LeetCode.PerfectSquares.dll
