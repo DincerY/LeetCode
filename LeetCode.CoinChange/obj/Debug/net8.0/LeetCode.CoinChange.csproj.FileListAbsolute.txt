@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\bin\Debug\net8.0\LeetCode.CoinChange.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\bin\Debug\net8.0\LeetCode.CoinChange.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\bin\Debug\net8.0\LeetCode.CoinChange.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\bin\Debug\net8.0\LeetCode.CoinChange.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\bin\Debug\net8.0\LeetCode.CoinChange.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\refint\LeetCode.CoinChange.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\LeetCode.CoinChange.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CoinChange\obj\Debug\net8.0\ref\LeetCode.CoinChange.dll
