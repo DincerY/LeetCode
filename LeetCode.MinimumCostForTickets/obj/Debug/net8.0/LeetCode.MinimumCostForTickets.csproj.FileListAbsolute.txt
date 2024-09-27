@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\bin\Debug\net8.0\LeetCode.MinimumCostForTickets.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\bin\Debug\net8.0\LeetCode.MinimumCostForTickets.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\bin\Debug\net8.0\LeetCode.MinimumCostForTickets.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\bin\Debug\net8.0\LeetCode.MinimumCostForTickets.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\bin\Debug\net8.0\LeetCode.MinimumCostForTickets.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\refint\LeetCode.MinimumCostForTickets.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\LeetCode.MinimumCostForTickets.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumCostForTickets\obj\Debug\net8.0\ref\LeetCode.MinimumCostForTickets.dll
