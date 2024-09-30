@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumCostForTickets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac39ae800347c5080dcf40da4ade0805b06a55c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumCostForTickets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumCostForTickets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

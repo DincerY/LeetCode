@@ -27,7 +27,7 @@ public class Solution
                 {
                     k++;
                 }
-
+    
                 dp[i] = Math.Min(dp[i], costs[j] + (dp.ContainsKey(k) ? dp[k] : 0));
             }
         }
