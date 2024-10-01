@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.NumberOfLongestIncreasingSubsequence/1.0.0": {
+        "runtime": {
+          "LeetCode.NumberOfLongestIncreasingSubsequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.NumberOfLongestIncreasingSubsequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

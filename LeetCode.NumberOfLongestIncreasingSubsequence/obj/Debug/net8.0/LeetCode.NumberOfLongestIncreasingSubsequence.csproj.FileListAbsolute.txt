@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\bin\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\bin\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\bin\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\bin\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\bin\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\refint\LeetCode.NumberOfLongestIncreasingSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\LeetCode.NumberOfLongestIncreasingSubsequence.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfLongestIncreasingSubsequence\obj\Debug\net8.0\ref\LeetCode.NumberOfLongestIncreasingSubsequence.dll
