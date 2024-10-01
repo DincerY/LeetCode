@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumLengthOfPairChain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6129d45f95481d12b308edc8b276d223b9f30cdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c2a14951df932fc456e8710b06827b5c5b97f86")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumLengthOfPairChain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumLengthOfPairChain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

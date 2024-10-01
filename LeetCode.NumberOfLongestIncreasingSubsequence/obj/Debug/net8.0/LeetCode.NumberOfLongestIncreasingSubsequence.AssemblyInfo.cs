@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumCostForTickets")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.NumberOfLongestIncreasingSubsequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumCostForTickets")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumCostForTickets")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.NumberOfLongestIncreasingSubsequence")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.NumberOfLongestIncreasingSubsequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
