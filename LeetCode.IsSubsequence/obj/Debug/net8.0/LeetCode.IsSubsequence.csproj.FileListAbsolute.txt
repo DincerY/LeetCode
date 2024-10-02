@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\bin\Debug\net8.0\LeetCode.IsSubsequence.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\bin\Debug\net8.0\LeetCode.IsSubsequence.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\bin\Debug\net8.0\LeetCode.IsSubsequence.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\bin\Debug\net8.0\LeetCode.IsSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\bin\Debug\net8.0\LeetCode.IsSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\refint\LeetCode.IsSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\LeetCode.IsSubsequence.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsSubsequence\obj\Debug\net8.0\ref\LeetCode.IsSubsequence.dll

@@ -362,6 +362,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumLengthOfPai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfLongestIncreasingSubsequence", "LeetCode.NumberOfLongestIncreasingSubsequence\LeetCode.NumberOfLongestIncreasingSubsequence.csproj", "{07D268D1-1EC7-47F3-A623-9632C1D716C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IsSubsequence", "LeetCode.IsSubsequence\LeetCode.IsSubsequence.csproj", "{12C3DD34-D60C-4CC2-9168-21EFD96D849E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1092,5 +1094,9 @@ Global
 		{07D268D1-1EC7-47F3-A623-9632C1D716C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07D268D1-1EC7-47F3-A623-9632C1D716C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07D268D1-1EC7-47F3-A623-9632C1D716C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C3DD34-D60C-4CC2-9168-21EFD96D849E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C3DD34-D60C-4CC2-9168-21EFD96D849E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C3DD34-D60C-4CC2-9168-21EFD96D849E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C3DD34-D60C-4CC2-9168-21EFD96D849E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
