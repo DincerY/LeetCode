@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\bin\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\bin\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\bin\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\bin\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\bin\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\refint\LeetCode.LongestPalindromicSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\LeetCode.LongestPalindromicSubsequence.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestPalindromicSubsequence\obj\Debug\net8.0\ref\LeetCode.LongestPalindromicSubsequence.dll
