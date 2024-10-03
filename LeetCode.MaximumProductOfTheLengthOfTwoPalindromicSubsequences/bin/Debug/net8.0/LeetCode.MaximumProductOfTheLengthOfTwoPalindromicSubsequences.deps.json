@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences/1.0.0": {
+        "runtime": {
+          "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

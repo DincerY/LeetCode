@@ -372,6 +372,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromicSubstri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AppendCharactersToStringToMakeSubsequence", "LeetCode.AppendCharactersToStringToMakeSubsequence\LeetCode.AppendCharactersToStringToMakeSubsequence.csproj", "{2E160808-75E8-4DB7-A5B3-4D04D88E0C80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences", "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences\LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences.csproj", "{E4AE212B-0DBE-4152-914E-9A35B85FD46C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1122,5 +1124,9 @@ Global
 		{2E160808-75E8-4DB7-A5B3-4D04D88E0C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E160808-75E8-4DB7-A5B3-4D04D88E0C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E160808-75E8-4DB7-A5B3-4D04D88E0C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AE212B-0DBE-4152-914E-9A35B85FD46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AE212B-0DBE-4152-914E-9A35B85FD46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AE212B-0DBE-4152-914E-9A35B85FD46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AE212B-0DBE-4152-914E-9A35B85FD46C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
