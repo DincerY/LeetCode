@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\bin\Debug\net8.0\LeetCode.PalindromicSubstrings.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\bin\Debug\net8.0\LeetCode.PalindromicSubstrings.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\bin\Debug\net8.0\LeetCode.PalindromicSubstrings.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\bin\Debug\net8.0\LeetCode.PalindromicSubstrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\bin\Debug\net8.0\LeetCode.PalindromicSubstrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\refint\LeetCode.PalindromicSubstrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\LeetCode.PalindromicSubstrings.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromicSubstrings\obj\Debug\net8.0\ref\LeetCode.PalindromicSubstrings.dll
