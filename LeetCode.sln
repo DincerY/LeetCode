@@ -376,6 +376,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumProductOfTh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinCostClimbingStairs", "LeetCode.MinCostClimbingStairs\LeetCode.MinCostClimbingStairs.csproj", "{5993095B-5E27-4318-B455-34DB03240699}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.N-thTribonacciNumber", "LeetCode.N-thTribonacciNumber\LeetCode.N-thTribonacciNumber.csproj", "{CBEFBF90-265E-40BE-81DC-D6D31331CECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1134,5 +1136,9 @@ Global
 		{5993095B-5E27-4318-B455-34DB03240699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5993095B-5E27-4318-B455-34DB03240699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5993095B-5E27-4318-B455-34DB03240699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBEFBF90-265E-40BE-81DC-D6D31331CECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEFBF90-265E-40BE-81DC-D6D31331CECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEFBF90-265E-40BE-81DC-D6D31331CECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEFBF90-265E-40BE-81DC-D6D31331CECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

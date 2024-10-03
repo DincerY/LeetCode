@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\bin\Debug\net8.0\LeetCode.N-thTribonacciNumber.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\bin\Debug\net8.0\LeetCode.N-thTribonacciNumber.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\bin\Debug\net8.0\LeetCode.N-thTribonacciNumber.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\bin\Debug\net8.0\LeetCode.N-thTribonacciNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\bin\Debug\net8.0\LeetCode.N-thTribonacciNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\refint\LeetCode.N-thTribonacciNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\LeetCode.N-thTribonacciNumber.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-thTribonacciNumber\obj\Debug\net8.0\ref\LeetCode.N-thTribonacciNumber.dll
