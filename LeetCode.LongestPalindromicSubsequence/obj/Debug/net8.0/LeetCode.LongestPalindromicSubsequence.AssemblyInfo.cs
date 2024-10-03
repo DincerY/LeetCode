@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LongestPalindromicSubsequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea149c0d71bce4434b522a062e19c3ec65c1bf7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LongestPalindromicSubsequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LongestPalindromicSubsequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

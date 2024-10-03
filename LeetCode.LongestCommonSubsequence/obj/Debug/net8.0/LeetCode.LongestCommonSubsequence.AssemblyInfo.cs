@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LongestCommonSubsequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ddf705fb50e91dd40a62b62c2c1f49e24eea4b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LongestCommonSubsequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LongestCommonSubsequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
