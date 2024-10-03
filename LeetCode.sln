@@ -374,6 +374,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AppendCharactersTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences", "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences\LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences.csproj", "{E4AE212B-0DBE-4152-914E-9A35B85FD46C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinCostClimbingStairs", "LeetCode.MinCostClimbingStairs\LeetCode.MinCostClimbingStairs.csproj", "{5993095B-5E27-4318-B455-34DB03240699}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1128,5 +1130,9 @@ Global
 		{E4AE212B-0DBE-4152-914E-9A35B85FD46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4AE212B-0DBE-4152-914E-9A35B85FD46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4AE212B-0DBE-4152-914E-9A35B85FD46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5993095B-5E27-4318-B455-34DB03240699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5993095B-5E27-4318-B455-34DB03240699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5993095B-5E27-4318-B455-34DB03240699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5993095B-5E27-4318-B455-34DB03240699}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
