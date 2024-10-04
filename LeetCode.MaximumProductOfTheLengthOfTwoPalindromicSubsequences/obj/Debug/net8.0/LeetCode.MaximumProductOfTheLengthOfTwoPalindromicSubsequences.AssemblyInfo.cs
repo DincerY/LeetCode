@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cafbb2e3d2797603f8d9cb30c0619433302d8378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

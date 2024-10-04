@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PalindromicSubstrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb3d2ced1e80d794aa47430a169bc5eb222c9a07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PalindromicSubstrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PalindromicSubstrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
