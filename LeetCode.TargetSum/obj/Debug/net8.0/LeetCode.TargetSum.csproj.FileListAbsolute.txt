@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\bin\Debug\net8.0\LeetCode.TargetSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\bin\Debug\net8.0\LeetCode.TargetSum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\bin\Debug\net8.0\LeetCode.TargetSum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\bin\Debug\net8.0\LeetCode.TargetSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\bin\Debug\net8.0\LeetCode.TargetSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\refint\LeetCode.TargetSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\LeetCode.TargetSum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TargetSum\obj\Debug\net8.0\ref\LeetCode.TargetSum.dll
