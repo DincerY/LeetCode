@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.N-thTribonacciNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61548e97e96d6f3b66f31e06e3f21c3dcec30711")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.N-thTribonacciNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.N-thTribonacciNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

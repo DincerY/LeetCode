@@ -11,7 +11,7 @@ public partial class Solution
     {
         int res = 0;
 
-        void Dfs(int index, int total)
+        void Backtrack(int index, int total)
         {
             if (index >= nums.Length)
             {
@@ -23,11 +23,11 @@ public partial class Solution
                 return;
             }
 
-            Dfs(index + 1, total + nums[index]);
-            Dfs(index + 1, total + -nums[index]);
+            Backtrack(index + 1, total + nums[index]);
+            Backtrack(index + 1, total + -nums[index]);
         }
 
-        Dfs(0, 0);
+        Backtrack(0, 0);
         return res;
     }
 }
