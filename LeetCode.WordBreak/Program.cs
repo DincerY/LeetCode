@@ -8,7 +8,6 @@ solution.WordBreak("leetcode", new List<string>() { "le", "et","co","de" });
 
 Console.WriteLine("Hello, World!");
 
-
 public partial class Solution
 {
     public bool WordBreak(string s, IList<string> wordDict)
