@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CoinChange2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5024b9f74a695490225b119b79fd6408d803f1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CoinChange2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CoinChange2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
