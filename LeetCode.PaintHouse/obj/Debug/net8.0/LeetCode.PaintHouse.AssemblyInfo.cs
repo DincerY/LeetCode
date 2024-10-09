@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PaintHouse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7006e756aafa5a377f8e574fe2436b6504427f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70dc9ac014e3490ec0c99747a4fed7cc8f6b1965")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PaintHouse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PaintHouse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

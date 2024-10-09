@@ -3,7 +3,7 @@
 // {
 //     2, 3, -2, 4
 // });
-solution.MaxProduct2(new[]
+solution.MaxProduct3(new[]
 {
     2,3,-5,4,-2
 });
@@ -40,7 +40,7 @@ public partial class Solution
     }
 }
 
-//Meedcode solution
+//Needcode solution
 public partial class Solution {
     public int MaxProduct2(int[] nums)
     {
@@ -61,13 +61,25 @@ public partial class Solution {
         return res;
     }
 }
+public partial class Solution {
+    public int MaxProduct3(int[] nums)
+    {
+        Dictionary<int, (int, int)> dp = new();
+        dp[0] = (nums[0], nums[0]);
+        for (int i = 1; i < nums.Length; i++)
+        {
+            dp[i] = (Math.Min(nums[i], nums[i]*nums[i-1]),Math.Max(nums[i], nums[i]*nums[i-1]));
+        }
+
+        return 0;
+    }
+}
 
 //Subarrays of any array
 public partial class Solution
 {
     public void SubArray(int[] nums)
     {
-        
         List<List<int>> list = new();
         for (int i = 1; i < nums.Length; i++)
         {
@@ -77,7 +89,5 @@ public partial class Solution
             }
         }
         list.Add(nums.ToList());
-        
-        return;
     }
 }
