@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\bin\Debug\net8.0\LeetCode.PaintHouse.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\bin\Debug\net8.0\LeetCode.PaintHouse.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\bin\Debug\net8.0\LeetCode.PaintHouse.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\bin\Debug\net8.0\LeetCode.PaintHouse.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\bin\Debug\net8.0\LeetCode.PaintHouse.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\refint\LeetCode.PaintHouse.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\LeetCode.PaintHouse.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PaintHouse\obj\Debug\net8.0\ref\LeetCode.PaintHouse.dll

@@ -382,6 +382,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TargetSum", "LeetC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CoinChange2", "LeetCode.CoinChange2\LeetCode.CoinChange2.csproj", "{5FEE9D99-85EF-4CF9-8862-CB757C216EE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PaintHouse", "LeetCode.PaintHouse\LeetCode.PaintHouse.csproj", "{98EDD748-A521-4B28-9D22-B910F0AF9F7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1152,5 +1154,9 @@ Global
 		{5FEE9D99-85EF-4CF9-8862-CB757C216EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FEE9D99-85EF-4CF9-8862-CB757C216EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FEE9D99-85EF-4CF9-8862-CB757C216EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EDD748-A521-4B28-9D22-B910F0AF9F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EDD748-A521-4B28-9D22-B910F0AF9F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EDD748-A521-4B28-9D22-B910F0AF9F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EDD748-A521-4B28-9D22-B910F0AF9F7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
