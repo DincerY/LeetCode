@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.IsInterleave4("aabcc", "dbbca", "aadbbcbcac");
+solution.IsInterleave3("aabcc", "dbbca", "aadbbcbcac");
 //solution.IsInterleave4("aabcc", "dbbca", "aadbbbaccc");
 
 
