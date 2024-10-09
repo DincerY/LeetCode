@@ -5,7 +5,7 @@
 // });
 solution.MaxProduct3(new[]
 {
-    2,3,-5,4,-2
+    2, 3, -5, 4, -2
 });
 
 solution.SubArray(new[]
@@ -41,14 +41,17 @@ public partial class Solution
 }
 
 //Needcode solution
-public partial class Solution {
+public partial class Solution
+{
     public int MaxProduct2(int[] nums)
     {
         int res = nums.Max();
         int curMin = 1, curMax = 1;
 
-        foreach (int n in nums) {
-            if (n == 0) {
+        foreach (int n in nums)
+        {
+            if (n == 0)
+            {
                 curMin = 1;
                 curMax = 1;
                 continue;
@@ -61,17 +64,20 @@ public partial class Solution {
         return res;
     }
 }
-public partial class Solution {
+
+public partial class Solution
+{
     public int MaxProduct3(int[] nums)
     {
-        Dictionary<int, (int, int)> dp = new();
+        Dictionary<int, (int min, int max)> dp = new();
         dp[0] = (nums[0], nums[0]);
         for (int i = 1; i < nums.Length; i++)
         {
-            dp[i] = (Math.Min(nums[i], nums[i]*nums[i-1]),Math.Max(nums[i], nums[i]*nums[i-1]));
+            dp[i] = (Math.Min(nums[i], Math.Min(dp[i - 1].min * nums[i], dp[i - 1].max * nums[i])),
+                Math.Max(nums[i], Math.Max(dp[i - 1].min * nums[i], dp[i - 1].max * nums[i])));
         }
-
-        return 0;
+        var max = dp.Select(kv => kv.Value).Select(a => a.max).Max();
+        return max;
     }
 }
 
@@ -85,7 +91,7 @@ public partial class Solution
         {
             for (int j = 0; j <= nums.Length - i; j++)
             {
-                list.Add(nums.Skip(j).Take(i).ToList()); 
+                list.Add(nums.Skip(j).Take(i).ToList());
             }
         }
         list.Add(nums.ToList());
