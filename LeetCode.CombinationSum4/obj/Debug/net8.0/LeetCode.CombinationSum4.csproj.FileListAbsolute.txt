@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\bin\Debug\net8.0\LeetCode.CombinationSum4.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\bin\Debug\net8.0\LeetCode.CombinationSum4.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\bin\Debug\net8.0\LeetCode.CombinationSum4.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\bin\Debug\net8.0\LeetCode.CombinationSum4.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\bin\Debug\net8.0\LeetCode.CombinationSum4.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\refint\LeetCode.CombinationSum4.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\LeetCode.CombinationSum4.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CombinationSum4\obj\Debug\net8.0\ref\LeetCode.CombinationSum4.dll

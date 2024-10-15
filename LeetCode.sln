@@ -386,6 +386,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PaintHouse", "Leet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.JumpGame2", "LeetCode.JumpGame2\LeetCode.JumpGame2.csproj", "{35314E7A-B991-4216-BCAE-91406655BD3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CombinationSum4", "LeetCode.CombinationSum4\LeetCode.CombinationSum4.csproj", "{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1164,5 +1166,9 @@ Global
 		{35314E7A-B991-4216-BCAE-91406655BD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35314E7A-B991-4216-BCAE-91406655BD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35314E7A-B991-4216-BCAE-91406655BD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
