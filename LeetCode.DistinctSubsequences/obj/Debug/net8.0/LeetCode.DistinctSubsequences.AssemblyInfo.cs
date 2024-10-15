@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.DistinctSubsequences")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e36c18eeee16d949100a4b31868352c82697c30d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.DistinctSubsequences")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.DistinctSubsequences")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

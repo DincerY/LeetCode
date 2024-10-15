@@ -3,10 +3,8 @@ solution.NumDistinct2("rabbbit", "rabbit");
 //solution.NumDistinct2("babgbag", "bag");
 
 
-
 //var a = solution.NumDistinct2("adbdadeecadeadeccaeaabdabdbcdabddddabcaaadbabaaedeeddeaeebcdeabcaaaeeaeeabcddcebddebeebedaecccbdcbcedbdaeaedcdebeecdaaedaacadbdccabddaddacdddc", "bcddceeeebecbc");
 //Console.WriteLine(a);
-
 
 
 Console.WriteLine("Hello, World!");
@@ -16,8 +14,8 @@ public partial class Solution
 {
     public int NumDistinct(string s, string t)
     {
-        int val = 0;  
-        bool isFor = false; 
+        int val = 0;
+        bool isFor = false;
         void Recursion(int idx, int tidx)
         {
             for (int i = idx; i < s.Length; i++)
@@ -30,9 +28,8 @@ public partial class Solution
                 }
                 if (s[i] == t[tidx])
                 {
-                    Recursion(i +1, tidx +1);
-                    
-                } 
+                    Recursion(i + 1, tidx + 1);
+                }
             }
             if (!isFor && tidx == t.Length)
             {
@@ -40,7 +37,7 @@ public partial class Solution
             }
             isFor = false;
         }
-        Recursion(0,0);
+        Recursion(0, 0);
         return val;
     }
 }
@@ -49,63 +46,39 @@ public partial class Solution
 //it is not mine solution
 public partial class Solution
 {
-    public int NumDistinct2(string s, string t) {
+    public int NumDistinct2(string s, string t)
+    {
         Dictionary<(int, int), int> cache = new Dictionary<(int, int), int>();
 
-        int Dfs(int i, int j) {
-            if (j == t.Length) {
+        int Dfs(int i, int j)
+        {
+            if (j == t.Length)
+            {
                 return 1;
             }
-            if (i == s.Length) {
+
+            if (i == s.Length)
+            {
                 return 0;
             }
-            if (cache.ContainsKey((i, j))) {
+
+            if (cache.ContainsKey((i, j)))
+            {
                 return cache[(i, j)];
             }
 
-            if (s[i] == t[j]) {
+            if (s[i] == t[j])
+            {
                 cache[(i, j)] = Dfs(i + 1, j + 1) + Dfs(i + 1, j);
-            } else {
+            }
+            else
+            {
                 cache[(i, j)] = Dfs(i + 1, j);
             }
+
             return cache[(i, j)];
         }
 
         return Dfs(0, 0);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
