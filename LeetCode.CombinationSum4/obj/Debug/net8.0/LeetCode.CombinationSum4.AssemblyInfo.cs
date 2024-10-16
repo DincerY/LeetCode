@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CombinationSum4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e5ea9abb1802a43c4edcf4137d79f56a7a0412")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7e4f83dd6f6a6971f71812a98e69c39f9de5681")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CombinationSum4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CombinationSum4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
