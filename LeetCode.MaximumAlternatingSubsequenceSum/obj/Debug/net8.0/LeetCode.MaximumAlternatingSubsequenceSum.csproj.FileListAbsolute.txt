@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\bin\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\bin\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\bin\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\bin\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\bin\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\refint\LeetCode.MaximumAlternatingSubsequenceSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\LeetCode.MaximumAlternatingSubsequenceSum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAlternatingSubsequenceSum\obj\Debug\net8.0\ref\LeetCode.MaximumAlternatingSubsequenceSum.dll

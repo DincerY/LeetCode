@@ -388,6 +388,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.JumpGame2", "LeetC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CombinationSum4", "LeetCode.CombinationSum4\LeetCode.CombinationSum4.csproj", "{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumAlternatingSubsequenceSum", "LeetCode.MaximumAlternatingSubsequenceSum\LeetCode.MaximumAlternatingSubsequenceSum.csproj", "{CB9BDA80-E751-44F3-A04D-067F875632E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1170,5 +1172,9 @@ Global
 		{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9BDA80-E751-44F3-A04D-067F875632E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9BDA80-E751-44F3-A04D-067F875632E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9BDA80-E751-44F3-A04D-067F875632E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9BDA80-E751-44F3-A04D-067F875632E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
