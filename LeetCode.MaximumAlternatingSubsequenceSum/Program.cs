@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.MaxAlternatingSum(new[] { 4, 2, 5, 3 });
+solution.MaxAlternatingSum2(new[] { 4, 2, 5, 3 });
 solution.MaxAlternatingSum(new[] { 5, 6, 7, 8 });
 
 
@@ -10,11 +10,11 @@ Console.WriteLine("Hello, World!");
 //too hard
 public partial class Solution
 {
-    public int MaxAlternatingSum(int[] nums)
+    public long MaxAlternatingSum(int[] nums)
     {
-        Dictionary<(int, bool), int> dp = new Dictionary<(int, bool), int>();
+        Dictionary<(int, bool), long> dp = new Dictionary<(int, bool), long>();
 
-        int Dfs(int i, bool even)
+        long Dfs(int i, bool even)
         {
             if (i == nums.Length)
             {
@@ -32,5 +32,23 @@ public partial class Solution
         }
 
         return Dfs(0, true);
+    }
+}
+
+public partial class Solution
+{
+    public long MaxAlternatingSum2(int[] nums)
+    {
+        long sumEven = 0, sumOdd = 0;
+
+        for (int i = nums.Count() - 1; i >= 0; i--)
+        {
+            long tmpEven = Math.Max(sumOdd + nums[i], sumEven);
+            long tmpOdd = Math.Max(sumEven - nums[i], sumOdd);
+            sumEven = tmpEven;
+            sumOdd = tmpOdd;
+        }
+
+        return sumEven;
     }
 }
