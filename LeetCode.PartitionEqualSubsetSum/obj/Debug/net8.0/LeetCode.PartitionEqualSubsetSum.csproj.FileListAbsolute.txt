@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\bin\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\bin\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\bin\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\bin\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\bin\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\refint\LeetCode.PartitionEqualSubsetSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\LeetCode.PartitionEqualSubsetSum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionEqualSubsetSum\obj\Debug\net8.0\ref\LeetCode.PartitionEqualSubsetSum.dll
