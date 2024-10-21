@@ -21,10 +21,10 @@ public class Solution
             HashSet<int> nextDP = new HashSet<int>();
             foreach (int t in dp)
             {
-                /*if (t + nums[i] == target)
+                if (t + nums[i] == target)
                 {
                     return true;
-                }*/
+                }
 
                 nextDP.Add(t + nums[i]);
                 nextDP.Add(t);
