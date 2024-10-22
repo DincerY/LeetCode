@@ -1,5 +1,5 @@
 ﻿Solution solution = new Solution();
-solution.Generate2(5);
+solution.Generate3(5);
 
 
 Console.WriteLine("Hello, World!");
@@ -76,5 +76,31 @@ public partial class Solution
         }
 
         return ans;
+    }
+}
+
+
+public partial class Solution
+{
+    public IList<IList<int>> Generate3(int numRows)
+    {
+        var res = new List<IList<int>> { new List<int> { 1 } };
+
+        for (int i = 0; i < numRows - 1; i++)
+        {
+            var temp = new List<int> { 0 };
+            temp.AddRange(res[^1]);
+            temp.Add(0);
+            var row = new List<int>();
+
+            for (int j = 0; j < res[^1].Count + 1; j++)
+            {
+                row.Add(temp[j] + temp[j + 1]);
+            }
+
+            res.Add(row);
+        }
+
+        return res;
     }
 }
