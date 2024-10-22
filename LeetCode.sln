@@ -392,6 +392,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumAlternating
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PartitionEqualSubsetSum", "LeetCode.PartitionEqualSubsetSum\LeetCode.PartitionEqualSubsetSum.csproj", "{AE03113E-80DF-4C9A-841E-05F28824D170}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AllPossibleFullBinaryTrees", "LeetCode.AllPossibleFullBinaryTrees\LeetCode.AllPossibleFullBinaryTrees.csproj", "{55543529-3C1D-4032-B357-6F0CE7AA8E4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1182,5 +1184,9 @@ Global
 		{AE03113E-80DF-4C9A-841E-05F28824D170}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE03113E-80DF-4C9A-841E-05F28824D170}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE03113E-80DF-4C9A-841E-05F28824D170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55543529-3C1D-4032-B357-6F0CE7AA8E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55543529-3C1D-4032-B357-6F0CE7AA8E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55543529-3C1D-4032-B357-6F0CE7AA8E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55543529-3C1D-4032-B357-6F0CE7AA8E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
