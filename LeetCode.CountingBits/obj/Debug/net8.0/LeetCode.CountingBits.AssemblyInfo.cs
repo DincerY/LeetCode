@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CountingBits")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b55a88193ae7db55c3a1f5c1dd8d99c527cdd36e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CountingBits")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CountingBits")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

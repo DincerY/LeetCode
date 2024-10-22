@@ -1,9 +1,15 @@
 ﻿Solution solution = new();
+// solution.MinPathSum3(new[]
+// {
+//     new[] { 1, 3, 1 },
+//     new[] { 1, 5, 1 },
+//     new[] { 4, 2, 1 },
+// });
+
 solution.MinPathSum3(new[]
 {
-    new[] { 1, 3, 1 },
-    new[] { 1, 5, 1 },
-    new[] { 4, 2, 1 },
+    new[] { 1, 2, 3 },
+    new[] { 4, 5, 6 }
 });
 
 Console.WriteLine("Hello, World!");
@@ -69,27 +75,27 @@ public partial class Solution
 {
     public int MinPathSum3(int[][] grid)
     {
-        int[,] dp = new int[grid.Length,grid[0].Length];
-        
+        int[,] dp = new int[grid.Length+1,grid[0].Length+1];
+        for (int i = 0; i < grid.Length+1; i++)
+        {
+            for (int j = 0; j < grid[0].Length+1; j++)
+            {
+                dp[i, j] = int.MaxValue;
+            }
+        }
         for (int i = grid.Length-1; i >= 0; i--)
         {
             for (int j = grid[0].Length-1; j >= 0; j--)
             {
                 dp[i, j] = grid[i][j];
-                if (i + 1 < grid.Length)
+                if (i+1 == grid.Length && j+1 == grid[0].Length)
                 {
-                    dp[i, j] +=  dp[i + 1, j];
+                    continue;
                 }
 
-                if (j + 1 < grid[0].Length)
-                {
-                    dp[i, j] +=  dp[i + 1, j];
-                }
+                dp[i, j] += Math.Min(dp[i+1,j], dp[i,j+1]);
             }
         }
-        
-        
-
         return dp[0, 0];
     }
 }
