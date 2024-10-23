@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\bin\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\bin\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\bin\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\bin\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\bin\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\refint\LeetCode.AllPossibleFullBinaryTrees.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\LeetCode.AllPossibleFullBinaryTrees.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AllPossibleFullBinaryTrees\obj\Debug\net8.0\ref\LeetCode.AllPossibleFullBinaryTrees.dll
