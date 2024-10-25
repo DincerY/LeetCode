@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\bin\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\refint\LeetCode.BestTimeToBuyAndSellStockWithCooldown.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\LeetCode.BestTimeToBuyAndSellStockWithCooldown.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BestTimeToBuyAndSellStockWithCooldown\obj\Debug\net8.0\ref\LeetCode.BestTimeToBuyAndSellStockWithCooldown.dll

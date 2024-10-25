@@ -396,6 +396,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AllPossibleFullBin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.StoneGame", "LeetCode.StoneGame\LeetCode.StoneGame.csproj", "{AB42A3AE-9376-40F8-8CEA-5BFEFA6486E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStockWithCooldown", "LeetCode.BestTimeToBuyAndSellStockWithCooldown\LeetCode.BestTimeToBuyAndSellStockWithCooldown.csproj", "{965190B9-1C98-4D7E-A789-84D480C4ED61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1194,5 +1196,9 @@ Global
 		{AB42A3AE-9376-40F8-8CEA-5BFEFA6486E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB42A3AE-9376-40F8-8CEA-5BFEFA6486E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB42A3AE-9376-40F8-8CEA-5BFEFA6486E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965190B9-1C98-4D7E-A789-84D480C4ED61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965190B9-1C98-4D7E-A789-84D480C4ED61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965190B9-1C98-4D7E-A789-84D480C4ED61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965190B9-1C98-4D7E-A789-84D480C4ED61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

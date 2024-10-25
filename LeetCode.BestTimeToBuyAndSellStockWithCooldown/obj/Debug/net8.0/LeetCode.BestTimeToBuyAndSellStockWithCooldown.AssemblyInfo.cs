@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.StoneGame")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BestTimeToBuyAndSellStockWithCooldown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.StoneGame")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.StoneGame")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af1d62359181dde515c091143d44edd16ac6f2c")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BestTimeToBuyAndSellStockWithCooldown")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BestTimeToBuyAndSellStockWithCooldown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
