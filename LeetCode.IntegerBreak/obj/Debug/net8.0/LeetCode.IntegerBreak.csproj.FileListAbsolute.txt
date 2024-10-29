@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\bin\Debug\net8.0\LeetCode.IntegerBreak.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\bin\Debug\net8.0\LeetCode.IntegerBreak.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\bin\Debug\net8.0\LeetCode.IntegerBreak.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\bin\Debug\net8.0\LeetCode.IntegerBreak.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\bin\Debug\net8.0\LeetCode.IntegerBreak.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\refint\LeetCode.IntegerBreak.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\LeetCode.IntegerBreak.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IntegerBreak\obj\Debug\net8.0\ref\LeetCode.IntegerBreak.dll
