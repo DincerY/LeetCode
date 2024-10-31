@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.NumberOfLongestIncreasingSubsequence")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.DeleteAndEarn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa3b160cad2153efe098f14f1f26cb17f16705d2")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.NumberOfLongestIncreasingSubsequence")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.NumberOfLongestIncreasingSubsequence")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.DeleteAndEarn")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.DeleteAndEarn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

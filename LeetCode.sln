@@ -400,6 +400,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntegerBreak", "LeetCode.IntegerBreak\LeetCode.IntegerBreak.csproj", "{2344AB46-72D4-4A53-B1B0-82FC2363AB2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DeleteAndEarn", "LeetCode.DeleteAndEarn\LeetCode.DeleteAndEarn.csproj", "{AD9658AD-F9AB-4231-87A3-73C67539934E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1206,5 +1208,9 @@ Global
 		{2344AB46-72D4-4A53-B1B0-82FC2363AB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2344AB46-72D4-4A53-B1B0-82FC2363AB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2344AB46-72D4-4A53-B1B0-82FC2363AB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9658AD-F9AB-4231-87A3-73C67539934E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9658AD-F9AB-4231-87A3-73C67539934E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9658AD-F9AB-4231-87A3-73C67539934E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9658AD-F9AB-4231-87A3-73C67539934E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
