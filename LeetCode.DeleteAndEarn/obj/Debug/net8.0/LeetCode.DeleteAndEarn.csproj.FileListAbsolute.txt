@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\bin\Debug\net8.0\LeetCode.DeleteAndEarn.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\bin\Debug\net8.0\LeetCode.DeleteAndEarn.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\bin\Debug\net8.0\LeetCode.DeleteAndEarn.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\bin\Debug\net8.0\LeetCode.DeleteAndEarn.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\bin\Debug\net8.0\LeetCode.DeleteAndEarn.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\refint\LeetCode.DeleteAndEarn.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\LeetCode.DeleteAndEarn.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DeleteAndEarn\obj\Debug\net8.0\ref\LeetCode.DeleteAndEarn.dll
