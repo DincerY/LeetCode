@@ -8,60 +8,39 @@ solution.DeleteAndEarn(new[] { 2, 3, 3, 5, 7, 7 });
 
 Console.WriteLine("Hello, World!");
 
-
-public partial class Solution
-{
-    public int DeleteAndEarn(int[] nums)
-    {
-        Array.Sort(nums);
-        Dictionary<int, int> dp = new();
-        List<int> list = new();
-        for (int i = 0; i < nums.Length; i++)
-        {
-            if (!list.Contains(nums[i]))
-            {
-                list.Add(nums[i]);
-            }
-
-            if (dp.ContainsKey(nums[i]))
-            {
-                dp[nums[i]]++;
-            }
-            else
-            {
-                dp.Add(nums[i], 1);
+//NeedCode solution
+public partial class Solution {
+    public int DeleteAndEarn(int[] nums) {
+        var count = new Dictionary<int, int>();
+        foreach (var num in nums) {
+            if (count.ContainsKey(num)) {
+                count[num]++;
+            } else {
+                count[num] = 1;
             }
         }
 
-        bool isClosed;
-        int maxValue = 0;
+        var uniqueNums = count.Keys.ToList();
+        uniqueNums.Sort();
 
-        maxValue = dp[list[^1]] * list[^1];
-        isClosed = list[^2] + 1 == list[^1];
+        int earn1 = 0, earn2 = 0;
+        for (int i = 0; i < uniqueNums.Count; i++) {
+            int curEarn = uniqueNums[i] * count[uniqueNums[i]];
 
-        for (int i = list.Count -2; i >= 0; i--)
-        {
-            if (isClosed)
-            {
-                if (maxValue > dp[list[i]] * list[i])
-                {
-                    isClosed = false;
-                }
-                else
-                {
-                    maxValue = dp[list[i]] * list[i];
-                    isClosed = false;
-                }
-            }
-            else
-            {
-                maxValue += dp[list[i]] * list[i];
+            if (i > 0 && uniqueNums[i] == uniqueNums[i - 1] + 1) {
+                int temp = earn2;
+                earn2 = Math.Max(curEarn + earn1, earn2);
+                earn1 = temp;
+            } else {
+                int temp = earn2;
+                earn2 = curEarn + earn2;
+                earn1 = temp;
             }
         }
-
-        return maxValue;
+        return earn2;
     }
 }
+
 
 
 public partial class Solution

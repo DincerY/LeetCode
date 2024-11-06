@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.DeleteAndEarn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c400b372233acda4b44755fcdb38a783efb641")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3d3e8919e3e514607d07954a2a097544b6dc7cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.DeleteAndEarn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.DeleteAndEarn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
