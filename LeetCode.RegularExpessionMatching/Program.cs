@@ -1,9 +1,11 @@
 ﻿using System.Collections.Generic;
 
 Solution solution = new();
-solution.IsMatch("aa", "a");
+//solution.IsMatch2("aa", "a*");
 
+solution.IsMatch2("aab", "c*a*b");
 
+//NeedCode solutions
 public partial class Solution
 {
     public bool IsMatch(string s, string p)
