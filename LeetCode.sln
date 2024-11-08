@@ -402,6 +402,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntegerBreak", "Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DeleteAndEarn", "LeetCode.DeleteAndEarn\LeetCode.DeleteAndEarn.csproj", "{AD9658AD-F9AB-4231-87A3-73C67539934E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BurstBalloons", "LeetCode.BurstBalloons\LeetCode.BurstBalloons.csproj", "{5608FEF2-5BE6-4801-B368-0D204173840C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1212,5 +1214,9 @@ Global
 		{AD9658AD-F9AB-4231-87A3-73C67539934E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD9658AD-F9AB-4231-87A3-73C67539934E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD9658AD-F9AB-4231-87A3-73C67539934E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5608FEF2-5BE6-4801-B368-0D204173840C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5608FEF2-5BE6-4801-B368-0D204173840C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5608FEF2-5BE6-4801-B368-0D204173840C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5608FEF2-5BE6-4801-B368-0D204173840C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

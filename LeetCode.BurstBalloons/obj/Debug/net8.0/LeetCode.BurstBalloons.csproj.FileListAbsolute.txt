@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\bin\Debug\net8.0\LeetCode.BurstBalloons.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\bin\Debug\net8.0\LeetCode.BurstBalloons.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\bin\Debug\net8.0\LeetCode.BurstBalloons.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\bin\Debug\net8.0\LeetCode.BurstBalloons.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\bin\Debug\net8.0\LeetCode.BurstBalloons.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\refint\LeetCode.BurstBalloons.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\LeetCode.BurstBalloons.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BurstBalloons\obj\Debug\net8.0\ref\LeetCode.BurstBalloons.dll
