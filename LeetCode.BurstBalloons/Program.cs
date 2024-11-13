@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.MaxCoins2(new[] { 3, 1, 5, 8 });
+solution.MaxCoins(new[] { 3, 1, 5, 8 });
 
 Console.WriteLine("Hello, World!");
 
@@ -40,27 +40,3 @@ public partial class Solution
     }
 }
 
-
-public partial class Solution
-{
-    public int MaxCoins2(int[] nums)
-    {
-        List<int> newNums = new List<int> { 1 };
-        newNums.AddRange(nums);
-        newNums.Add(1);
-        void Recursion(List<int> tempNums,int first)
-        {
-            int total = 0;
-            for (int i = first; i < newNums.Count-1; i++)
-            {
-                total += tempNums[i-1] * tempNums[i] * tempNums[i+1];
-                var numList = tempNums.ToList();
-                numList.RemoveAt(i);
-                Recursion(numList,i + 1);
-            }
-        }
-
-        Recursion(newNums,1);
-        return 0;
-    }
-}

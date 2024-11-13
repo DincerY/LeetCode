@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\bin\Debug\net8.0\LeetCode.DivisorGame.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\bin\Debug\net8.0\LeetCode.DivisorGame.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\bin\Debug\net8.0\LeetCode.DivisorGame.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\bin\Debug\net8.0\LeetCode.DivisorGame.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\bin\Debug\net8.0\LeetCode.DivisorGame.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\refint\LeetCode.DivisorGame.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\LeetCode.DivisorGame.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DivisorGame\obj\Debug\net8.0\ref\LeetCode.DivisorGame.dll
