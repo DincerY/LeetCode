@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\bin\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\bin\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\bin\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\bin\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\bin\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\refint\LeetCode.MaximumRepeatingSubstring.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\LeetCode.MaximumRepeatingSubstring.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumRepeatingSubstring\obj\Debug\net8.0\ref\LeetCode.MaximumRepeatingSubstring.dll
