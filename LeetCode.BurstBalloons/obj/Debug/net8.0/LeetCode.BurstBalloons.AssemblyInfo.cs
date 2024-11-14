@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BurstBalloons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+258f37833d67bc24bf7e015386719d146ecaca67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BurstBalloons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BurstBalloons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
