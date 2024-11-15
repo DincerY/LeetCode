@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.GenerateParentheses\bin\Debug\LeetCode.GenerateParentheses.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.GenerateParentheses\bin\Debug\LeetCode.GenerateParentheses.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.GenerateParentheses\obj\Debug\LeetCode.GenerateParentheses.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.GenerateParentheses\obj\Debug\LeetCode.GenerateParentheses.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.GenerateParentheses\obj\Debug\LeetCode.GenerateParentheses.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.GenerateParentheses\obj\Debug\LeetCode.GenerateParentheses.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.GenerateParentheses\obj\Debug\LeetCode.GenerateParentheses.pdb
