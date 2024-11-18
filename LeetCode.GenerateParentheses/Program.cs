@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 Solution solution = new();
 var a = solution.GenerateParenthesis(3);
 Console.WriteLine(a);
 
-public class Solution
+public partial class Solution
 {
     public IList<string> GenerateParenthesis(int n)
     {
@@ -37,5 +38,25 @@ public class Solution
 
         BackTrack(0, 0);
         return res;
+    }
+}
+
+//Kombinasyon mantığı
+public partial class Solution
+{
+    private List<List<int>> res = new();
+    private List<int> list = new List<int>() { 1, 2, 3 };
+
+    public void Combination(int index, List<int> nums)
+    {
+        if (index == list.Count)
+        {
+            res.Add(nums.ToList());
+            return;
+        }
+        var temp = nums.ToList();
+        nums.Add(list[index]);
+        Combination(index+1,nums);
+        Combination(index+1,temp);
     }
 }
