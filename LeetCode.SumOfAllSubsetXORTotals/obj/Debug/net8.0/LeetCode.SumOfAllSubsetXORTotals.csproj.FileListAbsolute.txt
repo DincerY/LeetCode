@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\bin\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\bin\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\bin\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\bin\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\bin\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\refint\LeetCode.SumOfAllSubsetXORTotals.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\LeetCode.SumOfAllSubsetXORTotals.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SumOfAllSubsetXORTotals\obj\Debug\net8.0\ref\LeetCode.SumOfAllSubsetXORTotals.dll
