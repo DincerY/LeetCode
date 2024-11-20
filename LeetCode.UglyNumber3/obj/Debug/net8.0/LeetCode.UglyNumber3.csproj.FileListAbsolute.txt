@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\bin\Debug\net8.0\LeetCode.UglyNumber3.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\bin\Debug\net8.0\LeetCode.UglyNumber3.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\bin\Debug\net8.0\LeetCode.UglyNumber3.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\bin\Debug\net8.0\LeetCode.UglyNumber3.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\bin\Debug\net8.0\LeetCode.UglyNumber3.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\refint\LeetCode.UglyNumber3.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\LeetCode.UglyNumber3.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.UglyNumber3\obj\Debug\net8.0\ref\LeetCode.UglyNumber3.dll
