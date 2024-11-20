@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\bin\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\bin\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\bin\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\bin\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\bin\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\refint\LeetCode.DistributeCandiesAmongChildren.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\LeetCode.DistributeCandiesAmongChildren.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DistributeCandiesAmongChildren\obj\Debug\net8.0\ref\LeetCode.DistributeCandiesAmongChildren.dll
