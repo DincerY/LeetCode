@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SumOfAllSubsetXORTotals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d693c335161f7c9e179fa618884dd98a97c91f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86998ee387f2f5364a181db86de2e79b54fa309b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SumOfAllSubsetXORTotals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SumOfAllSubsetXORTotals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

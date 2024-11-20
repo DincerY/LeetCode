@@ -1,18 +1,14 @@
-﻿using System.Numerics;
-
-Solution solution = new();
+﻿Solution solution = new();
 solution.SubsetXORSum(new[] { 1, 3 });
 
 Console.WriteLine("Hello, World!");
 
-
-public class Solution
+public partial class Solution
 {
     List<List<int>> subset = new List<List<int>>();
     public int SubsetXORSum(int[] nums)
     {
         Combination(nums,0,new List<int>());
-        Combination2(nums,0,0);
 
         List<int> res = new List<int>();
         int xorVal = 0;
@@ -27,7 +23,6 @@ public class Solution
         }
         return res.Sum();
     }
-
     private void Combination(int[] nums,int index,List<int> list)
     {
         if (index == nums.Length)
@@ -42,8 +37,18 @@ public class Solution
         Combination(nums,index+1,list);
 
     }
-    
+}
+
+//More efficient
+public partial class Solution
+{
     List<int> all = new List<int>();
+    public int SubsetXORSum2(int[] nums)
+    {
+        Combination2(nums,0,0);
+        return all.Sum();
+    }
+    
     private void Combination2(int[] nums,int index,int com)
     {
         if (index == nums.Length)
@@ -51,11 +56,10 @@ public class Solution
             all.Add(com);
             return;
         }
-
         int temp = com;
         com ^= nums[index];
         Combination2(nums,index+1,com);
         Combination2(nums,index+1,temp);
-
     }
+    
 }
