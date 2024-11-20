@@ -56,10 +56,23 @@ public partial class Solution
             all.Add(com);
             return;
         }
-        int temp = com;
-        com ^= nums[index];
+        Combination2(nums,index+1,com ^ nums[index]);
         Combination2(nums,index+1,com);
-        Combination2(nums,index+1,temp);
+    }
+}
+
+//Most efficient
+public partial class Solution
+{
+    public int SubsetXORSum3(int[] nums)
+    {
+        return Combination3(nums,0,0);
+    }
+    private int Combination3(int[] nums,int index,int com)
+    {
+        if (index == nums.Length)
+            return com;
+        return Combination3(nums,index+1,com ^ nums[index]) + Combination3(nums,index+1,com);
     }
     
 }
