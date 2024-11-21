@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.DistributeCandiesAmongChildren")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CountSortedVowelStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.DistributeCandiesAmongChildren")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.DistributeCandiesAmongChildren")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5fe7ba0969b343877e98530a1def89ad87af74d")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CountSortedVowelStrings")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CountSortedVowelStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\bin\Debug\net8.0\LeetCode.CountSortedVowelStrings.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\bin\Debug\net8.0\LeetCode.CountSortedVowelStrings.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\bin\Debug\net8.0\LeetCode.CountSortedVowelStrings.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\bin\Debug\net8.0\LeetCode.CountSortedVowelStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\bin\Debug\net8.0\LeetCode.CountSortedVowelStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\refint\LeetCode.CountSortedVowelStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\LeetCode.CountSortedVowelStrings.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSortedVowelStrings\obj\Debug\net8.0\ref\LeetCode.CountSortedVowelStrings.dll
