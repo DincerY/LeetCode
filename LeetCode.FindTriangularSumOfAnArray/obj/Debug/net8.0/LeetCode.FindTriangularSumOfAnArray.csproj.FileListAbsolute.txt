@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\bin\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\bin\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\bin\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\bin\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\bin\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\refint\LeetCode.FindTriangularSumOfAnArray.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\LeetCode.FindTriangularSumOfAnArray.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTriangularSumOfAnArray\obj\Debug\net8.0\ref\LeetCode.FindTriangularSumOfAnArray.dll
