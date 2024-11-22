@@ -418,7 +418,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountSortedVowelSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindTriangularSumOfAnArray", "LeetCode.FindTriangularSumOfAnArray\LeetCode.FindTriangularSumOfAnArray.csproj", "{2C2D4493-B6DC-4B19-B70C-6F5EB8803A11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfWaysToReachAPositionAfterExactlyKSteps", "LeetCode.NumberOfWaysToReachAPositionAfterExactlyKSteps\LeetCode.NumberOfWaysToReachAPositionAfterExactlyKSteps.csproj", "{EBAB5E85-D522-4F28-A305-F8FF4AE93855}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfMusicPlaylists", "LeetCode.NumberOfMusicPlaylists\LeetCode.NumberOfMusicPlaylists.csproj", "{388F0173-2031-4DAE-9ED0-9F43D7CF079B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1262,9 +1262,9 @@ Global
 		{2C2D4493-B6DC-4B19-B70C-6F5EB8803A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C2D4493-B6DC-4B19-B70C-6F5EB8803A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C2D4493-B6DC-4B19-B70C-6F5EB8803A11}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBAB5E85-D522-4F28-A305-F8FF4AE93855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBAB5E85-D522-4F28-A305-F8FF4AE93855}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBAB5E85-D522-4F28-A305-F8FF4AE93855}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBAB5E85-D522-4F28-A305-F8FF4AE93855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388F0173-2031-4DAE-9ED0-9F43D7CF079B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388F0173-2031-4DAE-9ED0-9F43D7CF079B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388F0173-2031-4DAE-9ED0-9F43D7CF079B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388F0173-2031-4DAE-9ED0-9F43D7CF079B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
