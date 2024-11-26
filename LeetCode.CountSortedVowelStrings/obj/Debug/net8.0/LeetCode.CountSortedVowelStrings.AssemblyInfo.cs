@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CountSortedVowelStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f18e3d7a81ff6538973240c9a35f8f0d5a4947f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CountSortedVowelStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CountSortedVowelStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

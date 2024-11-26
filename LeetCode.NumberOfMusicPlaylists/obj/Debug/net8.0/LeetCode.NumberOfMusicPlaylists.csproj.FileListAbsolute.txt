@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\bin\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\bin\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\bin\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\bin\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\bin\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\refint\LeetCode.NumberOfMusicPlaylists.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\LeetCode.NumberOfMusicPlaylists.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfMusicPlaylists\obj\Debug\net8.0\ref\LeetCode.NumberOfMusicPlaylists.dll

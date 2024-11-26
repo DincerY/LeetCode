@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.NumberOfMusicPlaylists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eabb26f4005b629799a898e9a3fb593ee8fdf349")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.NumberOfMusicPlaylists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.NumberOfMusicPlaylists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
