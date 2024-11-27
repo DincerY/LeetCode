@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\bin\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\bin\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\bin\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\bin\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\bin\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\refint\LeetCode.DifferentWaysToAddParentheses.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\LeetCode.DifferentWaysToAddParentheses.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.DifferentWaysToAddParentheses\obj\Debug\net8.0\ref\LeetCode.DifferentWaysToAddParentheses.dll
