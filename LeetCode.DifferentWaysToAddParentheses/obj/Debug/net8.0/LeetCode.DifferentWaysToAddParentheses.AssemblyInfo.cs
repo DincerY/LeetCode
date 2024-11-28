@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.DifferentWaysToAddParentheses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6199090dcbde42fd6c043c6e246916c13625375")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42d519cbbab60c038f4f0aa4d4bedde3cd05228")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.DifferentWaysToAddParentheses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.DifferentWaysToAddParentheses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
