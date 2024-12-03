@@ -422,6 +422,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfMusicPlayl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DifferentWaysToAddParentheses", "LeetCode.DifferentWaysToAddParentheses\LeetCode.DifferentWaysToAddParentheses.csproj", "{26FDFA0D-E5A5-4B7E-B8FF-F8409E92A334}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HouseRobber3", "LeetCode.HouseRobber3\LeetCode.HouseRobber3.csproj", "{B661EFF3-8F35-4EFA-A6CA-100FB25AE5A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1272,5 +1274,9 @@ Global
 		{26FDFA0D-E5A5-4B7E-B8FF-F8409E92A334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26FDFA0D-E5A5-4B7E-B8FF-F8409E92A334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26FDFA0D-E5A5-4B7E-B8FF-F8409E92A334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B661EFF3-8F35-4EFA-A6CA-100FB25AE5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B661EFF3-8F35-4EFA-A6CA-100FB25AE5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B661EFF3-8F35-4EFA-A6CA-100FB25AE5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B661EFF3-8F35-4EFA-A6CA-100FB25AE5A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
