@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\bin\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\bin\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\bin\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\bin\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\bin\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\refint\LeetCode.CountSquareSubmatricesWithAllOnes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\LeetCode.CountSquareSubmatricesWithAllOnes.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountSquareSubmatricesWithAllOnes\obj\Debug\net8.0\ref\LeetCode.CountSquareSubmatricesWithAllOnes.dll

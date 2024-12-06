@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.MaximalSquare(new[]
+solution.MaximalSquare2(new[]
 {
     new[] { '1', '0', '1', '0', '0' },
     new[] { '1', '0', '1', '1', '1' },
@@ -11,7 +11,7 @@ solution.MaximalSquare(new[]
 Console.WriteLine("Hello, World!");
 
 //NeedCode solution
-public class Solution
+public partial class Solution
 {
     public int MaximalSquare(char[][] matrix)
     {
@@ -44,5 +44,35 @@ public class Solution
 
         Helper(0, 0);
         return (int)Math.Pow(cache.Values.Max(), 2);
+    }
+}
+
+public partial class Solution
+{
+    //Bunu dp ye nasıl çeviricez
+    public int MaximalSquare2(char[][] matrix)
+    {
+        Dictionary<(int, int), int> cache = new Dictionary<(int, int), int>();
+        int Dfs(int row, int col)
+        {
+            if (row == matrix.Length || col == matrix[0].Length)
+            {
+                return 0;
+            }
+
+            int down = Dfs(row + 1, col);
+            int right = Dfs(row, col + 1);
+            int diag = Dfs(row + 1, col + 1);
+            cache[(row, col)] = 0;
+            if (matrix[row][col] == '1')
+            {
+                cache[(row,col)]= 1 + Math.Max(down, Math.Max(right, diag));
+            }
+
+            return cache[(row,col)];
+        }
+
+        Dfs(0, 0);
+        return 0;
     }
 }
