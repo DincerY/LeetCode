@@ -426,6 +426,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HouseRobber3", "Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountSquareSubmatricesWithAllOnes", "LeetCode.CountSquareSubmatricesWithAllOnes\LeetCode.CountSquareSubmatricesWithAllOnes.csproj", "{4A15EA97-E654-4695-84C2-9046B8EE1127}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PartitionArrayForMaximumSum", "LeetCode.PartitionArrayForMaximumSum\LeetCode.PartitionArrayForMaximumSum.csproj", "{C0265E8E-3800-41CD-8B56-D194801F4BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1284,5 +1286,9 @@ Global
 		{4A15EA97-E654-4695-84C2-9046B8EE1127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A15EA97-E654-4695-84C2-9046B8EE1127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A15EA97-E654-4695-84C2-9046B8EE1127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0265E8E-3800-41CD-8B56-D194801F4BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0265E8E-3800-41CD-8B56-D194801F4BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0265E8E-3800-41CD-8B56-D194801F4BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0265E8E-3800-41CD-8B56-D194801F4BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
