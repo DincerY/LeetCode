@@ -49,7 +49,6 @@ public partial class Solution
 
 public partial class Solution
 {
-    //Bunu dp ye nasıl çeviricez
     public int MaximalSquare2(char[][] matrix)
     {
         Dictionary<(int, int), int> cache = new Dictionary<(int, int), int>();
@@ -60,13 +59,17 @@ public partial class Solution
                 return 0;
             }
 
+            if (cache.ContainsKey((row,col)))
+            {
+                return cache[(row, col)];
+            }
             int down = Dfs(row + 1, col);
             int right = Dfs(row, col + 1);
             int diag = Dfs(row + 1, col + 1);
             cache[(row, col)] = 0;
             if (matrix[row][col] == '1')
             {
-                cache[(row,col)]= 1 + Math.Max(down, Math.Max(right, diag));
+                cache[(row,col)]= 1 + Math.Min(down, Math.Min(right, diag));
             }
 
             return cache[(row,col)];
