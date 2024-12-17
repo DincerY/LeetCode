@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseInteger\bin\Debug\LeetCode.ReverseInteger.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseInteger\bin\Debug\LeetCode.ReverseInteger.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.pdb

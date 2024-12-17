@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SwapNodesInPairs\bin\Debug\LeetCode.SwapNodesInPairs.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SwapNodesInPairs\bin\Debug\LeetCode.SwapNodesInPairs.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SwapNodesInPairs\obj\Debug\LeetCode.SwapNodesInPairs.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.SwapNodesInPairs\obj\Debug\LeetCode.SwapNodesInPairs.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SwapNodesInPairs\obj\Debug\LeetCode.SwapNodesInPairs.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SwapNodesInPairs\obj\Debug\LeetCode.SwapNodesInPairs.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SwapNodesInPairs\obj\Debug\LeetCode.SwapNodesInPairs.pdb

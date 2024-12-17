@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveNthNode\bin\Debug\LeetCode.RemoveNthNode.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveNthNode\bin\Debug\LeetCode.RemoveNthNode.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveNthNode\obj\Debug\LeetCode.RemoveNthNode.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveNthNode\obj\Debug\LeetCode.RemoveNthNode.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveNthNode\obj\Debug\LeetCode.RemoveNthNode.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveNthNode\obj\Debug\LeetCode.RemoveNthNode.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RemoveNthNode\obj\Debug\LeetCode.RemoveNthNode.pdb

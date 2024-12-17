@@ -1,5 +1,4 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountAndSay\obj\Debug\LeetCode.CountAndSay.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountAndSay\obj\Debug\LeetCode.CountAndSay.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountAndSay\obj\Debug\LeetCode.CountAndSay.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountAndSay\bin\Debug\LeetCode.CountAndSay.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountAndSay\bin\Debug\LeetCode.CountAndSay.pdb

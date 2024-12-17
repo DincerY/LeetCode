@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe
 C:\Users\dince\RiderProjects\LeetCode\DepthFirstSearch\bin\Debug\DepthFirstSearch.pdb
 C:\Users\dince\RiderProjects\LeetCode\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\DepthFirstSearch\obj\Debug\DepthFirstSearch.exe
 C:\Users\dince\RiderProjects\LeetCode\DepthFirstSearch\obj\Debug\DepthFirstSearch.pdb

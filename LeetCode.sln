@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TwoSum", "LeetCode.TwoSum\LeetCode.TwoSum.csproj", "{572F6ABA-B205-474A-9A1E-1C4F85BCBE25}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomHashTable", "CustomHashTable\CustomHashTable.csproj", "{4B663F79-C179-4807-BF23-2A29EBC72878}"
@@ -94,339 +97,341 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WildcardMatching",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{2BA9C03A-C55C-4D80-A6A6-E51AA8A764A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.KthLargestElement", "LeetCode.KthLargestElement\LeetCode.KthLargestElement.csproj", "{419E347B-35A7-4F31-90AF-42916686B147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.KthLargestElement", "LeetCode.KthLargestElement\LeetCode.KthLargestElement.csproj", "{419E347B-35A7-4F31-90AF-42916686B147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Permutations", "LeetCode.Permutations\LeetCode.Permutations.csproj", "{B32D37C7-5AE0-4E61-AEF7-38EEB601BA65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Permutations", "LeetCode.Permutations\LeetCode.Permutations.csproj", "{B32D37C7-5AE0-4E61-AEF7-38EEB601BA65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Permutations2", "LeetCode.Permutations2\LeetCode.Permutations2.csproj", "{DED71F33-1945-418A-A897-BC6892A09DF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Permutations2", "LeetCode.Permutations2\LeetCode.Permutations2.csproj", "{DED71F33-1945-418A-A897-BC6892A09DF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RotateImage", "LeetCode.RotateImage\LeetCode.RotateImage.csproj", "{D2D8A7DA-6766-47C6-90D4-B4C8D7A2721D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RotateImage", "LeetCode.RotateImage\LeetCode.RotateImage.csproj", "{D2D8A7DA-6766-47C6-90D4-B4C8D7A2721D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GroupAnagrams", "LeetCode.GroupAnagrams\LeetCode.GroupAnagrams.csproj", "{B4FAA19C-3299-489F-BA07-EB606EDB503B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.GroupAnagrams", "LeetCode.GroupAnagrams\LeetCode.GroupAnagrams.csproj", "{B4FAA19C-3299-489F-BA07-EB606EDB503B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.N-Queens", "LeetCode.N-Queens\LeetCode.N-Queens.csproj", "{2FD929EE-70C7-4958-94CE-9C1B8D431381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.N-Queens", "LeetCode.N-Queens\LeetCode.N-Queens.csproj", "{2FD929EE-70C7-4958-94CE-9C1B8D431381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumSubarray", "LeetCode.MaximumSubarray\LeetCode.MaximumSubarray.csproj", "{5AA8C0B5-9FCA-4F3C-83BF-CE25F94715B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumSubarray", "LeetCode.MaximumSubarray\LeetCode.MaximumSubarray.csproj", "{5AA8C0B5-9FCA-4F3C-83BF-CE25F94715B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode. SpiralMatrix", "LeetCode. SpiralMatrix\LeetCode. SpiralMatrix.csproj", "{45BA8002-FFEC-4DF2-989C-89B82CFD49FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode. SpiralMatrix", "LeetCode. SpiralMatrix\LeetCode. SpiralMatrix.csproj", "{45BA8002-FFEC-4DF2-989C-89B82CFD49FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.JumpGame", "LeetCode.JumpGame\LeetCode.JumpGame.csproj", "{B1C34DE2-C124-4E33-A10A-7486FC27B29B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.JumpGame", "LeetCode.JumpGame\LeetCode.JumpGame.csproj", "{B1C34DE2-C124-4E33-A10A-7486FC27B29B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeIntervals", "LeetCode.MergeIntervals\LeetCode.MergeIntervals.csproj", "{6E1703C9-6074-4579-8D95-0B8060064978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MergeIntervals", "LeetCode.MergeIntervals\LeetCode.MergeIntervals.csproj", "{6E1703C9-6074-4579-8D95-0B8060064978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.InsertInterval", "LeetCode.InsertInterval\LeetCode.InsertInterval.csproj", "{35CA3B0A-5CA5-4FDB-837D-7064B18C4D54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.InsertInterval", "LeetCode.InsertInterval\LeetCode.InsertInterval.csproj", "{35CA3B0A-5CA5-4FDB-837D-7064B18C4D54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LengthOfLastWord", "LeetCode.LengthOfLastWord\LeetCode.LengthOfLastWord.csproj", "{62FF42F6-1840-47D3-8070-D47C708BDC00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LengthOfLastWord", "LeetCode.LengthOfLastWord\LeetCode.LengthOfLastWord.csproj", "{62FF42F6-1840-47D3-8070-D47C708BDC00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SpiralMatrix2", "LeetCode.SpiralMatrix2\LeetCode.SpiralMatrix2.csproj", "{DB901B0F-AED3-4C46-B0B7-C17CD97B0482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SpiralMatrix2", "LeetCode.SpiralMatrix2\LeetCode.SpiralMatrix2.csproj", "{DB901B0F-AED3-4C46-B0B7-C17CD97B0482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RotateList", "LeetCode.RotateList\LeetCode.RotateList.csproj", "{4E23D2B3-9B20-4986-B5F8-D6C8FD936468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RotateList", "LeetCode.RotateList\LeetCode.RotateList.csproj", "{4E23D2B3-9B20-4986-B5F8-D6C8FD936468}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UniquePaths", "LeetCode.UniquePaths\LeetCode.UniquePaths.csproj", "{27704B4E-995C-4F77-85D9-8D168F0F4541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UniquePaths", "LeetCode.UniquePaths\LeetCode.UniquePaths.csproj", "{27704B4E-995C-4F77-85D9-8D168F0F4541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UniquePaths2", "LeetCode.UniquePaths2\LeetCode.UniquePaths2.csproj", "{44BF3638-1AC9-4D06-843A-E32E51462190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UniquePaths2", "LeetCode.UniquePaths2\LeetCode.UniquePaths2.csproj", "{44BF3638-1AC9-4D06-843A-E32E51462190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumPathSum", "LeetCode.MinimumPathSum\LeetCode.MinimumPathSum.csproj", "{AB387F46-2CCE-44C6-9762-F178B42BFD07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MinimumPathSum", "LeetCode.MinimumPathSum\LeetCode.MinimumPathSum.csproj", "{AB387F46-2CCE-44C6-9762-F178B42BFD07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PlusOne", "LeetCode.PlusOne\LeetCode.PlusOne.csproj", "{C390C06C-53F4-486A-9AD9-FF06835E76BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PlusOne", "LeetCode.PlusOne\LeetCode.PlusOne.csproj", "{C390C06C-53F4-486A-9AD9-FF06835E76BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AddBinary", "LeetCode.AddBinary\LeetCode.AddBinary.csproj", "{D9398A1C-3F84-4258-9398-3717ACB890A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.AddBinary", "LeetCode.AddBinary\LeetCode.AddBinary.csproj", "{D9398A1C-3F84-4258-9398-3717ACB890A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TextJustification", "LeetCode.TextJustification\LeetCode.TextJustification.csproj", "{D04171FC-F422-45CE-8C8A-19B5B2EAB7C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.TextJustification", "LeetCode.TextJustification\LeetCode.TextJustification.csproj", "{D04171FC-F422-45CE-8C8A-19B5B2EAB7C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Sqrt", "LeetCode.Sqrt\LeetCode.Sqrt.csproj", "{0C969A34-5910-47CA-ABFE-B5358DA420F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Sqrt", "LeetCode.Sqrt\LeetCode.Sqrt.csproj", "{0C969A34-5910-47CA-ABFE-B5358DA420F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ClimbingStairs", "LeetCode.ClimbingStairs\LeetCode.ClimbingStairs.csproj", "{4B47DE52-C642-4DCD-9B9A-69BA22D6BA3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ClimbingStairs", "LeetCode.ClimbingStairs\LeetCode.ClimbingStairs.csproj", "{4B47DE52-C642-4DCD-9B9A-69BA22D6BA3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SimplifyPath", "LeetCode.SimplifyPath\LeetCode.SimplifyPath.csproj", "{8DF0B1D4-FD32-420B-A909-599E135FD8F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SimplifyPath", "LeetCode.SimplifyPath\LeetCode.SimplifyPath.csproj", "{8DF0B1D4-FD32-420B-A909-599E135FD8F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.EditDistance", "LeetCode.EditDistance\LeetCode.EditDistance.csproj", "{0A3CCF71-BA22-4778-9E66-3BF1F6EA36CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.EditDistance", "LeetCode.EditDistance\LeetCode.EditDistance.csproj", "{0A3CCF71-BA22-4778-9E66-3BF1F6EA36CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SetMatrixZeroes", "LeetCode.SetMatrixZeroes\LeetCode.SetMatrixZeroes.csproj", "{80688BC9-839A-4396-841A-DBEA8AA95353}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SetMatrixZeroes", "LeetCode.SetMatrixZeroes\LeetCode.SetMatrixZeroes.csproj", "{80688BC9-839A-4396-841A-DBEA8AA95353}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Search2DMatrix", "LeetCode.Search2DMatrix\LeetCode.Search2DMatrix.csproj", "{E32768E7-E8F1-45B7-AC4C-17045DB84B29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Search2DMatrix", "LeetCode.Search2DMatrix\LeetCode.Search2DMatrix.csproj", "{E32768E7-E8F1-45B7-AC4C-17045DB84B29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SortColors", "LeetCode.SortColors\LeetCode.SortColors.csproj", "{0A7285E3-A33F-47C4-9F6E-BBB0832FEFA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SortColors", "LeetCode.SortColors\LeetCode.SortColors.csproj", "{0A7285E3-A33F-47C4-9F6E-BBB0832FEFA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSortExercise", "QuickSortExercise\QuickSortExercise.csproj", "{BEB5EE17-8DEE-40D0-8FB7-6DA8761BB5F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSortExercise", "QuickSortExercise\QuickSortExercise.csproj", "{BEB5EE17-8DEE-40D0-8FB7-6DA8761BB5F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumWindowSubstring", "LeetCode.MinimumWindowSubstring\LeetCode.MinimumWindowSubstring.csproj", "{6DFA07E4-AD82-473F-8A31-B80298C35CEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MinimumWindowSubstring", "LeetCode.MinimumWindowSubstring\LeetCode.MinimumWindowSubstring.csproj", "{6DFA07E4-AD82-473F-8A31-B80298C35CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Combinations", "LeetCode.Combinations\LeetCode.Combinations.csproj", "{21BC0186-D4DC-470D-9348-F717E76C478C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Combinations", "LeetCode.Combinations\LeetCode.Combinations.csproj", "{21BC0186-D4DC-470D-9348-F717E76C478C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Subsets", "LeetCode.Subsets\LeetCode.Subsets.csproj", "{6E17D91A-A570-4097-AAD5-DD4E0C258727}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Subsets", "LeetCode.Subsets\LeetCode.Subsets.csproj", "{6E17D91A-A570-4097-AAD5-DD4E0C258727}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordSearch", "LeetCode.WordSearch\LeetCode.WordSearch.csproj", "{A2608CD3-9A3E-42EF-BD51-46D2BBA1525B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.WordSearch", "LeetCode.WordSearch\LeetCode.WordSearch.csproj", "{A2608CD3-9A3E-42EF-BD51-46D2BBA1525B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveDuplicatesII", "LeetCode.RemoveDuplicatesII\LeetCode.RemoveDuplicatesII.csproj", "{16E48919-F4DA-4EC2-ADC2-2D8C324749A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RemoveDuplicatesII", "LeetCode.RemoveDuplicatesII\LeetCode.RemoveDuplicatesII.csproj", "{16E48919-F4DA-4EC2-ADC2-2D8C324749A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SearchRotatedSortedArrayII", "LeetCode.SearchRotatedSortedArrayII\LeetCode.SearchRotatedSortedArrayII.csproj", "{A460D8F2-80BE-4155-9253-2B240D9DD7EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SearchRotatedSortedArrayII", "LeetCode.SearchRotatedSortedArrayII\LeetCode.SearchRotatedSortedArrayII.csproj", "{A460D8F2-80BE-4155-9253-2B240D9DD7EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveDuplicatesSortedListII", "LeetCode.RemoveDuplicatesSortedListII\LeetCode.RemoveDuplicatesSortedListII.csproj", "{5DCEF0FB-E45E-4DA9-BF41-FA54B130F8C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RemoveDuplicatesSortedListII", "LeetCode.RemoveDuplicatesSortedListII\LeetCode.RemoveDuplicatesSortedListII.csproj", "{5DCEF0FB-E45E-4DA9-BF41-FA54B130F8C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RemoveDuplicatesSortedList", "LeetCode.RemoveDuplicatesSortedList\LeetCode.RemoveDuplicatesSortedList.csproj", "{E28DF840-3FB2-4A4C-89E1-8FDA85113D5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RemoveDuplicatesSortedList", "LeetCode.RemoveDuplicatesSortedList\LeetCode.RemoveDuplicatesSortedList.csproj", "{E28DF840-3FB2-4A4C-89E1-8FDA85113D5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LargestRectangleHistogram", "LeetCode.LargestRectangleHistogram\LeetCode.LargestRectangleHistogram.csproj", "{0FF23692-A7B7-4C9A-AFC2-A41B66B80965}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LargestRectangleHistogram", "LeetCode.LargestRectangleHistogram\LeetCode.LargestRectangleHistogram.csproj", "{0FF23692-A7B7-4C9A-AFC2-A41B66B80965}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximalRectangle", "LeetCode.MaximalRectangle\LeetCode.MaximalRectangle.csproj", "{AA541777-04E9-46DA-93E0-994EFF12F6E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximalRectangle", "LeetCode.MaximalRectangle\LeetCode.MaximalRectangle.csproj", "{AA541777-04E9-46DA-93E0-994EFF12F6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PartitionList", "LeetCode.PartitionList\LeetCode.PartitionList.csproj", "{ACE2F34B-6604-4B78-976A-420DC2BA719F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PartitionList", "LeetCode.PartitionList\LeetCode.PartitionList.csproj", "{ACE2F34B-6604-4B78-976A-420DC2BA719F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeSortedArray", "LeetCode.MergeSortedArray\LeetCode.MergeSortedArray.csproj", "{5A5FE9F7-4C85-42F1-89EF-1127AF4FE432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MergeSortedArray", "LeetCode.MergeSortedArray\LeetCode.MergeSortedArray.csproj", "{5A5FE9F7-4C85-42F1-89EF-1127AF4FE432}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ScrambleString", "LeetCode.ScrambleString\LeetCode.ScrambleString.csproj", "{E885A54F-FD06-4499-8EE7-0C9F4850E0D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ScrambleString", "LeetCode.ScrambleString\LeetCode.ScrambleString.csproj", "{E885A54F-FD06-4499-8EE7-0C9F4850E0D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GrayCode", "LeetCode.GrayCode\LeetCode.GrayCode.csproj", "{9B434B77-B901-4450-8C75-4C5998BCA0E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.GrayCode", "LeetCode.GrayCode\LeetCode.GrayCode.csproj", "{9B434B77-B901-4450-8C75-4C5998BCA0E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Subsets2", "LeetCode.Subsets2\LeetCode.Subsets2.csproj", "{6CD93A6C-FB3C-4F22-9559-2ECD450EDD4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Subsets2", "LeetCode.Subsets2\LeetCode.Subsets2.csproj", "{6CD93A6C-FB3C-4F22-9559-2ECD450EDD4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DecodeWays", "LeetCode.DecodeWays\LeetCode.DecodeWays.csproj", "{5CE238B4-29EA-4A3C-8307-67EA60602BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.DecodeWays", "LeetCode.DecodeWays\LeetCode.DecodeWays.csproj", "{5CE238B4-29EA-4A3C-8307-67EA60602BE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseLinkedList2", "LeetCode.ReverseLinkedList2\LeetCode.ReverseLinkedList2.csproj", "{00687649-8BDB-41D2-9081-785F9AAFF7B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ReverseLinkedList2", "LeetCode.ReverseLinkedList2\LeetCode.ReverseLinkedList2.csproj", "{00687649-8BDB-41D2-9081-785F9AAFF7B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RestoreIPAddresses", "LeetCode.RestoreIPAddresses\LeetCode.RestoreIPAddresses.csproj", "{BE529D9F-E16D-4350-A077-BB39AB6429F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RestoreIPAddresses", "LeetCode.RestoreIPAddresses\LeetCode.RestoreIPAddresses.csproj", "{BE529D9F-E16D-4350-A077-BB39AB6429F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeInorderTraversal", "LeetCode.BinaryTreeInorderTraversal\LeetCode.BinaryTreeInorderTraversal.csproj", "{DD4B625A-4C6C-4A40-A505-16AB49918E85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreeInorderTraversal", "LeetCode.BinaryTreeInorderTraversal\LeetCode.BinaryTreeInorderTraversal.csproj", "{DD4B625A-4C6C-4A40-A505-16AB49918E85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode. UniqueBinarySearchTrees2", "LeetCode. UniqueBinarySearchTrees2\LeetCode. UniqueBinarySearchTrees2.csproj", "{30E12056-5328-4F7B-B82A-033AC6177509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode. UniqueBinarySearchTrees2", "LeetCode. UniqueBinarySearchTrees2\LeetCode. UniqueBinarySearchTrees2.csproj", "{30E12056-5328-4F7B-B82A-033AC6177509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UniqueBinarySearchTrees", "LeetCode.UniqueBinarySearchTrees\LeetCode.UniqueBinarySearchTrees.csproj", "{000131CF-449E-45FB-85E5-51C361CB6FFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UniqueBinarySearchTrees", "LeetCode.UniqueBinarySearchTrees\LeetCode.UniqueBinarySearchTrees.csproj", "{000131CF-449E-45FB-85E5-51C361CB6FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.InterleavingString", "LeetCode.InterleavingString\LeetCode.InterleavingString.csproj", "{2F7D0203-8485-40E0-BAAC-3C0314B72F20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.InterleavingString", "LeetCode.InterleavingString\LeetCode.InterleavingString.csproj", "{2F7D0203-8485-40E0-BAAC-3C0314B72F20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidateBinarySearchTree", "LeetCode.ValidateBinarySearchTree\LeetCode.ValidateBinarySearchTree.csproj", "{ACECF906-689E-4C7D-B3DE-814943005399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ValidateBinarySearchTree", "LeetCode.ValidateBinarySearchTree\LeetCode.ValidateBinarySearchTree.csproj", "{ACECF906-689E-4C7D-B3DE-814943005399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RecoverBinarySearchTree", "LeetCode.RecoverBinarySearchTree\LeetCode.RecoverBinarySearchTree.csproj", "{67B1FFE5-4EAF-48F6-BA02-289D050AEC07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RecoverBinarySearchTree", "LeetCode.RecoverBinarySearchTree\LeetCode.RecoverBinarySearchTree.csproj", "{67B1FFE5-4EAF-48F6-BA02-289D050AEC07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SameTree", "LeetCode.SameTree\LeetCode.SameTree.csproj", "{35AEC564-BF4F-45A4-B738-4B9AC250A787}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SameTree", "LeetCode.SameTree\LeetCode.SameTree.csproj", "{35AEC564-BF4F-45A4-B738-4B9AC250A787}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SymmetricTree", "LeetCode.SymmetricTree\LeetCode.SymmetricTree.csproj", "{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SymmetricTree", "LeetCode.SymmetricTree\LeetCode.SymmetricTree.csproj", "{6F8DBF7D-638C-469F-8C8C-ADE00E79E358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeLevelOrderTraversal", "LeetCode.BinaryTreeLevelOrderTraversal\LeetCode.BinaryTreeLevelOrderTraversal.csproj", "{3FD73017-F264-4FFD-A5EF-3C3D82820BF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreeLevelOrderTraversal", "LeetCode.BinaryTreeLevelOrderTraversal\LeetCode.BinaryTreeLevelOrderTraversal.csproj", "{3FD73017-F264-4FFD-A5EF-3C3D82820BF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeZigzagLevelOrderTraversal", "LeetCode.BinaryTreeZigzagLevelOrderTraversal\LeetCode.BinaryTreeZigzagLevelOrderTraversal.csproj", "{7CED940F-9677-41C7-B3CF-4F1D37AE794F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreeZigzagLevelOrderTraversal", "LeetCode.BinaryTreeZigzagLevelOrderTraversal\LeetCode.BinaryTreeZigzagLevelOrderTraversal.csproj", "{7CED940F-9677-41C7-B3CF-4F1D37AE794F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumDepthofBinaryTree", "LeetCode.MaximumDepthofBinaryTree\LeetCode.MaximumDepthofBinaryTree.csproj", "{261694E1-06EC-4107-B092-464D1D11E362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumDepthofBinaryTree", "LeetCode.MaximumDepthofBinaryTree\LeetCode.MaximumDepthofBinaryTree.csproj", "{261694E1-06EC-4107-B092-464D1D11E362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal", "LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal\LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal.csproj", "{C3AC51F3-BA4D-453A-99C8-DA14A613B9AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal", "LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal\LeetCode.ConstructBinaryTreeFromPreorderAndInorderTraversal.csproj", "{C3AC51F3-BA4D-453A-99C8-DA14A613B9AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal", "LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal\LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal.csproj", "{26D7958F-1756-4364-98FF-1D7553C3BA84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal", "LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal\LeetCode.ConstructBinaryTreeFromInorderAndPostorderTraversal.csproj", "{26D7958F-1756-4364-98FF-1D7553C3BA84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeLevelOrderTraversal2", "LeetCode.BinaryTreeLevelOrderTraversal2\LeetCode.BinaryTreeLevelOrderTraversal2.csproj", "{99DF5B2F-E0C0-477A-95AD-78568ED24818}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreeLevelOrderTraversal2", "LeetCode.BinaryTreeLevelOrderTraversal2\LeetCode.BinaryTreeLevelOrderTraversal2.csproj", "{99DF5B2F-E0C0-477A-95AD-78568ED24818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConvertSortedArrayToBinarySearchTree", "LeetCode.ConvertSortedArrayToBinarySearchTree\LeetCode.ConvertSortedArrayToBinarySearchTree.csproj", "{0EF311A1-75AD-4947-AACE-81E232155E22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ConvertSortedArrayToBinarySearchTree", "LeetCode.ConvertSortedArrayToBinarySearchTree\LeetCode.ConvertSortedArrayToBinarySearchTree.csproj", "{0EF311A1-75AD-4947-AACE-81E232155E22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ConvertSortedListToBinarySearchTree", "LeetCode.ConvertSortedListToBinarySearchTree\LeetCode.ConvertSortedListToBinarySearchTree.csproj", "{CFD61D2A-D62E-4921-B57E-2198ACD6CBA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ConvertSortedListToBinarySearchTree", "LeetCode.ConvertSortedListToBinarySearchTree\LeetCode.ConvertSortedListToBinarySearchTree.csproj", "{CFD61D2A-D62E-4921-B57E-2198ACD6CBA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BalancedBinaryTree", "LeetCode.BalancedBinaryTree\LeetCode.BalancedBinaryTree.csproj", "{25844A9F-41F5-4976-889D-B875C58FF507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BalancedBinaryTree", "LeetCode.BalancedBinaryTree\LeetCode.BalancedBinaryTree.csproj", "{25844A9F-41F5-4976-889D-B875C58FF507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumDepthOfBinaryTree", "LeetCode.MinimumDepthOfBinaryTree\LeetCode.MinimumDepthOfBinaryTree.csproj", "{2CD7AC2F-995B-4B9D-8B5F-05BEDCD5D30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MinimumDepthOfBinaryTree", "LeetCode.MinimumDepthOfBinaryTree\LeetCode.MinimumDepthOfBinaryTree.csproj", "{2CD7AC2F-995B-4B9D-8B5F-05BEDCD5D30E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PathSum", "LeetCode.PathSum\LeetCode.PathSum.csproj", "{E5A84597-46E6-49C2-BC71-07A75DC49038}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PathSum", "LeetCode.PathSum\LeetCode.PathSum.csproj", "{E5A84597-46E6-49C2-BC71-07A75DC49038}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PathSum2", "LeetCode.PathSum2\LeetCode.PathSum2.csproj", "{4517B7FC-8BE5-4DE8-A232-157D410BE968}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PathSum2", "LeetCode.PathSum2\LeetCode.PathSum2.csproj", "{4517B7FC-8BE5-4DE8-A232-157D410BE968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FlattenBinaryTreeToLinkedList", "LeetCode.FlattenBinaryTreeToLinkedList\LeetCode.FlattenBinaryTreeToLinkedList.csproj", "{52881568-F4CB-4AFA-8B95-ECAAEE6BE0BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.FlattenBinaryTreeToLinkedList", "LeetCode.FlattenBinaryTreeToLinkedList\LeetCode.FlattenBinaryTreeToLinkedList.csproj", "{52881568-F4CB-4AFA-8B95-ECAAEE6BE0BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DistinctSubsequences", "LeetCode.DistinctSubsequences\LeetCode.DistinctSubsequences.csproj", "{93DC2646-7465-45C7-A2BC-D3E52351E825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.DistinctSubsequences", "LeetCode.DistinctSubsequences\LeetCode.DistinctSubsequences.csproj", "{93DC2646-7465-45C7-A2BC-D3E52351E825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PopulatingNextRightPointersInEachNode", "LeetCode.PopulatingNextRightPointersInEachNode\LeetCode.PopulatingNextRightPointersInEachNode.csproj", "{9AA63388-6731-4125-BC28-25E639E64381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PopulatingNextRightPointersInEachNode", "LeetCode.PopulatingNextRightPointersInEachNode\LeetCode.PopulatingNextRightPointersInEachNode.csproj", "{9AA63388-6731-4125-BC28-25E639E64381}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PopulatingNextRightPointersInEachNode2", "LeetCode.PopulatingNextRightPointersInEachNode2\LeetCode.PopulatingNextRightPointersInEachNode2.csproj", "{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PopulatingNextRightPointersInEachNode2", "LeetCode.PopulatingNextRightPointersInEachNode2\LeetCode.PopulatingNextRightPointersInEachNode2.csproj", "{7BE101D3-1E54-4A2D-A326-1A8BD637E7C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PascalsTriangle", "LeetCode.PascalsTriangle\LeetCode.PascalsTriangle.csproj", "{89FECBBE-D44F-4162-B88C-1BAB6A20C67C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PascalsTriangle", "LeetCode.PascalsTriangle\LeetCode.PascalsTriangle.csproj", "{89FECBBE-D44F-4162-B88C-1BAB6A20C67C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PascalsTriangle2", "LeetCode.PascalsTriangle2\LeetCode.PascalsTriangle2.csproj", "{4AFB3080-834A-42DB-82B1-8AF4DD21EF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PascalsTriangle2", "LeetCode.PascalsTriangle2\LeetCode.PascalsTriangle2.csproj", "{4AFB3080-834A-42DB-82B1-8AF4DD21EF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Triangle", "LeetCode.Triangle\LeetCode.Triangle.csproj", "{22CB63FF-CCEA-4236-B868-82D0E5EB85F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Triangle", "LeetCode.Triangle\LeetCode.Triangle.csproj", "{22CB63FF-CCEA-4236-B868-82D0E5EB85F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock", "LeetCode.BestTimeToBuyAndSellStock\LeetCode.BestTimeToBuyAndSellStock.csproj", "{CA8DE726-C378-4827-841B-68D02FD4EA4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BestTimeToBuyAndSellStock", "LeetCode.BestTimeToBuyAndSellStock\LeetCode.BestTimeToBuyAndSellStock.csproj", "{CA8DE726-C378-4827-841B-68D02FD4EA4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock2", "LeetCode.BestTimeToBuyAndSellStock2\LeetCode.BestTimeToBuyAndSellStock2.csproj", "{23912B6D-E78C-4866-816A-EC0DFD7BA4DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BestTimeToBuyAndSellStock2", "LeetCode.BestTimeToBuyAndSellStock2\LeetCode.BestTimeToBuyAndSellStock2.csproj", "{23912B6D-E78C-4866-816A-EC0DFD7BA4DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock3", "LeetCode.BestTimeToBuyAndSellStock3\LeetCode.BestTimeToBuyAndSellStock3.csproj", "{72A50014-907E-4621-9B2E-544D39F8A0F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BestTimeToBuyAndSellStock3", "LeetCode.BestTimeToBuyAndSellStock3\LeetCode.BestTimeToBuyAndSellStock3.csproj", "{72A50014-907E-4621-9B2E-544D39F8A0F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeMaximumPathSum", "LeetCode.BinaryTreeMaximumPathSum\LeetCode.BinaryTreeMaximumPathSum.csproj", "{A2451CC5-2CB6-4872-9864-60E9B711D2A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreeMaximumPathSum", "LeetCode.BinaryTreeMaximumPathSum\LeetCode.BinaryTreeMaximumPathSum.csproj", "{A2451CC5-2CB6-4872-9864-60E9B711D2A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidPalindrome", "LeetCode.ValidPalindrome\LeetCode.ValidPalindrome.csproj", "{B1F4E8B2-B270-4068-A7FE-876BBF76F862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ValidPalindrome", "LeetCode.ValidPalindrome\LeetCode.ValidPalindrome.csproj", "{B1F4E8B2-B270-4068-A7FE-876BBF76F862}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestConsecutiveSequence", "LeetCode.LongestConsecutiveSequence\LeetCode.LongestConsecutiveSequence.csproj", "{0A1F84DB-3A80-40C8-AEAC-778604B5B905}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LongestConsecutiveSequence", "LeetCode.LongestConsecutiveSequence\LeetCode.LongestConsecutiveSequence.csproj", "{0A1F84DB-3A80-40C8-AEAC-778604B5B905}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SumRootToLeafNumbers", "LeetCode.SumRootToLeafNumbers\LeetCode.SumRootToLeafNumbers.csproj", "{12DA8232-F3A5-42CE-8CF9-60595E32370E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SumRootToLeafNumbers", "LeetCode.SumRootToLeafNumbers\LeetCode.SumRootToLeafNumbers.csproj", "{12DA8232-F3A5-42CE-8CF9-60595E32370E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SurroundedRegions", "LeetCode.SurroundedRegions\LeetCode.SurroundedRegions.csproj", "{69CF0CD7-513E-41D3-BD6A-489DC2AFE6DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SurroundedRegions", "LeetCode.SurroundedRegions\LeetCode.SurroundedRegions.csproj", "{69CF0CD7-513E-41D3-BD6A-489DC2AFE6DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromePartitioning", "LeetCode.PalindromePartitioning\LeetCode.PalindromePartitioning.csproj", "{2C6DB5AD-FDB8-40CD-BF1B-8F469BBCD159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PalindromePartitioning", "LeetCode.PalindromePartitioning\LeetCode.PalindromePartitioning.csproj", "{2C6DB5AD-FDB8-40CD-BF1B-8F469BBCD159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromePartitioning2", "LeetCode.PalindromePartitioning2\LeetCode.PalindromePartitioning2.csproj", "{31047400-55F7-4FEC-B31C-A76660457C2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PalindromePartitioning2", "LeetCode.PalindromePartitioning2\LeetCode.PalindromePartitioning2.csproj", "{31047400-55F7-4FEC-B31C-A76660457C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CloneGraph", "LeetCode.CloneGraph\LeetCode.CloneGraph.csproj", "{E47D9C75-C06D-47A8-ABF6-39F1E4FF807F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CloneGraph", "LeetCode.CloneGraph\LeetCode.CloneGraph.csproj", "{E47D9C75-C06D-47A8-ABF6-39F1E4FF807F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GasStation", "LeetCode.GasStation\LeetCode.GasStation.csproj", "{7F44E7B7-F362-4141-9A3C-613538E7E86A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.GasStation", "LeetCode.GasStation\LeetCode.GasStation.csproj", "{7F44E7B7-F362-4141-9A3C-613538E7E86A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SingleNumber", "LeetCode.SingleNumber\LeetCode.SingleNumber.csproj", "{B6E69D72-8742-42A0-B05E-01E3D2125ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SingleNumber", "LeetCode.SingleNumber\LeetCode.SingleNumber.csproj", "{B6E69D72-8742-42A0-B05E-01E3D2125ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SingleNumber2", "LeetCode.SingleNumber2\LeetCode.SingleNumber2.csproj", "{27C7BBE4-8560-4A22-A293-954FDB63ADCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SingleNumber2", "LeetCode.SingleNumber2\LeetCode.SingleNumber2.csproj", "{27C7BBE4-8560-4A22-A293-954FDB63ADCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CopyListWithRandomPointer", "LeetCode.CopyListWithRandomPointer\LeetCode.CopyListWithRandomPointer.csproj", "{E5A1C4FF-9EB8-4EDE-B0C5-E7B0B7503479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CopyListWithRandomPointer", "LeetCode.CopyListWithRandomPointer\LeetCode.CopyListWithRandomPointer.csproj", "{E5A1C4FF-9EB8-4EDE-B0C5-E7B0B7503479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordBreak", "LeetCode.WordBreak\LeetCode.WordBreak.csproj", "{3F196A2B-2C87-45EA-B977-398E4A876E70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.WordBreak", "LeetCode.WordBreak\LeetCode.WordBreak.csproj", "{3F196A2B-2C87-45EA-B977-398E4A876E70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordBreak2", "LeetCode.WordBreak2\LeetCode.WordBreak2.csproj", "{EE31A090-3E9A-4039-ADEB-3E414837F3C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.WordBreak2", "LeetCode.WordBreak2\LeetCode.WordBreak2.csproj", "{EE31A090-3E9A-4039-ADEB-3E414837F3C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LinkedListCycle", "LeetCode.LinkedListCycle\LeetCode.LinkedListCycle.csproj", "{7DFC44E9-60FA-4497-8A03-D36FBC0EAD0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LinkedListCycle", "LeetCode.LinkedListCycle\LeetCode.LinkedListCycle.csproj", "{7DFC44E9-60FA-4497-8A03-D36FBC0EAD0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LinkedListCycle2", "LeetCode.LinkedListCycle2\LeetCode.LinkedListCycle2.csproj", "{7BD39BD6-B008-4AF5-9E99-F9ED4A73A57B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LinkedListCycle2", "LeetCode.LinkedListCycle2\LeetCode.LinkedListCycle2.csproj", "{7BD39BD6-B008-4AF5-9E99-F9ED4A73A57B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreePreorderTraversal", "LeetCode.BinaryTreePreorderTraversal\LeetCode.BinaryTreePreorderTraversal.csproj", "{72F2CE3B-A66E-425E-AC57-BA34BF484573}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreePreorderTraversal", "LeetCode.BinaryTreePreorderTraversal\LeetCode.BinaryTreePreorderTraversal.csproj", "{72F2CE3B-A66E-425E-AC57-BA34BF484573}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreePostorderTraversal", "LeetCode.BinaryTreePostorderTraversal\LeetCode.BinaryTreePostorderTraversal.csproj", "{1B4BFA26-DE4F-4B98-963A-C7A73597800E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreePostorderTraversal", "LeetCode.BinaryTreePostorderTraversal\LeetCode.BinaryTreePostorderTraversal.csproj", "{1B4BFA26-DE4F-4B98-963A-C7A73597800E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LRUCache", "LeetCode.LRUCache\LeetCode.LRUCache.csproj", "{19626F52-A480-49E8-A4DD-975F8D543EF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LRUCache", "LeetCode.LRUCache\LeetCode.LRUCache.csproj", "{19626F52-A480-49E8-A4DD-975F8D543EF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.InsertionSortList", "LeetCode.InsertionSortList\LeetCode.InsertionSortList.csproj", "{34FE7463-3C27-47F1-B340-9D446E87E782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.InsertionSortList", "LeetCode.InsertionSortList\LeetCode.InsertionSortList.csproj", "{34FE7463-3C27-47F1-B340-9D446E87E782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SortList", "LeetCode.SortList\LeetCode.SortList.csproj", "{6468DDB4-4FA5-4D8B-9A26-3481EC1E1422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SortList", "LeetCode.SortList\LeetCode.SortList.csproj", "{6468DDB4-4FA5-4D8B-9A26-3481EC1E1422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaxPointsOnALine", "LeetCode.MaxPointsOnALine\LeetCode.MaxPointsOnALine.csproj", "{44673469-ADA0-4D77-AC1F-5437803589A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaxPointsOnALine", "LeetCode.MaxPointsOnALine\LeetCode.MaxPointsOnALine.csproj", "{44673469-ADA0-4D77-AC1F-5437803589A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.EvaluateReversePolishNotation", "LeetCode.EvaluateReversePolishNotation\LeetCode.EvaluateReversePolishNotation.csproj", "{E8BE562C-2BA7-4843-9A30-F0BC1957D52C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.EvaluateReversePolishNotation", "LeetCode.EvaluateReversePolishNotation\LeetCode.EvaluateReversePolishNotation.csproj", "{E8BE562C-2BA7-4843-9A30-F0BC1957D52C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseWordsInAString", "LeetCode.ReverseWordsInAString\LeetCode.ReverseWordsInAString.csproj", "{5961E2C9-DC79-4976-8FB3-E602351F4DA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ReverseWordsInAString", "LeetCode.ReverseWordsInAString\LeetCode.ReverseWordsInAString.csproj", "{5961E2C9-DC79-4976-8FB3-E602351F4DA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumProductSubarray", "LeetCode.MaximumProductSubarray\LeetCode.MaximumProductSubarray.csproj", "{8BE0C7D7-BE1F-4860-838F-74F0440EB257}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumProductSubarray", "LeetCode.MaximumProductSubarray\LeetCode.MaximumProductSubarray.csproj", "{8BE0C7D7-BE1F-4860-838F-74F0440EB257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindMinimumInRotatedSortedArray", "LeetCode.FindMinimumInRotatedSortedArray\LeetCode.FindMinimumInRotatedSortedArray.csproj", "{74C09650-CC6F-4B7D-9C59-4F8037EF09E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.FindMinimumInRotatedSortedArray", "LeetCode.FindMinimumInRotatedSortedArray\LeetCode.FindMinimumInRotatedSortedArray.csproj", "{74C09650-CC6F-4B7D-9C59-4F8037EF09E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindMinimumInRotatedSortedArray2", "LeetCode.FindMinimumInRotatedSortedArray2\LeetCode.FindMinimumInRotatedSortedArray2.csproj", "{C9A3D36E-B9D3-4211-AC05-A2A558B728FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.FindMinimumInRotatedSortedArray2", "LeetCode.FindMinimumInRotatedSortedArray2\LeetCode.FindMinimumInRotatedSortedArray2.csproj", "{C9A3D36E-B9D3-4211-AC05-A2A558B728FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinStack", "LeetCode.MinStack\LeetCode.MinStack.csproj", "{0963F740-8E96-4554-A2C1-B4E0F0531C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MinStack", "LeetCode.MinStack\LeetCode.MinStack.csproj", "{0963F740-8E96-4554-A2C1-B4E0F0531C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntersectionOfTwoLinkedLists", "LeetCode.IntersectionOfTwoLinkedLists\LeetCode.IntersectionOfTwoLinkedLists.csproj", "{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.IntersectionOfTwoLinkedLists", "LeetCode.IntersectionOfTwoLinkedLists\LeetCode.IntersectionOfTwoLinkedLists.csproj", "{DD40B5DB-5823-4962-97B4-BB76AA2B1A99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindPeakElement", "LeetCode.FindPeakElement\LeetCode.FindPeakElement.csproj", "{2FF461AE-08D8-4AB5-B106-8670861C0DC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.FindPeakElement", "LeetCode.FindPeakElement\LeetCode.FindPeakElement.csproj", "{2FF461AE-08D8-4AB5-B106-8670861C0DC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumGap", "LeetCode.MaximumGap\LeetCode.MaximumGap.csproj", "{73061C8A-3638-4B44-899C-847273147748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumGap", "LeetCode.MaximumGap\LeetCode.MaximumGap.csproj", "{73061C8A-3638-4B44-899C-847273147748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CompareVersionNumbers", "LeetCode.CompareVersionNumbers\LeetCode.CompareVersionNumbers.csproj", "{D475BF93-7BE2-463E-BC8B-A200CE0F046E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CompareVersionNumbers", "LeetCode.CompareVersionNumbers\LeetCode.CompareVersionNumbers.csproj", "{D475BF93-7BE2-463E-BC8B-A200CE0F046E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FractionToRecurringDecimal", "LeetCode.FractionToRecurringDecimal\LeetCode.FractionToRecurringDecimal.csproj", "{E22A4071-D7C0-42CD-9036-7DE32D5E7642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.FractionToRecurringDecimal", "LeetCode.FractionToRecurringDecimal\LeetCode.FractionToRecurringDecimal.csproj", "{E22A4071-D7C0-42CD-9036-7DE32D5E7642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TwoSum2", "LeetCode.TwoSum2\LeetCode.TwoSum2.csproj", "{8BB504BD-6F02-47F8-9AAF-974622AE4C31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.TwoSum2", "LeetCode.TwoSum2\LeetCode.TwoSum2.csproj", "{8BB504BD-6F02-47F8-9AAF-974622AE4C31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ExcelSheetColumnTitle", "LeetCode.ExcelSheetColumnTitle\LeetCode.ExcelSheetColumnTitle.csproj", "{0B624B82-332F-48AC-AA30-F824103D9EA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ExcelSheetColumnTitle", "LeetCode.ExcelSheetColumnTitle\LeetCode.ExcelSheetColumnTitle.csproj", "{0B624B82-332F-48AC-AA30-F824103D9EA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MajorityElement", "LeetCode.MajorityElement\LeetCode.MajorityElement.csproj", "{254EA9A1-A49A-4ABE-875C-20B8337E2F5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MajorityElement", "LeetCode.MajorityElement\LeetCode.MajorityElement.csproj", "{254EA9A1-A49A-4ABE-875C-20B8337E2F5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ExcelSheetColumnNumber", "LeetCode.ExcelSheetColumnNumber\LeetCode.ExcelSheetColumnNumber.csproj", "{EFA8E369-EE15-422F-B157-AA8658F3DDEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ExcelSheetColumnNumber", "LeetCode.ExcelSheetColumnNumber\LeetCode.ExcelSheetColumnNumber.csproj", "{EFA8E369-EE15-422F-B157-AA8658F3DDEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FactorialTrailingZeroes", "LeetCode.FactorialTrailingZeroes\LeetCode.FactorialTrailingZeroes.csproj", "{C2A87C7B-1CF2-4006-8655-F2C26FF0D071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.FactorialTrailingZeroes", "LeetCode.FactorialTrailingZeroes\LeetCode.FactorialTrailingZeroes.csproj", "{C2A87C7B-1CF2-4006-8655-F2C26FF0D071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinarySearchTreeIterator", "LeetCode.BinarySearchTreeIterator\LeetCode.BinarySearchTreeIterator.csproj", "{E0CA5398-ABAC-4D2D-B49F-28D7C4398256}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinarySearchTreeIterator", "LeetCode.BinarySearchTreeIterator\LeetCode.BinarySearchTreeIterator.csproj", "{E0CA5398-ABAC-4D2D-B49F-28D7C4398256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LargestNumber", "LeetCode.LargestNumber\LeetCode.LargestNumber.csproj", "{592B7158-9603-4198-AE14-9162B8FB8581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LargestNumber", "LeetCode.LargestNumber\LeetCode.LargestNumber.csproj", "{592B7158-9603-4198-AE14-9162B8FB8581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RepeatedDNASequences", "LeetCode.RepeatedDNASequences\LeetCode.RepeatedDNASequences.csproj", "{824F90E6-64E0-40A8-8958-F9744B8AB17E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RepeatedDNASequences", "LeetCode.RepeatedDNASequences\LeetCode.RepeatedDNASequences.csproj", "{824F90E6-64E0-40A8-8958-F9744B8AB17E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStock4", "LeetCode.BestTimeToBuyAndSellStock4\LeetCode.BestTimeToBuyAndSellStock4.csproj", "{09304C73-B3C9-48C1-8B18-62F079AB1590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BestTimeToBuyAndSellStock4", "LeetCode.BestTimeToBuyAndSellStock4\LeetCode.BestTimeToBuyAndSellStock4.csproj", "{09304C73-B3C9-48C1-8B18-62F079AB1590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RotateArray", "LeetCode.RotateArray\LeetCode.RotateArray.csproj", "{4CA6FA81-B0FD-4909-8D1A-B0E5807E8689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RotateArray", "LeetCode.RotateArray\LeetCode.RotateArray.csproj", "{4CA6FA81-B0FD-4909-8D1A-B0E5807E8689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseBits", "LeetCode.ReverseBits\LeetCode.ReverseBits.csproj", "{23D5776D-F00D-494C-AE4D-E150F7BB5A61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.ReverseBits", "LeetCode.ReverseBits\LeetCode.ReverseBits.csproj", "{23D5776D-F00D-494C-AE4D-E150F7BB5A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOf1Bit", "LeetCode.NumberOf1Bit\LeetCode.NumberOf1Bit.csproj", "{46D34016-24EA-4018-8231-4CFE36707328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.NumberOf1Bit", "LeetCode.NumberOf1Bit\LeetCode.NumberOf1Bit.csproj", "{46D34016-24EA-4018-8231-4CFE36707328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HouseRobber", "LeetCode.HouseRobber\LeetCode.HouseRobber.csproj", "{959F113D-A08F-4D2D-8CB2-A8EC7318B295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.HouseRobber", "LeetCode.HouseRobber\LeetCode.HouseRobber.csproj", "{959F113D-A08F-4D2D-8CB2-A8EC7318B295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BinaryTreeRightSideView", "LeetCode.BinaryTreeRightSideView\LeetCode.BinaryTreeRightSideView.csproj", "{74BE6C91-885F-42D0-A671-3C447D2799FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreeRightSideView", "LeetCode.BinaryTreeRightSideView\LeetCode.BinaryTreeRightSideView.csproj", "{74BE6C91-885F-42D0-A671-3C447D2799FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HouseRobber2", "LeetCode.HouseRobber2\LeetCode.HouseRobber2.csproj", "{67FBA82E-11D6-420A-A428-43C1BD719810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.HouseRobber2", "LeetCode.HouseRobber2\LeetCode.HouseRobber2.csproj", "{67FBA82E-11D6-420A-A428-43C1BD719810}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximalSquare", "LeetCode.MaximalSquare\LeetCode.MaximalSquare.csproj", "{F65F6D16-258F-498D-AB12-8D405E5D1C8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximalSquare", "LeetCode.MaximalSquare\LeetCode.MaximalSquare.csproj", "{F65F6D16-258F-498D-AB12-8D405E5D1C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountingBits", "LeetCode.CountingBits\LeetCode.CountingBits.csproj", "{44822182-D5CA-4D2F-AE34-7528EA27A510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CountingBits", "LeetCode.CountingBits\LeetCode.CountingBits.csproj", "{44822182-D5CA-4D2F-AE34-7528EA27A510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UglyNumber", "LeetCode.UglyNumber\LeetCode.UglyNumber.csproj", "{77ACEB66-0C51-4C6D-AD63-2D8B6A1AB29C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UglyNumber", "LeetCode.UglyNumber\LeetCode.UglyNumber.csproj", "{77ACEB66-0C51-4C6D-AD63-2D8B6A1AB29C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UglyNumber2", "LeetCode.UglyNumber2\LeetCode.UglyNumber2.csproj", "{54970E61-6176-409E-8811-881885D2C24E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UglyNumber2", "LeetCode.UglyNumber2\LeetCode.UglyNumber2.csproj", "{54970E61-6176-409E-8811-881885D2C24E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PerfectSquares", "LeetCode.PerfectSquares\LeetCode.PerfectSquares.csproj", "{9788181A-02C1-46BA-BCEA-50DECD558805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PerfectSquares", "LeetCode.PerfectSquares\LeetCode.PerfectSquares.csproj", "{9788181A-02C1-46BA-BCEA-50DECD558805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CoinChange", "LeetCode.CoinChange\LeetCode.CoinChange.csproj", "{BEB44B44-98AB-4004-B4CA-593759034637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CoinChange", "LeetCode.CoinChange\LeetCode.CoinChange.csproj", "{BEB44B44-98AB-4004-B4CA-593759034637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumCostForTickets", "LeetCode.MinimumCostForTickets\LeetCode.MinimumCostForTickets.csproj", "{751BA8FA-C7C8-4890-82A2-1F13A4AEF83E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MinimumCostForTickets", "LeetCode.MinimumCostForTickets\LeetCode.MinimumCostForTickets.csproj", "{751BA8FA-C7C8-4890-82A2-1F13A4AEF83E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestIncreasingSubsequence", "LeetCode.LongestIncreasingSubsequence\LeetCode.LongestIncreasingSubsequence.csproj", "{E6ED475E-92F0-483E-B714-C4A6F8EADA96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LongestIncreasingSubsequence", "LeetCode.LongestIncreasingSubsequence\LeetCode.LongestIncreasingSubsequence.csproj", "{E6ED475E-92F0-483E-B714-C4A6F8EADA96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumLengthOfPairChain", "LeetCode.MaximumLengthOfPairChain\LeetCode.MaximumLengthOfPairChain.csproj", "{8975EF5A-0BCE-458C-806E-A1FF623E8326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumLengthOfPairChain", "LeetCode.MaximumLengthOfPairChain\LeetCode.MaximumLengthOfPairChain.csproj", "{8975EF5A-0BCE-458C-806E-A1FF623E8326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfLongestIncreasingSubsequence", "LeetCode.NumberOfLongestIncreasingSubsequence\LeetCode.NumberOfLongestIncreasingSubsequence.csproj", "{07D268D1-1EC7-47F3-A623-9632C1D716C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.NumberOfLongestIncreasingSubsequence", "LeetCode.NumberOfLongestIncreasingSubsequence\LeetCode.NumberOfLongestIncreasingSubsequence.csproj", "{07D268D1-1EC7-47F3-A623-9632C1D716C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IsSubsequence", "LeetCode.IsSubsequence\LeetCode.IsSubsequence.csproj", "{12C3DD34-D60C-4CC2-9168-21EFD96D849E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.IsSubsequence", "LeetCode.IsSubsequence\LeetCode.IsSubsequence.csproj", "{12C3DD34-D60C-4CC2-9168-21EFD96D849E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestCommonSubsequence", "LeetCode.LongestCommonSubsequence\LeetCode.LongestCommonSubsequence.csproj", "{4A9D07C7-00E0-4999-974C-7D8CB1760CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LongestCommonSubsequence", "LeetCode.LongestCommonSubsequence\LeetCode.LongestCommonSubsequence.csproj", "{4A9D07C7-00E0-4999-974C-7D8CB1760CC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestPalindromicSubsequence", "LeetCode.LongestPalindromicSubsequence\LeetCode.LongestPalindromicSubsequence.csproj", "{81007775-426E-49E8-94CD-7E7607657F97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.LongestPalindromicSubsequence", "LeetCode.LongestPalindromicSubsequence\LeetCode.LongestPalindromicSubsequence.csproj", "{81007775-426E-49E8-94CD-7E7607657F97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromicSubstrings", "LeetCode.PalindromicSubstrings\LeetCode.PalindromicSubstrings.csproj", "{78A4D888-F5C3-4398-B77F-49D3798C7DAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PalindromicSubstrings", "LeetCode.PalindromicSubstrings\LeetCode.PalindromicSubstrings.csproj", "{78A4D888-F5C3-4398-B77F-49D3798C7DAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AppendCharactersToStringToMakeSubsequence", "LeetCode.AppendCharactersToStringToMakeSubsequence\LeetCode.AppendCharactersToStringToMakeSubsequence.csproj", "{2E160808-75E8-4DB7-A5B3-4D04D88E0C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.AppendCharactersToStringToMakeSubsequence", "LeetCode.AppendCharactersToStringToMakeSubsequence\LeetCode.AppendCharactersToStringToMakeSubsequence.csproj", "{2E160808-75E8-4DB7-A5B3-4D04D88E0C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences", "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences\LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences.csproj", "{E4AE212B-0DBE-4152-914E-9A35B85FD46C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences", "LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences\LeetCode.MaximumProductOfTheLengthOfTwoPalindromicSubsequences.csproj", "{E4AE212B-0DBE-4152-914E-9A35B85FD46C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinCostClimbingStairs", "LeetCode.MinCostClimbingStairs\LeetCode.MinCostClimbingStairs.csproj", "{5993095B-5E27-4318-B455-34DB03240699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MinCostClimbingStairs", "LeetCode.MinCostClimbingStairs\LeetCode.MinCostClimbingStairs.csproj", "{5993095B-5E27-4318-B455-34DB03240699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.N-thTribonacciNumber", "LeetCode.N-thTribonacciNumber\LeetCode.N-thTribonacciNumber.csproj", "{CBEFBF90-265E-40BE-81DC-D6D31331CECA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.N-thTribonacciNumber", "LeetCode.N-thTribonacciNumber\LeetCode.N-thTribonacciNumber.csproj", "{CBEFBF90-265E-40BE-81DC-D6D31331CECA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.TargetSum", "LeetCode.TargetSum\LeetCode.TargetSum.csproj", "{47C033DC-95B6-4FF4-A0E6-F77D11CF8465}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.TargetSum", "LeetCode.TargetSum\LeetCode.TargetSum.csproj", "{47C033DC-95B6-4FF4-A0E6-F77D11CF8465}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CoinChange2", "LeetCode.CoinChange2\LeetCode.CoinChange2.csproj", "{5FEE9D99-85EF-4CF9-8862-CB757C216EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CoinChange2", "LeetCode.CoinChange2\LeetCode.CoinChange2.csproj", "{5FEE9D99-85EF-4CF9-8862-CB757C216EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PaintHouse", "LeetCode.PaintHouse\LeetCode.PaintHouse.csproj", "{98EDD748-A521-4B28-9D22-B910F0AF9F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PaintHouse", "LeetCode.PaintHouse\LeetCode.PaintHouse.csproj", "{98EDD748-A521-4B28-9D22-B910F0AF9F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.JumpGame2", "LeetCode.JumpGame2\LeetCode.JumpGame2.csproj", "{35314E7A-B991-4216-BCAE-91406655BD3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.JumpGame2", "LeetCode.JumpGame2\LeetCode.JumpGame2.csproj", "{35314E7A-B991-4216-BCAE-91406655BD3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CombinationSum4", "LeetCode.CombinationSum4\LeetCode.CombinationSum4.csproj", "{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CombinationSum4", "LeetCode.CombinationSum4\LeetCode.CombinationSum4.csproj", "{87B6FD5F-74DE-4B56-B601-502BDF9AF91F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumAlternatingSubsequenceSum", "LeetCode.MaximumAlternatingSubsequenceSum\LeetCode.MaximumAlternatingSubsequenceSum.csproj", "{CB9BDA80-E751-44F3-A04D-067F875632E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumAlternatingSubsequenceSum", "LeetCode.MaximumAlternatingSubsequenceSum\LeetCode.MaximumAlternatingSubsequenceSum.csproj", "{CB9BDA80-E751-44F3-A04D-067F875632E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PartitionEqualSubsetSum", "LeetCode.PartitionEqualSubsetSum\LeetCode.PartitionEqualSubsetSum.csproj", "{AE03113E-80DF-4C9A-841E-05F28824D170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PartitionEqualSubsetSum", "LeetCode.PartitionEqualSubsetSum\LeetCode.PartitionEqualSubsetSum.csproj", "{AE03113E-80DF-4C9A-841E-05F28824D170}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.AllPossibleFullBinaryTrees", "LeetCode.AllPossibleFullBinaryTrees\LeetCode.AllPossibleFullBinaryTrees.csproj", "{55543529-3C1D-4032-B357-6F0CE7AA8E4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.AllPossibleFullBinaryTrees", "LeetCode.AllPossibleFullBinaryTrees\LeetCode.AllPossibleFullBinaryTrees.csproj", "{55543529-3C1D-4032-B357-6F0CE7AA8E4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.StoneGame", "LeetCode.StoneGame\LeetCode.StoneGame.csproj", "{AB42A3AE-9376-40F8-8CEA-5BFEFA6486E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.StoneGame", "LeetCode.StoneGame\LeetCode.StoneGame.csproj", "{AB42A3AE-9376-40F8-8CEA-5BFEFA6486E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BestTimeToBuyAndSellStockWithCooldown", "LeetCode.BestTimeToBuyAndSellStockWithCooldown\LeetCode.BestTimeToBuyAndSellStockWithCooldown.csproj", "{965190B9-1C98-4D7E-A789-84D480C4ED61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BestTimeToBuyAndSellStockWithCooldown", "LeetCode.BestTimeToBuyAndSellStockWithCooldown\LeetCode.BestTimeToBuyAndSellStockWithCooldown.csproj", "{965190B9-1C98-4D7E-A789-84D480C4ED61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IntegerBreak", "LeetCode.IntegerBreak\LeetCode.IntegerBreak.csproj", "{2344AB46-72D4-4A53-B1B0-82FC2363AB2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.IntegerBreak", "LeetCode.IntegerBreak\LeetCode.IntegerBreak.csproj", "{2344AB46-72D4-4A53-B1B0-82FC2363AB2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DeleteAndEarn", "LeetCode.DeleteAndEarn\LeetCode.DeleteAndEarn.csproj", "{AD9658AD-F9AB-4231-87A3-73C67539934E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.DeleteAndEarn", "LeetCode.DeleteAndEarn\LeetCode.DeleteAndEarn.csproj", "{AD9658AD-F9AB-4231-87A3-73C67539934E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BurstBalloons", "LeetCode.BurstBalloons\LeetCode.BurstBalloons.csproj", "{5608FEF2-5BE6-4801-B368-0D204173840C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BurstBalloons", "LeetCode.BurstBalloons\LeetCode.BurstBalloons.csproj", "{5608FEF2-5BE6-4801-B368-0D204173840C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DivisorGame", "LeetCode.DivisorGame\LeetCode.DivisorGame.csproj", "{A952D9E3-4999-4408-BC78-2EB3C1DADAA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.DivisorGame", "LeetCode.DivisorGame\LeetCode.DivisorGame.csproj", "{A952D9E3-4999-4408-BC78-2EB3C1DADAA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumRepeatingSubstring", "LeetCode.MaximumRepeatingSubstring\LeetCode.MaximumRepeatingSubstring.csproj", "{948F2992-32E1-4E64-827D-88BC57514870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.MaximumRepeatingSubstring", "LeetCode.MaximumRepeatingSubstring\LeetCode.MaximumRepeatingSubstring.csproj", "{948F2992-32E1-4E64-827D-88BC57514870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SumOfAllSubsetXORTotals", "LeetCode.SumOfAllSubsetXORTotals\LeetCode.SumOfAllSubsetXORTotals.csproj", "{8EE24752-E0AD-49EA-B399-530BA6D7D5FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.SumOfAllSubsetXORTotals", "LeetCode.SumOfAllSubsetXORTotals\LeetCode.SumOfAllSubsetXORTotals.csproj", "{8EE24752-E0AD-49EA-B399-530BA6D7D5FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DistributeCandiesAmongChildren", "LeetCode.DistributeCandiesAmongChildren\LeetCode.DistributeCandiesAmongChildren.csproj", "{00705881-8053-4144-B167-BF292061D4E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.DistributeCandiesAmongChildren", "LeetCode.DistributeCandiesAmongChildren\LeetCode.DistributeCandiesAmongChildren.csproj", "{00705881-8053-4144-B167-BF292061D4E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.UglyNumber3", "LeetCode.UglyNumber3\LeetCode.UglyNumber3.csproj", "{36C58C52-4B55-4840-AC7E-592298D0A566}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UglyNumber3", "LeetCode.UglyNumber3\LeetCode.UglyNumber3.csproj", "{36C58C52-4B55-4840-AC7E-592298D0A566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountSortedVowelStrings", "LeetCode.CountSortedVowelStrings\LeetCode.CountSortedVowelStrings.csproj", "{B6163857-C328-4565-8888-BF011C1D23D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CountSortedVowelStrings", "LeetCode.CountSortedVowelStrings\LeetCode.CountSortedVowelStrings.csproj", "{B6163857-C328-4565-8888-BF011C1D23D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.FindTriangularSumOfAnArray", "LeetCode.FindTriangularSumOfAnArray\LeetCode.FindTriangularSumOfAnArray.csproj", "{2C2D4493-B6DC-4B19-B70C-6F5EB8803A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.FindTriangularSumOfAnArray", "LeetCode.FindTriangularSumOfAnArray\LeetCode.FindTriangularSumOfAnArray.csproj", "{2C2D4493-B6DC-4B19-B70C-6F5EB8803A11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfMusicPlaylists", "LeetCode.NumberOfMusicPlaylists\LeetCode.NumberOfMusicPlaylists.csproj", "{388F0173-2031-4DAE-9ED0-9F43D7CF079B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.NumberOfMusicPlaylists", "LeetCode.NumberOfMusicPlaylists\LeetCode.NumberOfMusicPlaylists.csproj", "{388F0173-2031-4DAE-9ED0-9F43D7CF079B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.DifferentWaysToAddParentheses", "LeetCode.DifferentWaysToAddParentheses\LeetCode.DifferentWaysToAddParentheses.csproj", "{26FDFA0D-E5A5-4B7E-B8FF-F8409E92A334}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.DifferentWaysToAddParentheses", "LeetCode.DifferentWaysToAddParentheses\LeetCode.DifferentWaysToAddParentheses.csproj", "{26FDFA0D-E5A5-4B7E-B8FF-F8409E92A334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HouseRobber3", "LeetCode.HouseRobber3\LeetCode.HouseRobber3.csproj", "{B661EFF3-8F35-4EFA-A6CA-100FB25AE5A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.HouseRobber3", "LeetCode.HouseRobber3\LeetCode.HouseRobber3.csproj", "{B661EFF3-8F35-4EFA-A6CA-100FB25AE5A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountSquareSubmatricesWithAllOnes", "LeetCode.CountSquareSubmatricesWithAllOnes\LeetCode.CountSquareSubmatricesWithAllOnes.csproj", "{4A15EA97-E654-4695-84C2-9046B8EE1127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.CountSquareSubmatricesWithAllOnes", "LeetCode.CountSquareSubmatricesWithAllOnes\LeetCode.CountSquareSubmatricesWithAllOnes.csproj", "{4A15EA97-E654-4695-84C2-9046B8EE1127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PartitionArrayForMaximumSum", "LeetCode.PartitionArrayForMaximumSum\LeetCode.PartitionArrayForMaximumSum.csproj", "{C0265E8E-3800-41CD-8B56-D194801F4BAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PartitionArrayForMaximumSum", "LeetCode.PartitionArrayForMaximumSum\LeetCode.PartitionArrayForMaximumSum.csproj", "{C0265E8E-3800-41CD-8B56-D194801F4BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumScoreWordsFormedByLetters", "LeetCode.MaximumScoreWordsFormedByLetters\LeetCode.MaximumScoreWordsFormedByLetters.csproj", "{F24E1CF0-879F-4C95-92B4-16E0A21F9425}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1290,5 +1295,12 @@ Global
 		{C0265E8E-3800-41CD-8B56-D194801F4BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0265E8E-3800-41CD-8B56-D194801F4BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0265E8E-3800-41CD-8B56-D194801F4BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24E1CF0-879F-4C95-92B4-16E0A21F9425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24E1CF0-879F-4C95-92B4-16E0A21F9425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24E1CF0-879F-4C95-92B4-16E0A21F9425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24E1CF0-879F-4C95-92B4-16E0A21F9425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

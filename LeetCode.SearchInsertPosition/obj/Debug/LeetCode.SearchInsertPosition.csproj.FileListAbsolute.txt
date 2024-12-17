@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SearchInsertPosition\bin\Debug\LeetCode.SearchInsertPosition.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SearchInsertPosition\bin\Debug\LeetCode.SearchInsertPosition.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SearchInsertPosition\obj\Debug\LeetCode.SearchInsertPosition.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.SearchInsertPosition\obj\Debug\LeetCode.SearchInsertPosition.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SearchInsertPosition\obj\Debug\LeetCode.SearchInsertPosition.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SearchInsertPosition\obj\Debug\LeetCode.SearchInsertPosition.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SearchInsertPosition\obj\Debug\LeetCode.SearchInsertPosition.pdb

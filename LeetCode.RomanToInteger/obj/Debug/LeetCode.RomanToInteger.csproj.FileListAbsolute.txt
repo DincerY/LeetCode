@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RomanToInteger\bin\Debug\LeetCode.RomanToInteger.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RomanToInteger\bin\Debug\LeetCode.RomanToInteger.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RomanToInteger\obj\Debug\LeetCode.RomanToInteger.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.RomanToInteger\obj\Debug\LeetCode.RomanToInteger.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RomanToInteger\obj\Debug\LeetCode.RomanToInteger.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RomanToInteger\obj\Debug\LeetCode.RomanToInteger.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.RomanToInteger\obj\Debug\LeetCode.RomanToInteger.pdb

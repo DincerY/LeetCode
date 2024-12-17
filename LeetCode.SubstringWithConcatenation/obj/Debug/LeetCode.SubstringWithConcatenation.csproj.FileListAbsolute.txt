@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubstringWithConcatenation\bin\Debug\LeetCode.SubstringWithConcatenation.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubstringWithConcatenation\bin\Debug\LeetCode.SubstringWithConcatenation.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubstringWithConcatenation\obj\Debug\LeetCode.SubstringWithConcatenation.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubstringWithConcatenation\obj\Debug\LeetCode.SubstringWithConcatenation.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubstringWithConcatenation\obj\Debug\LeetCode.SubstringWithConcatenation.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubstringWithConcatenation\obj\Debug\LeetCode.SubstringWithConcatenation.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubstringWithConcatenation\obj\Debug\LeetCode.SubstringWithConcatenation.pdb

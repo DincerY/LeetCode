@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestCommonPrefix\bin\Debug\LeetCode.LongestCommonPrefix.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestCommonPrefix\bin\Debug\LeetCode.LongestCommonPrefix.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestCommonPrefix\obj\Debug\LeetCode.LongestCommonPrefix.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestCommonPrefix\obj\Debug\LeetCode.LongestCommonPrefix.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestCommonPrefix\obj\Debug\LeetCode.LongestCommonPrefix.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestCommonPrefix\obj\Debug\LeetCode.LongestCommonPrefix.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestCommonPrefix\obj\Debug\LeetCode.LongestCommonPrefix.pdb

@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTheIndexOf\bin\Debug\LeetCode.FindTheIndexOf.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTheIndexOf\bin\Debug\LeetCode.FindTheIndexOf.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTheIndexOf\obj\Debug\LeetCode.FindTheIndexOf.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTheIndexOf\obj\Debug\LeetCode.FindTheIndexOf.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTheIndexOf\obj\Debug\LeetCode.FindTheIndexOf.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTheIndexOf\obj\Debug\LeetCode.FindTheIndexOf.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.FindTheIndexOf\obj\Debug\LeetCode.FindTheIndexOf.pdb

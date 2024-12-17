@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\bin\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\bin\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\bin\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\bin\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\bin\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\refint\LeetCode.PartitionArrayForMaximumSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\ref\LeetCode.PartitionArrayForMaximumSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PartitionArrayForMaximumSum\obj\Debug\net7.0\LeetCode.PartitionArrayForMaximumSum.sourcelink.json

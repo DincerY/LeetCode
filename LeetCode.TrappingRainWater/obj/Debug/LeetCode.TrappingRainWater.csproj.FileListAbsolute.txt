@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.TrappingRainWater\bin\Debug\LeetCode.TrappingRainWater.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.TrappingRainWater\bin\Debug\LeetCode.TrappingRainWater.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.TrappingRainWater\obj\Debug\LeetCode.TrappingRainWater.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.TrappingRainWater\obj\Debug\LeetCode.TrappingRainWater.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.TrappingRainWater\obj\Debug\LeetCode.TrappingRainWater.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.TrappingRainWater\obj\Debug\LeetCode.TrappingRainWater.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.TrappingRainWater\obj\Debug\LeetCode.TrappingRainWater.pdb

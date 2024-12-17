@@ -1,7 +1,6 @@
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ThreeSumClosest\bin\Debug\LeetCode.ThreeSumClosest.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ThreeSumClosest\bin\Debug\LeetCode.ThreeSumClosest.pdb
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ThreeSumClosest\obj\Debug\LeetCode.ThreeSumClosest.csproj.AssemblyReference.cache
-C:\Users\dince\RiderProjects\LeetCode\LeetCode.ThreeSumClosest\obj\Debug\LeetCode.ThreeSumClosest.csproj.SuggestedBindingRedirects.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ThreeSumClosest\obj\Debug\LeetCode.ThreeSumClosest.csproj.CoreCompileInputs.cache
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ThreeSumClosest\obj\Debug\LeetCode.ThreeSumClosest.exe
 C:\Users\dince\RiderProjects\LeetCode\LeetCode.ThreeSumClosest\obj\Debug\LeetCode.ThreeSumClosest.pdb

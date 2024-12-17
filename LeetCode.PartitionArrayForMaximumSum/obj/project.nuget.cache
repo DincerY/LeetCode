@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4ys3WqhIJf4hg3jMDCId0W2t1FrJnNQmc51CK1uq9eXpi4sEoWGC2pNygvkVN92jtbhoTroN0kBZOJJBU3Tj/Q==",
+  "dgSpecHash": "sNwmaViiKD/jbSNdk1iPVWEaO4ZLMhdpQgjMkC17jp360vlVC2rkKXBPtS2BnMygA+CDZj2jnkAwbu120ZdhZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dince\\RiderProjects\\LeetCode\\LeetCode.PartitionArrayForMaximumSum\\LeetCode.PartitionArrayForMaximumSum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dince\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

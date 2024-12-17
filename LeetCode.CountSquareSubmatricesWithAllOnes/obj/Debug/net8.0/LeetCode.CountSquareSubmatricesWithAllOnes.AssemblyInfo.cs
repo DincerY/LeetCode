@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CountSquareSubmatricesWithAllOnes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18fe3e7bfd9e2adb7eb2368b987894195e2652ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0157b9ed0a04b7316a39c7e7033ea8f1203e5a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CountSquareSubmatricesWithAllOnes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CountSquareSubmatricesWithAllOnes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
