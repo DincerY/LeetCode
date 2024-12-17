@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\bin\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\bin\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\bin\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\bin\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\bin\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\refint\LeetCode.AppendCharactersToStringToMakeSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\LeetCode.AppendCharactersToStringToMakeSubsequence.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.AppendCharactersToStringToMakeSubsequence\obj\Debug\net8.0\ref\LeetCode.AppendCharactersToStringToMakeSubsequence.dll

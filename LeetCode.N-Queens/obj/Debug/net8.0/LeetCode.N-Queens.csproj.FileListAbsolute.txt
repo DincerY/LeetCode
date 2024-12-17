@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\bin\Debug\net8.0\LeetCode.N-Queens.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\bin\Debug\net8.0\LeetCode.N-Queens.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\bin\Debug\net8.0\LeetCode.N-Queens.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\bin\Debug\net8.0\LeetCode.N-Queens.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\bin\Debug\net8.0\LeetCode.N-Queens.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\refint\LeetCode.N-Queens.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\LeetCode.N-Queens.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.N-Queens\obj\Debug\net8.0\ref\LeetCode.N-Queens.dll

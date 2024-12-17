@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\bin\Debug\net8.0\LeetCode.MaximalRectangle.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\bin\Debug\net8.0\LeetCode.MaximalRectangle.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\bin\Debug\net8.0\LeetCode.MaximalRectangle.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\bin\Debug\net8.0\LeetCode.MaximalRectangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\bin\Debug\net8.0\LeetCode.MaximalRectangle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\refint\LeetCode.MaximalRectangle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\LeetCode.MaximalRectangle.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximalRectangle\obj\Debug\net8.0\ref\LeetCode.MaximalRectangle.dll

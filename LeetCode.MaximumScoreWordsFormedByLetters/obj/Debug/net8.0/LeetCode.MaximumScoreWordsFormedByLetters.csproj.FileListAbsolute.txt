@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\bin\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\bin\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\bin\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\bin\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\bin\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\refint\LeetCode.MaximumScoreWordsFormedByLetters.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\LeetCode.MaximumScoreWordsFormedByLetters.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumScoreWordsFormedByLetters\obj\Debug\net8.0\ref\LeetCode.MaximumScoreWordsFormedByLetters.dll

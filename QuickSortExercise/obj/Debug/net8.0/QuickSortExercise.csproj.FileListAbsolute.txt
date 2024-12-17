@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\bin\Debug\net8.0\QuickSortExercise.exe
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\bin\Debug\net8.0\QuickSortExercise.deps.json
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\bin\Debug\net8.0\QuickSortExercise.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\bin\Debug\net8.0\QuickSortExercise.dll
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\bin\Debug\net8.0\QuickSortExercise.pdb
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.dll
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\refint\QuickSortExercise.dll
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.pdb
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\QuickSortExercise.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\QuickSortExercise\obj\Debug\net8.0\ref\QuickSortExercise.dll

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\bin\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\bin\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\bin\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\bin\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\bin\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\refint\LeetCode.PopulatingNextRightPointersInEachNode2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\LeetCode.PopulatingNextRightPointersInEachNode2.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PopulatingNextRightPointersInEachNode2\obj\Debug\net8.0\ref\LeetCode.PopulatingNextRightPointersInEachNode2.dll
