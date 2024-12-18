@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumScoreWordsFormedByLetters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52f9de029e7f05f3db0b413204c3857b1e7e2001")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumScoreWordsFormedByLetters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumScoreWordsFormedByLetters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
