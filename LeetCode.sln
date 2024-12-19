@@ -433,6 +433,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.PartitionArrayForM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumScoreWordsFormedByLetters", "LeetCode.MaximumScoreWordsFormedByLetters\LeetCode.MaximumScoreWordsFormedByLetters.csproj", "{F24E1CF0-879F-4C95-92B4-16E0A21F9425}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.StoneGame2", "LeetCode.StoneGame2\LeetCode.StoneGame2.csproj", "{5C035540-0F0A-4617-BFF7-9719A4E59BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1299,6 +1301,10 @@ Global
 		{F24E1CF0-879F-4C95-92B4-16E0A21F9425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24E1CF0-879F-4C95-92B4-16E0A21F9425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24E1CF0-879F-4C95-92B4-16E0A21F9425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C035540-0F0A-4617-BFF7-9719A4E59BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C035540-0F0A-4617-BFF7-9719A4E59BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C035540-0F0A-4617-BFF7-9719A4E59BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C035540-0F0A-4617-BFF7-9719A4E59BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

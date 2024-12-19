@@ -4,7 +4,7 @@ solution.StoneGame(new[] { 5, 3, 4, 5 });
 Console.WriteLine("Hello, World!");
 
 //NeedCode solution
-public class Solution
+public partial class Solution
 {
     public bool StoneGame(int[] piles)
     {
@@ -26,7 +26,8 @@ public class Solution
             int left = even ? piles[l] : 0;
             int right = even ? piles[r] : 0;
 
-            dp[(l, r)] = Math.Max(Dfs(l + 1, r) + left, Dfs(l, r - 1) + right);
+            dp[(l, r)] = Math.Max(Dfs(l + 1, r) + 
+                                  left, Dfs(l, r - 1) + right);
             return dp[(l, r)];
         }
 

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\bin\Debug\net8.0\LeetCode.StoneGame2.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\bin\Debug\net8.0\LeetCode.StoneGame2.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\bin\Debug\net8.0\LeetCode.StoneGame2.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\bin\Debug\net8.0\LeetCode.StoneGame2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\bin\Debug\net8.0\LeetCode.StoneGame2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\refint\LeetCode.StoneGame2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\LeetCode.StoneGame2.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StoneGame2\obj\Debug\net8.0\ref\LeetCode.StoneGame2.dll
