@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.StoneGame2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9839ac24986b02ee3038996739fcfc7fe7c7031e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.StoneGame2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.StoneGame2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

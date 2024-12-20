@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\bin\Debug\net8.0\LeetCode.SlidingPuzzle.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\bin\Debug\net8.0\LeetCode.SlidingPuzzle.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\bin\Debug\net8.0\LeetCode.SlidingPuzzle.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\bin\Debug\net8.0\LeetCode.SlidingPuzzle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\bin\Debug\net8.0\LeetCode.SlidingPuzzle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\refint\LeetCode.SlidingPuzzle.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\LeetCode.SlidingPuzzle.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SlidingPuzzle\obj\Debug\net8.0\ref\LeetCode.SlidingPuzzle.dll
