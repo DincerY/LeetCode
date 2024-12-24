@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.FindTargetSumWays2(new[] { 1, 1, 1, 1, 1 }, 3);
+solution.FindTargetSumWays3(new[] { 1, 1, 1, 1, 1 }, 3);
 
 
 Console.WriteLine("Hello, World!");
@@ -56,5 +56,31 @@ public partial class Solution
         }
 
         return Backtrack(0, 0);
+    }
+}
+
+
+public partial class Solution
+{
+    public int FindTargetSumWays3(int[] nums, int target)
+    {
+        int res = 0;
+        void BackTrack(int index, int total)
+        {
+            if (index >= nums.Length)
+            {
+                if (total == target)
+                {
+                    res++;
+                }
+                return;
+            }
+            //plus
+            BackTrack(index + 1, total + nums[index]);
+            //minus
+            BackTrack(index + 1, total - nums[index]);
+        }
+        BackTrack(0, 0);
+        return res;
     }
 }
