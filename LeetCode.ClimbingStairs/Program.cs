@@ -112,15 +112,15 @@ public partial class Solution {
     
     public int ClimbStairs5(int n)
     {
-        int ptr1 = 1;
-        int ptr2 = 1;
+        int ptrL = 1;
+        int ptrR = 1;
         for (int i = 0; i < n-1; i++)
         {
-            int sum = ptr1 + ptr2;
-            ptr1 = ptr2;
-            ptr2 = sum;
+            int sum = ptrL + ptrR;
+            ptrR = ptrL;
+            ptrL = sum;
         }
 
-        return ptr2;
+        return ptrL;
     }
 }
