@@ -39,10 +39,7 @@ public partial class Solution
 {
     public int MincostTickets2(int[] days, int[] costs)
     {
-        Dictionary<int, int> dic = new();
-        dic.Add(0,1);
-        dic.Add(1,7);
-        dic.Add(2,30);
+        int[] dic = { 1, 7, 30 };
         int[] dp = new int[days.Length + 1];
         for (int i = days.Length - 1; i >= 0; i--)
         {
@@ -50,10 +47,19 @@ public partial class Solution
             for (int j = 0; j < 3; j++)
             {
                 int day = days[i] + dic[j];
-                for (int k = i; k < days.Length + 1; k++)
+                int k;
+                /*while (k < days.Length && day > days[k])
                 {
-                    
+                    k++;
+                }*/
+                for (k = i; k < days.Length; k++)
+                {
+                    if (day <= days[k])
+                    {
+                        break;
+                    }
                 }
+                dp[i] = Math.Min(dp[i], costs[j] + dp[k]);
             }
         }
 
