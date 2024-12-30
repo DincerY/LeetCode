@@ -3,8 +3,10 @@
 solution.CoinChange2(new[] { 2 }, 3);
 solution.CoinChange2(new[] { 1 }, 0);*/
 
-//solution.CoinChange2(new[] { 1, 3, 4, 5 }, 7);
-solution.CoinChange2(new[] { 186,419,83,408 }, 6249);
+solution.CoinChange3(new[] { 2 }, 3);
+solution.CoinChange3(new[] { 1, 3, 4, 5 }, 7);
+solution.CoinChange2(new[] { 1, 2, 5 }, 11);
+//solution.CoinChange2(new[] { 186,419,83,408 }, 6249);
 
 
 Console.WriteLine("Hello, World!");
@@ -94,5 +96,24 @@ public partial class Solution
         }*/
         Console.WriteLine(amounts.Min());
         return -1;
+    }
+    
+    
+    public int CoinChange3(int[] coins, int amount)
+    {
+        int[] dp = new int[amount + 1];
+        
+        for (int i = 1; i <= amount; i++)
+        {
+            dp[i] = 1000000;
+            foreach (var coin in coins)
+            {
+                if (i - coin >= 0)
+                {
+                    dp[i] = Math.Min(dp[i],dp[i - coin] + 1);
+                }
+            }
+        }
+        return dp[amount] == 1000000 ? -1 : dp[amount];
     }
 }
