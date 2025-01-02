@@ -1,7 +1,9 @@
-﻿Solution solution = new();
-solution.Change3(5, new[] { 1, 2, 5 });
-solution.Change3(3, new[] { 2 });
-solution.Change3(10, new[] { 10 });
+﻿using System.Runtime.Intrinsics.Arm;
+
+Solution solution = new();
+solution.Change4(5, new[] { 1, 2, 5 });
+solution.Change4(3, new[] { 2 });
+solution.Change4(10, new[] { 10 });
 
 
 Console.WriteLine("Hello, World!");
@@ -101,14 +103,65 @@ public partial class Solution
 {
     public int Change4(int amount, int[] coins)
     {
-        int[] res = new int[coins.Length + 1];
-        for (int i = 1; i < coins.Length+1; i++)
+        Dictionary<(int, int), int> cache = new Dictionary<(int, int), int>();
+
+        int Backtrack(int i, int a)
         {
-            
+            if (a == amount)
+            {
+                return 1;
+            }
+            if (a > amount)
+            {
+                return 0;
+            }
+            if (i == coins.Length)
+            {
+                return 0;
+            }
+            if (cache.ContainsKey((i, a)))
+            {
+                return cache[(i, a)];
+            }
+            cache[(i, a)] = Backtrack(i, a + coins[i]) + Backtrack(i + 1, a);
+            return cache[(i, a)];
         }
+        return Backtrack(0, 0);
+    }
+}
+//for kullanınca neden hata aldık bunu anlamaya çalışalım
+public partial class Solution
+{
+    public int Change3Dp(int amount, int[] coins)
+    {
+        Dictionary<(int, int), int> cache = new Dictionary<(int, int), int>();
+        int Backtrack(int total, int index)
+        {
+            if (total == amount)
+            {
+                return 1;
+            }
+            if (total > amount)
+            {
+                return 0;
+            }
+            if (index == coins.Length)
+            {
+                return 0;
+            }
+            if (cache.ContainsKey((index,total)))
+            {
+                return cache[(index, total)];
+            }
+            int length = 0;
+            for (int i = index; i < coins.Length; i++)
+            {
+                length += Backtrack(total + coins[i], i);
+            }
 
-
-
-        return 0;
+            cache[(index, total)] = length;
+            return length;
+        }
+        return Backtrack(0, 0);
     }
 }
