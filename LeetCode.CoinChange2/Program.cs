@@ -1,7 +1,7 @@
 ﻿using System.Runtime.Intrinsics.Arm;
 
 Solution solution = new();
-solution.Change4(5, new[] { 1, 2, 5 });
+solution.Change5(5, new[] { 1, 2, 5 });
 solution.Change4(3, new[] { 2 });
 solution.Change4(10, new[] { 10 });
 
@@ -99,36 +99,6 @@ public partial class Solution
     }
 }
 
-public partial class Solution
-{
-    public int Change4(int amount, int[] coins)
-    {
-        Dictionary<(int, int), int> cache = new Dictionary<(int, int), int>();
-
-        int Backtrack(int i, int a)
-        {
-            if (a == amount)
-            {
-                return 1;
-            }
-            if (a > amount)
-            {
-                return 0;
-            }
-            if (i == coins.Length)
-            {
-                return 0;
-            }
-            if (cache.ContainsKey((i, a)))
-            {
-                return cache[(i, a)];
-            }
-            cache[(i, a)] = Backtrack(i, a + coins[i]) + Backtrack(i + 1, a);
-            return cache[(i, a)];
-        }
-        return Backtrack(0, 0);
-    }
-}
 //for kullanınca neden hata aldık bunu anlamaya çalışalım
 public partial class Solution
 {
@@ -163,5 +133,63 @@ public partial class Solution
             return length;
         }
         return Backtrack(0, 0);
+    }
+}
+public partial class Solution
+{
+    public int Change4(int amount, int[] coins)
+    {
+        Dictionary<(int, int), int> cache = new Dictionary<(int, int), int>();
+
+        int Backtrack(int i, int a)
+        {
+            if (a == amount)
+            {
+                return 1;
+            }
+            if (a > amount)
+            {
+                return 0;
+            }
+            if (i == coins.Length)
+            {
+                return 0;
+            }
+            if (cache.ContainsKey((i, a)))
+            {
+                return cache[(i, a)];
+            }
+            cache[(i, a)] = Backtrack(i, a + coins[i]) + Backtrack(i + 1, a);
+            return cache[(i, a)];
+        }
+        return Backtrack(0, 0);
+    }
+}
+
+public partial class Solution
+{
+    public int Change5(int amount, int[] coins)
+    {
+        int[,] matrix = new int[coins.Length,amount+1];
+        for (int i = coins.Length-1; i >= 0; i--)
+        {
+            matrix[i, amount] = 1;
+        }
+        for (int i = coins.Length-1; i >= 0; i--)
+        {
+            for (int j = amount-1; j >= 0; j--)
+            {
+                if (i <= coins.Length - 2)
+                {
+                    matrix[i, j] = matrix[i + 1,j];
+                }
+                if (j + coins[i] <= amount)
+                {
+                    matrix[i, j] += matrix[i, j + coins[i]];
+                }
+                
+            }
+        }
+        return matrix[0,0];
     }
 }
