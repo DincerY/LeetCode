@@ -72,7 +72,7 @@ public partial class Solution
         return res;
     }
 }
-
+//Not work
 public partial class Solution
 {
     public bool WordBreak3(string s, IList<string> wordDict)

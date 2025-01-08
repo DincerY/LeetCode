@@ -1,10 +1,10 @@
 ﻿using System;
 
 Solution solution = new Solution();
-var str = solution.LongestPalindrome2("babad");
-str = solution.LongestPalindrome2("cbbd");
+/*var str = solution.LongestPalindrome3("babad");
+var strr = solution.LongestPalindrome3("cbbd");*/
+solution.LongestPalindrome3("aaaa");
 
-Console.Write(str);
 
 
 public partial class Solution
@@ -71,6 +71,49 @@ public partial class Solution
                 r++;
             }
         }
+        return res;
+    }
+}
+
+
+
+public partial class Solution
+{
+    public string LongestPalindrome3(string s)
+    {
+        string res = "";
+        for (int i = 0; i < s.Length; i++)
+        {
+            int left = i;
+            int right = i;
+            while (left >= 0 && right < s.Length && s[left] == s[right])
+            {
+                var temp = s.Substring(left, right - left + 1);
+                if (temp.Length > res.Length)
+                {
+                    res = temp;
+                }
+                left--;
+                right++;
+            }
+        }
+        
+        for (int i = 0; i < s.Length; i++)
+        {
+            int left = i;
+            int right = i + 1;
+            while (left >= 0 && right < s.Length && s[left] == s[right])
+            {
+                var temp = s.Substring(left, right - left + 1);
+                if (temp.Length > res.Length)
+                {
+                    res = temp;
+                }
+                left--;
+                right++;
+            }
+        }
+
         return res;
     }
 }
