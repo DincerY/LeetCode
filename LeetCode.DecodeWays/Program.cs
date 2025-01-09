@@ -1,6 +1,9 @@
 ﻿Solution solution = new();
 //solution.NumDecodings("11106");
-solution.NumDecodings3("12321");
+solution.NumDecodings4("12");
+solution.NumDecodings4("226");
+
+solution.NumDecodings4("12321");
 
 
 Console.WriteLine("Hello, World!");
@@ -93,5 +96,41 @@ public partial class Solution
         }
 
         return dp[0];
+    }
+}
+
+
+public partial class Solution
+{
+    public int NumDecodings4(string s)
+    {
+        int res = 0;
+        void Backtrack(int index)
+        {
+            if (index >= s.Length)
+            {
+                if (index == s.Length)
+                {
+                    res++;
+                }
+                return;
+            }
+           
+            if (s[index] - 48 > 0)
+            {
+                Backtrack(index+1);
+            }
+        
+            if (s[index] != 0 && index+1 < s.Length)
+            {
+                var val = int.Parse(s.Substring(index, 2));
+                if (val < 27)
+                {
+                    Backtrack(index+2);
+                }
+            }
+        }
+        Backtrack(0);
+        return res;
     }
 }

@@ -96,12 +96,8 @@ public partial class Solution
                 left--;
                 right++;
             }
-        }
-        
-        for (int i = 0; i < s.Length; i++)
-        {
-            int left = i;
-            int right = i + 1;
+            left = i;
+            right = i + 1;
             while (left >= 0 && right < s.Length && s[left] == s[right])
             {
                 var temp = s.Substring(left, right - left + 1);
@@ -113,6 +109,22 @@ public partial class Solution
                 right++;
             }
         }
+        
+        /*for (int i = 0; i < s.Length; i++)
+        {
+            int left= i;
+            int right = i + 1;
+            while (left >= 0 && right < s.Length && s[left] == s[right])
+            {
+                var temp = s.Substring(left, right - left + 1);
+                if (temp.Length > res.Length)
+                {
+                    res = temp;
+                }
+                left--;
+                right++;
+            }
+        }*/
 
         return res;
     }
