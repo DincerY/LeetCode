@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.HouseRobber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cce89dec44e98e0b0bfbaf3b75a98493e3caa1b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.HouseRobber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.HouseRobber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
