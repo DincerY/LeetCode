@@ -1,12 +1,12 @@
 ﻿Solution solution = new();
-solution.Rob(new[]
+solution.Rob2(new[]
 {
-    2, 7, 9, 3, 1
+    2, 3, 2
 });
 
 Console.WriteLine("Hello, World!");
 
-public class Solution
+public partial class Solution
 {
     public int Rob(int[] nums)
     {
@@ -32,5 +32,28 @@ public class Solution
         }
 
         return rob2;
+    }
+}
+
+
+
+public partial class Solution
+{
+    public int Rob2(int[] nums)
+    {
+        int Max(int[] arr)
+        {
+            int left, right =0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                var temp = nums[i] + ((i - 2) >= 0 ? nums[i - 2] : 0);
+                left = right;
+                right = Math.Max(left,temp);
+            }
+            return right;
+        }
+        
+        
+        return Math.Max(Max(nums[1..]),Max(nums[..^1]));
     }
 }
