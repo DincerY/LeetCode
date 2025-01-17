@@ -53,7 +53,27 @@ public partial class Solution
             return right;
         }
         
-        
-        return Math.Max(Max(nums[1..]),Max(nums[..^1]));
+        int Max2(int[] arr)
+        {
+            int[] tempArr = new int[arr.Length];
+            tempArr[0] = arr[0];
+            for (int i = 1; i < arr.Length; i++)
+            {
+                
+                if (i - 2 >= 0)
+                {
+                    tempArr[i] = arr[i] + tempArr[i - 2];
+                    tempArr[i] = Math.Max(tempArr[i], tempArr[i - 1]);
+                }
+                else
+                {
+                    tempArr[i] = arr[i];
+                    tempArr[i] = Math.Max(tempArr[i], tempArr[i - 1]);
+                }
+            }
+            return tempArr[^1];
+        }
+
+        return Math.Max(Max2(nums[1..]),Max2(nums[..^1]));
     }
 }
