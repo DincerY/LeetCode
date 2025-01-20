@@ -1,5 +1,8 @@
-﻿Solution solution = new();
-solution.LengthOfLIS2(new[] { 10, 9, 2, 5, 3, 7, 101, 18 });
+﻿using System.Data.Common;
+
+Solution solution = new();
+solution.LengthOfLISDp(new[] { 10, 9, 2, 5, 3, 7, 101, 18 });
+solution.LengthOfLISDp(new[] { 0,1,0,3,2,3 });
 
 
 Console.WriteLine("Hello, World!");
@@ -31,26 +34,49 @@ public partial class Solution {
     }
 }
 
+
+//Time limit exceeded
 public partial class Solution {
-    public int LengthOfLIS2(int[] nums) {
-        void Dfs(int index, int num)
+    public int LengthOfLIS2(int[] nums)
+    {
+        int max = 0;
+        void Dfs(int index, int lastVal,int len)
         {
-            if (index < nums.Length && num < nums[index])
+            max = Math.Max(max, len);
+            if (index < nums.Length)
             {
-                Dfs(index+1,num);
-                Dfs(index+2,num);
-
+                if (lastVal < nums[index])
+                {
+                    Dfs(index+1,nums[index],len+1);
+                }
+                Dfs(index+1,lastVal,len);
             }
-            
         }
-        for (int i = 0; i < nums.Length; i++)
-        {
-            Dfs(i + 1, nums[i]);
-        }
-
-        
-        return 0;
+        Dfs(0,int.MinValue,0);
+        return max;
     }
+}
 
-    
+
+//Very efficient
+public partial class Solution {
+    public int LengthOfLISDp(int[] nums)
+    {
+        int max = 0;
+        int[] arr = new int[nums.Length];
+        for (int i = nums.Length-1; i >= 0; i--)
+        {
+            arr[i] = 1;
+            int val = nums[i];
+            for (int j = i + 1; j < nums.Length; j++)
+            {
+                if (nums[i] < nums[j])
+                {
+                    arr[i] = Math.Max(arr[i], arr[j] + 1);
+                }
+            }
+            max = Math.Max(max, arr[i]);
+        }
+        return max;
+    }
 }
