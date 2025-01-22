@@ -1,9 +1,9 @@
 ﻿Solution solution = new();
-// solution.MaxProduct2(new[]
-// {
-//     2, 3, -2, 4
-// });
-solution.MaxProduct3(new[]
+solution.MaxProduct4(new[]
+{
+    2, 3, -2, 4
+});
+solution.MaxProduct4(new[]
 {
     2, 3, -5, 4, -2
 });
@@ -97,3 +97,28 @@ public partial class Solution
         list.Add(nums.ToList());
     }
 }
+
+
+
+public partial class Solution
+{
+    public int MaxProduct4(int[] nums)
+    {
+        int min = 1;
+        int max = 1;
+        int res = int.MinValue;
+        for (int i = nums.Length-1; i >= 0; i--)
+        {
+            
+            int tempMin = min;
+            min = Math.Min(nums[i], Math.Min(nums[i] * min, nums[i] * max));
+            max = Math.Max(nums[i], Math.Max(nums[i] * tempMin, nums[i] * max));
+            res = Math.Max(res, max);
+        }
+        return res;
+    }
+}
+
+
+    
+
