@@ -3,10 +3,10 @@
 solution.CoinChange2(new[] { 2 }, 3);
 solution.CoinChange2(new[] { 1 }, 0);*/
 
-solution.CoinChange3(new[] { 2 }, 3);
-solution.CoinChange3(new[] { 1, 3, 4, 5 }, 7);
-solution.CoinChange2(new[] { 1, 2, 5 }, 11);
-//solution.CoinChange2(new[] { 186,419,83,408 }, 6249);
+solution.CoinChange(new[] { 1, 2, 5 }, 11);
+solution.CoinChange(new[] { 2 }, 3);
+solution.CoinChange4(new[] { 1, 3, 4, 5 }, 7);
+solution.CoinChange4(new[] { 186,419,83,408 }, 6249);
 
 
 Console.WriteLine("Hello, World!");
@@ -116,4 +116,32 @@ public partial class Solution
         }
         return dp[amount] == 1000000 ? -1 : dp[amount];
     }
+}
+
+
+
+public partial class Solution
+{
+    public int CoinChange4(int[] coins, int amount)
+    {
+        int[] dp = new int[amount+1];
+        for (int i = 1; i < dp.Length; i++)
+        {
+            dp[i] = int.MaxValue-1;
+            for (int j = 0; j < coins.Length; j++)
+            {
+                if (coins[j] <= i)
+                {
+                    dp[i] = Math.Min(dp[i], dp[i - coins[j]] + 1);
+                }
+            }
+        }
+
+        if (dp[amount] < 0 || dp[amount] == int.MaxValue -1)
+        {
+            return -1;
+        }
+        return dp[amount];
+    }
+
 }

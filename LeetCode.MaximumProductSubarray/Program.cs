@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.MaxProduct4(new[]
+/*solution.MaxProduct4(new[]
 {
     2, 3, -2, 4
 });
@@ -11,6 +11,11 @@ solution.MaxProduct4(new[]
 solution.SubArray(new[]
 {
     2, 3, -2, 4
+});*/
+
+solution.MaxProduct2(new[]
+{
+    -2,0,-1
 });
 
 
@@ -106,13 +111,18 @@ public partial class Solution
     {
         int min = 1;
         int max = 1;
-        int res = int.MinValue;
-        for (int i = nums.Length-1; i >= 0; i--)
+        int res = nums.Max();
+        for (int i = 0 ; i < nums.Length; i++)
         {
-            
-            int tempMin = min;
-            min = Math.Min(nums[i], Math.Min(nums[i] * min, nums[i] * max));
-            max = Math.Max(nums[i], Math.Max(nums[i] * tempMin, nums[i] * max));
+            if (nums[i] == 0)
+            {
+                min = 1;
+                max = 1;
+                continue;
+            }
+            int tempMax = max * nums[i];
+            max = Math.Max(nums[i], Math.Max(nums[i] * min, nums[i] * max));
+            min = Math.Min(nums[i], Math.Min(nums[i] * min, tempMax));
             res = Math.Max(res, max);
         }
         return res;
