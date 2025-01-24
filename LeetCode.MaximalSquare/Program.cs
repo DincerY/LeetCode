@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.MaximalSquare2(new[]
+solution.MaximalSquare4(new[]
 {
     new[] { '1', '0', '1', '0', '0' },
     new[] { '1', '0', '1', '1', '1' },
@@ -77,5 +77,76 @@ public partial class Solution
 
         Dfs(0, 0);
         return 0;
+    }
+}
+
+
+
+public partial class Solution
+{
+    public int MaximalSquare3(char[][] matrix)
+    {
+        int max = 0;
+        int[,] dp = new int[matrix.Length,matrix[0].Length];
+        for (int i = 0; i < matrix.Length; i++)
+        {
+            for (int j = 0; j < matrix[0].Length; j++)
+            {
+                dp[i, j] = matrix[i][j] - 48;
+            }
+        }
+        for (int i = matrix.Length -1; i >= 0; i--)
+        {
+            for (int j = matrix[0].Length-1; j >= 0; j--)
+            {
+                if (i < matrix.Length -1 && j < matrix[0].Length-1)
+                {
+                    if (dp[i,j] == 1)
+                    {
+                        int right = dp[i,j + 1];
+                        int down = dp[i + 1,j];
+                        int diag = dp[i + 1,j + 1];
+                        if (right >= 1 && down >= 1 && diag >= 1)
+                        {
+                            dp[i,j] = Math.Min(right, Math.Min(down, diag)) + 1;
+                        }
+                    }
+                }
+                max = Math.Max(max, dp[i, j]);
+            }
+        }
+        return max * max;
+    }
+}
+
+public partial class Solution
+{
+    public int MaximalSquare4(char[][] matrix)
+    {
+        int max = 0;
+        int tempMax = 0;
+        for (int i = matrix.Length -1; i >= 0; i--)
+        {
+            for (int j = matrix[0].Length-1; j >= 0; j--)
+            {
+                tempMax = matrix[i][j] - 48;
+                if (i < matrix.Length -1 && j < matrix[0].Length-1)
+                {
+                    if (matrix[i][j] == '1')
+                    {
+                        int right = matrix[i][j + 1] - 48;
+                        int down = matrix[i + 1][j] - 48;
+                        int diag = matrix[i + 1][j + 1] - 48;
+                        if (right >= 1 && down >= 1 && diag >= 1)
+                        {
+                            tempMax = Math.Min(right, Math.Min(down, diag)) + 1;
+                            matrix[i][j] = (char)(tempMax + 48);
+                        }
+                    }
+                }
+                max = Math.Max(max, tempMax);
+            }
+        }
+        return max * max;
     }
 }

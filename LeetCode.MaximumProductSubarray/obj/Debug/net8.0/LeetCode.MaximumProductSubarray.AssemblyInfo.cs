@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumProductSubarray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7bd1ace0533cfcabf6c90d02740e5e110bae543")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumProductSubarray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumProductSubarray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximalSquare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75bf73f6a6c12d134ab0b72e64f2a2278b759c9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximalSquare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximalSquare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
