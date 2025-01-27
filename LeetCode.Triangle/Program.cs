@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.MinimumTotal2(new List<IList<int>>()
+solution.MinimumTotal4(new List<IList<int>>()
 {
     new List<int>(){2},
     new List<int>(){3,4},
@@ -50,6 +50,82 @@ public partial class Solution {
             }
         }
         return dp[0];
+    }
+}
+
+
+//Time limit exceeded (backtracking solution)
+public partial class Solution {
+    public int MinimumTotal3(IList<IList<int>> triangle)
+    {
+        int res = 100000;
+        void BackTrack(int index, int depth,int sum)
+        {
+            if (depth < triangle.Count())
+            {
+                BackTrack(index,depth+1,sum+triangle[depth][index]);
+                if (index+1 < triangle[depth].Count)
+                {
+                    BackTrack(index+1,depth+1, sum+triangle[depth][index+1]);
+                }
+            }
+            else
+            {
+                res = Math.Min(res, sum);
+            }
+        }
+        BackTrack(0,0,0);
+        return res;
+    }
+}
+
+//Dynamic programming memoization method
+public partial class Solution {
+    public int MinimumTotal4(IList<IList<int>> triangle)
+    {
+        int res = 100000;
+        Dictionary<(int, int), int> dp = new();
+        int BackTrack(int index, int depth,int sum)
+        {
+            if (depth < triangle.Count())
+            {
+                if (dp.ContainsKey((depth, index)))
+                {
+                    return dp[(depth, index)];  
+                }
+                BackTrack(index,depth+1,sum+triangle[depth][index]);
+                if (index+1 < triangle[depth].Count)
+                {
+                    BackTrack(index+1,depth+1, sum+triangle[depth][index+1]);
+                }
+                dp[(depth, index)] = sum;
+                return dp[(depth, index)];
+            }
+            else
+            {
+                res = Math.Min(res, sum);
+                return res;
+            }
+        }
+        BackTrack(0,0,0);
+        return res;
+    }
+}
+
+//Dynamic programming tabulation method
+public partial class Solution {
+    public int MinimumTotal5(IList<IList<int>> triangle)
+    {
+        int[] arr = triangle[^1].ToArray();
+        for (int i = triangle.Count()-2; i >= 0; i--)
+        {
+            for (int j = 0; j <= i; j++)
+            {
+                int val = triangle[i][j];
+                arr[j] = Math.Min(val + arr[j], val + arr[j+1]);
+            }
+        }
+        return arr[0];
     }
 }
 
