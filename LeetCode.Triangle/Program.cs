@@ -83,9 +83,8 @@ public partial class Solution {
 public partial class Solution {
     public int MinimumTotal4(IList<IList<int>> triangle)
     {
-        int res = 100000;
         Dictionary<(int, int), int> dp = new();
-        int BackTrack(int index, int depth,int sum)
+        int BackTrack(int index, int depth)
         {
             if (depth < triangle.Count())
             {
@@ -93,22 +92,22 @@ public partial class Solution {
                 {
                     return dp[(depth, index)];  
                 }
-                BackTrack(index,depth+1,sum+triangle[depth][index]);
-                if (index+1 < triangle[depth].Count)
+                int left = BackTrack(index,depth+1);
+                int right = 0;
+                if (index+1 <= triangle[depth].Count)
                 {
-                    BackTrack(index+1,depth+1, sum+triangle[depth][index+1]);
+                    right = BackTrack(index+1,depth+1);
                 }
-                dp[(depth, index)] = sum;
+                dp[(depth, index)] = triangle[depth][index] + Math.Min(left,right);
                 return dp[(depth, index)];
             }
             else
             {
-                res = Math.Min(res, sum);
-                return res;
+                return 0;
             }
         }
-        BackTrack(0,0,0);
-        return res;
+        BackTrack(0,0);
+        return dp[(0,0)];
     }
 }
 
