@@ -191,7 +191,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.RestoreIPAddresses
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.BinaryTreeInorderTraversal", "LeetCode.BinaryTreeInorderTraversal\LeetCode.BinaryTreeInorderTraversal.csproj", "{DD4B625A-4C6C-4A40-A505-16AB49918E85}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode. UniqueBinarySearchTrees2", "LeetCode. UniqueBinarySearchTrees2\LeetCode. UniqueBinarySearchTrees2.csproj", "{30E12056-5328-4F7B-B82A-033AC6177509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UniqueBinarySearchTrees2", "LeetCode.UniqueBinarySearchTrees2\LeetCode.UniqueBinarySearchTrees2.csproj", "{30E12056-5328-4F7B-B82A-033AC6177509}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.UniqueBinarySearchTrees", "LeetCode.UniqueBinarySearchTrees\LeetCode.UniqueBinarySearchTrees.csproj", "{000131CF-449E-45FB-85E5-51C361CB6FFF}"
 EndProject

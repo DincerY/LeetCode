@@ -1,5 +1,7 @@
-﻿Solution solution = new();
-solution.NumTrees2(5);
+﻿using System.Net.Http.Headers;
+
+Solution solution = new();
+solution.NumTrees3(3);
 
 
 Console.WriteLine("Hello, World!");
@@ -93,5 +95,58 @@ public partial class Solution
         }
 
         return numTree[n];
+    }
+}
+
+
+public partial class Solution
+{
+    public int NumTrees3(int n)
+    {
+        int[] dp = new int[n+1];
+        dp[0] = 0;
+        dp[1] = 1;
+        int Recursion(int val)
+        {
+            if (val == 0)
+            {
+                return 0;
+            }
+            if (dp[val] != 0)
+            {
+                return dp[val];
+            }
+            int res = 0;
+            for (int i = 1; i < val+1; i++)
+            {
+                int left = i - 1;
+                int right = val - i;
+                if (dp[left] == 0)
+                {
+                    left = Recursion(left);
+                }
+                else
+                {
+                    left = dp[left];
+                }
+
+                if (dp[right] == 0)
+                {
+                    right = Recursion(right);
+                }
+                else
+                {
+                    right = dp[right];
+                }
+
+                res += left + right;
+            }
+
+            dp[val] = res;
+            return res;
+        }
+
+        Recursion(n);
+        return 0;
     }
 }
