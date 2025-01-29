@@ -1,7 +1,7 @@
 ﻿using System.Net.Http.Headers;
 
 Solution solution = new();
-solution.NumTrees3(3);
+solution.NumTrees4(4);
 
 
 Console.WriteLine("Hello, World!");
@@ -80,7 +80,6 @@ public partial class Solution
     {
         int[] numTree = new int[n + 1];
         Array.Fill(numTree, 1);
-
         for (int nodes = 2; nodes <= n; nodes++)
         {
             int total = 0;
@@ -90,10 +89,8 @@ public partial class Solution
                 int right = nodes - root;
                 total += numTree[left] * numTree[right];
             }
-
             numTree[nodes] = total;
         }
-
         return numTree[n];
     }
 }
@@ -108,10 +105,6 @@ public partial class Solution
         dp[1] = 1;
         int Recursion(int val)
         {
-            if (val == 0)
-            {
-                return 0;
-            }
             if (dp[val] != 0)
             {
                 return dp[val];
@@ -139,7 +132,9 @@ public partial class Solution
                     right = dp[right];
                 }
 
-                res += left + right;
+                left = left == 0 ? 1 : left;
+                right = right == 0 ? 1 : right;
+                res += left * right;
             }
 
             dp[val] = res;
@@ -147,6 +142,28 @@ public partial class Solution
         }
 
         Recursion(n);
-        return 0;
+        return dp[^1];
+    }
+}
+
+public partial class Solution
+{
+    public int NumTrees4(int n)
+    {
+        int[] arr = new int[n+1];
+        arr[0] = 1;
+        arr[1] = 1;
+        for (int i = 2; i <= n; i++)
+        {
+            int total = 0;
+            for (int j = 1; j <= i; j++)
+            {
+                int left = j - 1;
+                int right = i - j;
+                total += arr[left] * arr[right];
+            }
+            arr[i] = total;
+        }
+        return arr[^1];
     }
 }
