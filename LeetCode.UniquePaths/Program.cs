@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.UniquePaths5(3, 7);
+solution.UniquePathsBruteForce(3, 7);
 
 Console.WriteLine("Hello, World!");
 
@@ -43,10 +43,30 @@ public partial class Solution
     }
 }
 
+public partial class Solution {
+    public int UniquePathsBruteForce(int m, int n)
+    {
+        int res = 0;
+        void BackTrack(int i, int j)
+        {
+            if (i == m-1 && j == n-1)
+            {
+                res++;
+            }
+            if (i >= m || j >= n)
+            {
+                return;
+            }
+            BackTrack(i+1,j);
+            BackTrack(i,j+1);
+        }
+        BackTrack(0,0);
+        return res;
+    }
+}
 
 
-
-
+//Dynamic programming memoization solution (top-down)
 public partial class Solution
 {
     public int UniquePaths3(int m, int n)
@@ -94,6 +114,8 @@ public partial class Solution {
         return arr[m-1,n-1];
     }
 }
+
+//Dynamic programming tabulation solution (bottom-up)
 public partial class Solution {
     public int UniquePaths5(int m, int n) 
     {
@@ -103,7 +125,7 @@ public partial class Solution {
         {
             for (int j = n-2; j >= 0; j--)
             {
-                arr[j] = arr[j] + arr[j + 1];
+                arr[j] += arr[j + 1];
             }
         }
         return arr[0];
