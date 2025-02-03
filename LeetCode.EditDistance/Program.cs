@@ -7,7 +7,7 @@ Console.WriteLine("Hello, World!");
 
 
 //NeedCode's solution
-public class Solution
+public partial class Solution
 {
     public int MinDistance(string word1, string word2)
     {
@@ -37,5 +37,15 @@ public class Solution
             }
         }
         return cache[0, 0];
+    }
+}
+
+
+
+public partial class Solution
+{
+    public int MinDistance2(string word1, string word2)
+    {
+        return 0;
     }
 }

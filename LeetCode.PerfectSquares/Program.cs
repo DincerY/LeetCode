@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.NumSquaresBruteForce(12);
-solution.NumSquaresBruteForce(13);
+solution.NumSquares2(12);
+solution.NumSquares2(13);
 solution.NumSquaresBruteForce(37);
 solution.NumSquaresBruteForce(55);
 
@@ -60,37 +60,30 @@ Console.WriteLine("Hello, World!");
 
 //Dynamic Programming memoization
  public partial class Solution {
-     public int NumSquaresBrute2(int n)
+     public int NumSquares2(int n)
      {
-         int[] dp = new int[n+1];
-         dp[0] = 0;
-         int min = 10000;
-         int Backtrack(int total,int val)
+         Dictionary<int, int> dp = new();
+         int Backtrack(int total)
          {
-             if (total == n)
-             {
-                 min = Math.Min(min, val);
-                 return min;
-             }
-             if (total > n)
+             if (total == 0)
              {
                  return 0;
              }
 
-             int tempMin = 100000;
-             for (int i = 1; i*i <= n; i++)
+             if (dp.ContainsKey(total))
              {
-                 if ((n-total) - i*i < 0)
-                 {
-                     break;
-                 }
-                 tempMin = Math.Min(tempMin,Backtrack(total + (i*i) ,val+1));
+                 return dp[total];
+             }
+             int tempMin = 100000;
+             for (int i = 1; i*i <= total; i++)
+             {
+                 tempMin = Math.Min(tempMin,1+Backtrack(total - (i*i)));
              }
 
-             return 0;
+             dp[total] = tempMin;
+             return tempMin;
          } 
-         Backtrack(0,0);
-         return min;
+         return Backtrack(n);
      }
  }
 

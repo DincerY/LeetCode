@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PerfectSquares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a258e17f5de7b9a9d5a5688ae3f58a11190fe7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd3f397c3c693d8959fc4b71960b9c48858eadb")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PerfectSquares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PerfectSquares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
