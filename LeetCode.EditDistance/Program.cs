@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.MinDistance("horse", "ros");
-solution.MinDistance("intention", "execution");
+solution.MinDistance2("horse", "ros");
+solution.MinDistance2("intention", "execution");
 
 
 Console.WriteLine("Hello, World!");
@@ -46,6 +46,33 @@ public partial class Solution
 {
     public int MinDistance2(string word1, string word2)
     {
+        int min = 1000;
+        void Backtrack(int i, int j, int val)
+        {
+            if (i == word1.Length && j == word2.Length)
+            {
+                min = Math.Min(min, val);
+                return;
+            }
+            if (i == word1.Length || j == word2.Length)
+            {
+                return;
+            }
+            if (word1[i] == word2[j])
+            {
+                Backtrack(i+1,j+1,val);
+            }
+            else
+            {
+                if (word1.Length < word2.Length)
+                {
+                    Backtrack(i,j+1,val+1); //Insert
+                }
+                Backtrack(i+1,j+1,val+1); //Replace
+                Backtrack(i+1,j,val+1); //Delete
+            }
+        }
+        Backtrack(0,0,0);
         return 0;
     }
 }
