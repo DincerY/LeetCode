@@ -63,16 +63,13 @@ public partial class Solution
                 Backtrack(i+1,j+1,val);
             }
             else
-            {
-                if (word1.Length < word2.Length)
-                {
-                    Backtrack(i,j+1,val+1); //Insert
-                }
+            { 
+                Backtrack(i,j+1,val+1); //Insert
                 Backtrack(i+1,j+1,val+1); //Replace
                 Backtrack(i+1,j,val+1); //Delete
             }
         }
         Backtrack(0,0,0);
-        return 0;
+        return min;
     }
 }

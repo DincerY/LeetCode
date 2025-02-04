@@ -1,9 +1,9 @@
 ﻿Solution solution = new();
-solution.NumDistinct2("rabbbit", "rabbit");
-//solution.NumDistinct2("babgbag", "bag");
+solution.NumDistinct4("rabbbit", "rabbit");
+solution.NumDistinct4("babgbag", "bag");
 
 
-//var a = solution.NumDistinct2("adbdadeecadeadeccaeaabdabdbcdabddddabcaaadbabaaedeeddeaeebcdeabcaaaeeaeeabcddcebddebeebedaecccbdcbcedbdaeaedcdebeecdaaedaacadbdccabddaddacdddc", "bcddceeeebecbc");
+//var a = solution.NumDistinct3("adbdadeecadeadeccaeaabdabdbcdabddddabcaaadbabaaedeeddeaeebcdeabcaaaeeaeeabcddcebddebeebedaecccbdcbcedbdaeaedcdebeecdaaedaacadbdccabddaddacdddc", "bcddceeeebecbc");
 //Console.WriteLine(a);
 
 
@@ -80,5 +80,69 @@ public partial class Solution
         }
 
         return Dfs(0, 0);
+    }
+}
+
+
+
+public partial class Solution
+{
+    public int NumDistinct3(string s, string t)
+    {
+        int res = 0;
+        void Backtrack(int sIndex, int tIndex)
+        {
+            if (tIndex == t.Length)
+            {
+                res++;
+            }
+            if (sIndex >= s.Length || tIndex >= t.Length)
+            {
+                return;
+            }
+            if (s[sIndex] == t[tIndex])
+            {
+                Backtrack(sIndex+1,tIndex+1);
+            }
+            Backtrack(sIndex+1,tIndex);
+        }
+        Backtrack(0,0);
+        return res;
+    }
+}
+//dp solution
+public partial class Solution
+{
+    public int NumDistinct4(string s, string t)
+    {
+        Dictionary<(int,int), int> dp = new();
+        int Backtrack(int sIndex, int tIndex)
+        {
+            if (tIndex == t.Length)
+            {
+                return 1;
+            }
+            if (sIndex == s.Length)
+            {
+                return 0;
+            }
+
+            if (dp.ContainsKey((sIndex,tIndex)))
+            {
+                return dp[(sIndex, tIndex)];
+            }
+            if (s[sIndex] == t[tIndex])
+            {
+                dp[(sIndex,tIndex)] = Backtrack(sIndex+1,tIndex+1) + Backtrack(sIndex+1,tIndex);
+            }
+            else
+            {
+                dp[(sIndex,tIndex)] = Backtrack(sIndex+1,tIndex);
+            }
+
+            return dp[(sIndex, tIndex)];
+        }
+        Backtrack(0,0);
+        return dp[(0,0)];
     }
 }
