@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.CombinationSum4Dp(new[] { 1, 2, 3 }, 4);
-solution.CombinationSum4(new[] { 9 }, 3);
+solution.CombinationSum4Dif(new[] { 1, 2, 3 }, 4);
+solution.CombinationSum4Dif(new[] { 9 }, 3);
 
 
 Console.WriteLine("Hello, World!");
@@ -52,5 +52,27 @@ public partial class Solution
         }
 
         return dp.ContainsKey(target) ? dp[target] : 0;
+    }
+}
+
+//Dynamic programming tabulation approach
+public partial class Solution
+{
+    public int CombinationSum4Dif(int[] nums, int target)
+    {
+        int[] arr = new int[target + 1];
+        arr[0] = 1;
+        for (int i = 1; i <= target; i++)
+        {
+            foreach (var num in nums)
+            {
+                int val = i - num;
+                if (val >= 0)
+                {
+                    arr[i] += arr[val];
+                }
+            }
+        }
+        return arr[target];
     }
 }
