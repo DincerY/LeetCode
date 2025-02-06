@@ -1,6 +1,7 @@
 ﻿Solution solution = new();
-solution.CombinationSum4Dif(new[] { 1, 2, 3 }, 4);
-solution.CombinationSum4Dif(new[] { 9 }, 3);
+solution.CombinationSum4Memoization(new[] { 1, 2, 3 }, 4);
+solution.CombinationSum4Memoization(new[] { 9 }, 3);
+solution.CombinationSum4Memoization(new[] { 2,1,3 }, 35);
 
 
 Console.WriteLine("Hello, World!");
@@ -55,10 +56,73 @@ public partial class Solution
     }
 }
 
+//Dynamic programming brute force approach
+public partial class Solution
+{
+    public int CombinationSum4Backtrack(int[] nums, int target)
+    {
+        int res = 0;
+        void Backtrack(int total)
+        {
+            if (total > target)
+            {
+                return;
+            }
+            if (total == target)
+            {
+                res++;
+                return;
+            }
+            foreach (var num in nums)
+            {
+                Backtrack(total+num);
+            }
+        }
+        Backtrack(0);
+        return res;
+    }
+}
+
+//Dynamic programming memoization approach
+public partial class Solution
+{
+    public int CombinationSum4Memoization(int[] nums, int target)
+    {
+        int[] dp = new int[target+1];
+        Array.Fill(dp,-1);
+        int Backtrack(int total)
+        {
+            if (total < 0)
+            {
+                return 0;
+            }
+            if (total == 0)
+            {
+                return 1;
+            }
+
+            if (dp[total] != -1)
+            {
+                return dp[total];
+            }
+            int res = 0;
+
+            foreach (var num in nums)
+            {
+                res += Backtrack(total-num);
+            }
+
+            dp[total] = res;
+            return res;
+        }
+        return Backtrack(target);
+    }
+}
+
 //Dynamic programming tabulation approach
 public partial class Solution
 {
-    public int CombinationSum4Dif(int[] nums, int target)
+    public int CombinationSum4Tabulation(int[] nums, int target)
     {
         int[] arr = new int[target + 1];
         arr[0] = 1;
