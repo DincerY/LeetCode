@@ -1,6 +1,7 @@
 ﻿Solution solution = new();
-solution.MaxAlternatingSum2(new[] { 4, 2, 5, 3 });
-solution.MaxAlternatingSum(new[] { 5, 6, 7, 8 });
+solution.MaxAlternatingSum4(new[] { 4, 2, 5, 3 });
+solution.MaxAlternatingSum4(new[] { 5, 6, 7, 8 });
+solution.MaxAlternatingSum4(new[] { 6, 2, 1, 2, 4, 5});
 
 
 Console.WriteLine("Hello, World!");
@@ -52,3 +53,85 @@ public partial class Solution
         return sumEven;
     }
 }
+
+
+
+//Brute force approach
+public partial class Solution
+{
+    public long MaxAlternatingSum3(int[] nums)
+    {
+        List<List<int>> list = new();
+        void Backtrack(List<int> arr,int index)
+        {
+            if (index == nums.Length)
+            {
+                list.Add(arr.ToList());
+                return;
+            }
+            arr.Add(nums[index]);
+            Backtrack(arr,index+1);
+            arr.RemoveAt(arr.Count-1);
+            Backtrack(arr,index+1);
+        }
+        Backtrack(new List<int>(),0);
+
+        int max = -1;
+        foreach (var combination in list)
+        {
+            int temp = 0;
+            for (int i = 0; i < combination.Count; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    temp += combination[i];
+                }
+                else
+                {
+                    temp -= combination[i];
+                }
+            }
+
+            max = Math.Max(max, temp);
+        }
+        return max;
+    }
+}
+
+public partial class Solution
+{
+    public long MaxAlternatingSum4(int[] nums)
+    {
+        int max = -1;
+        void Backtrack(int val,int index, bool isPositive)
+        {
+            if (index == nums.Length)
+            {
+                max = Math.Max(max, val);
+                return;
+            }
+
+            int temp = isPositive ? val + nums[index] : val - nums[index];
+            Backtrack(temp,index+1,!isPositive);
+            Backtrack(val,index+1,isPositive);
+        }
+        Backtrack(0,0,true);
+        return max;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
