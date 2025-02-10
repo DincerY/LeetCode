@@ -1,7 +1,7 @@
 ﻿Solution solution = new();
-solution.MaxAlternatingSum4(new[] { 4, 2, 5, 3 });
-solution.MaxAlternatingSum4(new[] { 5, 6, 7, 8 });
-solution.MaxAlternatingSum4(new[] { 6, 2, 1, 2, 4, 5});
+solution.MaxAlternatingSum6(new[] { 4, 2, 5, 3 });
+solution.MaxAlternatingSum6(new[] { 5, 6, 7, 8 });
+solution.MaxAlternatingSum6(new[] { 6, 2, 1, 2, 4, 5});
 
 
 Console.WriteLine("Hello, World!");
@@ -117,6 +117,48 @@ public partial class Solution
         }
         Backtrack(0,0,true);
         return max;
+    }
+}
+
+//Dynamic programming memoization
+public partial class Solution
+{
+    public long MaxAlternatingSum5(int[] nums)
+    {
+        Dictionary<(int, bool), long> dp = new();
+        long Backtrack(int index, bool even)
+        {
+            if (index == nums.Length)
+            {
+                return 0;
+            }
+
+            if (dp.ContainsKey((index,even)))
+            {
+                return dp[(index, even)];
+            }
+
+            int total = even ? nums[index] : -1*nums[index];
+            dp[(index, even)] = Math.Max(total + Backtrack(index + 1, !even), Backtrack(index + 1, even));
+            return dp[(index, even)];
+        }
+        return Backtrack(0,true);
+    }
+}
+
+//Dynamic programming tabulation
+public partial class Solution
+{
+    public long MaxAlternatingSum6(int[] nums) {
+        long sumEven = 0, sumOdd = 0;
+        for (int i = nums.Length - 1; i >= 0; i--) 
+        {
+            long tmpEven = Math.Max(sumOdd + nums[i], sumEven);
+            long tmpOdd = Math.Max(sumEven - nums[i], sumOdd);
+            sumEven = tmpEven;
+            sumOdd = tmpOdd;
+        }
+        return sumEven;
     }
 }
 

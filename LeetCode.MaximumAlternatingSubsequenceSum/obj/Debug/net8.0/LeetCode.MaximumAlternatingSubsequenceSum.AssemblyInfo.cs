@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumAlternatingSubsequenceSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0fcaf8e2b17a79a8b8c9347fbbbdd089856658c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f48b59d89a58cbe06abe65f8393fd4e2eaeeeb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumAlternatingSubsequenceSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumAlternatingSubsequenceSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
