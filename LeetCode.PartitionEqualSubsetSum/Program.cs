@@ -68,7 +68,7 @@ public partial class Solution
         return res;
     }
 }
-
+//Bellek dışı hatası veriyor.
 public partial class Solution
 {
     public bool CanPartition3(int[] nums)
@@ -95,5 +95,31 @@ public partial class Solution
             }
         }
         return false;
+    }
+}
+//HashSet ile birden fazla aynı elemandan kurtulduk
+public partial class Solution {
+    public bool CanPartition4(int[] nums)
+    {
+        int sum = nums.Sum();
+        if (sum % 2 != 0) {
+            return false;
+        }
+        HashSet<int> dp = new HashSet<int>();
+        dp.Add(0);
+        sum /= 2;
+
+        for (int i = nums.Length - 1; i >= 0; i--) {
+            HashSet<int> nextDP = new HashSet<int>();
+            foreach (int t in dp) {
+                if (t + nums[i] == sum) {
+                    return true;
+                }
+                nextDP.Add(t + nums[i]);
+                nextDP.Add(t);
+            }
+            dp = nextDP;
+        }
+        return dp.Contains(sum);
     }
 }
