@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PartitionEqualSubsetSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3469511ac72fe78234cde510a00b4ef3fe7c17db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PartitionEqualSubsetSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PartitionEqualSubsetSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

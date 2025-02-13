@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumPathSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a219765a08e1687b72d5ea0accd346862cd7eff0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumPathSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumPathSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

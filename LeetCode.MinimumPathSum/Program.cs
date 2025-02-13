@@ -1,12 +1,12 @@
 ﻿Solution solution = new();
-// solution.MinPathSum3(new[]
-// {
-//     new[] { 1, 3, 1 },
-//     new[] { 1, 5, 1 },
-//     new[] { 4, 2, 1 },
-// });
+solution.MinPathSum6(new[]
+{
+    new[] { 1, 3, 1 },
+    new[] { 1, 5, 1 },
+    new[] { 4, 2, 1 },
+});
 
-solution.MinPathSum3(new[]
+solution.MinPathSum6(new[]
 {
     new[] { 1, 2, 3 },
     new[] { 4, 5, 6 }
@@ -99,4 +99,88 @@ public partial class Solution
         return dp[0, 0];
     }
 }
+
+public partial class Solution
+{
+    public int MinPathSum4(int[][] grid)
+    {
+        int min = 10000;
+        void Backtrack(int i,int j,int total) //i down -- j right
+        {
+            if (i >= grid.Length || j >= grid[0].Length)
+            {
+                return;
+            }
+            total += grid[i][j];
+            if (i == grid.Length-1 && j == grid[0].Length-1)
+            {
+                min = Math.Min(min, total);
+            }
+            Backtrack(i+1,j,total);
+            Backtrack(i,j+1,total);
+        }
+        Backtrack(0,0,0);
+        return min;
+    }
+}
+
+public partial class Solution
+{
+    public int MinPathSum5(int[][] grid)
+    {
+        Dictionary<(int i, int j), int> dp = new();
+        int Backtrack(int i,int j) //i down -- j right
+        {
+            if (dp.ContainsKey((i,j)))
+            {
+                return dp[(i, j)];
+            }
+            if (i >= grid.Length || j >= grid[0].Length)
+            {
+                return int.MaxValue;
+            }
+            if (i == grid.Length-1 && j == grid[0].Length-1)
+            {
+                return grid[i][j];
+            }
+            dp[(i,j)] = grid[i][j] + Math.Min(Backtrack(i + 1, j), Backtrack(i, j + 1));
+            return dp[(i, j)];
+        }
+        return Backtrack(0,0);
+    }
+}
+
+public partial class Solution
+{
+    public int MinPathSum6(int[][] grid)
+    {
+        int row = grid.Length;
+        int colm = grid[0].Length;
+        int[,] dp = new int[row+1,colm+1];
+
+        for (int i = row; i >= 0; i--)
+        {
+            for (int j = colm; j >= 0; j--)
+            {
+                if (i < row && j < colm)
+                {
+                    if (i == row-1 && j == colm-1)
+                    {
+                        dp[i, j] = grid[i][j];
+                    }
+                    else
+                    {
+                        dp[i, j] = grid[i][j] + Math.Min(dp[i+1,j],dp[i,j+1]);
+                    }
+                }
+                else
+                {
+                    dp[i, j] = int.MaxValue;
+                }
+            }
+        }
+        return dp[0,0];
+    }
+}
+
 
