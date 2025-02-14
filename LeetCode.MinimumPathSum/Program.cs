@@ -1,12 +1,12 @@
 ﻿Solution solution = new();
-solution.MinPathSum6(new[]
+solution.MinPathSum7(new[]
 {
     new[] { 1, 3, 1 },
     new[] { 1, 5, 1 },
     new[] { 4, 2, 1 },
 });
 
-solution.MinPathSum6(new[]
+solution.MinPathSum7(new[]
 {
     new[] { 1, 2, 3 },
     new[] { 4, 5, 6 }
@@ -182,5 +182,24 @@ public partial class Solution
         return dp[0,0];
     }
 }
-
+//Tabulation no memory
+public partial class Solution
+{
+    public int MinPathSum7(int[][] grid)
+    {
+        int[] dp = new int[grid[0].Length+1];
+        for (int i = grid.Length-1; i >= 0; i--)
+        {
+            for (int j = grid[0].Length-1; j >= 0; j--)
+            {
+                if (i == grid.Length - 1)
+                    dp[j] = grid[i][j] + dp[j + 1];
+                else
+                    dp[j] = grid[i][j] + Math.Min(dp[j+1],dp[j]);
+            }
+            dp[^1] = int.MaxValue;
+        }
+        return dp[0];
+    }
+}
 
