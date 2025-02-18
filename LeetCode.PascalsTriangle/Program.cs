@@ -1,5 +1,5 @@
 ﻿Solution solution = new Solution();
-solution.Generate4(5);
+solution.Generate3(5);
 
 
 Console.WriteLine("Hello, World!");
@@ -110,33 +110,23 @@ public partial class Solution
     public IList<IList<int>> Generate4(int numRows)
     {
         IList<IList<int>> res = new List<IList<int>>();
-        int[] row = new int[numRows];
-        row[0] = 1;
-        res.Add(row[..1].ToList());
+        List<int> row = new List<int>();
+        row.Add(1);
+        res.Add(row.ToList());
         for (int i = 1; i < numRows; i++)
         {
-            for (int j = 1; j < i+1; j++)
+            var temp = row.ToList();
+            if (row.Count >= 2)
             {
-                row[j] += row[j - 1];
+                for (int j = 1; j < row.Count; j++)
+                {
+                    temp[j] = row[j] + row[j - 1];
+                }    
             }
-            row[i] = 1;
-            res.Add(row[..(i+1)].ToList());
+            temp.Add(1);
+            row = temp;
+            res.Add(row);
         }
         return res;
-
-        void Backtrack(List<int> arr, int step)
-        {
-            if (step == numRows)
-            {
-                return;
-            }
-
-            int[] temp = new int[step];
-            for (int i = 1; i <= step; i++)
-            {
-                
-            }
-            Backtrack(temp.ToList(),step+1);
-        }
     }
 }
