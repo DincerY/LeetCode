@@ -1,5 +1,6 @@
 ﻿Solution solution = new Solution();
-solution.AllPossibleFBT2(7);
+solution.AllPossibleFBT4(7);
+solution.AllPossibleFBT3(3);
 
 Console.WriteLine("Hello, World!");
 
@@ -91,6 +92,77 @@ public partial class Solution
             }
             dp[n] = res;
             return res;
+        }
+        return Backtrack(n);
+    }
+}
+
+public partial class Solution
+{
+    public IList<TreeNode> AllPossibleFBT3(int n)
+    {
+        /*Dictionary<int, TreeNode> dp = new();
+        dp.Add(0,null);
+        dp.Add(1,new TreeNode(0));*/
+        Dictionary<int, int> dp = new();
+        dp.Add(0,0);
+        dp.Add(1,1);
+
+
+        int Backtrack(int val)
+        {
+            if (dp.ContainsKey(val))
+            {
+                return dp[val];
+            }
+
+            for (int i = 0; i < val; i++)
+            {
+                int tempVal = Backtrack(i) * Backtrack(val - i - 1);
+                if (dp.ContainsKey(val))
+                {
+                    dp[val]+= tempVal;
+                }
+                else
+                {
+                    dp.Add(val,tempVal);
+                }
+            }
+            return dp[val];
+        }
+
+        Backtrack(n);
+        return null;
+    }
+}
+public partial class Solution
+{
+    public IList<TreeNode> AllPossibleFBT4(int n)
+    {
+        List<TreeNode> Backtrack(int n)
+        {
+            List<TreeNode> result = new List<TreeNode>();
+            if (n == 1) {
+                result.Add(new TreeNode(0));
+                return result;
+            }
+            if (n % 2 == 0) {
+                return result;
+            }
+            for (int i = 1; i < n; i += 2) {
+                IList<TreeNode> leftSubtrees = Backtrack(i);
+                IList<TreeNode> rightSubtrees = Backtrack(n - i - 1);
+            
+                foreach (TreeNode left in leftSubtrees) {
+                    foreach (TreeNode right in rightSubtrees) {
+                        TreeNode root = new TreeNode(0);
+                        root.left = left;
+                        root.right = right;
+                        result.Add(root);
+                    }
+                }
+            }
+            return result;
         }
         return Backtrack(n);
     }
