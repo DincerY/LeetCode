@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinCostClimbingStairs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d55d9ca08535691037eb9c36b2b498adab6dcb2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8eccd333a589e8382b9f9c97e81d575a98f97487")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinCostClimbingStairs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinCostClimbingStairs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
