@@ -1,7 +1,8 @@
 ﻿Solution solution = new();
+solution.StoneGame(new[] { 5, 3, 4, 5 });
+
 solution.StoneGame2(new[] { 3,7,2,3 });
 
-solution.StoneGame2(new[] { 5, 3, 4, 5 });
 solution.StoneGame2(new[] { 5,1,100,6 });
 
 Console.WriteLine("Hello, World!");
@@ -33,19 +34,7 @@ public partial class Solution
                                   left, Dfs(l, r - 1) + right);
             return dp[(l, r)];
         }
-
-        return Dfs(0, piles.Length - 1) > (Sum(piles) / 2);
-    }
-
-    private int Sum(int[] piles)
-    {
-        int sum = 0;
-        foreach (var pile in piles)
-        {
-            sum += pile;
-        }
-
-        return sum;
+        return Dfs(0, piles.Length - 1) > (piles.Sum() / 2);
     }
 }
 
@@ -56,34 +45,35 @@ public partial class Solution
     public bool StoneGame2(int[] piles)
     {
         List<int> pileList = piles.ToList();
-        int alice = 0;
-        int bob = 0;
-
-        void Backtrack(bool isAlice, int val ,List<int> list)
+        int aliceGreater = 0;
+        void Backtrack(bool isAlice, int aliceVal ,List<int> list)
         {
-            if (pileList.Count <= 0)
+            if (list.Count <= 0)
             {
+                aliceGreater = Math.Max(aliceGreater, aliceVal);
                 return;
-            }
-            if (isAlice)
-            {
-                alice += val;
-            }
-            else
-            {
-                bob += val;
             }
 
             int value = list[0];
-            list.RemoveAt(0);
-            Backtrack(!isAlice, value, list);
+            var temp = list.ToList();
+            temp.RemoveAt(0);
+            int alice = aliceVal;
 
+            if (isAlice)
+            {
+                alice += value;
+            }
+           
+            
+            Backtrack(!isAlice, alice, temp);
+            
             value = list[^1];
             list.RemoveAt(list.Count()-1);
-            Backtrack(!isAlice, value ,list);
+            Backtrack(!isAlice, alice ,list);
+            
         }
-        Backtrack(true, 0 ,pileList);
-        return alice > bob;
+        Backtrack(true, 0,pileList);
+        return aliceGreater > (piles.Sum() / 2);
     }
     
 }

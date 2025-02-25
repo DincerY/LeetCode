@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.MaxProfit3(new[] { 1, 2, 3, 0, 2 });
-solution.MaxProfit3(new[] { 1, 2, 4 });
+solution.MaxProfit4(new[] { 1, 2, 3, 0, 2 });
+solution.MaxProfit4(new[] { 1, 2, 4 });
 
 Console.WriteLine("Hello, World!");
 
@@ -118,5 +118,49 @@ public partial class Solution
             return dp[(i, buying)];
         }
         return Dfs(0, true);
+    }
+}
+
+
+
+public partial class Solution
+{
+    enum Decision
+    {
+        Buy,Sell,CoolDown
+    }
+    public int MaxProfit4(int[] prices)
+    {
+        Decision last = Decision.CoolDown;
+        void Backtrack(Decision decision)
+        {
+            switch (decision)
+            {
+                case Decision.Buy:
+                    Backtrack(Decision.Sell);
+                    Backtrack(Decision.CoolDown);
+                    last = Decision.Buy;
+                    break;
+                
+                case Decision.Sell:
+                    Backtrack(Decision.CoolDown);
+                    last = Decision.Sell;
+                    break;
+                
+                case Decision.CoolDown:
+                    if (last == Decision.Sell)
+                    {
+                        Backtrack(Decision.Buy);
+                    }
+                    else
+                    {
+                        Backtrack(Decision.Sell);
+                    }
+                    Backtrack(Decision.CoolDown);
+                    break;
+            }
+        }
+        Backtrack(Decision.Buy);
+        return 0;
     }
 }
