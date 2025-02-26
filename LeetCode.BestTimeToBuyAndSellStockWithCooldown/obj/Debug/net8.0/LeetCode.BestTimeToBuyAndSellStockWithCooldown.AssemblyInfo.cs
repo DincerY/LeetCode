@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BestTimeToBuyAndSellStockWithCooldown")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a25fe167d14e63a952ad6c9e45b31bcd307c9e0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2721bd07775f7543eb6e87752bd88a3aa4ca572")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BestTimeToBuyAndSellStockWithCooldown")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BestTimeToBuyAndSellStockWithCooldown")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.MaxProfit4(new[] { 1, 2, 3, 0, 2 });
-solution.MaxProfit4(new[] { 1, 2, 4 });
+solution.MaxProfit5(new[] { 1, 2, 3, 0, 2 });
+solution.MaxProfit5(new[] { 1, 2, 4 });
 
 Console.WriteLine("Hello, World!");
 
@@ -125,42 +125,65 @@ public partial class Solution
 
 public partial class Solution
 {
-    enum Decision
-    {
-        Buy,Sell,CoolDown
-    }
     public int MaxProfit4(int[] prices)
     {
-        Decision last = Decision.CoolDown;
-        void Backtrack(Decision decision)
+        int max = 0;
+        void Backtrack(int index,bool isBuying,int total)
         {
-            switch (decision)
+            if (index >= prices.Length)
             {
-                case Decision.Buy:
-                    Backtrack(Decision.Sell);
-                    Backtrack(Decision.CoolDown);
-                    last = Decision.Buy;
-                    break;
-                
-                case Decision.Sell:
-                    Backtrack(Decision.CoolDown);
-                    last = Decision.Sell;
-                    break;
-                
-                case Decision.CoolDown:
-                    if (last == Decision.Sell)
-                    {
-                        Backtrack(Decision.Buy);
-                    }
-                    else
-                    {
-                        Backtrack(Decision.Sell);
-                    }
-                    Backtrack(Decision.CoolDown);
-                    break;
+                max = Math.Max(max, total);
+                return;
             }
+            if (isBuying)
+            {
+                Backtrack(index+1, !isBuying, total-prices[index]);
+                Backtrack(index+1,isBuying, total);
+            }
+            else
+            {
+                Backtrack(index+2, !isBuying, total+prices[index]);
+                Backtrack(index+1,isBuying,total);
+            }
+            
         }
-        Backtrack(Decision.Buy);
-        return 0;
+        Backtrack(0,true,0);
+        return max;
+    }
+}
+
+public partial class Solution
+{
+    public int MaxProfit5(int[] prices)
+    {
+        Dictionary<(int, bool), int> dp = new();
+        int Backtrack(int index,bool isBuying)
+        {
+            if (index >= prices.Length)
+            {
+                return 0;
+            }
+
+            if (dp.ContainsKey((index,isBuying)))
+            {
+                return dp[(index, isBuying)];
+            }
+            
+            if (isBuying)
+            {
+                int buy = Math.Max(Backtrack(index + 1, !isBuying) - prices[index], 
+                    Backtrack(index + 1, isBuying));
+                dp.Add((index,isBuying),buy);
+            }
+            else
+            {
+                int sell = Math.Max(Backtrack(index + 2, !isBuying) + prices[index], 
+                    Backtrack(index + 1, isBuying));
+                dp.Add((index,isBuying),sell);
+            }
+
+            return dp[(index, isBuying)];
+        }
+        return Backtrack(0,true);
     }
 }
