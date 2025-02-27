@@ -1,7 +1,9 @@
 ﻿Solution solution = new();
-solution.IntegerBreak2(2);
-solution.IntegerBreak2(4);
-solution.IntegerBreak2(10);
+solution.IntegerBreak3(2);
+solution.IntegerBreak3(3);
+solution.IntegerBreak3(4);
+solution.IntegerBreak3(5);
+solution.IntegerBreak3(10);
 
 Console.WriteLine("Hello, World!");
 
@@ -52,5 +54,37 @@ public partial class Solution
         }
 
         return dp[n];
+    }
+}
+
+
+public partial class Solution
+{
+    public int IntegerBreak3(int n)
+    {
+        if (n == 2)
+        {
+            return 1;
+        }
+
+        if (n == 3)
+        {
+            return 2;
+        }
+        int res;
+        int count = (int)Math.Sqrt(n);
+        int val = n / count;
+        res = count * val;
+        int temp = 0;
+        for (int i = 0; i < count-1; i++)
+        {
+            temp += val;
+        }
+
+        if (res != n)
+        {
+            res *= (n - temp);
+        }
+        return res;   
     }
 }
