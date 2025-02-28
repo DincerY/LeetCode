@@ -1,9 +1,9 @@
 ﻿Solution solution = new();
-solution.IntegerBreak3(2);
-solution.IntegerBreak3(3);
-solution.IntegerBreak3(4);
-solution.IntegerBreak3(5);
-solution.IntegerBreak3(10);
+solution.IntegerBreak4(2);
+solution.IntegerBreak4(3);
+solution.IntegerBreak4(4);
+solution.IntegerBreak4(5);
+solution.IntegerBreak4(10);
 
 Console.WriteLine("Hello, World!");
 
@@ -57,34 +57,53 @@ public partial class Solution
     }
 }
 
-
 public partial class Solution
 {
     public int IntegerBreak3(int n)
     {
-        if (n == 2)
+        int[] dp = new int[n+1];
+        Array.Fill(dp,-1);
+        dp[0] = 0;
+        dp[1] = 1;
+
+        int Backtrack(int val,int final)
         {
-            return 1;
+            if (dp[val] != -1)
+            {
+                return dp[val];
+            }
+            for (int i = 1; i <= val; i++)
+            {
+                int mult = Backtrack(i,final) * Backtrack(val - i,final);
+                dp[val] = Math.Max(dp[val], mult);
+            }
+
+            if (val != final)
+            {
+                dp[val] = Math.Max(dp[val],val);
+            }
+            return dp[val];
         }
 
-        if (n == 3)
-        {
-            return 2;
-        }
-        int res;
-        int count = (int)Math.Sqrt(n);
-        int val = n / count;
-        res = count * val;
-        int temp = 0;
-        for (int i = 0; i < count-1; i++)
-        {
-            temp += val;
-        }
+        return Backtrack(n,n);
 
-        if (res != n)
+    }
+}
+
+public partial class Solution
+{
+    public int IntegerBreak4(int n)
+    {
+        int[] dp = new int[n+1];
+        dp[1] = 1;
+        for (int i = 2; i < n; i++)
         {
-            res *= (n - temp);
+            for (int j = 1; j <= i; j++)
+            {
+                int mult = dp[j] * dp[i-j];
+                dp[i] = Math.Max(dp[i], mult);
+            }
         }
-        return res;   
+        return dp[^1];
     }
 }
