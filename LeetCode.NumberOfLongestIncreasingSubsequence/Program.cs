@@ -1,7 +1,7 @@
 ﻿Solution solution = new();
-//solution.FindNumberOfLIS(new[] { 1, 3, 5, 4, 7 });
-solution.FindNumberOfLIS(new[] { 1, 2, 4, 3, 5, 4, 7, 2 });
-solution.FindNumberOfLIS(new[] { 2, 2, 2, 2, 2 });
+solution.FindNumberOfLIS2(new[] { 1, 3, 5, 4, 7 });
+solution.FindNumberOfLIS2(new[] { 1, 2, 4, 3, 5, 4, 7, 2 });
+solution.FindNumberOfLIS2(new[] { 2, 2, 2, 2, 2 });
 
 
 Console.WriteLine("Hello, World!");
@@ -50,5 +50,27 @@ public partial class Solution
         }
 
         return res;
+    }
+}
+public partial class Solution
+{
+    public int FindNumberOfLIS2(int[] nums)
+    {
+        int[] dp = new int[nums.Length];
+        int[] count = new int[nums.Length];
+        count[^1] = 1;
+        
+        for (int i = nums.Length-1; i >= 0; i--)
+        {
+            dp[i] = 1;
+            for (int j = i+1; j < nums.Length; j++)
+            {
+                if (nums[i] < nums[j])
+                {
+                    dp[i] = Math.Max(dp[i], dp[j]+1);
+                }
+            }
+        }
+        return dp[0];
     }
 }
