@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.FindNumberOfLIS2(new[] { 1, 3, 5, 4, 7 });
+solution.FindNumberOfLIS(new[] { 1, 3, 5, 4, 7 });
 solution.FindNumberOfLIS2(new[] { 1, 2, 4, 3, 5, 4, 7, 2 });
 solution.FindNumberOfLIS2(new[] { 2, 2, 2, 2, 2 });
 

@@ -41,8 +41,6 @@ public partial class Solution {
     }
 }
 
-
-
 public partial class Solution
 {
     public List<List<int>> combinations = new List<List<int>>();
@@ -62,4 +60,15 @@ public partial class Solution
 
         GenerateCombinations(arr, index + 1, current);
     }
+}
+
+public partial class Solution
+{
+    public int DeleteAndEarn2(int[] nums)
+    {
+        
+        
+        return 0;
+    }
+    
 }
