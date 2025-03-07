@@ -3,9 +3,9 @@
 //solution.DeleteAndEarn(new[] { 2, 2, 3, 3, 3, 4 });
 //solution.DeleteAndEarn(new[] { 3,7,10,5,2,4,8,9,9,4,9,2,6,4,6,5,4,7,6,10 });
 
-solution.DeleteAndEarn3(new[] { 2, 2, 3, 3, 3, 4 });
+solution.DeleteAndEarn4(new[] { 2, 2, 3, 3, 3, 4 });
 
-solution.DeleteAndEarn3(new[] { 2, 3, 3, 5, 7, 7 });
+solution.DeleteAndEarn4(new[] { 2, 3, 3, 5, 7, 7 });
 solution.DeleteAndEarn2(new[] { 1});
 
 
@@ -153,3 +153,45 @@ public partial class Solution
         return dic.Keys.ToArray();
     }
 }
+//Dynamic programming with no memory
+public partial class Solution
+{
+    public int DeleteAndEarn4(int[] nums)
+    {
+        if (nums.Length == 1)
+        {
+            return nums[0];
+        }
+        Array.Sort(nums);
+        Dictionary<int, int> dic = new();
+        var arr = Helper(dic, nums);
+        
+        int left = arr[^1] * dic[arr[^1]];
+        int right = 0;
+        for (int i = arr.Length-2; i >= 0; i--)
+        {
+            int temp = left;
+            if (arr[i]+1 != arr[i+1])
+            {
+                left += (dic[arr[i]] * arr[i]);
+                right = temp;
+            }
+            else
+            {
+                left = Math.Max(dic[arr[i]] * arr[i] + right, left);
+                right = temp;
+            }
+        }
+        return left;
+    }
+}
+
+
+
+
+
+
+
+
+
+
