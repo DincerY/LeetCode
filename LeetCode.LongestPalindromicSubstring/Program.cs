@@ -1,11 +1,9 @@
-﻿using System;
+﻿using System.Collections.Generic;
 
 Solution solution = new Solution();
-/*var str = solution.LongestPalindrome3("babad");
-var strr = solution.LongestPalindrome3("cbbd");*/
+solution.LongestPalindrome3("babad");
+solution.LongestPalindrome3("cbbd");
 solution.LongestPalindrome3("aaaa");
-
-
 
 public partial class Solution
 {
@@ -38,7 +36,6 @@ public partial class Solution
         return s.Substring(startIndex, maxLength);
     }
 }
-
 //very efficient
 public partial class Solution
 {
@@ -74,8 +71,6 @@ public partial class Solution
         return res;
     }
 }
-
-
 
 public partial class Solution
 {
