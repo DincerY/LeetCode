@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.CountSubstrings2("abc");
-solution.CountSubstrings2("aaa");
+solution.CountSubstrings4("abc");
+solution.CountSubstrings4("aaa");
 
 
 Console.WriteLine("Hello, World!");
@@ -112,3 +112,23 @@ public partial class Solution
     }
 }
 
+
+public partial class Solution {
+    public int CountSubstrings4(string s) 
+    {
+        int result = 0;
+        int n = s.Length;
+        for (int k = 0; k < n * 2 - 1; ++k) 
+        {
+            int i = k / 2;
+            int j = (k + 1) / 2;
+
+            while (i >= 0 && j < n && s[i] == s[j]) {
+                ++result;
+                --i;
+                ++j;
+            }
+        }
+        return result;
+    }
+}
