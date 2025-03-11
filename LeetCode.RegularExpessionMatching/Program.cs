@@ -3,7 +3,7 @@
 Solution solution = new();
 //solution.IsMatch2("aa", "a*");
 
-solution.IsMatch2("aab", "c*a*b");
+solution.IsMatch3("aab", "c*a*b");
 
 //NeedCode solutions
 public partial class Solution
@@ -39,7 +39,6 @@ public partial class Solution
         return Dfs(0, 0);
     }
 }
-
 
 public partial class Solution
 {
@@ -82,5 +81,44 @@ public partial class Solution
         }
 
         return Dfs(0, 0);
+    }
+}
+
+public partial class Solution
+{
+    public bool IsMatch3(string s, string p)
+    {
+        Dictionary<(int, int), bool> dp = new();
+        bool Backtrack(int sIndex, int pIndex)
+        {
+            if (dp.ContainsKey((sIndex,pIndex)))
+            {
+                return dp[(sIndex,pIndex)];
+            }
+            if (sIndex >= s.Length && pIndex >= p.Length)
+            {
+                return true;
+            }
+            if (pIndex >= p.Length)
+            {
+                return false;
+            }
+
+            var match = sIndex < s.Length && (s[sIndex] == p[pIndex] || p[pIndex] == '.');
+            if ((pIndex+1) < p.Length && p[pIndex+1] == '*')
+            {
+                dp[(sIndex,pIndex)] = Backtrack(sIndex, pIndex + 2) || (match && Backtrack(sIndex + 1, pIndex));
+                return dp[(sIndex, pIndex)];
+            }
+
+            if (match)
+            {
+                dp[(sIndex,pIndex)] = Backtrack(sIndex + 1, pIndex + 1);
+                return dp[(sIndex, pIndex)];
+            }
+            dp[(sIndex, pIndex)] = false;
+            return false;
+        }
+        return Backtrack(0,0);
     }
 }
