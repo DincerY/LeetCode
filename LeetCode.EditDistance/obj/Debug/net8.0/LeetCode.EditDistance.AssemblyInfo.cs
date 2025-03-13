@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.EditDistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4bb1bce1b0f252a445ccd1a8222fd21ebf01e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d2e647145fa21ade8da8d607866883f669a3d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.EditDistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.EditDistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

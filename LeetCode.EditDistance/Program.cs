@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.MinDistance3("horse", "ros");
-solution.MinDistance3("intention", "execution");
+solution.MinDistance4("horse", "ros");
+solution.MinDistance4("intention", "execution");
 
 Console.WriteLine("Hello, World!");
 
@@ -75,15 +75,11 @@ public partial class Solution
 {
     public int MinDistance3(string word1, string word2)
     {
-        int min = int.MaxValue;
+        int min = 1000000;
         void Backtrack(int word1Index,int word2Index,int op)
         {
             if (word1Index >= word1.Length || word2Index >= word2.Length)
             {
-                if (word2Index >= word2.Length)
-                {
-                    min += word1Index - word2Index;
-                }
                 if (word1Index >= word1.Length && word2Index >= word2.Length)
                 {
                     min = Math.Min(min, op);
@@ -103,5 +99,40 @@ public partial class Solution
         }
         Backtrack(0,0,0);
         return min;
+    }
+}
+
+public partial class Solution
+{
+    public int MinDistance4(string word1, string word2)
+    {
+        int[,] dp = new int[word1.Length+1,word2.Length+1];
+        for (int i = word2.Length; i >= 0; i--)
+        {
+            dp[word1.Length, i] = word2.Length-i;
+        }
+
+        for (int i = word1.Length; i >= 0; i--)
+        {
+            dp[i, word2.Length] = word1.Length-i;
+        }
+
+        for (int i = word1.Length-1; i >= 0; i--)
+        {
+            for (int j = word2.Length-1; j >= 0; j--)
+            {
+                if (word1[i] == word2[j])
+                {
+                    dp[i, j] = dp[i + 1, j + 1];
+                }
+                else
+                {
+                    int min = Math.Min(dp[i, j + 1], Math.Min(dp[i + 1, j], dp[i + 1, j + 1]));
+                    dp[i, j] = min + 1;
+                }
+                
+            }
+        }
+        return dp[0,0];
     }
 }
