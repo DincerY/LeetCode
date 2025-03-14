@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.NumDistinct5("rabbbit", "rabbit");
-solution.NumDistinct5("babgbag", "bag");
+solution.NumDistinct6("rabbbit", "rabbit");
+solution.NumDistinct6("babgbag", "bag");
 
 
 //var a = solution.NumDistinct3("adbdadeecadeadeccaeaabdabdbcdabddddabcaaadbabaaedeeddeaeebcdeabcaaaeeaeeabcddcebddebeebedaecccbdcbcedbdaeaedcdebeecdaaedaacadbdccabddaddacdddc", "bcddceeeebecbc");
@@ -144,7 +144,6 @@ public partial class Solution
     }
 }
 
-//dp solution tabulation
 public partial class Solution {
     public int NumDistinct5(string s, string t) {
         int m = s.Length;
@@ -166,3 +165,41 @@ public partial class Solution {
         return dp[0, 0];
     }
 }
+
+
+public partial class Solution
+{
+    public int NumDistinct6(string s, string t)
+    {
+        int res = 0;
+        void Backtrack(int i,int j)
+        {
+            if (i >= s.Length || j >= t.Length)
+            {
+                if (j == t.Length)
+                {
+                    res++;
+                }
+                return;
+            }
+
+            /*for(int k = i; k < s.Length; k++)
+            {
+                if (s[k] == t[j])
+                {
+                    Backtrack(k+1,j+1);
+                }
+            }*/
+            //Same things
+            if (s[i] == t[j])
+            {
+                Backtrack(i+1,j+1);
+            }
+            Backtrack(i+1,j);
+            
+        }
+        Backtrack(0,0);
+        return res;
+    }
+}
+
