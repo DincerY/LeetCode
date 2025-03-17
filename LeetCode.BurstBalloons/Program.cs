@@ -1,5 +1,6 @@
 ﻿Solution solution = new();
-solution.MaxCoins(new[] { 3, 1, 5, 8 });
+solution.MaxCoins2(new[] { 3, 1, 5, 8 });
+solution.MaxCoins2(new[] { 7,9,8,0,7,1,3,5,5 });
 
 Console.WriteLine("Hello, World!");
 
@@ -40,3 +41,31 @@ public partial class Solution
     }
 }
 
+
+public partial class Solution
+{
+    public int MaxCoins2(int[] nums)
+    {
+        int res = 0;
+        void Backtrack(List<int> list,int total)
+        {
+            if (list.Count == 0)
+            {
+                res = Math.Max(res, total);
+                return;
+            }
+            for (int i = 0; i < list.Count; i++)
+            {
+                var tempList = list.ToList();
+                var val = tempList[i];
+                var left = i - 1 >= 0 ? tempList[i - 1] : 1;
+                var right = i + 1 < tempList.Count ? tempList[i+1] : 1;
+                int product = left * right;
+                tempList.RemoveAt(i);
+                Backtrack(tempList,total + val * product);
+            }
+        }
+        Backtrack(nums.ToList(),0);
+        return res;
+    }
+}
