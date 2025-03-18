@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.MaxCoins2(new[] { 3, 1, 5, 8 });
-solution.MaxCoins2(new[] { 7,9,8,0,7,1,3,5,5 });
+solution.MaxCoins(new[] { 3, 1, 5, 8 });
+solution.MaxCoins(new[] { 7,9,8,0,7,1,3,5,5 });
 
 Console.WriteLine("Hello, World!");
 
