@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BurstBalloons")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.NumberOfWaysToRearrangeSticksWithKSticksVisible")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c74036b37aa094e7e802e71be15e8cd0484ed221")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BurstBalloons")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BurstBalloons")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.NumberOfWaysToRearrangeSticksWithKSticksVisible")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.NumberOfWaysToRearrangeSticksWithKSticksVisible")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
