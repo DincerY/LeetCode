@@ -7,6 +7,8 @@ solution.RearrangeSticks(20, 11);
 Console.WriteLine("Hello, World!");
 
 //Needcode solution
+//This problem so hard
+//I can not understand
 public partial class Solution
 {
     public int RearrangeSticks(int n, int k)
@@ -30,10 +32,10 @@ public partial class Solution
                 return dp[(N, K)];
             }
 
-            dp[(N, K)] = (Dfs(N - 1, K - 1) + (N - 1) * Dfs(N - 1, K)) % (1000000007);
+            dp[(N, K)] = Dfs(N - 1, K - 1) + ((N - 1) * Dfs(N - 1, K));
             return dp[(N, K)];
         }
 
-        return Dfs(n, k) % (1000000007);
+        return Dfs(n, k) % (10^9+7);
     }
 }

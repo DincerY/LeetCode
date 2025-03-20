@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BurstBalloons")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumNumberOfDaysToEatNOranges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BurstBalloons")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BurstBalloons")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a344a6084bb5d8b134988f6a9c85553c6cec42e9")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumNumberOfDaysToEatNOranges")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumNumberOfDaysToEatNOranges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

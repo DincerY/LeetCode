@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\bin\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\bin\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\bin\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\bin\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\bin\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\refint\LeetCode.MinimumNumberOfDaysToEatNOranges.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\LeetCode.MinimumNumberOfDaysToEatNOranges.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumNumberOfDaysToEatNOranges\obj\Debug\net8.0\ref\LeetCode.MinimumNumberOfDaysToEatNOranges.dll
