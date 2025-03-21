@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumNumberOfDaysToEatNOranges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a344a6084bb5d8b134988f6a9c85553c6cec42e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d82e44d501f78cc40f7dc5517f30c2c42de44240")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumNumberOfDaysToEatNOranges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumNumberOfDaysToEatNOranges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
