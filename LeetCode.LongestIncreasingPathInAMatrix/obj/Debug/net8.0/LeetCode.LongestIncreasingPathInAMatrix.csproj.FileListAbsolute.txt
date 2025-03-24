@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\bin\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\bin\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\bin\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\bin\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\bin\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\refint\LeetCode.LongestIncreasingPathInAMatrix.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\LeetCode.LongestIncreasingPathInAMatrix.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestIncreasingPathInAMatrix\obj\Debug\net8.0\ref\LeetCode.LongestIncreasingPathInAMatrix.dll
