@@ -20,35 +20,42 @@ public class Solution
 {
     public int LongestIncreasingPath(int[][] matrix)
     {
+        int[,] dp = new int[matrix.Length,matrix[0].Length];
         int max = 0;
 
-        void Backtrack(int i, int j, int val)
+        for (int i = 0; i < matrix.Length; i++)
         {
-            if (i >= matrix.Length || j >= matrix[0].Length || i < 0 || j < 0)
+            for (int j = 0; j < matrix[0].Length; j++)
             {
-                max = Math.Max(max, val);
-                return;
-            }
-
-            if (matrix[i][j-1] > matrix[i][j])
-            {
-                Backtrack(i, j - 1, val + 1); //Left          
-            }
-            if (matrix[i-1][j] > matrix[i][j])
-            {
-                Backtrack(i - 1, j, val + 1);
-            }
-            if (matrix[i][j+1] > matrix[i][j])
-            {
-                Backtrack(i, j + 1, val + 1);
-            }
-            if (matrix[i+1][j] > matrix[i][j])
-            {
-                Backtrack(i + 1, j, val + 1);
+                Backtrack(i,j);
             }
         }
 
-        Backtrack(0, 0, 0);
+        int Backtrack(int i, int j)
+        {
+            if (dp[i,j] != 0)
+                return dp[i, j];
+            int l = 0;
+            int r = 0;
+            int u = 0;
+            int d = 0;
+            if (i > 0 && matrix[i-1][j] > matrix[i][j]) 
+                u = Backtrack(i - 1, j);
+            
+            if (i < matrix.Length-1 && matrix[i+1][j] > matrix[i][j]) 
+                d = Backtrack(i + 1, j);
+            
+            if (j > 0 && matrix[i][j-1] > matrix[i][j]) 
+                l = Backtrack(i , j - 1);
+            
+            if (j < matrix[0].Length-1 && matrix[i][j+1] > matrix[i][j]) 
+                r = Backtrack(i , j + 1);
+
+            dp[i, j] = Math.Max(l,Math.Max(r,Math.Max(u,d))) + 1;
+            max = Math.Max(max, dp[i, j]);
+            return dp[i, j];
+        }
+        Backtrack(0, 0);
         return max;
     }
 }

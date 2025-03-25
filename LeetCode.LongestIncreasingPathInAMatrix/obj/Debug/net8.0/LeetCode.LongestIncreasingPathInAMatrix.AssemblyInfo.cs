@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LongestIncreasingPathInAMatrix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb0d723835272403abaf73cc7c4cf3095a9640e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edc148cbb14bce917e6f7a1f11c6c1b45f468286")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LongestIncreasingPathInAMatrix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LongestIncreasingPathInAMatrix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
