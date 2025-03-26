@@ -443,6 +443,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumNumberOfDay
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestIncreasingPathInAMatrix", "LeetCode.LongestIncreasingPathInAMatrix\LeetCode.LongestIncreasingPathInAMatrix.csproj", "{A437F2AF-7C25-497F-B3C6-D261DB848812}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SplitArrayLargestSum", "LeetCode.SplitArrayLargestSum\LeetCode.SplitArrayLargestSum.csproj", "{ECC44A4B-C048-4149-80FF-4214F51EEEF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1329,6 +1331,10 @@ Global
 		{A437F2AF-7C25-497F-B3C6-D261DB848812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A437F2AF-7C25-497F-B3C6-D261DB848812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A437F2AF-7C25-497F-B3C6-D261DB848812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC44A4B-C048-4149-80FF-4214F51EEEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC44A4B-C048-4149-80FF-4214F51EEEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC44A4B-C048-4149-80FF-4214F51EEEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC44A4B-C048-4149-80FF-4214F51EEEF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

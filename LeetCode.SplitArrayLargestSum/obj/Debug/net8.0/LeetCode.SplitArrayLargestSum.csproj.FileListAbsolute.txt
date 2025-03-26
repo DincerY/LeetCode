@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\bin\Debug\net8.0\LeetCode.SplitArrayLargestSum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\bin\Debug\net8.0\LeetCode.SplitArrayLargestSum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\bin\Debug\net8.0\LeetCode.SplitArrayLargestSum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\bin\Debug\net8.0\LeetCode.SplitArrayLargestSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\bin\Debug\net8.0\LeetCode.SplitArrayLargestSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\refint\LeetCode.SplitArrayLargestSum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\LeetCode.SplitArrayLargestSum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SplitArrayLargestSum\obj\Debug\net8.0\ref\LeetCode.SplitArrayLargestSum.dll
