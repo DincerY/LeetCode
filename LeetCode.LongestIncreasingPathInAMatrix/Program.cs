@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.LongestIncreasingPath(new[]
+solution.LongestIncreasingPath2(new[]
 {
     new[] { 9, 9, 4 },
     new[] { 6, 6, 8 },
@@ -16,7 +16,7 @@ solution.LongestIncreasingPath(new[]
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public int LongestIncreasingPath(int[][] matrix)
     {
@@ -57,5 +57,45 @@ public class Solution
         }
         Backtrack(0, 0);
         return max;
+    }
+}
+
+public partial class Solution
+{
+    public int LongestIncreasingPath2(int[][] matrix)
+    {
+        int rows = matrix.Length;
+        int cols = matrix[0].Length;
+        Dictionary<(int, int), int> dp = new();
+        
+        int Backtrack(int i, int j, int prevVal)
+        {
+            if (i < 0 || i == rows || j < 0 || j == cols || matrix[i][j] <= prevVal)
+            {
+                return 0;
+            }
+
+            if (dp.ContainsKey((i,j)))
+            {
+                return dp[(i,j)];
+            }
+
+            int res = 1;
+            res = Math.Max(res, 1 + Backtrack(i + 1, j, matrix[i][j]));
+            res = Math.Max(res, 1 + Backtrack(i - 1, j, matrix[i][j]));
+            res = Math.Max(res, 1 + Backtrack(i, j+1, matrix[i][j]));
+            res = Math.Max(res, 1 + Backtrack(i, j-1, matrix[i][j]));
+            dp.Add((i,j),res);
+            return res;
+        }
+        
+        for (int i = 0; i < rows; i++)
+        {
+            for (int j = 0; j < cols; j++)
+            {
+                Backtrack(i,j,-1);
+            }
+        }
+        return dp.Values.Max();
     }
 }
