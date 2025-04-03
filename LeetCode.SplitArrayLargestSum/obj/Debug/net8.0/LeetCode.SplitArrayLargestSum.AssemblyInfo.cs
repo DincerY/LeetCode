@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SplitArrayLargestSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7e786fab7e0fa3ef7930385245644b85b20ec73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0adb1a1005fb13d670a745407b65b5f5b437cabe")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SplitArrayLargestSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SplitArrayLargestSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
