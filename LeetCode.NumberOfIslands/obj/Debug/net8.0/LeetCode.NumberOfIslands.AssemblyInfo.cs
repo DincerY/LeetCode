@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SplitArrayLargestSum")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.NumberOfIslands")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SplitArrayLargestSum")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SplitArrayLargestSum")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c4dc6eb9a294882644ebe55ffb49190e2d6822")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.NumberOfIslands")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.NumberOfIslands")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

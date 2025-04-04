@@ -445,6 +445,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestIncreasingP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SplitArrayLargestSum", "LeetCode.SplitArrayLargestSum\LeetCode.SplitArrayLargestSum.csproj", "{ECC44A4B-C048-4149-80FF-4214F51EEEF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfIslands", "LeetCode.NumberOfIslands\LeetCode.NumberOfIslands.csproj", "{1BBA9F11-CE2F-496E-B2C8-A834E78C59CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1335,6 +1337,10 @@ Global
 		{ECC44A4B-C048-4149-80FF-4214F51EEEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC44A4B-C048-4149-80FF-4214F51EEEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC44A4B-C048-4149-80FF-4214F51EEEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBA9F11-CE2F-496E-B2C8-A834E78C59CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBA9F11-CE2F-496E-B2C8-A834E78C59CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBA9F11-CE2F-496E-B2C8-A834E78C59CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBA9F11-CE2F-496E-B2C8-A834E78C59CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

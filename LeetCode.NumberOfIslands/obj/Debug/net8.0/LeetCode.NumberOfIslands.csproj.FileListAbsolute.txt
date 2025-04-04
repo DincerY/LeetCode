@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\bin\Debug\net8.0\LeetCode.NumberOfIslands.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\bin\Debug\net8.0\LeetCode.NumberOfIslands.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\bin\Debug\net8.0\LeetCode.NumberOfIslands.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\bin\Debug\net8.0\LeetCode.NumberOfIslands.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\bin\Debug\net8.0\LeetCode.NumberOfIslands.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\refint\LeetCode.NumberOfIslands.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\LeetCode.NumberOfIslands.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.NumberOfIslands\obj\Debug\net8.0\ref\LeetCode.NumberOfIslands.dll
