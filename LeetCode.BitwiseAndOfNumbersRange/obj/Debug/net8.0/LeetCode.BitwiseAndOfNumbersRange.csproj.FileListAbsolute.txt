@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\bin\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\bin\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\bin\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\bin\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\bin\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\refint\LeetCode.BitwiseAndOfNumbersRange.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\LeetCode.BitwiseAndOfNumbersRange.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.BitwiseAndOfNumbersRange\obj\Debug\net8.0\ref\LeetCode.BitwiseAndOfNumbersRange.dll
