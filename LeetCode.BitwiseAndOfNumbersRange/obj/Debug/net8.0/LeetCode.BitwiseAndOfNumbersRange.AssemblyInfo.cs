@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BitwiseAndOfNumbersRange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c10d088a7dee418c0b3147bd74683b2fd2e0ea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e7d8c684a348523c09eaf672e6445286c0696f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BitwiseAndOfNumbersRange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BitwiseAndOfNumbersRange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,9 +1,8 @@
 ﻿Solution solution = new();
-solution.RangeBitwiseAnd2(1,3);
-
-solution.RangeBitwiseAnd2(5,7);
-solution.RangeBitwiseAnd2(0,0);
-solution.RangeBitwiseAnd2(1,2147483647);
+solution.RangeBitwiseAnd3(1,3);
+solution.RangeBitwiseAnd3(5,7);
+solution.RangeBitwiseAnd3(0,0);
+solution.RangeBitwiseAnd3(1,2147483647);
 
 Console.WriteLine("Hello, World!");
 
@@ -69,5 +68,27 @@ public partial class Solution {
         }
         return (int)Math.Pow(2, leftSqrt);
 
+    }
+}
+
+
+//NeedCode solution
+public partial class Solution
+{
+    public int RangeBitwiseAnd3(int left, int right)
+    {
+        int i = 0;
+        while (left != right)
+        {
+            left = left >> 1;
+            right = right >> 1;
+            i += 1;
+            if (left == 0)
+            {
+                break;
+            }
+        }
+
+        return left << i;
     }
 }
