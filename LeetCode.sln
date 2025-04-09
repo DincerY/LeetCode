@@ -449,6 +449,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.NumberOfIslands", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.BitwiseAndOfNumbersRange", "LeetCode.BitwiseAndOfNumbersRange\LeetCode.BitwiseAndOfNumbersRange.csproj", "{2173746D-B137-42D5-B57D-B06C669E1546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.HappyNumber", "LeetCode.HappyNumber\LeetCode.HappyNumber.csproj", "{E23EDE7B-E478-40E9-B10C-52E44868ACA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1347,6 +1349,10 @@ Global
 		{2173746D-B137-42D5-B57D-B06C669E1546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2173746D-B137-42D5-B57D-B06C669E1546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2173746D-B137-42D5-B57D-B06C669E1546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E23EDE7B-E478-40E9-B10C-52E44868ACA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23EDE7B-E478-40E9-B10C-52E44868ACA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23EDE7B-E478-40E9-B10C-52E44868ACA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23EDE7B-E478-40E9-B10C-52E44868ACA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

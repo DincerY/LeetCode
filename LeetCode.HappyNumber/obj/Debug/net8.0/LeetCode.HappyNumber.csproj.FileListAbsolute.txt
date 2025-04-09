@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\bin\Debug\net8.0\LeetCode.HappyNumber.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\bin\Debug\net8.0\LeetCode.HappyNumber.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\bin\Debug\net8.0\LeetCode.HappyNumber.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\bin\Debug\net8.0\LeetCode.HappyNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\bin\Debug\net8.0\LeetCode.HappyNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\refint\LeetCode.HappyNumber.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\LeetCode.HappyNumber.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.HappyNumber\obj\Debug\net8.0\ref\LeetCode.HappyNumber.dll
