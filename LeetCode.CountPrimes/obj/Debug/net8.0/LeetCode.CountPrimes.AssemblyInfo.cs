@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.BitwiseAndOfNumbersRange")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CountPrimes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.BitwiseAndOfNumbersRange")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.BitwiseAndOfNumbersRange")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9916530946db49349495ce522f7efed3a2507149")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CountPrimes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CountPrimes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

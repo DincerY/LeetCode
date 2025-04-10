@@ -5,11 +5,11 @@ solution.IsHappy(2);
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public bool IsHappy(int n)
     {
-        HashSet<int> set = new HashSet<int>();
+        List<int> set = new List<int>();
         while (n != 1)
         {
             int temp = n;
@@ -19,15 +19,11 @@ public class Solution
                 n += (int)Math.Pow(temp % 10,2);
                 temp /= 10;
             }
-
             if (set.Contains(n))
             {
                 return false;
             }
-            else
-            {
-                set.Add(n);
-            }
+            set.Add(n);
         }
         return true;
     }

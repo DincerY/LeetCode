@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\bin\Debug\net8.0\LeetCode.CountPrimes.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\bin\Debug\net8.0\LeetCode.CountPrimes.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\bin\Debug\net8.0\LeetCode.CountPrimes.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\bin\Debug\net8.0\LeetCode.CountPrimes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\bin\Debug\net8.0\LeetCode.CountPrimes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\refint\LeetCode.CountPrimes.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\LeetCode.CountPrimes.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CountPrimes\obj\Debug\net8.0\ref\LeetCode.CountPrimes.dll
