@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\bin\Debug\net8.0\LeetCode.IsomorphicStrings.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\bin\Debug\net8.0\LeetCode.IsomorphicStrings.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\bin\Debug\net8.0\LeetCode.IsomorphicStrings.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\bin\Debug\net8.0\LeetCode.IsomorphicStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\bin\Debug\net8.0\LeetCode.IsomorphicStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\refint\LeetCode.IsomorphicStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\LeetCode.IsomorphicStrings.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IsomorphicStrings\obj\Debug\net8.0\ref\LeetCode.IsomorphicStrings.dll

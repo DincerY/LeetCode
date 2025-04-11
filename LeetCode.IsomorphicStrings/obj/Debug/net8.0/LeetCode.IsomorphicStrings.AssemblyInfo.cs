@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CountPrimes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.IsomorphicStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CountPrimes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CountPrimes")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31c76bbbc3baafee11505f7c07b3e3cabed1af27")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.IsomorphicStrings")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.IsomorphicStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
