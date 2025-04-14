@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.IsIsomorphic2("badc", "baba");
+solution.IsIsomorphic3("badc", "baba");
 
 solution.IsIsomorphic2("a", "a");
 
@@ -55,23 +55,47 @@ public partial class Solution {
         Dictionary<char, char> dic = new();
         for (int i = 0; i < s.Length; i++)
         {
-            if (s[i] != t[i])
+            if (dic.ContainsValue(t[i]))
             {
-                if (!dic.ContainsKey(s[i]))
-                {
-                    dic.Add(s[i],t[i]);
-                }
+                continue;
+            }
+            if (!dic.ContainsKey(s[i]))
+            {
+                dic.Add(s[i],t[i]);
             }
         }
         string res = "";
         foreach (var chr in s)
         {
+            if (!dic.ContainsKey(chr))
+            {
+                return false;
+            }   
             res += dic[chr];
+
         }
         if (res == t)
         {
             return true;
         }
         return false;
+    }
+}
+
+//NeedCode solution
+public partial class Solution {
+    public bool IsIsomorphic3(string s, string t) {
+        Dictionary<char, char> mapST = new Dictionary<char, char>();
+        Dictionary<char, char> mapTS = new Dictionary<char, char>();
+        for (int i = 0; i < s.Length; i++) {
+            char c1 = s[i];
+            char c2 = t[i];
+            if ((mapST.ContainsKey(c1) && mapST[c1] != c2) || (mapTS.ContainsKey(c2) && mapTS[c2] != c1)) {
+                return false;
+            }
+            mapST[c1] = c2;
+            mapTS[c2] = c1;
+        }
+        return true;
     }
 }
