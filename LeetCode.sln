@@ -455,6 +455,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountPrimes", "Lee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IsomorphicStrings", "LeetCode.IsomorphicStrings\LeetCode.IsomorphicStrings.csproj", "{8B1BA759-6D0C-4200-BFD9-A7751EE830A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CourseSchedule", "LeetCode.CourseSchedule\LeetCode.CourseSchedule.csproj", "{8B237809-38F9-4E74-A9B1-04497B1FCD7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1365,6 +1367,10 @@ Global
 		{8B1BA759-6D0C-4200-BFD9-A7751EE830A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B1BA759-6D0C-4200-BFD9-A7751EE830A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B1BA759-6D0C-4200-BFD9-A7751EE830A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B237809-38F9-4E74-A9B1-04497B1FCD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B237809-38F9-4E74-A9B1-04497B1FCD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B237809-38F9-4E74-A9B1-04497B1FCD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B237809-38F9-4E74-A9B1-04497B1FCD7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
