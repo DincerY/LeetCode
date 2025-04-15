@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\bin\Debug\net8.0\LeetCode.CourseSchedule.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\bin\Debug\net8.0\LeetCode.CourseSchedule.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\bin\Debug\net8.0\LeetCode.CourseSchedule.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\bin\Debug\net8.0\LeetCode.CourseSchedule.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\bin\Debug\net8.0\LeetCode.CourseSchedule.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\refint\LeetCode.CourseSchedule.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\LeetCode.CourseSchedule.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CourseSchedule\obj\Debug\net8.0\ref\LeetCode.CourseSchedule.dll
