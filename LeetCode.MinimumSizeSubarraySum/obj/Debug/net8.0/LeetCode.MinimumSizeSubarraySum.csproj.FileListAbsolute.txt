@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\bin\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\bin\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\bin\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\bin\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\bin\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\refint\LeetCode.MinimumSizeSubarraySum.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\LeetCode.MinimumSizeSubarraySum.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MinimumSizeSubarraySum\obj\Debug\net8.0\ref\LeetCode.MinimumSizeSubarraySum.dll
