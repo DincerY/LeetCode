@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MinimumSizeSubarraySum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e0490c0010ed52dcd35a3da5fa1fb4f90c02167")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f6197a020fcd5098911dbfa8925322ae4af499")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MinimumSizeSubarraySum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MinimumSizeSubarraySum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
