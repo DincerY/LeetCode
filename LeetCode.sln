@@ -459,6 +459,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CourseSchedule", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumSizeSubarraySum", "LeetCode.MinimumSizeSubarraySum\LeetCode.MinimumSizeSubarraySum.csproj", "{72D581E2-1400-4A1E-81BB-A38DAFB60585}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ContainsDuplicate", "LeetCode.ContainsDuplicate\LeetCode.ContainsDuplicate.csproj", "{A59D469A-1088-48B0-BAC1-FD7F08BE4101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1377,6 +1379,10 @@ Global
 		{72D581E2-1400-4A1E-81BB-A38DAFB60585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72D581E2-1400-4A1E-81BB-A38DAFB60585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72D581E2-1400-4A1E-81BB-A38DAFB60585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59D469A-1088-48B0-BAC1-FD7F08BE4101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59D469A-1088-48B0-BAC1-FD7F08BE4101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59D469A-1088-48B0-BAC1-FD7F08BE4101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59D469A-1088-48B0-BAC1-FD7F08BE4101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
