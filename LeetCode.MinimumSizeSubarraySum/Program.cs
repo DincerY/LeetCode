@@ -1,8 +1,8 @@
 ﻿Solution solution = new();
-solution.MinSubArrayLen2(7, new[] { 2, 3, 1, 2, 4, 3 });
+//solution.MinSubArrayLen2(7, new[] { 2, 3, 1, 2, 4, 3 });
 solution.MinSubArrayLen2(4, new[] { 1, 4, 4 });
 solution.MinSubArrayLen2(11, new[] { 1, 1, 1, 1, 1, 1, 1, 1 });
-solution.MinSubArrayLen2(11, new[] { 1,2,3,4,5 });
+solution.MinSubArrayLen2(15, new[] { 1,2,3,4,5 });
 
 Console.WriteLine("Hello, World!");
 
@@ -69,20 +69,15 @@ public partial class Solution
     // Sliding window yaklaşımı
     public int MinSubArrayLen2(int target, int[] nums)
     {
-        int len = int.MaxValue;
+        int total = 0;
         int l = 0;
-        int r = 1;
-        int total = nums[l] + nums[r];
-        while (l < r)
+        int len = int.MaxValue;
+        for (int r = 0; r < nums.Length; r++)
         {
-            if (total < target && r < nums.Length)
+            total += nums[r];
+            while (target <= total)
             {
-                r++;
-                total += nums[r];
-            }
-            else
-            {
-                len = Math.Min(len, r - l);
+                len = Math.Min(len, r - l+1);
                 total -= nums[l];
                 l++;
             }
