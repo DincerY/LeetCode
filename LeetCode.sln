@@ -461,6 +461,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MinimumSizeSubarra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ContainsDuplicate", "LeetCode.ContainsDuplicate\LeetCode.ContainsDuplicate.csproj", "{A59D469A-1088-48B0-BAC1-FD7F08BE4101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountCompleteTreeNodes", "LeetCode.CountCompleteTreeNodes\LeetCode.CountCompleteTreeNodes.csproj", "{27316E31-E8D4-4255-BE7B-4909128C1EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1383,6 +1385,10 @@ Global
 		{A59D469A-1088-48B0-BAC1-FD7F08BE4101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59D469A-1088-48B0-BAC1-FD7F08BE4101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59D469A-1088-48B0-BAC1-FD7F08BE4101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27316E31-E8D4-4255-BE7B-4909128C1EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27316E31-E8D4-4255-BE7B-4909128C1EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27316E31-E8D4-4255-BE7B-4909128C1EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27316E31-E8D4-4255-BE7B-4909128C1EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
