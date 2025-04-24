@@ -463,6 +463,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ContainsDuplicate"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.CountCompleteTreeNodes", "LeetCode.CountCompleteTreeNodes\LeetCode.CountCompleteTreeNodes.csproj", "{27316E31-E8D4-4255-BE7B-4909128C1EBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.RectangleArea", "LeetCode.RectangleArea\LeetCode.RectangleArea.csproj", "{DDF679EE-4985-49E2-A543-558B66054D4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1389,6 +1391,10 @@ Global
 		{27316E31-E8D4-4255-BE7B-4909128C1EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27316E31-E8D4-4255-BE7B-4909128C1EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27316E31-E8D4-4255-BE7B-4909128C1EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF679EE-4985-49E2-A543-558B66054D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF679EE-4985-49E2-A543-558B66054D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF679EE-4985-49E2-A543-558B66054D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF679EE-4985-49E2-A543-558B66054D4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\bin\Debug\net8.0\LeetCode.RectangleArea.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\bin\Debug\net8.0\LeetCode.RectangleArea.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\bin\Debug\net8.0\LeetCode.RectangleArea.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\bin\Debug\net8.0\LeetCode.RectangleArea.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\bin\Debug\net8.0\LeetCode.RectangleArea.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\refint\LeetCode.RectangleArea.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\LeetCode.RectangleArea.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.RectangleArea\obj\Debug\net8.0\ref\LeetCode.RectangleArea.dll
