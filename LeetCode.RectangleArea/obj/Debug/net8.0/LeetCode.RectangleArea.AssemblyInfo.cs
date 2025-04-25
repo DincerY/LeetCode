@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RectangleArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d4c5a9bcf638de7e8885692d60205ba73a91fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99ad223096e76743aaa0cb04f1f8abbf77ac0f7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RectangleArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RectangleArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
