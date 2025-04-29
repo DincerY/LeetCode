@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.RectangleArea")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MajorityElement2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.RectangleArea")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.RectangleArea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf1745b446ad8482a5e23e92d68b7a08befef85")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MajorityElement2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MajorityElement2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

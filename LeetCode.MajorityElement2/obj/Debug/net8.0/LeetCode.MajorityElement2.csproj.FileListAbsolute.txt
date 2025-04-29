@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\bin\Debug\net8.0\LeetCode.MajorityElement2.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\bin\Debug\net8.0\LeetCode.MajorityElement2.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\bin\Debug\net8.0\LeetCode.MajorityElement2.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\bin\Debug\net8.0\LeetCode.MajorityElement2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\bin\Debug\net8.0\LeetCode.MajorityElement2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\refint\LeetCode.MajorityElement2.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\LeetCode.MajorityElement2.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MajorityElement2\obj\Debug\net8.0\ref\LeetCode.MajorityElement2.dll
