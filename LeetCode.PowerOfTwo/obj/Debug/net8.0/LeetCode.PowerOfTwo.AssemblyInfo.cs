@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PowerOfTwo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ea915d631c78b1d64601210594d62ea7459a55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PowerOfTwo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PowerOfTwo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
