@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MajorityElement2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.KthSmallestElementInaBST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+997f274a08a2c63d8d6c609741f11d4e76bdeccd")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MajorityElement2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MajorityElement2")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.KthSmallestElementInaBST")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.KthSmallestElementInaBST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

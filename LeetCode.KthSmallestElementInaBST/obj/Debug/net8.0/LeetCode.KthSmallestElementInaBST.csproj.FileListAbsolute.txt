@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\bin\Debug\net8.0\LeetCode.KthSmallestElementInaBST.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\bin\Debug\net8.0\LeetCode.KthSmallestElementInaBST.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\bin\Debug\net8.0\LeetCode.KthSmallestElementInaBST.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\bin\Debug\net8.0\LeetCode.KthSmallestElementInaBST.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\bin\Debug\net8.0\LeetCode.KthSmallestElementInaBST.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\refint\LeetCode.KthSmallestElementInaBST.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\LeetCode.KthSmallestElementInaBST.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KthSmallestElementInaBST\obj\Debug\net8.0\ref\LeetCode.KthSmallestElementInaBST.dll
