@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\bin\Debug\net8.0\LeetCode.PowerOfTwo.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\bin\Debug\net8.0\LeetCode.PowerOfTwo.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\bin\Debug\net8.0\LeetCode.PowerOfTwo.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\bin\Debug\net8.0\LeetCode.PowerOfTwo.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\bin\Debug\net8.0\LeetCode.PowerOfTwo.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\refint\LeetCode.PowerOfTwo.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\LeetCode.PowerOfTwo.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PowerOfTwo\obj\Debug\net8.0\ref\LeetCode.PowerOfTwo.dll
