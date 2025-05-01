@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\bin\Debug\net8.0\LeetCode.PalindromeLinkedList.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\bin\Debug\net8.0\LeetCode.PalindromeLinkedList.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\bin\Debug\net8.0\LeetCode.PalindromeLinkedList.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\bin\Debug\net8.0\LeetCode.PalindromeLinkedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\bin\Debug\net8.0\LeetCode.PalindromeLinkedList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\refint\LeetCode.PalindromeLinkedList.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\LeetCode.PalindromeLinkedList.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PalindromeLinkedList\obj\Debug\net8.0\ref\LeetCode.PalindromeLinkedList.dll

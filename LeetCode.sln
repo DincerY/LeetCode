@@ -471,6 +471,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.KthSmallestElement
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PowerOfTwo", "LeetCode.PowerOfTwo\LeetCode.PowerOfTwo.csproj", "{8CC19086-8F06-4459-9185-23905E27D4A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromeLinkedList", "LeetCode.PalindromeLinkedList\LeetCode.PalindromeLinkedList.csproj", "{99E63DA7-0970-49EA-B51A-328210889508}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1413,6 +1415,10 @@ Global
 		{8CC19086-8F06-4459-9185-23905E27D4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CC19086-8F06-4459-9185-23905E27D4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CC19086-8F06-4459-9185-23905E27D4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E63DA7-0970-49EA-B51A-328210889508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E63DA7-0970-49EA-B51A-328210889508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E63DA7-0970-49EA-B51A-328210889508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E63DA7-0970-49EA-B51A-328210889508}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
