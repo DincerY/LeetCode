@@ -36,12 +36,21 @@ public partial class Solution
         return x == n;
     }
 }
+
 public partial class Solution
 {
     public bool IsPowerOfTwo3(int n)
     {
         //Is there 0 after the dot
         var a = Math.Log(n, 2);
+        
         return true;
+    }
+}
+public partial class Solution
+{
+    public bool IsPowerOfTwo4(int n)
+    {
+        return n > 0 && ((1 << 30) % n) == 0;
     }
 }
