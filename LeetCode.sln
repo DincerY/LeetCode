@@ -473,6 +473,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PowerOfTwo", "Leet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PalindromeLinkedList", "LeetCode.PalindromeLinkedList\LeetCode.PalindromeLinkedList.csproj", "{99E63DA7-0970-49EA-B51A-328210889508}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LowestCommonAncestorOfaBinarySearchTree", "LeetCode.LowestCommonAncestorOfaBinarySearchTree\LeetCode.LowestCommonAncestorOfaBinarySearchTree.csproj", "{510B939B-0992-4DCD-BF19-5E4C3D6F7ADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1419,6 +1421,10 @@ Global
 		{99E63DA7-0970-49EA-B51A-328210889508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99E63DA7-0970-49EA-B51A-328210889508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99E63DA7-0970-49EA-B51A-328210889508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510B939B-0992-4DCD-BF19-5E4C3D6F7ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510B939B-0992-4DCD-BF19-5E4C3D6F7ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510B939B-0992-4DCD-BF19-5E4C3D6F7ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510B939B-0992-4DCD-BF19-5E4C3D6F7ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

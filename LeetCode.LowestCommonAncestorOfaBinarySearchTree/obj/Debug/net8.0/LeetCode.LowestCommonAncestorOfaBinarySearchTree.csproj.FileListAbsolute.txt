@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\bin\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\bin\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\bin\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\bin\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\bin\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\refint\LeetCode.LowestCommonAncestorOfaBinarySearchTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\LeetCode.LowestCommonAncestorOfaBinarySearchTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LowestCommonAncestorOfaBinarySearchTree\obj\Debug\net8.0\ref\LeetCode.LowestCommonAncestorOfaBinarySearchTree.dll
