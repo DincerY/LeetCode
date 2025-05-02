@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.IsPalindrome(new ListNode(1,new ListNode(2,new ListNode(2,new ListNode(1)))));
-solution.IsPalindrome(new ListNode(1,new ListNode(2)));
+solution.IsPalindrome2(new ListNode(1,new ListNode(2,new ListNode(2,new ListNode(1)))));
+solution.IsPalindrome2(new ListNode(1,new ListNode(2)));
 
 Console.WriteLine("Hello, World!");
 
@@ -51,6 +51,38 @@ public partial class Solution
 {
     public bool IsPalindrome2(ListNode head)
     {
-        return false;
+        ListNode fast = head;
+        ListNode slow = head;
+
+        // find the middle (slow)
+        while (fast != null && fast.next != null) 
+        {
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+
+        // reverse second half
+        ListNode prev = null;
+        while (slow != null) 
+        {
+            ListNode tmp = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = tmp;
+        }
+
+        // check palindrome
+        ListNode left = head;
+        ListNode right = prev;
+        while (right != null) 
+        {
+            if (left.val != right.val) 
+            {
+                return false;
+            }
+            left = left.next;
+            right = right.next;
+        }
+        return true;
     }
 }
