@@ -52,51 +52,29 @@ public class TreeNode
     }
 }
 
-
 public class Solution
 {
     public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q)
     {
-        List<int> res = new();
-        List<int> res2 = new();
-        
-        FindNode(root,p.val,res);
-        FindNode(root,q.val,res2);
-        int min = Int32.MaxValue;
-        foreach (var r in res)
+        TreeNode cur = root;
+
+        while (cur != null)
         {
-            if (res2.Contains(r))
+            if (p.val > cur.val && q.val > cur.val)
             {
-                min = Math.Min(min, r);
+                cur = cur.right;
+            }
+            else if (p.val < cur.val && q.val < cur.val)
+            {
+                cur = cur.left;
+            }
+            else
+            {
+                return cur;
             }
         }
-        return new TreeNode(min);
+
+        return null;
     }
-    private void FindNode(TreeNode node,int val,List<int> res)
-    {
-        if (node.val == val)
-        {
-            if (!res.Contains(node.val))
-            {
-                res.Add(node.val);
-            }
-            return;
-        }
-        if(node.val > val)
-        {
-            if (!res.Contains(node.val))
-            {
-                res.Add(node.val);
-            }
-            FindNode(node.left,val,res);
-        }
-        else
-        {
-            if (!res.Contains(node.val))
-            {
-                res.Add(node.val);
-            }
-            FindNode(node.right,val,res);
-        }
-    }
+  
 }
