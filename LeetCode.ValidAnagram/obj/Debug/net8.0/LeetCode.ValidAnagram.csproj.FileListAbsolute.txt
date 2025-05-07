@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\bin\Debug\net8.0\LeetCode.ValidAnagram.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\bin\Debug\net8.0\LeetCode.ValidAnagram.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\bin\Debug\net8.0\LeetCode.ValidAnagram.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\bin\Debug\net8.0\LeetCode.ValidAnagram.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\bin\Debug\net8.0\LeetCode.ValidAnagram.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\refint\LeetCode.ValidAnagram.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\LeetCode.ValidAnagram.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ValidAnagram\obj\Debug\net8.0\ref\LeetCode.ValidAnagram.dll
