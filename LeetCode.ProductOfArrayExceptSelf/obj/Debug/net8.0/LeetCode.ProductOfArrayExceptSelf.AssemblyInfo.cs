@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ProductOfArrayExceptSelf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c52fb80675007e5cda7fbfa72e0b0d96e80c38c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ProductOfArrayExceptSelf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ProductOfArrayExceptSelf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LowestCommonAncestorOfaBinarySearchTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7d5c01c68ad30200301f5c0453e52c13b74112")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LowestCommonAncestorOfaBinarySearchTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LowestCommonAncestorOfaBinarySearchTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
