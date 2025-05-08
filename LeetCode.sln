@@ -479,6 +479,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ProductOfArrayExce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ValidAnagram", "LeetCode.ValidAnagram\LeetCode.ValidAnagram.csproj", "{DCE34CF2-5CE9-48AA-BC53-B02EE15471C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MissingNumber", "LeetCode.MissingNumber\LeetCode.MissingNumber.csproj", "{B38B4D6F-84CB-4ACE-889F-FF95C1D2B125}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1437,6 +1439,10 @@ Global
 		{DCE34CF2-5CE9-48AA-BC53-B02EE15471C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCE34CF2-5CE9-48AA-BC53-B02EE15471C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCE34CF2-5CE9-48AA-BC53-B02EE15471C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38B4D6F-84CB-4ACE-889F-FF95C1D2B125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38B4D6F-84CB-4ACE-889F-FF95C1D2B125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38B4D6F-84CB-4ACE-889F-FF95C1D2B125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38B4D6F-84CB-4ACE-889F-FF95C1D2B125}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.IsAnagram2("anagram","nagaram");
+solution.IsAnagram("anagram","nagaram");
 solution.IsAnagram("rat","car");
 solution.IsAnagram("a","ab");
 
