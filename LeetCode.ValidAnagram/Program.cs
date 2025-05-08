@@ -1,11 +1,12 @@
 ﻿Solution solution = new();
-solution.IsAnagram("anagram","nagaram");
+solution.IsAnagram2("anagram","nagaram");
 solution.IsAnagram("rat","car");
+solution.IsAnagram("a","ab");
 
 Console.WriteLine("Hello, World!");
 
 
-public class Solution {
+public partial class Solution {
     public bool IsAnagram(string s, string t)
     {
         Dictionary<char, int> dic = new();
@@ -33,6 +34,10 @@ public class Solution {
                 {
                     dic.Remove(chr);
                 }
+            }
+            else
+            {
+                return false;
             }
         }
         return dic.Count == 0;

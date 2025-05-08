@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ValidAnagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36a2d2cf857f0805402e5a622a5e0725c0318278")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9968ba84247a22a61824e16d21560d05477bb18")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ValidAnagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ValidAnagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
