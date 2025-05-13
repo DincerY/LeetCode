@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\bin\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\bin\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\bin\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\bin\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\bin\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\refint\LeetCode.PacificAtlanticWaterFlow.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\LeetCode.PacificAtlanticWaterFlow.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PacificAtlanticWaterFlow\obj\Debug\net8.0\ref\LeetCode.PacificAtlanticWaterFlow.dll

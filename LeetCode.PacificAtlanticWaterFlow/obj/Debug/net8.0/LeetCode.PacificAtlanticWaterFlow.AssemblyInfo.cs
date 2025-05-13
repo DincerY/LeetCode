@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CloneGraph")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PacificAtlanticWaterFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0cdea3d37affb503ca7465a63cfbcad10b0444c")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CloneGraph")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CloneGraph")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PacificAtlanticWaterFlow")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PacificAtlanticWaterFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
