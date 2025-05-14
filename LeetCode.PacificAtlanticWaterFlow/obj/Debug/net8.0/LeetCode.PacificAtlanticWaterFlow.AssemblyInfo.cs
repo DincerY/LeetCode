@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PacificAtlanticWaterFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0cdea3d37affb503ca7465a63cfbcad10b0444c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63124d934713aa75833bc34f874e33ec240f4007")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PacificAtlanticWaterFlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PacificAtlanticWaterFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
