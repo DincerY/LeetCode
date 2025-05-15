@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.Non-OverlappingIntervals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63124d934713aa75833bc34f874e33ec240f4007")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.Non-OverlappingIntervals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.Non-OverlappingIntervals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
