@@ -485,6 +485,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PacificAtlanticWat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Non-OverlappingIntervals", "LeetCode.Non-OverlappingIntervals\LeetCode.Non-OverlappingIntervals.csproj", "{6410D46E-2202-496C-9F8D-4F43B2894051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.LongestRepeatingCharacterReplacement", "LeetCode.LongestRepeatingCharacterReplacement\LeetCode.LongestRepeatingCharacterReplacement.csproj", "{1576DBEA-0E01-4DE6-9EF9-AC34FF403C25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1455,6 +1457,10 @@ Global
 		{6410D46E-2202-496C-9F8D-4F43B2894051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6410D46E-2202-496C-9F8D-4F43B2894051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6410D46E-2202-496C-9F8D-4F43B2894051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1576DBEA-0E01-4DE6-9EF9-AC34FF403C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1576DBEA-0E01-4DE6-9EF9-AC34FF403C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1576DBEA-0E01-4DE6-9EF9-AC34FF403C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1576DBEA-0E01-4DE6-9EF9-AC34FF403C25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

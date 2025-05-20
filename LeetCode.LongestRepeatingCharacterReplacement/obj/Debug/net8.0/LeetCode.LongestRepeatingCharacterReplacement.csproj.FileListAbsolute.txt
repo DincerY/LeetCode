@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\bin\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\bin\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\bin\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\bin\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\bin\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\refint\LeetCode.LongestRepeatingCharacterReplacement.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\LeetCode.LongestRepeatingCharacterReplacement.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.LongestRepeatingCharacterReplacement\obj\Debug\net8.0\ref\LeetCode.LongestRepeatingCharacterReplacement.dll
