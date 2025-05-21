@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\bin\Debug\net8.0\LeetCode.InvertBinaryTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\bin\Debug\net8.0\LeetCode.InvertBinaryTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\bin\Debug\net8.0\LeetCode.InvertBinaryTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\bin\Debug\net8.0\LeetCode.InvertBinaryTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\bin\Debug\net8.0\LeetCode.InvertBinaryTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\refint\LeetCode.InvertBinaryTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\LeetCode.InvertBinaryTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.InvertBinaryTree\obj\Debug\net8.0\ref\LeetCode.InvertBinaryTree.dll
