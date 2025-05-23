@@ -491,6 +491,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.InvertBinaryTree",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.SubtreeOfAnotherTree", "LeetCode.SubtreeOfAnotherTree\LeetCode.SubtreeOfAnotherTree.csproj", "{40FE100A-5121-4279-88EC-C971DA93EB8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.WordSearch2", "LeetCode.WordSearch2\LeetCode.WordSearch2.csproj", "{7FEBF837-6EB2-44C1-880F-7E064A613390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1473,6 +1475,10 @@ Global
 		{40FE100A-5121-4279-88EC-C971DA93EB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40FE100A-5121-4279-88EC-C971DA93EB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40FE100A-5121-4279-88EC-C971DA93EB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEBF837-6EB2-44C1-880F-7E064A613390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEBF837-6EB2-44C1-880F-7E064A613390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEBF837-6EB2-44C1-880F-7E064A613390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEBF837-6EB2-44C1-880F-7E064A613390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

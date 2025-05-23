@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\bin\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\bin\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\bin\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\bin\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\bin\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\refint\LeetCode.SubtreeOfAnotherTree.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\LeetCode.SubtreeOfAnotherTree.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.SubtreeOfAnotherTree\obj\Debug\net8.0\ref\LeetCode.SubtreeOfAnotherTree.dll
