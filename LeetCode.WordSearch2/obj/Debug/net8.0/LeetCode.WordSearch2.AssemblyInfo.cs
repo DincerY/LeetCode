@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.WordSearch2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf39b1291d2ac7e399bf62ef29935e3510d0e36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a008664d5a04bf6e05698d42ba7f391d71eb34e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.WordSearch2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.WordSearch2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

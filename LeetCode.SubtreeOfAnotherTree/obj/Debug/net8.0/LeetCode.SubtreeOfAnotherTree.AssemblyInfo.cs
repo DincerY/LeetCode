@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.SubtreeOfAnotherTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf39b1291d2ac7e399bf62ef29935e3510d0e36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.SubtreeOfAnotherTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.SubtreeOfAnotherTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
