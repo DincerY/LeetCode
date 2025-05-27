@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\bin\Debug\net8.0\LeetCode.TopKFrequentElements.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\bin\Debug\net8.0\LeetCode.TopKFrequentElements.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\bin\Debug\net8.0\LeetCode.TopKFrequentElements.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\bin\Debug\net8.0\LeetCode.TopKFrequentElements.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\bin\Debug\net8.0\LeetCode.TopKFrequentElements.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\refint\LeetCode.TopKFrequentElements.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\LeetCode.TopKFrequentElements.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.TopKFrequentElements\obj\Debug\net8.0\ref\LeetCode.TopKFrequentElements.dll
