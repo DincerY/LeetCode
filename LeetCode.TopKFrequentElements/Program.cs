@@ -1,13 +1,13 @@
 ﻿using System.Collections.Immutable;
 
 Solution solution = new();
-solution.TopKFrequent(new[] { 1, 1, 1, 2, 2, 3 }, 2);
+solution.TopKFrequent2(new[] { 1, 1, 1, 2, 2, 3 }, 2);
 solution.TopKFrequent(new[] { 3, 3, 3, 2, 2, 1 }, 2);
 solution.TopKFrequent(new[] { 3, 0, 1, 0 }, 2);
 
 Console.WriteLine("Hello, World!");
 
-public class Solution
+public partial class Solution
 {
     public int[] TopKFrequent(int[] nums, int k)
     {
@@ -35,5 +35,33 @@ public class Solution
             i++;
         }
         return list.ToArray();
+    }
+}
+
+//NeedCode solution
+public partial class Solution {
+    public int[] TopKFrequent2(int[] nums, int k) {
+        var count = new Dictionary<int, int>();
+        var freq = new List<int>[nums.Length + 1];
+
+        for (int i = 0; i < freq.Length; i++) {
+            freq[i] = new List<int>();
+        }
+
+        foreach (var n in nums) {
+            count[n] = 1 + (count.ContainsKey(n) ? count[n] : 0);
+        }
+        foreach (var kvp in count) {
+            freq[kvp.Value].Add(kvp.Key);
+        }
+
+        var res = new List<int>();
+        for (int i = freq.Length - 1; i > 0; i--) {
+            res.AddRange(freq[i]);
+            if (res.Count == k) {
+                return res.ToArray();
+            }
+        }
+        return res.ToArray();
     }
 }
