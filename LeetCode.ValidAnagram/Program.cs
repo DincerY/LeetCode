@@ -1,12 +1,15 @@
-﻿Solution solution = new();
-solution.IsAnagram("anagram","nagaram");
-solution.IsAnagram("rat","car");
-solution.IsAnagram("a","ab");
+﻿using System.Collections;
+
+Solution solution = new();
+solution.IsAnagram("anagram", "nagaram");
+solution.IsAnagram("rat", "car");
+solution.IsAnagram("a", "ab");
 
 Console.WriteLine("Hello, World!");
 
 
-public partial class Solution {
+public partial class Solution
+{
     public bool IsAnagram(string s, string t)
     {
         Dictionary<char, int> dic = new();
@@ -18,7 +21,7 @@ public partial class Solution {
             }
             else
             {
-                dic.Add(chr,1);
+                dic.Add(chr, 1);
             }
         }
 

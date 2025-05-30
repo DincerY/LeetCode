@@ -2,96 +2,48 @@
 using System.Collections;
 using System.Collections.Generic;
 
+Solution solution = new Solution();
+solution.TwoSum2( new int[] { 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 7, 1, 1, 1, 1, 1 }, 11);
+solution.TwoSum2( new int[] { 3,3 }, 6);
 
+Console.WriteLine("Hello World!");
 
-namespace LeetCode.TwoSum
+public partial class Solution
 {
-    public class Program
+    public int[] TwoSum(int[] nums, int target)
     {
-        public static void Main(string[] args)
+        for (int i = 0; i < nums.Length; i++)
         {
-            Solution3 s = new Solution3();
-            int[] arr = new int[] {1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,1 };
-            int[] twoSum = s.TwoSum(arr, 11);
-
-            foreach (var i in twoSum)
+            for (int j = 0; j < nums.Length; j++)
             {
-                Console.Write($"{i}-");
+                if (nums[i] + nums[j] == target)
+                {
+                    return new int[] { i, j };
+                }
             }
         }
+        throw new ArgumentException("");
     }
-    
-    public class Solution1
-    {
-        public int[] TwoSum(int[] nums, int target)
-        {
-            for (int i = 0; i < nums.Length; i++)
-            {
-                for (int j = 0; j < nums.Length; j++)
-                {
-                    if (nums[i] + nums[j] == target)
-                    {
-                        return new int[] {i, j };
-                    }
-                }
-            }
-            throw new ArgumentException("");
-        }
-    }
-
-    public class Solution2
-    {
-        public Dictionary<int, int> IntDictionary = new Dictionary<int, int>();
-        public int[] TwoSum(int[] nums, int target)
-        {
-            for (int i = 0; i < nums.Length; i++)
-            {
-                int difference = target - nums[i];
-                if (IntDictionary.ContainsKey(difference))
-                {
-                    return new int[] { IntDictionary[difference], i};
-                }
-
-                if (!IntDictionary.ContainsKey(nums[i]))
-                {
-                    IntDictionary.Add(nums[i],i);
-                }
-            }
-
-            return new[] { -1, -1 };
-        }
-    }
-
-    public class Solution3
-    {
-        private Hashtable _hashtable = new Hashtable();
-        public int[] TwoSum(int[] nums, int target)
-        {
-      
-            for (int i = 0; i < nums.Length; i++)
-            {
-                int difference = target - nums[i];
-                if (_hashtable.ContainsKey(difference))
-                {
-                    return new int[] { (int)_hashtable[difference], i};
-                }
-
-                if (!_hashtable.ContainsKey(nums[i]))
-                {
-                    _hashtable.Add(nums[i],i);
-                }
-                
-            }
-
-            return new[] { -1, -1 };
-        }
-    }
-    
-    
-    
-    
-
-
 }
 
+public partial class Solution
+{
+    public int[] TwoSum2(int[] nums, int target)
+    {
+        Dictionary<int, int> dic = new Dictionary<int, int>();
+        for (int i = 0; i < nums.Length; i++)
+        {
+            int difference = target - nums[i];
+            if (dic.ContainsKey(difference))
+            {
+                return new int[] { dic[difference], i };
+            }
 
+            if (!dic.ContainsKey(nums[i]))
+            {
+                dic.Add(nums[i], i);
+            }
+        }
+        return new[] { -1, -1 };
+    }
+}
