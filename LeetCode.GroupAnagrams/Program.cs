@@ -1,7 +1,9 @@
 ﻿using System.Runtime.Serialization;
 
 Solution solution = new();
-solution.GroupAnagrams(new[] {"eat","tea","tan","ate","nat","bat"});
+solution.GroupAnagramsEx(new[] {"eat","tea","tan","ate","nat","bat"});
+
+Console.WriteLine("Hello World!");
 
 
 public class Solution
