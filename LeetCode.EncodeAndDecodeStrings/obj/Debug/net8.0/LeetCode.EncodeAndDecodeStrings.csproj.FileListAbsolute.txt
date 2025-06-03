@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\bin\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\bin\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\bin\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\bin\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\bin\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\refint\LeetCode.EncodeAndDecodeStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\LeetCode.EncodeAndDecodeStrings.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.EncodeAndDecodeStrings\obj\Debug\net8.0\ref\LeetCode.EncodeAndDecodeStrings.dll

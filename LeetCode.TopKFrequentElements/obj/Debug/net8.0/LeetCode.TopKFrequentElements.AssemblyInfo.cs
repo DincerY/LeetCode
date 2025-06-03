@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.TopKFrequentElements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+445b439b141107ee06f2eab9ecb562be1f4c814a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.TopKFrequentElements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.TopKFrequentElements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
