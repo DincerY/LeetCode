@@ -14,7 +14,7 @@ Console.WriteLine("Hello, World!");
 
 public partial class Solution
 {
-    private const char markedValue = '-';
+    private const char markedValue = '#';
     public string Encode(IList<string> strs)
     {
         if (strs.Count == 0)
@@ -70,13 +70,28 @@ public partial class Solution
 
     public List<string> Decode2(string s)
     {
+        List<string> res = new();
         if (s == null)
         {
-            return new List<string>();
+            return res;
         }
         if (s == "")
         {
-            return new List<string>(){""};
+            res.Add("");
+            return res;
+        }
+
+        int i = 0;
+        while (i < s.Length)
+        {
+            int j = i;
+            while (s[j] != markedValue)
+            {
+                j++;
+            }
+            int val = int.Parse(s.Substring(i,j - i));
+            res.Add(s.Substring(j + 1,  val));
+            i = j + 1 + val;
         }
         
         return res;
