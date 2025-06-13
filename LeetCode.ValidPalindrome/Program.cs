@@ -1,11 +1,14 @@
-﻿Solution solution = new();
-solution.IsPalindrome("A man, a plan, a canal: Panama");
-//solution.IsPalindrome("race a car");
+﻿using System.Text.RegularExpressions;
+
+Solution solution = new();
+solution.IsPalindrome2("0P");
+solution.IsPalindrome2("A man, a plan, a canal: Panama");
+solution.IsPalindrome2("race a car");
 
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public bool IsPalindrome(string s)
     {
@@ -13,7 +16,6 @@ public class Solution
         var normal = newStr.ToArray();
         var reverse = newStr.Reverse().ToArray();
         
-
         for (int i = 0; i < normal.Length; i++)
         {
             if (normal[i] != reverse[i])
@@ -23,5 +25,28 @@ public class Solution
         }
         return true;
     }
-    
+}
+
+public partial class Solution
+{
+    public bool IsPalindrome2(string s)
+    {
+        string newString = new string(s.Where(c => char.IsLetter(c) || char.IsNumber(c)).ToArray()).ToLower();
+        int i = 0;
+        int j = newString.Length - 1;
+        while (i < j)
+        {
+            if (newString[i] == newString[j])
+            {
+                i++;
+                j--;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        
+        return true;
+    }
 }
