@@ -1,8 +1,8 @@
 ﻿Solution solution = new();
-// solution.TwoSum(new[]
-// {
-//     2, 7, 11, 15
-// }, 9);
+solution.TwoSum3(new[]
+{
+    2, 7, 11, 15
+}, 9);
 
 solution.TwoSum2(new[]
 {
@@ -71,5 +71,26 @@ public partial class Solution
         res[0] = l + 1;
         res[1] = r + 1;
         return res;
+    }
+}
+public partial class Solution
+{
+    public int[] TwoSum3(int[] numbers, int target)
+    {
+        Dictionary<int, int> dic = new();
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            int dif = target - numbers[i];
+            if (dic.ContainsKey(dif))
+            {
+                return new[] { dic[dif], i+1 };
+            }
+
+            if (!dic.ContainsKey(numbers[i]))
+            {
+                dic.Add(numbers[i],i+1);
+            }
+        }
+        return new[] { -1, -1 };
     }
 }
