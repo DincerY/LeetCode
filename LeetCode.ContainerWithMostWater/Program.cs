@@ -1,88 +1,70 @@
 ﻿using System;
-using System.Runtime.InteropServices;
 
-namespace LeetCode.ContainerWithMostWater
+Solution solution = new();
+solution.MaxArea3(new[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 });
+
+public partial class Solution
 {
-    internal class Program
+    public int MaxArea(int[] height)
     {
-        public static void Main(string[] args)
+        int i = 0, j = height.Length-1;
+        int result = 0;
+        while (i < j)
         {
-            Solution solution = new();
-            var a = solution.MaxArea(new[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 });
-            Console.WriteLine(a);
+            int minHeight = Math.Min(height[i], height[j]);
+            int maxArea = minHeight * (j - i);
+            result = Math.Max(result, maxArea);
+            if (height[i] == minHeight)
+            {
+                i++;
+            }
+            else
+            {
+                j--;
+            }
+
         }
+        return result;
     }
-
-
-    public class Solution
+}
+//Time limit exceeded
+public partial class Solution
+{
+    public int MaxArea2(int[] height)
     {
-        public int MaxArea(int[] height)
+        int result = 0;
+        for (int i = 0; i < height.Length; i++)
         {
-            int i = 0, j = height.Length-1;
-            int result = 0;
-            while (i < j)
+            for (int j = i+1; j < height.Length; j++)
             {
-                int minHeight = Min(height[i], height[j]);
-                int maxArea = minHeight * (j - i);
-                result = Max(result, maxArea);
-                if (height[i] == minHeight)
-                {
-                    i++;
-                }
-                else
-                {
-                    j--;
-                }
-
+                int area = Math.Min(height[i], height[j]) * (j - i);
+                result = Math.Max(area, result);
             }
-
-            return result;
-
         }
+        return result;
+    }
+}
 
-        private int Min(int a, int b)
+public partial class Solution
+{
+    public int MaxArea3(int[] height)
+    {
+        int l = 0;
+        int r = height.Length - 1;
+        int maxHeight = 0;
+        while (l < r)
         {
-            if (a<b)
+            int min = Math.Min(height[l], height[r]);
+            maxHeight = Math.Max(maxHeight,min * (r -l));
+            if (height[l] < height[r])
             {
-                return a;
+                l++;
             }
             else
             {
-                return b;
+                r--;
             }
         }
-        public int Max(int a, int b)
-        {
-            if (a>b)
-            {
-                return a;
-            }
-            else
-            {
-                return b;
-            }
-        }
-
-        #region n^2 solution
-
-        // public int MaxArea(int[] height)
-        // {
-        //     int result = 0;
-        //     for (int i = 0; i < height.Length; i++)
-        //     {
-        //         for (int j = i+1; j < height.Length; j++)
-        //         {
-        //             int minHeight = Math.Min(height[i], height[j]);
-        //             int a = minHeight * (j - i);
-        //             result = Math.Max(a, result);
-        //         }
-        //     }
-        //
-        //     return result;
-        //
-        //
-        // }
-
-        #endregion
+        return maxHeight;
     }
 }
