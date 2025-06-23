@@ -69,3 +69,11 @@ public partial class Solution
         return maxP;
     }
 }
+
+public partial class Solution
+{
+    public int MaxProfit4(int[] prices)
+    {
+        return 0;
+    }
+}
