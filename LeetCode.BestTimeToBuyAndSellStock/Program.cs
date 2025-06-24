@@ -1,12 +1,10 @@
 ﻿Solution solution = new();
-solution.MaxProfit3(
-    new[] { 7, 1, 5, 3, 6, 4 });
-// solution.MaxProfit2(
-//     new[] { 7, 6, 4, 3 , 1 });
 
+solution.MaxProfit4(new[] { 1,2 });
+solution.MaxProfit4(new[] { 7, 1, 5, 3, 6, 4 });
+solution.MaxProfit4(new[] { 7, 6, 4, 3 , 1 });
 
 Console.WriteLine("Hello, World!");
-
 
 //time limit exceeded
 public partial class Solution
@@ -74,6 +72,24 @@ public partial class Solution
 {
     public int MaxProfit4(int[] prices)
     {
-        return 0;
+        int l = 0;
+        int r = 1;
+        int max = 0;
+        while (r < prices.Length && l < prices.Length)
+        {
+            if (l < r)
+            {
+                max = Math.Max(max, (prices[r] - prices[l]));
+            }
+            if (prices[l] <= prices[r])
+            {
+                r++;
+            }
+            else
+            {
+                l++;
+            }
+        }
+        return max;
     }
 }
