@@ -2,89 +2,90 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LeetCode.LongestSubstring
+Solution solution = new Solution();
+
+solution.LengthOfLongestSubstring2("dvdf");
+solution.LengthOfLongestSubstring2("abcabcbb");
+solution.LengthOfLongestSubstring2("bbbbb");
+solution.LengthOfLongestSubstring2("aquertapl");
+
+Console.WriteLine("Hello World!");
+
+public partial class Solution
 {
-    internal class Program
+    public int LengthOfLongestSubstring(string s)
     {
-        public static void Main(string[] args)
+        var aPointer = 0;
+        var bPointer = 0;
+        var max = 0;
+    
+        var hashSet = new HashSet<char>();
+    
+        while (bPointer < s.Length)
         {
-            Solution solution = new Solution();
-            int a = solution.LengthOfLongestSubstring("aquertapl");
-            Console.WriteLine(a);
-
-        }
-    }
-
-    public class Solution
-    {
-        public int LengthOfLongestSubstring(string s)
-        {
-            var aPointer = 0;
-            var bPointer = 0;
-            var max = 0;
-        
-            var hashSet = new HashSet<char>();
-        
-            while (bPointer < s.Length)
+            if (!hashSet.Contains(s[bPointer]))
             {
-                if (!hashSet.Contains(s[bPointer]))
-                {
-                    hashSet.Add(s[bPointer]);
-                    bPointer++;
-                    max = Math.Max(hashSet.Count, max);
-                }
-                else
-                {
-                    hashSet.Remove(s[aPointer]);
-                    aPointer++;
-                }
+                hashSet.Add(s[bPointer]);
+                bPointer++;
+                max = Math.Max(hashSet.Count, max);
             }
-            return max;
+            else
+            {
+                hashSet.Remove(s[aPointer]);
+                aPointer++;
+            }
         }
-        
-        // public int LengthOfLongestSubstring(string s)
-        // {
-        //     char[] chars = new char[s.Length];
-        //     int i = 0;
-        //     while (i < s.Length)
-        //     {
-        //         if (i != 0)
-        //         {
-        //             int dubliceIndex = Dublicate(chars,s[i]);
-        //             if (dubliceIndex != -1)
-        //             {
-        //                 chars[dubliceIndex] = ' ';
-        //             }
-        //         }
-        //         chars[i] = s[i];
-        //         i++;
-        //     }
-        //
-        //     for (int j = 0; j < chars.Length; j++)
-        //     {
-        //         if (chars[j] != ' ')
-        //         {
-        //             Console.Write($"{chars[j]}-");
-        //         }
-        //     }
-        //     return 0;
-        // }
-        // private int Dublicate(char[] chars, char c)
-        // {
-        //     if (chars.Contains(c))
-        //     {
-        //         for (int i = 0; i < chars.Length; i++)
-        //         {
-        //             if (chars[i] == c)
-        //             {
-        //                 return i;
-        //             }
-        //         }
-        //     }
-        //
-        //     return -1;
-        // }
+        return max;
     }
     
-
+    
 }
+public partial class Solution
+{
+    public int LengthOfLongestSubstring2(string s)
+    {
+        HashSet<char> hashSet = new();
+        int res = 0;
+        int l = 0;
+        int r = 0;
+        while (r < s.Length && l <= r)
+        {
+            if (!hashSet.Contains(s[r]))
+            {
+                hashSet.Add(s[r]);
+                r++;
+            }
+            else
+            {
+                hashSet.Remove(s[l]);
+                l++;
+            }
+            res = Math.Max(res, r - l);
+        }
+        return res;
+    }
+}
+
+public partial class Solution
+{
+    public int LengthOfLongestSubstring3(string s)
+    {
+        HashSet<char> hashSet = new();
+        int res = 0;
+        int l = 0;
+        for (int r = 0; r < s.Length; r++)
+        {
+            while (hashSet.Contains(s[r]))
+            {
+                hashSet.Remove(s[l]);
+                l++;
+            }
+
+            hashSet.Add(s[r]);
+            res = Math.Max(res, r - l + 1);
+        }
+        return res;
+    }
+}
+    
+
