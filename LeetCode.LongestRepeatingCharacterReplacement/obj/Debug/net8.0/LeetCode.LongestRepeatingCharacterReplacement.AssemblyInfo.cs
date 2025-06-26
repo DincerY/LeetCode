@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.LongestRepeatingCharacterReplacement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+335e88a8b57a053c8617b24ec064718fda27dccc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.LongestRepeatingCharacterReplacement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.LongestRepeatingCharacterReplacement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
