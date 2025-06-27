@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
 solution.CharacterReplacement3("ABAB", 2);
-solution.CharacterReplacement4("AABABBA", 1);
+solution.CharacterReplacement3("AABABBA", 1);
 
 Console.WriteLine("Hello, World!");
 
@@ -77,65 +77,18 @@ public partial class Solution {
     {
         int res = 0;
         Dictionary<char, int> dic = new();
-        for (int l = 0; l < s.Length; l++)
-        {
-            int r = l;
-            while (l <= r && r < s.Length)
-            {
-                if (!dic.ContainsKey(s[r]))
-                {
-                    dic.Add(s[r], 1);
-                } 
-                else
-                {
-                    dic[s[r]]++;
-                }
-
-                if (r - l + 1 - dic.Max(s =>s.Value) <= k)
-                {
-                    res = Math.Max(res, (r - l + 1) );
-                    r++;
-                }
-                else
-                {
-                    break;
-                }
-            }
-            dic.Clear();
-        }
-        
-        return res;
-    }
-}
-
-public partial class Solution {
-    public int CharacterReplacement4(string s, int k)
-    {
-        int res = 0;
-        Dictionary<char, int> dic = new();
         int l = 0;
-        int r = 0;
-        while (l <= r && r < s.Length)
+        for (int r = 0; r < s.Length; r++)
         {
-            if (!dic.ContainsKey(s[r]))
-            {
-                dic.Add(s[r], 1);
-            } 
-            else
-            {
-                dic[s[r]]++;
-            }
+            dic[s[r]] = 1 + (dic.ContainsKey(s[r]) ? dic[s[r]] : 0);
 
-            if (r - l + 1 - dic.Max(s =>s.Value) <= k)
-            {
-                res = Math.Max(res, (r - l + 1) );
-                r++;
-            }
-            else
+            while (r - l + 1 - dic.Max(s =>s.Value) > k)
             {
                 dic[s[l]]--;
                 l++;
             }
+
+            res = Math.Max(res, r - l + 1);
         }
         return res;
     }
