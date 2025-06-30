@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\bin\Debug\net8.0\LeetCode.PermutationInString.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\bin\Debug\net8.0\LeetCode.PermutationInString.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\bin\Debug\net8.0\LeetCode.PermutationInString.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\bin\Debug\net8.0\LeetCode.PermutationInString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\bin\Debug\net8.0\LeetCode.PermutationInString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\refint\LeetCode.PermutationInString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\LeetCode.PermutationInString.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.PermutationInString\obj\Debug\net8.0\ref\LeetCode.PermutationInString.dll
