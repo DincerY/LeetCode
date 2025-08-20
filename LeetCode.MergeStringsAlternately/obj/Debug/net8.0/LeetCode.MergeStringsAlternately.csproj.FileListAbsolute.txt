@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\bin\Debug\net8.0\LeetCode.MergeStringsAlternately.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\bin\Debug\net8.0\LeetCode.MergeStringsAlternately.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\bin\Debug\net8.0\LeetCode.MergeStringsAlternately.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\bin\Debug\net8.0\LeetCode.MergeStringsAlternately.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\bin\Debug\net8.0\LeetCode.MergeStringsAlternately.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\refint\LeetCode.MergeStringsAlternately.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\LeetCode.MergeStringsAlternately.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MergeStringsAlternately\obj\Debug\net8.0\ref\LeetCode.MergeStringsAlternately.dll

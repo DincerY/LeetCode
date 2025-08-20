@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.PermutationInString")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MergeStringsAlternately")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.PermutationInString")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.PermutationInString")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb7c1f480729c9808ea50f893cd8b8463f5f5f8")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MergeStringsAlternately")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MergeStringsAlternately")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
