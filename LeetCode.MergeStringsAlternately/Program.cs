@@ -7,7 +7,7 @@ solution.MergeAlternately("abc", "pqr");
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public string MergeAlternately(string word1, string word2)
     {
@@ -45,5 +45,32 @@ public class Solution
         }
 
         return builder.ToString();
+    }
+}
+
+public partial class Solution
+{
+    public string MergeAlternately2(string word1, string word2)
+    {
+        StringBuilder stringBuilder = new StringBuilder();
+        int i = 0;
+        int j = 0;
+        int len1 = word1.Length;
+        int len2 = word2.Length;
+
+        while (i < len1 || j < len2)
+        {
+            if (i < len1)
+            {
+                stringBuilder.Append(word1[i]);
+                i++;
+            }
+            if (j < len2)
+            {
+                stringBuilder.Append(word2[j]);
+                j++;
+            }
+        }
+        return stringBuilder.ToString();
     }
 }
