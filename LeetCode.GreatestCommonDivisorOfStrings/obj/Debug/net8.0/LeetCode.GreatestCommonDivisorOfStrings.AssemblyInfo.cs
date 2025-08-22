@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MergeStringsAlternately")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.GreatestCommonDivisorOfStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d2ee65dcec1e515d7b117c53d7d67dbc328911")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MergeStringsAlternately")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MergeStringsAlternately")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.GreatestCommonDivisorOfStrings")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.GreatestCommonDivisorOfStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

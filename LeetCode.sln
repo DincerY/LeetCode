@@ -501,6 +501,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.PermutationInStrin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MergeStringsAlternately", "LeetCode.MergeStringsAlternately\LeetCode.MergeStringsAlternately.csproj", "{E19BA6A4-B01D-49CD-BAB3-4E25516379C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.GreatestCommonDivisorOfStrings", "LeetCode.GreatestCommonDivisorOfStrings\LeetCode.GreatestCommonDivisorOfStrings.csproj", "{8F349479-E3D0-4F63-A336-A0F5938A97B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1503,6 +1505,10 @@ Global
 		{E19BA6A4-B01D-49CD-BAB3-4E25516379C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E19BA6A4-B01D-49CD-BAB3-4E25516379C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E19BA6A4-B01D-49CD-BAB3-4E25516379C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F349479-E3D0-4F63-A336-A0F5938A97B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F349479-E3D0-4F63-A336-A0F5938A97B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F349479-E3D0-4F63-A336-A0F5938A97B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F349479-E3D0-4F63-A336-A0F5938A97B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

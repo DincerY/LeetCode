@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\bin\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\bin\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\bin\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\bin\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\bin\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\refint\LeetCode.GreatestCommonDivisorOfStrings.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\LeetCode.GreatestCommonDivisorOfStrings.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.GreatestCommonDivisorOfStrings\obj\Debug\net8.0\ref\LeetCode.GreatestCommonDivisorOfStrings.dll

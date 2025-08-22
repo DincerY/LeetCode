@@ -74,3 +74,29 @@ public partial class Solution
         return stringBuilder.ToString();
     }
 }
+
+public partial class Solution
+{
+    public string MergeAlternately3(string word1, string word2)
+    {
+        List<char> chars = new List<char>();
+        int len1 = word1.Length;
+        int len2 = word2.Length;
+
+        int maxLen = Math.Max(len1, len2);
+
+        for (int i = 0; i < maxLen; i++)
+        {
+            if (i < len1)
+            {
+                chars.Add(word1[i]);
+            }
+            if (i < len2)
+            {
+                chars.Add(word2[i]);
+            }
+        }
+
+        return new string(chars.ToArray());
+    }
+}
