@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.GreatestCommonDivisorOfStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d2ee65dcec1e515d7b117c53d7d67dbc328911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5e1657b79539f11898e9bfd40d4ab7a49a57e99")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.GreatestCommonDivisorOfStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.GreatestCommonDivisorOfStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
