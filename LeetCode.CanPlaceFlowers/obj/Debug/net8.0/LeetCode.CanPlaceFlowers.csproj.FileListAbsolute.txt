@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\bin\Debug\net8.0\LeetCode.CanPlaceFlowers.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\bin\Debug\net8.0\LeetCode.CanPlaceFlowers.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\bin\Debug\net8.0\LeetCode.CanPlaceFlowers.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\bin\Debug\net8.0\LeetCode.CanPlaceFlowers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\bin\Debug\net8.0\LeetCode.CanPlaceFlowers.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\refint\LeetCode.CanPlaceFlowers.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\LeetCode.CanPlaceFlowers.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.CanPlaceFlowers\obj\Debug\net8.0\ref\LeetCode.CanPlaceFlowers.dll
