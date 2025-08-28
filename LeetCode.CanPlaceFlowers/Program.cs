@@ -1,6 +1,7 @@
 ﻿Solution solution = new();
 solution.CanPlaceFlowers(new []{1,0,0,0,1}, 1);
 solution.CanPlaceFlowers(new []{1,0,0,0,1}, 2);
+solution.CanPlaceFlowers(new []{1,0,1,0,1,0,1}, 1);
 
 
 Console.WriteLine("Hello, World!");
@@ -8,36 +9,26 @@ Console.WriteLine("Hello, World!");
 public class Solution {
     public bool CanPlaceFlowers(int[] flowerbed, int n)
     {
-        int tempN = n;
-        for (int i = 0; i < flowerbed.Length; i++)
+        int count = 0;
+        int length = flowerbed.Length;
+
+        for (int i = 0; i < length; i++)
         {
-            if (i == 0)
+            if (flowerbed[i] == 0)
             {
-                if (flowerbed[i] != 1 && flowerbed[i+1] != 1)
+                bool emptyLeft = i == 0 || flowerbed[i-1] == 0;
+                bool emptyRight = i == length - 1 || flowerbed[i+1] == 0;
+                if (emptyLeft && emptyRight)
                 {
                     flowerbed[i] = 1;
-                    tempN--;
-                }
-            }
-            else if (i == flowerbed.Length - 1)
-            {
-                if (flowerbed[i] != 1 && flowerbed[i-1] != 1)
-                {
-                    flowerbed[i] = 1;
-                    tempN--;
-                }
-            }
-            else
-            {
-                
-                if (flowerbed[i] != 1 && flowerbed[i+1] != 1 && flowerbed[i-1] != 1)
-                {
-                    flowerbed[i] = 1;
-                    tempN--;
+                    count++;
+                    if (count >= n)
+                    {
+                        return true;
+                    }
                 }
             }
         }
-
-        return tempN <= 0;
+        return count >= n;
     }
 }

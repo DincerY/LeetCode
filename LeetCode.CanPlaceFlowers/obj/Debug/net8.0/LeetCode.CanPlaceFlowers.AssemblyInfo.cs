@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CanPlaceFlowers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f65545f20961bd70d75f8c7f7dc33bf07550dda8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dae392c82537ef6639baf8662cdcb00a3805c348")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CanPlaceFlowers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CanPlaceFlowers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
