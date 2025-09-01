@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\bin\Debug\net8.0\LeetCode.ReverseVowelsOfAString.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\bin\Debug\net8.0\LeetCode.ReverseVowelsOfAString.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\bin\Debug\net8.0\LeetCode.ReverseVowelsOfAString.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\bin\Debug\net8.0\LeetCode.ReverseVowelsOfAString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\bin\Debug\net8.0\LeetCode.ReverseVowelsOfAString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\refint\LeetCode.ReverseVowelsOfAString.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\LeetCode.ReverseVowelsOfAString.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.ReverseVowelsOfAString\obj\Debug\net8.0\ref\LeetCode.ReverseVowelsOfAString.dll

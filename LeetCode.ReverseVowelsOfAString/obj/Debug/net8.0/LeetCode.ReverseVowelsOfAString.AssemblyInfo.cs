@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.CanPlaceFlowers")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ReverseVowelsOfAString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.CanPlaceFlowers")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.CanPlaceFlowers")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0956a8162e2eef094327373f06be7b28ad035939")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ReverseVowelsOfAString")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ReverseVowelsOfAString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
