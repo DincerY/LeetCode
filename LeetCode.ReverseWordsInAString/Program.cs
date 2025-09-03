@@ -2,11 +2,10 @@
 
 Solution solution = new Solution();
 solution.ReverseWords("the sky is blue");
-//solution.ReverseWords("  hello world  ");
-
+solution.ReverseWords3("  hello world  ");
+solution.ReverseWords3("a good   example");
 
 Console.WriteLine("Hello, World!");
-
 
 public partial class Solution
 {
@@ -49,5 +48,19 @@ public partial class Solution {
         string[] words = s.Split(' ', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
         Array.Reverse(words);
         return string.Join(" ", words);
+    }
+}
+
+public partial class Solution {
+    public string ReverseWords3(string s)
+    {
+        var sArray = s.Split(" ").ToList();
+        while (sArray.Contains(""))
+        {
+            sArray.Remove("");
+        }
+       
+        sArray.Reverse();
+        return string.Join(" ", sArray);
     }
 }
