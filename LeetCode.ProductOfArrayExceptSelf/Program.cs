@@ -1,6 +1,6 @@
 ﻿Solution solution = new();
-solution.ProductExceptSelf3(new[] { 1, 2, 3, 4 });
-solution.ProductExceptSelf3(new[] { -1, 1, 0, -3, 3 });
+solution.ProductExceptSelf5(new[] { 1, 2, 3, 4 });
+solution.ProductExceptSelf4(new[] { -1, 1, 0, -3, 3 });
 
 Console.WriteLine("Hello, World!");
 
@@ -64,6 +64,72 @@ public partial class Solution
             suffix *= nums[i + 1];
             res[i] *= suffix;
         }
+        return res;
+    }
+}
+
+public partial class Solution
+{
+    public int[] ProductExceptSelf4(int[] nums)
+    {
+        int len = nums.Length;
+        int[] res = new int[len];
+        int[] first = new int[len];
+        int[] second = new int[len];
+
+        for (int i = 0; i < len; i++)
+        {
+            if (i == 0)
+            {
+                first[i] = nums[i];
+                continue;
+            }
+
+            first[i] = nums[i] * first[i - 1];
+        }
+
+        for (int i = len-1; i >= 0; i--)
+        {
+            if (i == len-1)
+            {
+                second[i] = nums[i];
+                continue;
+            }
+
+            second[i] = nums[i] * second[i + 1];
+        }
+
+        for (int i = 0; i < len; i++)
+        {
+            res[i] = (i == 0 ? 1 : first[i-1]) * (i == len - 1 ? 1 : second[i+1]);
+        }
+
+        return res;
+    }
+    
+    public int[] ProductExceptSelf5(int[] nums)
+    {
+        int len = nums.Length;
+        int[] res = new int[len];
+        int[] second = new int[len];
+        int first = 1;
+
+        for (int i = len-1; i >= 0; i--)
+        {
+            if (i == len-1)
+            {
+                second[i] = nums[i];
+                continue;
+            }
+
+            second[i] = nums[i] * second[i + 1];
+        }
+
+        for (int i = 0; i < len; i++)
+        {
+            res[i] = (i == 0 ? 1 : first *= nums[i-1]) * (i == len - 1 ? 1 : second[i+1]);
+        }
+
         return res;
     }
 }
