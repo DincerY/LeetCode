@@ -111,25 +111,21 @@ public partial class Solution
     {
         int len = nums.Length;
         int[] res = new int[len];
-        int[] second = new int[len];
         int first = 1;
-
         for (int i = len-1; i >= 0; i--)
         {
             if (i == len-1)
             {
-                second[i] = nums[i];
+                res[i] = nums[i];
                 continue;
             }
 
-            second[i] = nums[i] * second[i + 1];
+            res[i] = nums[i] * res[i + 1];
         }
-
         for (int i = 0; i < len; i++)
         {
-            res[i] = (i == 0 ? 1 : first *= nums[i-1]) * (i == len - 1 ? 1 : second[i+1]);
+            res[i] = (i == 0 ? 1 : first *= nums[i-1]) * (i == len - 1 ? 1 : res[i+1]);
         }
-
         return res;
     }
 }
