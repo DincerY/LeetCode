@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\bin\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\bin\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\bin\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\bin\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\bin\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\refint\LeetCode.IncreasingTripletSubsequence.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\LeetCode.IncreasingTripletSubsequence.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.IncreasingTripletSubsequence\obj\Debug\net8.0\ref\LeetCode.IncreasingTripletSubsequence.dll

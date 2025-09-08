@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.IncreasingTripletSubsequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd2f1770057a8cf069a8d2c4056a44281b284e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.IncreasingTripletSubsequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.IncreasingTripletSubsequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

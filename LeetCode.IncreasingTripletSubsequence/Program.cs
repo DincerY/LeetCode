@@ -1,5 +1,7 @@
 ﻿Solution solution = new();
 solution.IncreasingTriplet(new []{1, 2, 3, 4, 5});
+solution.IncreasingTriplet(new []{2,1,5,0,4,6});
+
 
 Console.WriteLine("Hello, World!");
 
@@ -7,32 +9,25 @@ Console.WriteLine("Hello, World!");
 public class Solution {
     public bool IncreasingTriplet(int[] nums)
     {
-        int len = nums.Length;
-        for (int i = 0; i < len; i++)
+        int first = int.MaxValue;
+        int second = int.MaxValue;
+
+        foreach (var num in nums)
         {
-            for (int j = i; j < len; j++)
+            if (num <= first)
             {
-                for (int k = j; k < len; k++)
-                {
-                    
-                }
+                first = num;
+            }
+            else if (num <= second)
+            {
+                second = num;
+            }
+            else
+            {
+                return true;
             }
         }
 
-        return false;
-    }
-    
-    public bool IncreasingTriplet2(int[] nums)
-    {
-        //value , index
-        Dictionary<int, int> dic = new();
-        for (int i = 0; i < nums.Length; i++)
-        {
-            dic.Add(nums[i],i);
-        }
-        
-        Array.Sort(nums);
-        
         return false;
     }
 }
