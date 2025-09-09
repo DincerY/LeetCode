@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.IncreasingTripletSubsequence")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.StringCompression")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda7fc81b66e436d829e57f3871f2d7ad90b8ed3")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.IncreasingTripletSubsequence")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.IncreasingTripletSubsequence")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.StringCompression")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.StringCompression")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

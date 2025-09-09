@@ -511,6 +511,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.ReverseVowelsOfASt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.IncreasingTripletSubsequence", "LeetCode.IncreasingTripletSubsequence\LeetCode.IncreasingTripletSubsequence.csproj", "{D43E301E-89D2-4DC6-BBB2-8317D276EF36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.StringCompression", "LeetCode.StringCompression\LeetCode.StringCompression.csproj", "{B6935D7E-A5D4-4BBB-B06A-C8AFDB86CCCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1533,6 +1535,10 @@ Global
 		{D43E301E-89D2-4DC6-BBB2-8317D276EF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43E301E-89D2-4DC6-BBB2-8317D276EF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43E301E-89D2-4DC6-BBB2-8317D276EF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6935D7E-A5D4-4BBB-B06A-C8AFDB86CCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6935D7E-A5D4-4BBB-B06A-C8AFDB86CCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6935D7E-A5D4-4BBB-B06A-C8AFDB86CCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6935D7E-A5D4-4BBB-B06A-C8AFDB86CCCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

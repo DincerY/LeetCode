@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\bin\Debug\net8.0\LeetCode.StringCompression.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\bin\Debug\net8.0\LeetCode.StringCompression.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\bin\Debug\net8.0\LeetCode.StringCompression.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\bin\Debug\net8.0\LeetCode.StringCompression.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\bin\Debug\net8.0\LeetCode.StringCompression.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\refint\LeetCode.StringCompression.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\LeetCode.StringCompression.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.StringCompression\obj\Debug\net8.0\ref\LeetCode.StringCompression.dll
