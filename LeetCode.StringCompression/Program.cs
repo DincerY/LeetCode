@@ -1,4 +1,8 @@
 ﻿Solution solution = new();
+solution.Compress(new []{'a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a','a',});
+
+solution.Compress(new []{'a','a','a','b','b','a','a'});
+
 solution.Compress(new []{'a','a','b','b','c','c','c'});
 solution.Compress(new []{'a','b','b','b','b','b','b','b','b','b','b'});
 
@@ -9,6 +13,10 @@ Console.WriteLine("Hello, World!");
 public class Solution {
     public int Compress(char[] chars)
     {
+        if (chars.Length == 1)
+        {
+            return 1;
+        }
         int left = 0;
         int right = 0;
         //it represents index that chars array has
@@ -22,13 +30,18 @@ public class Solution {
             else
             {
                 int count = right - left;
-                //if we have 2 digit decimal, this version will not work
+                chars[index] = chars[left];
                 if (count != 1)
                 {
-                    chars[index + 1] = (char)count;
+                    var str = count.ToString();
+                    foreach (var chr in str)
+                    {
+                        chars[index + 1] = chr;
+                        index++;
+                    }
                 }
                 left = right;
-                index+=2;
+                index++;
                 if (right == chars.Length)
                 {
                     break;
@@ -37,5 +50,8 @@ public class Solution {
         }
         return index;
     }
-    
+    public int Compress2(char[] chars)
+    {
+        return 0;
+    }
 }
