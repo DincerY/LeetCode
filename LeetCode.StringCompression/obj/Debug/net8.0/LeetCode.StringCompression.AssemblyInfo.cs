@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.StringCompression")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae6543359d9ae88c774d267845becfec590b72ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68f2acf1634305b397d43c7a2ebf28dbb5017f36")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.StringCompression")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.StringCompression")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
