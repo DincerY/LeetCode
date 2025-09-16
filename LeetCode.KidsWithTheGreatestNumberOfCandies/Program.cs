@@ -25,4 +25,18 @@ public class Solution
         }
         return res;
     }
+    
+    public IList<bool> KidsWithCandies2(int[] candies, int extraCandies)
+    {
+        bool[] arr = new bool[candies.Length];
+        int max = candies.Max();
+        for (int i = 0; i < candies.Length; i++)
+        {
+            if (candies[i] + extraCandies >= max)
+            {
+                arr[i] = true;
+            }
+        }
+        return arr;
+    }
 }

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\bin\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\bin\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\bin\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\bin\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\bin\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\refint\LeetCode.KidsWithTheGreatestNumberOfCandies.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\LeetCode.KidsWithTheGreatestNumberOfCandies.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.KidsWithTheGreatestNumberOfCandies\obj\Debug\net8.0\ref\LeetCode.KidsWithTheGreatestNumberOfCandies.dll
