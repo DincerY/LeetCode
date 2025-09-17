@@ -12,15 +12,20 @@ public class Solution
         int right = 0;
         while (left < nums.Length && right < nums.Length)
         {
-            while (nums[left] == 0)
+            if (nums[left] != 0)
             {
-                
+                left++;
+                continue;
             }
 
-            while (nums[right] != 0)
+            if (nums[right] == 0)
             {
-                
+                right++;
+                continue;
             }
+
+            (nums[left], nums[right]) = (nums[right], nums[left]);
+            left++;
         }
     }
 }
