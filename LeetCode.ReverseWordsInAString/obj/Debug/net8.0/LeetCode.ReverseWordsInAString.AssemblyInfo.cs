@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.ReverseWordsInAString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b66f7ad52d48b88fef77ddd582ed5871221d92b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.ReverseWordsInAString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.ReverseWordsInAString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
