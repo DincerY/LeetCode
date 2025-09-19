@@ -1,7 +1,7 @@
 ﻿using System;
 
 Solution solution = new();
-solution.MaxArea3(new[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 });
+solution.MaxArea4(new[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 });
 
 public partial class Solution
 {
@@ -66,5 +66,33 @@ public partial class Solution
             }
         }
         return maxHeight;
+    }
+}
+
+public partial class Solution
+{
+    public int MaxArea4(int[] height)
+    {
+        int left = 0;
+        int right = height.Length-1;
+        int max = 0;
+        while (left < right)
+        {
+            var minVal = Math.Min(height[left], height[right]);
+            if (max < (right - left) * minVal)
+            {
+                max = (right - left) * minVal;
+            }
+
+            if (height[left] < height[right])
+            {
+                left++;
+            }
+            else
+            {
+                right--;
+            }
+        }
+        return max;
     }
 }

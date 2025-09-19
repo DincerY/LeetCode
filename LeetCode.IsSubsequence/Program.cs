@@ -1,5 +1,5 @@
 ﻿Solution solution = new();
-solution.IsSubsequence("abc", "ahbgdc");
+solution.IsSubsequence2("abc", "ahbgdc");
 
 Console.WriteLine("Hello, World!");
 

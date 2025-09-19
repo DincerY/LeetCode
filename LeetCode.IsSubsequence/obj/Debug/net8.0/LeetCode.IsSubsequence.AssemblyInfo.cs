@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.IsSubsequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f61a6066471eb155718d9c7074fefe349afec8f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.IsSubsequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.IsSubsequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
