@@ -515,6 +515,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.StringCompression"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MoveZeroes", "LeetCode.MoveZeroes\LeetCode.MoveZeroes.csproj", "{B0CFF947-F75D-401F-A7C9-7E18567015D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaxNumberOfKSumPairs", "LeetCode.MaxNumberOfKSumPairs\LeetCode.MaxNumberOfKSumPairs.csproj", "{716473E4-DEE6-469B-9BA2-6A490A4C9C58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1545,6 +1547,10 @@ Global
 		{B0CFF947-F75D-401F-A7C9-7E18567015D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0CFF947-F75D-401F-A7C9-7E18567015D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0CFF947-F75D-401F-A7C9-7E18567015D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716473E4-DEE6-469B-9BA2-6A490A4C9C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716473E4-DEE6-469B-9BA2-6A490A4C9C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716473E4-DEE6-469B-9BA2-6A490A4C9C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716473E4-DEE6-469B-9BA2-6A490A4C9C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\bin\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\bin\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\bin\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\bin\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\bin\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\refint\LeetCode.MaxNumberOfKSumPairs.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\LeetCode.MaxNumberOfKSumPairs.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxNumberOfKSumPairs\obj\Debug\net8.0\ref\LeetCode.MaxNumberOfKSumPairs.dll
