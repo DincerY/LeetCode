@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaxNumberOfKSumPairs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c629068a52aae667fc13b50c42aaaba49da61c56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09f35fb891c894e1e7a346d885d4d8b0c949caec")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaxNumberOfKSumPairs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaxNumberOfKSumPairs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

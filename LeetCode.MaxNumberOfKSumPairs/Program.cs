@@ -1,10 +1,10 @@
 ﻿Solution solution = new();
-solution.MaxOperations(new[] { 1, 2, 3, 4 }, 5);
-solution.MaxOperations(new[] { 3, 1, 3, 4, 3 }, 6);
+solution.MaxOperations2(new[] { 1, 2, 3, 4 }, 5);
+solution.MaxOperations2(new[] { 3, 1, 3, 4, 3 }, 6);
 Console.WriteLine("Hello, World!");
 
 
-public class Solution
+public partial class Solution
 {
     public int MaxOperations(int[] nums, int k)
     {
@@ -31,5 +31,39 @@ public class Solution
             }
         }
         return res;
+    }
+}
+public partial class Solution
+{
+    public int MaxOperations2(int[] nums, int k)
+    {
+        Dictionary<int, int> dic = new();
+        int count = 0;
+        foreach (var num in nums)
+        {
+            int val = k - num;
+            if (dic.ContainsKey(val))
+            {
+                dic[val]--;
+                if (dic[val] == 0)
+                {
+                    dic.Remove(val);
+                }
+
+                count++;
+            }
+            else
+            {
+                if (dic.ContainsKey(num))
+                {
+                    dic[num]++;
+                }
+                else
+                {
+                    dic.Add(num,1);
+                }
+            }
+        }
+        return count;
     }
 }
