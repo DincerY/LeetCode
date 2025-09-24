@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\bin\Debug\net8.0\LeetCode.MaximumAverageSubarray1.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\bin\Debug\net8.0\LeetCode.MaximumAverageSubarray1.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\bin\Debug\net8.0\LeetCode.MaximumAverageSubarray1.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\bin\Debug\net8.0\LeetCode.MaximumAverageSubarray1.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\bin\Debug\net8.0\LeetCode.MaximumAverageSubarray1.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\refint\LeetCode.MaximumAverageSubarray1.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\LeetCode.MaximumAverageSubarray1.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaximumAverageSubarray1\obj\Debug\net8.0\ref\LeetCode.MaximumAverageSubarray1.dll

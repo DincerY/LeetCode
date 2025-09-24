@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaxNumberOfKSumPairs")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumAverageSubarray1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaxNumberOfKSumPairs")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaxNumberOfKSumPairs")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4946ec059b8883d39a2a3e3d0b6bae1082bd1354")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumAverageSubarray1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumAverageSubarray1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
