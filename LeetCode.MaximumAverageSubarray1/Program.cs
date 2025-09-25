@@ -1,9 +1,10 @@
 ﻿Solution solution = new();
-solution.FindMaxAverage(new[] { 1, 12, -5, -6, 50, 3 }, 4);
+solution.FindMaxAverage2(new[] { 1, 12, -5, -6, 50, 3 }, 4);
+solution.FindMaxAverage2(new[] { 5 }, 1);
 
 Console.WriteLine("Hello, World!");
 
-public class Solution
+public partial class Solution
 {
     public double FindMaxAverage(int[] nums, int k)
     {
@@ -25,5 +26,26 @@ public class Solution
             res = Math.Max(res, (double)count / k);
         }
         return res;
+    }
+}
+
+public partial class Solution
+{
+    public double FindMaxAverage2(int[] nums, int k)
+    {
+        int currentSum = 0;
+        for (int i = 0; i < k; i++)
+        {
+            currentSum += nums[i];
+        }
+        int maxSum = currentSum;
+
+        for (int i = 0; i < nums.Length - k; i++)
+        {
+            currentSum +=  nums[i + k] - nums[i];
+            maxSum = Math.Max(maxSum, currentSum);
+        }
+
+        return (double)maxSum / k;
     }
 }
