@@ -519,6 +519,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaxNumberOfKSumPai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumAverageSubarray1", "LeetCode.MaximumAverageSubarray1\LeetCode.MaximumAverageSubarray1.csproj", "{E2BC1798-1231-4CBC-9F56-D188DF44BC74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.MaximumNumberOfVowelsInASubstringOfGivenLength", "LeetCode.MaximumNumberOfVowelsInASubstringOfGivenLength\LeetCode.MaximumNumberOfVowelsInASubstringOfGivenLength.csproj", "{D1AEC600-32EE-4DD3-A8AA-F971DDE80A44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1557,6 +1559,10 @@ Global
 		{E2BC1798-1231-4CBC-9F56-D188DF44BC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2BC1798-1231-4CBC-9F56-D188DF44BC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2BC1798-1231-4CBC-9F56-D188DF44BC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AEC600-32EE-4DD3-A8AA-F971DDE80A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AEC600-32EE-4DD3-A8AA-F971DDE80A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AEC600-32EE-4DD3-A8AA-F971DDE80A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AEC600-32EE-4DD3-A8AA-F971DDE80A44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

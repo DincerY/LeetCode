@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumAverageSubarray1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaximumNumberOfVowelsInASubstringOfGivenLength")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumAverageSubarray1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumAverageSubarray1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d614f40ea40216051d7a9eefa871cb86d8042bdf")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaximumNumberOfVowelsInASubstringOfGivenLength")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaximumNumberOfVowelsInASubstringOfGivenLength")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
