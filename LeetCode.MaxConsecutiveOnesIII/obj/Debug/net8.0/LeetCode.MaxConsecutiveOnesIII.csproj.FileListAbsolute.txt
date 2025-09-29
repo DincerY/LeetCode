@@ -1,0 +1,15 @@
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\bin\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.exe
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\bin\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.deps.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\bin\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.runtimeconfig.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\bin\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\bin\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.AssemblyInfoInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.AssemblyInfo.cs
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.csproj.CoreCompileInputs.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.sourcelink.json
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\refint\LeetCode.MaxConsecutiveOnesIII.dll
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.pdb
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\LeetCode.MaxConsecutiveOnesIII.genruntimeconfig.cache
+C:\Users\dince\RiderProjects\LeetCode\LeetCode.MaxConsecutiveOnesIII\obj\Debug\net8.0\ref\LeetCode.MaxConsecutiveOnesIII.dll
