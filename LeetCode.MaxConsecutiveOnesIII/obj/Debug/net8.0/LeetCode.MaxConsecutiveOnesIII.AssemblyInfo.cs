@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode.MaxConsecutiveOnesIII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e238c0f63cd330d3a5879b85cc46475d303a5ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae4a2c95005ac1ff45e3b1f0f814240f795bc80")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode.MaxConsecutiveOnesIII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode.MaxConsecutiveOnesIII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
